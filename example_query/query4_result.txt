@@ -1,0 +1,309 @@
+
+ Reading files in /home/yuyuan/WorkSpace/lancasterTask/data/
+
+ Reading  the file : .~lock.dbe9aa1d509b563c6da5b9a3affa4b0a93d1a07f.tsv#
+token
+the
+printing out the query regular expression...
+re.compile('the')
+token
+(very)?
+printing out the query regular expression...
+re.compile('(very)?')
+sem
+(N3\.8)*
+printing out the query regular expression...
+re.compile('(N3\\.8)*')
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 1adac0c5770cf7982f10978fe9f09ae1c03c0203.tsv
+token
+the
+printing out the query regular expression...
+re.compile('the')
+token
+(very)?
+printing out the query regular expression...
+re.compile('(very)?')
+sem
+(N3\.8)*
+printing out the query regular expression...
+re.compile('(N3\\.8)*')
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : dd76168a2dd27747c4da33b307c9b0670b95bcaa.tsv
+token
+the
+printing out the query regular expression...
+re.compile('the')
+token
+(very)?
+printing out the query regular expression...
+re.compile('(very)?')
+sem
+(N3\.8)*
+printing out the query regular expression...
+re.compile('(N3\\.8)*')
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : .~lock.6f65431dc2e4cf19890bac0e67bd775fd51b4ac9.tsv#
+token
+the
+printing out the query regular expression...
+re.compile('the')
+token
+(very)?
+printing out the query regular expression...
+re.compile('(very)?')
+sem
+(N3\.8)*
+printing out the query regular expression...
+re.compile('(N3\\.8)*')
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 6f65431dc2e4cf19890bac0e67bd775fd51b4ac9.tsv
+token
+the
+printing out the query regular expression...
+re.compile('the')
+token
+(very)?
+printing out the query regular expression...
+re.compile('(very)?')
+sem
+(N3\.8)*
+printing out the query regular expression...
+re.compile('(N3\\.8)*')
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : .~lock.1adac0c5770cf7982f10978fe9f09ae1c03c0203.tsv#
+token
+the
+printing out the query regular expression...
+re.compile('the')
+token
+(very)?
+printing out the query regular expression...
+re.compile('(very)?')
+sem
+(N3\.8)*
+printing out the query regular expression...
+re.compile('(N3\\.8)*')
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 55cbf481ac5ddb20dd9acacba51abbaab13e2754.tsv
+token
+the
+printing out the query regular expression...
+re.compile('the')
+token
+(very)?
+printing out the query regular expression...
+re.compile('(very)?')
+sem
+(N3\.8)*
+printing out the query regular expression...
+re.compile('(N3\\.8)*')
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 8791bf25777400d6a2d8462c43997618c8c8d395.tsv
+token
+the
+printing out the query regular expression...
+re.compile('the')
+token
+(very)?
+printing out the query regular expression...
+re.compile('(very)?')
+sem
+(N3\.8)*
+printing out the query regular expression...
+re.compile('(N3\\.8)*')
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 4cd0820b25880d4d747aefdecf58c973ed92bc26.tsv
+token
+the
+printing out the query regular expression...
+re.compile('the')
+token
+(very)?
+printing out the query regular expression...
+re.compile('(very)?')
+sem
+(N3\.8)*
+printing out the query regular expression...
+re.compile('(N3\\.8)*')
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : fb012fc5b6fb04c0f8300bcfd8994afa4cb44e25.tsv
+token
+the
+printing out the query regular expression...
+re.compile('the')
+token
+(very)?
+printing out the query regular expression...
+re.compile('(very)?')
+sem
+(N3\.8)*
+printing out the query regular expression...
+re.compile('(N3\\.8)*')
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : dbe9aa1d509b563c6da5b9a3affa4b0a93d1a07f.tsv
+token
+the
+printing out the query regular expression...
+re.compile('the')
+token
+(very)?
+printing out the query regular expression...
+re.compile('(very)?')
+sem
+(N3\.8)*
+printing out the query regular expression...
+re.compile('(N3\\.8)*')
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : fa4ff0cb220eba0642a8cd75df30c5fc5d6b3092.tsv
+token
+the
+printing out the query regular expression...
+re.compile('the')
+token
+(very)?
+printing out the query regular expression...
+re.compile('(very)?')
+sem
+(N3\.8)*
+printing out the query regular expression...
+re.compile('(N3\\.8)*')
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 638ef1167841fdf5ea81ded99dc7c164f59c9918.tsv
+token
+the
+printing out the query regular expression...
+re.compile('the')
+token
+(very)?
+printing out the query regular expression...
+re.compile('(very)?')
+sem
+(N3\.8)*
+printing out the query regular expression...
+re.compile('(N3\\.8)*')
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 118b4bc86d6be55207e730ddaa6e96137cfb102f.tsv
+token
+the
+printing out the query regular expression...
+re.compile('the')
+token
+(very)?
+printing out the query regular expression...
+re.compile('(very)?')
+sem
+(N3\.8)*
+printing out the query regular expression...
+re.compile('(N3\\.8)*')
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 6135ba8f089ea22330ae5bdc76540e580539d2b6.tsv
+token
+the
+printing out the query regular expression...
+re.compile('the')
+token
+(very)?
+printing out the query regular expression...
+re.compile('(very)?')
+sem
+(N3\.8)*
+printing out the query regular expression...
+re.compile('(N3\\.8)*')
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                             to buy two websites from |||  the very beginning  ||| . ----- However , I                                              
+****************************************************************************************************************************************************************
+Your Query Returned 1  hits!
+
+ Reading  the file : 96cd903bef8d0fee69543a9ae6f1e51524d9faeb.tsv
+token
+the
+printing out the query regular expression...
+re.compile('the')
+token
+(very)?
+printing out the query regular expression...
+re.compile('(very)?')
+sem
+(N3\.8)*
+printing out the query regular expression...
+re.compile('(N3\\.8)*')
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : a6be1cf585ed0f79b901110407953e3960d66bd8.tsv
+token
+the
+printing out the query regular expression...
+re.compile('the')
+token
+(very)?
+printing out the query regular expression...
+re.compile('(very)?')
+sem
+(N3\.8)*
+printing out the query regular expression...
+re.compile('(N3\\.8)*')
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
