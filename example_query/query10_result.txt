@@ -1,0 +1,431 @@
+
+ Reading files in /home/yuyuan/WorkSpace/lancasterTask/data/
+
+ Reading  the file : .~lock.dbe9aa1d509b563c6da5b9a3affa4b0a93d1a07f.tsv#
+pos
+V\w+
+printing out the query regular expression...
+re.compile('V\\w+')
+printing out the matched ones...
+set()
+pos
+RP
+printing out the query regular expression...
+re.compile('RP')
+printing out the matched ones...
+set()
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+set()
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 1adac0c5770cf7982f10978fe9f09ae1c03c0203.tsv
+pos
+V\w+
+printing out the query regular expression...
+re.compile('V\\w+')
+printing out the matched ones...
+{'VDZ', 'VV0', 'VD0', 'VHD', 'VBM', 'VHI', 'VBR', 'VVD', 'VHN', 'VVI', 'VVN', 'VBG', 'VDD', 'VVZ', 'VBDZ', 'VVG', 'VHG', 'VH0', 'VM', 'VBI', 'VBDR', 'VBZ'}
+pos
+RP
+printing out the query regular expression...
+re.compile('RP')
+printing out the matched ones...
+{'RP'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II22', 'II21', 'IS1', 'II33', 'IO', 'IF', 'IW', 'II31', 'II', 'II32', 'IS2', 'IO1'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                              Canada What was it like |||  growing up under  ||| totalitarian regime in Russia ?                                  
+2                                           does it happen that people |||  end up on   ||| the street ? ----- And                                           
+3                                                   big deal if a girl |||  showed up in  ||| school wearing a lipstick or                                     
+4                                              I am sure my experience |||  growing up in  ||| Russia is not the same                                           
+****************************************************************************************************************************************************************
+Your Query Returned 4  hits!
+
+ Reading  the file : dd76168a2dd27747c4da33b307c9b0670b95bcaa.tsv
+pos
+V\w+
+printing out the query regular expression...
+re.compile('V\\w+')
+printing out the matched ones...
+{'VM', 'VVD', 'VHN', 'VVZ', 'VBDZ', 'VVI', 'VVN', 'VV0', 'VD0', 'VBI', 'VHI', 'VBM', 'VBDR', 'VBR', 'VH0', 'VBZ', 'VVG'}
+pos
+RP
+printing out the query regular expression...
+re.compile('RP')
+printing out the matched ones...
+{'RP'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'IS1', 'IO', 'IF', 'IW', 'II', 'IS2', 'IO1'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                             after the children , and |||  coming up with  ||| interesting and exciting game .                                  
+****************************************************************************************************************************************************************
+Your Query Returned 1  hits!
+
+ Reading  the file : .~lock.6f65431dc2e4cf19890bac0e67bd775fd51b4ac9.tsv#
+pos
+V\w+
+printing out the query regular expression...
+re.compile('V\\w+')
+printing out the matched ones...
+set()
+pos
+RP
+printing out the query regular expression...
+re.compile('RP')
+printing out the matched ones...
+set()
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+set()
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 6f65431dc2e4cf19890bac0e67bd775fd51b4ac9.tsv
+pos
+V\w+
+printing out the query regular expression...
+re.compile('V\\w+')
+printing out the matched ones...
+{'VDI', 'VV0', 'VD0', 'VHD', 'VBM', 'VHI', 'VBR', 'VVD', 'VVI', 'VVN', 'VHZ', 'VDD', 'VVZ', 'VBDZ', 'VVG', 'VH0', 'VM', 'VBI', 'VDG', 'VBDR', 'VBN', 'VBZ'}
+pos
+RP
+printing out the query regular expression...
+re.compile('RP')
+printing out the matched ones...
+{'RP'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II22', 'II21', 'IS1', 'II33', 'IO', 'IF', 'IW', 'II31', 'II', 'II32', 'IS2', 'IO1'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                            ----- When Claire did not |||  show up for  ||| the third week , I                                               
+2                                                 ) who also could not |||  keep up with  ||| the number of hours I                                            
+3                                                   not bad but it did |||  slow down after  ||| the crazy January . -----                                        
+4                                                try it out yourself , |||  sign up with  ||| my referral to get $5                                            
+****************************************************************************************************************************************************************
+Your Query Returned 4  hits!
+
+ Reading  the file : .~lock.1adac0c5770cf7982f10978fe9f09ae1c03c0203.tsv#
+pos
+V\w+
+printing out the query regular expression...
+re.compile('V\\w+')
+printing out the matched ones...
+set()
+pos
+RP
+printing out the query regular expression...
+re.compile('RP')
+printing out the matched ones...
+set()
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+set()
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 55cbf481ac5ddb20dd9acacba51abbaab13e2754.tsv
+pos
+V\w+
+printing out the query regular expression...
+re.compile('V\\w+')
+printing out the matched ones...
+{'VDI', 'VDZ', 'VV0', 'VD0', 'VHI', 'VHD', 'VBM', 'VBR', 'VVD', 'VHN', 'VVI', 'VVN', 'VDN', 'VBG', 'VDD', 'VVZ', 'VBDZ', 'VVG', 'VHG', 'VH0', 'VM', 'VBI', 'VDG', 'VBZ'}
+pos
+RP
+printing out the query regular expression...
+re.compile('RP')
+printing out the matched ones...
+{'RP'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II22', 'II21', 'IS1', 'II33', 'IO', 'IF', 'IW', 'II31', 'II', 'II32', 'IO2', 'IO1'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                              enough time for work to |||  keep up with  ||| my freelancers . ----- NYC                                       
+****************************************************************************************************************************************************************
+Your Query Returned 1  hits!
+
+ Reading  the file : 8791bf25777400d6a2d8462c43997618c8c8d395.tsv
+pos
+V\w+
+printing out the query regular expression...
+re.compile('V\\w+')
+printing out the matched ones...
+{'VDI', 'VDZ', 'VV0', 'VD0', 'VHI', 'VBM', 'VBR', 'VVD', 'VVI', 'VVN', 'VDN', 'VHZ', 'VDD', 'VVZ', 'VBDZ', 'VVG', 'VH0', 'VM', 'VBI', 'VDG', 'VBN', 'VBZ'}
+pos
+RP
+printing out the query regular expression...
+re.compile('RP')
+printing out the matched ones...
+{'RP'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II22', 'II21', 'IS1', 'II33', 'IO', 'IF', 'IW', 'II31', 'II', 'II32', 'IS2', 'IO2', 'IO1'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 4cd0820b25880d4d747aefdecf58c973ed92bc26.tsv
+pos
+V\w+
+printing out the query regular expression...
+re.compile('V\\w+')
+printing out the matched ones...
+{'VM', 'VVD', 'VDD', 'VVZ', 'VBDZ', 'VVI', 'VVN', 'VHZ', 'VDZ', 'VDN', 'VV0', 'VD0', 'VBI', 'VMK', 'VBM', 'VHI', 'VBR', 'VH0', 'VBZ', 'VVG'}
+pos
+RP
+printing out the query regular expression...
+re.compile('RP')
+printing out the matched ones...
+{'RP'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II22', 'II21', 'IS1', 'II33', 'IO', 'IF', 'IW', 'II31', 'II', 'II32', 'IS2', 'IO1'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                                    If you want it to |||  be round like  ||| mine on the picture ,                                            
+****************************************************************************************************************************************************************
+Your Query Returned 1  hits!
+
+ Reading  the file : fb012fc5b6fb04c0f8300bcfd8994afa4cb44e25.tsv
+pos
+V\w+
+printing out the query regular expression...
+re.compile('V\\w+')
+printing out the matched ones...
+{'VM', 'VVD', 'VBG', 'VBDZ', 'VVI', 'VBM', 'VVN', 'VV0', 'VBI', 'VHI', 'VVG', 'VBR', 'VHG', 'VH0', 'VBZ'}
+pos
+RP
+printing out the query regular expression...
+re.compile('RP')
+printing out the matched ones...
+{'RP'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'IS1', 'IO', 'IF', 'IW', 'II', 'IS2', 'IO1'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : dbe9aa1d509b563c6da5b9a3affa4b0a93d1a07f.tsv
+pos
+V\w+
+printing out the query regular expression...
+re.compile('V\\w+')
+printing out the matched ones...
+{'VM', 'VVD', 'VDD', 'VVZ', 'VDI', 'VBDZ', 'VVI', 'VVN', 'VHZ', 'VDN', 'VV0', 'VD0', 'VBI', 'VHI', 'VBM', 'VBDR', 'VBR', 'VDG', 'VH0', 'VBZ', 'VVG'}
+pos
+RP
+printing out the query regular expression...
+re.compile('RP')
+printing out the matched ones...
+{'RP'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II22', 'II21', 'IS1', 'II33', 'IO', 'IF', 'IW', 'II31', 'II', 'II32', 'IS2'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                           the three months before it |||  put up for  ||| sell . ----- It is                                               
+2                                            ad unit placement . ----- |||  Sign up for  ||| the affiliate program . -----                                    
+3                                                  and whats not , and |||  roll back to  ||| the changes that did not                                         
+****************************************************************************************************************************************************************
+Your Query Returned 3  hits!
+
+ Reading  the file : fa4ff0cb220eba0642a8cd75df30c5fc5d6b3092.tsv
+pos
+V\w+
+printing out the query regular expression...
+re.compile('V\\w+')
+printing out the matched ones...
+{'VDI', 'VDZ', 'VV0', 'VD0', 'VHD', 'VBM', 'VHI', 'VBR', 'VVD', 'VVI', 'VVN', 'VHZ', 'VBG', 'VVZ', 'VBDZ', 'VVG', 'VHG', 'VH0', 'VM', 'VBI', 'VDG', 'VBDR', 'VBN', 'VBZ'}
+pos
+RP
+printing out the query regular expression...
+re.compile('RP')
+printing out the matched ones...
+{'RP'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II22', 'II21', 'IS1', 'IO', 'IF', 'IW', 'II', 'IO1'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                                  in fact : if Google |||  finds out about  ||| it , it will deindex                                             
+****************************************************************************************************************************************************************
+Your Query Returned 1  hits!
+
+ Reading  the file : 638ef1167841fdf5ea81ded99dc7c164f59c9918.tsv
+pos
+V\w+
+printing out the query regular expression...
+re.compile('V\\w+')
+printing out the matched ones...
+{'VM', 'VVD', 'VDD', 'VVZ', 'VBDZ', 'VDI', 'VVI', 'VVN', 'VHZ', 'VDZ', 'VV0', 'VD0', 'VBI', 'VMK', 'VBM', 'VBR', 'VH0', 'VBZ', 'VVG'}
+pos
+RP
+printing out the query regular expression...
+re.compile('RP')
+printing out the matched ones...
+{'RP'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II22', 'II21', 'IS1', 'IO', 'IF', 'IW', 'II', 'IS2', 'IO1'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                                 will NEVER give up I |||  grew up on  ||| it , its comforting for                                          
+2                                       with different recipes until I |||  came up with  ||| my own , ultimate ,                                              
+****************************************************************************************************************************************************************
+Your Query Returned 2  hits!
+
+ Reading  the file : 118b4bc86d6be55207e730ddaa6e96137cfb102f.tsv
+pos
+V\w+
+printing out the query regular expression...
+re.compile('V\\w+')
+printing out the matched ones...
+{'VDI', 'V32', 'VDZ', 'VV0', 'VHI', 'VBM', 'VHD', 'VBR', 'VVD', 'VVI', 'VVN', 'VDN', 'VHZ', 'VBG', 'VDD', 'VVZ', 'VBDZ', 'V31', 'VVG', 'VH0', 'VM', 'V33', 'VBI', 'VDG', 'VBDR', 'VBN', 'VBZ'}
+pos
+RP
+printing out the query regular expression...
+re.compile('RP')
+printing out the matched ones...
+{'RP'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II22', 'II21', 'IS1', 'II33', 'IO', 'IF', 'IW', 'II31', 'II', 'II32', 'IS2', 'IO1'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                            ad unit placement . ----- |||  sign up for  ||| the affiliate program ; find                                     
+2                                            was growing before it was |||  put up for  ||| sale , and now the                                               
+****************************************************************************************************************************************************************
+Your Query Returned 2  hits!
+
+ Reading  the file : 6135ba8f089ea22330ae5bdc76540e580539d2b6.tsv
+pos
+V\w+
+printing out the query regular expression...
+re.compile('V\\w+')
+printing out the matched ones...
+{'VM', 'VBDR', 'VVD', 'VDD', 'VVZ', 'VDI', 'VBDZ', 'VHN', 'VVI', 'VBM', 'VVN', 'VHZ', 'VV0', 'VD0', 'VBI', 'VDG', 'VVG', 'VHD', 'VBR', 'VH0', 'VBZ'}
+pos
+RP
+printing out the query regular expression...
+re.compile('RP')
+printing out the matched ones...
+{'RP'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II22', 'II21', 'IS1', 'II33', 'IO', 'IF', 'IW', 'II31', 'II', 'II32', 'IO1'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                            website maker and used to |||  hang out with  ||| the NoHtDigital guys . )                                         
+****************************************************************************************************************************************************************
+Your Query Returned 1  hits!
+
+ Reading  the file : 96cd903bef8d0fee69543a9ae6f1e51524d9faeb.tsv
+pos
+V\w+
+printing out the query regular expression...
+re.compile('V\\w+')
+printing out the matched ones...
+{'VM', 'VVD', 'VBR', 'VDD', 'VVZ', 'VBDZ', 'VVI', 'VBM', 'VVN', 'VHZ', 'VV0', 'VD0', 'VBI', 'VHD', 'VVG', 'VBDR', 'VHI', 'VDG', 'VH0', 'VBZ'}
+pos
+RP
+printing out the query regular expression...
+re.compile('RP')
+printing out the matched ones...
+{'RP'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II22', 'II21', 'IS1', 'II33', 'IO', 'IF', 'IW', 'II31', 'II', 'II32', 'IS2', 'IO2'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                            somehow natural for us to |||  come up with  ||| animal-related names . ----- Original                            
+****************************************************************************************************************************************************************
+Your Query Returned 1  hits!
+
+ Reading  the file : a6be1cf585ed0f79b901110407953e3960d66bd8.tsv
+pos
+V\w+
+printing out the query regular expression...
+re.compile('V\\w+')
+printing out the matched ones...
+{'VM', 'VVD', 'VHN', 'VVZ', 'VDI', 'VBDZ', 'VBM', 'VVI', 'VVN', 'VV0', 'VD0', 'VBI', 'VDG', 'VVG', 'VBDR', 'VBR', 'VHD', 'VHI', 'VH0', 'VBZ'}
+pos
+RP
+printing out the query regular expression...
+re.compile('RP')
+printing out the matched ones...
+set()
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II22', 'II21', 'IS1', 'IO', 'IF', 'IW', 'II', 'IS2', 'IO1'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!

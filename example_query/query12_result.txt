@@ -1,0 +1,549 @@
+
+ Reading files in /home/yuyuan/WorkSpace/lancasterTask/data/
+
+ Reading  the file : .~lock.dbe9aa1d509b563c6da5b9a3affa4b0a93d1a07f.tsv#
+pos
+AT1
+printing out the query regular expression...
+re.compile('AT1')
+printing out the matched ones...
+set()
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+set()
+pos
+N\w+
+printing out the query regular expression...
+re.compile('N\\w+')
+printing out the matched ones...
+set()
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+set()
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 1adac0c5770cf7982f10978fe9f09ae1c03c0203.tsv
+pos
+AT1
+printing out the query regular expression...
+re.compile('AT1')
+printing out the matched ones...
+{'AT1'}
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+pos
+N\w+
+printing out the query regular expression...
+re.compile('N\\w+')
+printing out the matched ones...
+{'NULL', 'NN2', 'NQS', 'NNT2', 'NNT1', 'NN1', 'NN', 'NNU', 'ND1', 'N1', 'NP1'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II21', 'IO', 'II32', 'IS1', 'II', 'IS2', 'II22', 'II31', 'II33', 'IF', 'IW', 'IO1'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                            question , I probably had |||  a puzzled look on  ||| my face . ----- I                                                
+2                                                   did nt know we had |||  a totalitarian regime in  ||| Russia . ----- We had                                            
+3                                             library with an image of |||  a homeless person on  ||| the streets of New York                                          
+4                                                 time , I havent seen |||  a homeless person in  ||| my life . ----- Me                                               
+5                                              I remember we never had |||  a full set of  ||| dishes in our cupboard ,                                         
+6                                        Planned Economy , which means |||  a certain amount of  ||| products was planned to be                                       
+7                                             a simple black dress and |||  a white apron on  ||| top of the dress .                                               
+****************************************************************************************************************************************************************
+Your Query Returned 7  hits!
+
+ Reading  the file : dd76168a2dd27747c4da33b307c9b0670b95bcaa.tsv
+pos
+AT1
+printing out the query regular expression...
+re.compile('AT1')
+printing out the matched ones...
+{'AT1'}
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ'}
+pos
+N\w+
+printing out the query regular expression...
+re.compile('N\\w+')
+printing out the matched ones...
+{'NULL', 'NN122', 'NN2', 'NN121', 'NNT2', 'NN1', 'NNT1', 'NN', 'NPM1', 'N1', 'NP1'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'IO', 'IS1', 'IS2', 'IO1', 'IF', 'IW', 'II'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                                  and I think this is |||  a great opportunity for  ||| me to turn my life                                               
+2                                                  Liza . ----- It was |||  an amazing time with  ||| my niece , I cooked                                              
+3                                                always easy but it is |||  a great experience for  ||| me . ----- I think                                               
+4                                               say that I always have |||  a responsible attitude to  ||| the tasks entrusted to me                                        
+****************************************************************************************************************************************************************
+Your Query Returned 4  hits!
+
+ Reading  the file : .~lock.6f65431dc2e4cf19890bac0e67bd775fd51b4ac9.tsv#
+pos
+AT1
+printing out the query regular expression...
+re.compile('AT1')
+printing out the matched ones...
+set()
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+set()
+pos
+N\w+
+printing out the query regular expression...
+re.compile('N\\w+')
+printing out the matched ones...
+set()
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+set()
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 6f65431dc2e4cf19890bac0e67bd775fd51b4ac9.tsv
+pos
+AT1
+printing out the query regular expression...
+re.compile('AT1')
+printing out the matched ones...
+{'AT1'}
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+pos
+N\w+
+printing out the query regular expression...
+re.compile('N\\w+')
+printing out the matched ones...
+{'NULL', 'NPD1', 'NN2', 'NQS', 'NNT2', 'NNT1', 'NN1', 'NN', 'NNU', 'NPM1', 'N1', 'NP1'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II21', 'IO', 'II32', 'IS1', 'II22', 'IS2', 'II31', 'II33', 'IF', 'IO1', 'IW', 'II'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                               stock . ----- Which is |||  a true bummer for  ||| me because it caused my                                          
+2                                   minus total expenses $611.87 makes |||  a net profit of  ||| $445.54 . ----- This is                                          
+****************************************************************************************************************************************************************
+Your Query Returned 2  hits!
+
+ Reading  the file : .~lock.1adac0c5770cf7982f10978fe9f09ae1c03c0203.tsv#
+pos
+AT1
+printing out the query regular expression...
+re.compile('AT1')
+printing out the matched ones...
+set()
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+set()
+pos
+N\w+
+printing out the query regular expression...
+re.compile('N\\w+')
+printing out the matched ones...
+set()
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+set()
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 55cbf481ac5ddb20dd9acacba51abbaab13e2754.tsv
+pos
+AT1
+printing out the query regular expression...
+re.compile('AT1')
+printing out the matched ones...
+{'AT1'}
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJT', 'JJ', 'JJR'}
+pos
+N\w+
+printing out the query regular expression...
+re.compile('N\\w+')
+printing out the matched ones...
+{'NULL', 'NN2', 'NQS', 'NNT2', 'NNT1', 'NN1', 'NN', 'NNU', 'N1', 'NP1'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'IO2', 'II21', 'IO', 'II32', 'IS1', 'II', 'II22', 'II31', 'II33', 'IF', 'IW', 'IO1'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                                 along . ----- It was |||  a perfect opportunity for  ||| me to try out a                                                  
+2                                                 place . ----- It was |||  a shared room in  ||| Brooklyn for only slightly more                                  
+3                                          cafe neighbours of mine had |||  a loud conversation about  ||| their purpose in life .                                          
+4                                             be solved ! ----- Making |||  a proper planning ahead  ||| of the time and being                                            
+5                                               NYC , the planning was |||  a necessary part of  ||| my daily activities despite my                                   
+6                                             a daily route , allocate |||  a certain amount of  ||| time for each activity ,                                         
+****************************************************************************************************************************************************************
+Your Query Returned 6  hits!
+
+ Reading  the file : 8791bf25777400d6a2d8462c43997618c8c8d395.tsv
+pos
+AT1
+printing out the query regular expression...
+re.compile('AT1')
+printing out the matched ones...
+{'AT1'}
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJT', 'JJ', 'JJR'}
+pos
+N\w+
+printing out the query regular expression...
+re.compile('N\\w+')
+printing out the matched ones...
+{'NULL', 'NN2', 'NQS', 'NNU2', 'NNT2', 'NNO', 'NNT1', 'NN1', 'NNU', 'NPM1', 'N1', 'NP1'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'IO2', 'II21', 'IO', 'II32', 'IS1', 'II', 'II22', 'IS2', 'II31', 'II33', 'IF', 'IW', 'IO1'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                                am getting now to buy |||  a bigger website with  ||| a higher revenue . -----                                         
+****************************************************************************************************************************************************************
+Your Query Returned 1  hits!
+
+ Reading  the file : 4cd0820b25880d4d747aefdecf58c973ed92bc26.tsv
+pos
+AT1
+printing out the query regular expression...
+re.compile('AT1')
+printing out the matched ones...
+{'AT1'}
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJT', 'JJ', 'JJR'}
+pos
+N\w+
+printing out the query regular expression...
+re.compile('N\\w+')
+printing out the matched ones...
+{'NULL', 'NN2', 'NP2', 'NNU2', 'NNT2', 'NNT1', 'NN1', 'NN', 'NNU1', 'NNU', 'N1', 'NP1'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II21', 'IO', 'II32', 'IS1', 'IS2', 'II22', 'II31', 'II33', 'IF', 'IO1', 'IW', 'II'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                                 every year , we have |||  a big party at  ||| home with lots of great                                          
+2                                             parties . ----- They are |||  a perfect combo of  ||| protein , carbs and fat                                          
+3                                                the picture , cut out |||  a wide ring from  ||| any plastic cup , and                                            
+****************************************************************************************************************************************************************
+Your Query Returned 3  hits!
+
+ Reading  the file : fb012fc5b6fb04c0f8300bcfd8994afa4cb44e25.tsv
+pos
+AT1
+printing out the query regular expression...
+re.compile('AT1')
+printing out the matched ones...
+{'AT1'}
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+pos
+N\w+
+printing out the query regular expression...
+re.compile('N\\w+')
+printing out the matched ones...
+{'NULL', 'NNO2', 'NN122', 'NN2', 'NN121', 'NNT2', 'NNT1', 'NN1', 'NN', 'N1', 'NP1'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'IO', 'IS1', 'IS2', 'IF', 'IO1', 'IW', 'II'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : dbe9aa1d509b563c6da5b9a3affa4b0a93d1a07f.tsv
+pos
+AT1
+printing out the query regular expression...
+re.compile('AT1')
+printing out the matched ones...
+{'AT1'}
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+pos
+N\w+
+printing out the query regular expression...
+re.compile('N\\w+')
+printing out the matched ones...
+{'NULL', 'NN2', 'NNT2', 'NNT1', 'NN1', 'NN', 'NNU', 'NPM1', 'N1', 'NP1'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II21', 'IO', 'II32', 'IS1', 'IS2', 'II22', 'II31', 'II33', 'IF', 'IW', 'II'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : fa4ff0cb220eba0642a8cd75df30c5fc5d6b3092.tsv
+pos
+AT1
+printing out the query regular expression...
+re.compile('AT1')
+printing out the matched ones...
+{'AT1'}
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JK', 'JJ', 'JJR'}
+pos
+N\w+
+printing out the query regular expression...
+re.compile('N\\w+')
+printing out the matched ones...
+{'NULL', 'NN2', 'NQS', 'NNT1', 'NN1', 'NN', 'NPM1', 'N1', 'NP1'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II21', 'IO', 'IS1', 'II22', 'IF', 'IO1', 'IW', 'II'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                                   . ----- Since I am |||  a total newbie in  ||| this subject , I wont                                            
+2                                         over what was happening with |||  a crucial part of  ||| his money-making machine . -----                                 
+****************************************************************************************************************************************************************
+Your Query Returned 2  hits!
+
+ Reading  the file : 638ef1167841fdf5ea81ded99dc7c164f59c9918.tsv
+pos
+AT1
+printing out the query regular expression...
+re.compile('AT1')
+printing out the matched ones...
+{'AT1'}
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJT', 'JJ', 'JJR'}
+pos
+N\w+
+printing out the query regular expression...
+re.compile('N\\w+')
+printing out the matched ones...
+{'NULL', 'NN2', 'NQS', 'NNU2', 'NNT2', 'NNO', 'NN1', 'NN', 'NNU', 'N1', 'NP1'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II21', 'IO', 'IS1', 'IS2', 'II22', 'IF', 'IO1', 'IW', 'II'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                            without ( unless you have |||  a real allergy to  ||| that product ) , but                                             
+2                                                  on protein , it has |||  a healthy dose of  ||| heart-healthy fats , it has                                      
+****************************************************************************************************************************************************************
+Your Query Returned 2  hits!
+
+ Reading  the file : 118b4bc86d6be55207e730ddaa6e96137cfb102f.tsv
+pos
+AT1
+printing out the query regular expression...
+re.compile('AT1')
+printing out the matched ones...
+{'AT1'}
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJT', 'JJ'}
+pos
+N\w+
+printing out the query regular expression...
+re.compile('N\\w+')
+printing out the matched ones...
+{'NULL', 'NPD1', 'NN2', 'NP2', 'NNT2', 'NN1', 'NNT1', 'NN', 'NNU', 'NPM1', 'N1', 'NP1'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II32', 'IO', 'II21', 'IS1', 'IS2', 'II31', 'II22', 'II33', 'IF', 'IO1', 'IW', 'II'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                                  50% . ----- What is |||  a projected revenue in  ||| this case ? ----- I                                              
+2                                                 to allow me to spend |||  a random couple of  ||| hours on doing my stuff                                          
+****************************************************************************************************************************************************************
+Your Query Returned 2  hits!
+
+ Reading  the file : 6135ba8f089ea22330ae5bdc76540e580539d2b6.tsv
+pos
+AT1
+printing out the query regular expression...
+re.compile('AT1')
+printing out the matched ones...
+{'AT1'}
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+pos
+N\w+
+printing out the query regular expression...
+re.compile('N\\w+')
+printing out the matched ones...
+{'NULL', 'NPD1', 'NN2', 'NQS', 'NNT2', 'NNT1', 'NN1', 'NNU', 'NPM1', 'N1', 'NP1'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II21', 'IO', 'II32', 'IS1', 'II', 'II22', 'II31', 'II33', 'IF', 'IW', 'IO1'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                              ----- I will soon write |||  a separate post about  ||| it , and for now                                                 
+2                                                   all , I am getting |||  a steady income from  ||| the 1st website I bought                                         
+3                                 minus total expenses $2,981.46 makes |||  a net profit of  ||| -$1,969.90 . ----- My Monthly                                    
+****************************************************************************************************************************************************************
+Your Query Returned 3  hits!
+
+ Reading  the file : 96cd903bef8d0fee69543a9ae6f1e51524d9faeb.tsv
+pos
+AT1
+printing out the query regular expression...
+re.compile('AT1')
+printing out the matched ones...
+{'AT1'}
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+pos
+N\w+
+printing out the query regular expression...
+re.compile('N\\w+')
+printing out the matched ones...
+{'NULL', 'NN2', 'NNT2', 'NNT1', 'NN1', 'NN', 'NNU', 'NNB', 'NPM1', 'N1', 'NP1'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'IO2', 'II21', 'IO', 'II32', 'IS1', 'IS2', 'II22', 'II31', 'II33', 'IF', 'IW', 'II'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                               Networks . ----- It is |||  a new approach to  ||| hosting PBNs , and I                                             
+2                                                 . ----- I am getting |||  a steady income from  ||| the Elephant website however ,                                   
+3                                                 . ----- I even wrote |||  a separate post about  ||| the website you can read                                         
+4                                   minus total expenses $862.56 makes |||  a net profit of  ||| $483.35 . ----- January 2016                                     
+****************************************************************************************************************************************************************
+Your Query Returned 4  hits!
+
+ Reading  the file : a6be1cf585ed0f79b901110407953e3960d66bd8.tsv
+pos
+AT1
+printing out the query regular expression...
+re.compile('AT1')
+printing out the matched ones...
+{'AT1'}
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+pos
+N\w+
+printing out the query regular expression...
+re.compile('N\\w+')
+printing out the matched ones...
+{'NULL', 'NN122', 'NN2', 'NQS', 'NN121', 'NNT2', 'NNT1', 'NN1', 'NQO', 'NPM1', 'N1', 'NP1'}
+pos
+I\w+
+printing out the query regular expression...
+re.compile('I\\w+')
+printing out the matched ones...
+{'II21', 'IO', 'IS1', 'II', 'II22', 'IS2', 'IF', 'IW', 'IO1'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                            children and leave me for |||  a long time with  ||| them , sometimes I worked                                        
+****************************************************************************************************************************************************************
+Your Query Returned 1  hits!

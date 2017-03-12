@@ -1,0 +1,406 @@
+
+ Reading files in /home/yuyuan/WorkSpace/lancasterTask/data/
+
+ Reading  the file : .~lock.dbe9aa1d509b563c6da5b9a3affa4b0a93d1a07f.tsv#
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+set()
+token
+\band\b
+printing out the query regular expression...
+re.compile('\\band\\b')
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+set()
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 1adac0c5770cf7982f10978fe9f09ae1c03c0203.tsv
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+token
+\band\b
+printing out the query regular expression...
+re.compile('\\band\\b')
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                               was pretty good , very |||  stable and predictable  ||| , even boring . -----                                            
+2                                               Because we did nt have |||  rich and poor  ||| , we did nt have                                                 
+3                                               areas of the city were |||  good and safe  ||| . ----- Exchanging food and                                      
+4                                                     . ----- It was a |||  self-sufficient and well-connected  ||| community , protected from the                                   
+****************************************************************************************************************************************************************
+Your Query Returned 4  hits!
+
+ Reading  the file : dd76168a2dd27747c4da33b307c9b0670b95bcaa.tsv
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ'}
+token
+\band\b
+printing out the query regular expression...
+re.compile('\\band\\b')
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                                am a very energetic , |||  optimistic and friendly  ||| person . ----- Moreover ,                                        
+2                                             Moreover , I find myself |||  hardworking and reliable  ||| person , ready to help                                           
+3                                      relationships with mom are very |||  warm and friendly  ||| . ----- She always supports                                      
+4                                                 , and coming up with |||  interesting and exciting  ||| game . ----- This is                                             
+5                                                  try to be patient , |||  creative and humorous  ||| . ----- Recently , I                                             
+6                                              my dream to combine the |||  wonderful and interesting  ||| work as an Au Pair                                               
+7                                                to share all the most |||  kind and positive  ||| . ----- With Kind regards                                        
+****************************************************************************************************************************************************************
+Your Query Returned 7  hits!
+
+ Reading  the file : .~lock.6f65431dc2e4cf19890bac0e67bd775fd51b4ac9.tsv#
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+set()
+token
+\band\b
+printing out the query regular expression...
+re.compile('\\band\\b')
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+set()
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 6f65431dc2e4cf19890bac0e67bd775fd51b4ac9.tsv
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+token
+\band\b
+printing out the query regular expression...
+re.compile('\\band\\b')
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : .~lock.1adac0c5770cf7982f10978fe9f09ae1c03c0203.tsv#
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+set()
+token
+\band\b
+printing out the query regular expression...
+re.compile('\\band\\b')
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+set()
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 55cbf481ac5ddb20dd9acacba51abbaab13e2754.tsv
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJT', 'JJR'}
+token
+\band\b
+printing out the query regular expression...
+re.compile('\\band\\b')
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJT', 'JJR'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                           waitress . ----- They look |||  cool and happy  ||| . ----- And seemingly ,                                          
+2                                               outside , it all looks |||  cool and fun  ||| and efficient . ----- However                                    
+3                                                it all looks cool and |||  fun and efficient  ||| . ----- However when I                                           
+4                                           sacrifice in terms of both |||  physical and psychological  ||| comfort ; thus , it                                              
+****************************************************************************************************************************************************************
+Your Query Returned 4  hits!
+
+ Reading  the file : 8791bf25777400d6a2d8462c43997618c8c8d395.tsv
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJT', 'JJR'}
+token
+\band\b
+printing out the query regular expression...
+re.compile('\\band\\b')
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJT', 'JJR'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 4cd0820b25880d4d747aefdecf58c973ed92bc26.tsv
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJT', 'JJR'}
+token
+\band\b
+printing out the query regular expression...
+re.compile('\\band\\b')
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJT', 'JJR'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                                   Here it is ! ----- |||  Beautiful and delicious  ||| ! healthy party recipes Macros                                   
+****************************************************************************************************************************************************************
+Your Query Returned 1  hits!
+
+ Reading  the file : fb012fc5b6fb04c0f8300bcfd8994afa4cb44e25.tsv
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+token
+\band\b
+printing out the query regular expression...
+re.compile('\\band\\b')
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                         Nevertheless , I always stay |||  level-headed and rational  ||| . ----- So , if                                                  
+2                                            , always respect people , |||  good-natured and amiable  ||| , neat and tidy .                                                
+3                                         , good-natured and amiable , |||  neat and tidy  ||| . ----- I have never                                             
+4                                             kinds of games with them |||  indoor and outdoor  ||| , draw , jump ,                                                  
+5                                   hours of care experience including |||  Russian and American  ||| children of different ages .                                     
+6                                        to interest them by something |||  curious and funny  ||| ! ----- I like traveling                                         
+****************************************************************************************************************************************************************
+Your Query Returned 6  hits!
+
+ Reading  the file : dbe9aa1d509b563c6da5b9a3affa4b0a93d1a07f.tsv
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+token
+\band\b
+printing out the query regular expression...
+re.compile('\\band\\b')
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : fa4ff0cb220eba0642a8cd75df30c5fc5d6b3092.tsv
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JK', 'JJR'}
+token
+\band\b
+printing out the query regular expression...
+re.compile('\\band\\b')
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JK', 'JJR'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 638ef1167841fdf5ea81ded99dc7c164f59c9918.tsv
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJT', 'JJR'}
+token
+\band\b
+printing out the query regular expression...
+re.compile('\\band\\b')
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJT', 'JJR'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                                   as sweet , isnt as |||  soft and sliced  ||| bagged bread wasnt popular in                                    
+2                                                 a lot of people feel |||  bloated and heavy  ||| after eating bread . -----                                       
+3                                                 , and if toasted its |||  nice and crisp  ||| and can be a base                                                
+****************************************************************************************************************************************************************
+Your Query Returned 3  hits!
+
+ Reading  the file : 118b4bc86d6be55207e730ddaa6e96137cfb102f.tsv
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJT'}
+token
+\band\b
+printing out the query regular expression...
+re.compile('\\band\\b')
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJT'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                          thought it will be probably |||  interesting and useful  ||| for you to read about                                            
+****************************************************************************************************************************************************************
+Your Query Returned 1  hits!
+
+ Reading  the file : 6135ba8f089ea22330ae5bdc76540e580539d2b6.tsv
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+token
+\band\b
+printing out the query regular expression...
+re.compile('\\band\\b')
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                               The second one is much |||  smaller and cheaper  ||| than the 1st one :                                               
+2                                        a compound interest , totally |||  passive and effortless  ||| If you want to try                                               
+****************************************************************************************************************************************************************
+Your Query Returned 2  hits!
+
+ Reading  the file : 96cd903bef8d0fee69543a9ae6f1e51524d9faeb.tsv
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+token
+\band\b
+printing out the query regular expression...
+re.compile('\\band\\b')
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                                     a very good VA , |||  effective and knowledgeable  ||| but unfortunately , she was                                      
+2                                        a compound interest , totally |||  passive and effortless  ||| Income My January income was                                     
+****************************************************************************************************************************************************************
+Your Query Returned 2  hits!
+
+ Reading  the file : a6be1cf585ed0f79b901110407953e3960d66bd8.tsv
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+token
+\band\b
+printing out the query regular expression...
+re.compile('\\band\\b')
+pos
+J\w+
+printing out the query regular expression...
+re.compile('J\\w+')
+printing out the matched ones...
+{'JJ', 'JJR'}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!

@@ -1,0 +1,6 @@
+
+query8 "pos=(A*P\w+|NN2) pos=(VBDZ|VBDR|VHD|VDD) sem=(E[1-6]\+|E4\.[12]\+)"
+query9 "pos=J\w+ token=\\band\\b pos=J\w+"
+query10 "pos=V\w+ pos=I\w+ pos=J\w+"
+query11 "token=[Aa]s pos=J\w+ token=[Aa]s"
+query12 "pos=AT1 pos=J\w+ pos=N\w+ pos=I\w+"
