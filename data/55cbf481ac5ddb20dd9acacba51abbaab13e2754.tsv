@@ -1,0 +1,1759 @@
+token	pos	sem	stanford-token	stanford-pos
+<text>	NULL	""	<text>	JJ
+-----	-----	""	-----	CD
+Being	VBG	A3+ Z5	Being	VBG
+a	AT1	Z5	a	DT
+Digital	JJ	Z3c	Digital	NNP
+Nomad	NN1	M1/S2mf	Nomad	NNP
+,	,	""	,	,
+Is	VBZ	A3+ Z5	Is	VBZ
+It	PPH1	Z8	It	PRP
+For	IF	Z5	For	IN
+Everybody	PN1	Z8/N5.1+c	Everybody	NN
+?	?	""	?	.
+-----	-----	""	-----	CD
+A	AT1	Z5	A	DT
+Short	JJ@	T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1%	Short	JJ
+Trip	NN1	M1 F3%	Trip	NN
+To	II	Z5	To	TO
+NYC	NP1	Z99	NYC	NNP
+Reveals	VVZ	A10+	Reveals	VBZ
+The	AT	Z5	The	DT
+Truth	NN1	A5.2+	Truth	NN
+I	PPIS1	Z8mf	I	PRP
+know	VV0	X2.2+ S3.2/B1%	know	VBP
+that	CST	Z5 Z8	that	IN
+some	DD	N5 Z5	some	DT
+of	IO	Z5	of	IN
+my	APPGE	Z8	my	PRP$
+readers	NN2	Q4.1/S2mf Q4.2/S2mf P1/S2mf Q4.1	readers	NNS
+would	VM	A7+	would	MD
+love	VVI	E2+	love	VB
+to	TO	Z5	to	TO
+read	VVI	Q3 Q1.2 X3.2+ X2.5+ P1 A10+	read	VB
+my	APPGE	Z8	my	PRP$
+reviews	NN2	Q4 X2.4	reviews	NNS
+of	IO	Z5	of	IN
+some	DD	N5 Z5	some	DT
+products	NN2	O2 A1.1.1 A2.2 N2%	products	NNS
+I	PPIS1	Z8mf	I	PRP
+use	VV0	A1.5.1 S7.1+	use	VBP
+for	IF	Z5	for	IN
+niche	NN1	O2 I3.1	niche	NN
+websites	NN2	Y2	websites	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Sorry	JJ	Z4 E4.1- O4.2-	Sorry	NNP
+,	,	""	,	,
+guys	NN2	S2.2m O2	guys	NNS
+,	,	""	,	,
+no	AT	Z6	no	DT
+reviews	NN2	Q4 X2.4	reviews	NNS
+this	DD1	M6 Z5 Z8	this	DT
+week	NNT1	T1.3	week	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+Last	MD	T1.1.1[i1.2.1 N4	Last	JJ
+week	NNT1	T1.1.1[i1.2.2 T1.3	week	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+did	VDD	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	did	VBD
+not	XX	Z6	not	RB
+have	VHI	A9+ Z5 A2.2 S4	have	VB
+much	DA1	N5+ I1.3+	much	JJ
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+to	TO	Z5	to	TO
+spend	VVI	I1.2 A1.5.1 T1.3	spend	VB
+on	II	Z5	on	IN
+the	AT	Z5	the	DT
+blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	blog	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+reason	NN1	A2.2 X2.1	reason	NN
+is	VBZ	Z5 A3+	is	VBZ
+I	PPIS1	Z8mf	I	PRP
+went	VVN	M1	went	VBD
+to	II	Z5	to	TO
+New	NP1	Z2[i3.2.1 Z1mf[i2.2.1 Z3c[i2.2.1	New	NNP
+York	NP1	Z2[i3.2.2 Z2 Z1mf Z1mf[i2.2.2 Z3c[i2.2.2	York	NNP
+for	IF	Z5	for	IN
+four	MC	N1 T3 T1.2	four	CD
+days	NNT2	T1.3	days	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Sam	NP1	Z1mf	Sam	NNP
+,	,	""	,	,
+my	APPGE	Z8	my	PRP$
+boyfriend	NN1	S3.2/S2.2m	boyfriend	NN
+,	,	""	,	,
+attended	VVD	S1.1.3+ X5.1+	attended	VBD
+a	AT1	Z5	a	DT
+programming	NN1	Y2 Q4.3 P1	programming	NN
+conference	NN1	S1.1.3+	conference	NN
+that	CST	Z8 Z5	that	WDT
+was	VBDZ	Z5 A3+	was	VBD
+held	VVN	M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+	held	VBN
+in	II	Z5	in	IN
+Brooklyn	NP1	A4.1 T1.2 M7c G1.1c	Brooklyn	NNP
+,	,	""	,	,
+and	CC	Z5	and	CC
+I	PPIS1	Z8mf	I	PRP
+tagged	VVD	S1.1.3+[i4.2.1 Q1.2 X2.2+ Q2.2 Y2	tagged	VBD
+along	RP	S1.1.3+[i4.2.2 M6	along	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+was	VBDZ	A3+ Z5	was	VBD
+a	AT1	Z5	a	DT
+perfect	JJ	A5.1+++ A1.2+++ Q3	perfect	JJ
+opportunity	NN1	A1.4	opportunity	NN
+for	IF	Z5	for	IN
+me	PPIO1	Z8mf	me	PRP
+to	TO	Z5	to	TO
+try	VVI	X2.4[i5.2.1 X8+ X2.4 Q2.2 G2.1 A12-	try	VB
+out	RP	X2.4[i5.2.2 M6	out	RP
+a	AT1	Z5	a	DT
+digital	JJ	Y2 N1	digital	JJ
+nomad	NN1	M1/S2mf	nomad	NN
+hat	NN1	B5 I3.1@	hat	NN
+to	TO	Z5	to	TO
+see	VVI	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VB
+if	CSW@	Z7	if	IN
+it	PPH1	Z8	it	PRP
+would	VM	A7+	would	MD
+be	VBI	A3+ Z5	be	VB
+possible	JJ	A7+	possible	JJ
+for	IF	Z5	for	IN
+me	PPIO1	Z8mf	me	PRP
+to	TO	Z5	to	TO
+travel	VVI	M1	travel	VB
+and	CC	Z5	and	CC
+work	VVI	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	work	VB
+at	II	T1.1.2[i6.4.1 Z5	at	IN
+the	AT	T1.1.2[i6.4.2 Z5	the	DT
+same	DA	T1.1.2[i6.4.3 A6.1+++	same	JJ
+time	NNT1	T1.1.2[i6.4.4 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Since	CS	Z5	Since	IN
+I	PPIS1	Z8mf	I	PRP
+wanted	VVD	X7+ S6+ A7+ S3.2 A9-	wanted	VBD
+to	TO	Z5	to	TO
+explore	VVI	M1 X2.4	explore	VB
+the	AT	Z5	the	DT
+city	NN1	M7c M7/I2.1c	city	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+had	VHD	A9+ Z5 A2.2 S4	had	VBD
+just	RR	A14 T3--- T1.3- N3.3---	just	RB
+enough	DD	N5+ N6+	enough	JJ
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+for	IF	Z5	for	IN
+work	NN1	I3.1 A1.1.1 Q4 K2 C1	work	NN
+to	TO	Z5	to	TO
+keep	VVI	T2++[i7.3.1 X2.5+[i7.3.1 X9.2+[i7.3.1 A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 T2++[i8.2.1 S7.3+[i8.2.1 N5+[i8.2.1	keep	VB
+up	RP	T2++[i7.3.2 X2.5+[i7.3.2 X9.2+[i7.3.2 T2++[i8.2.2 S7.3+[i8.2.2 N5+[i8.2.2	up	RP
+with	IW	T2++[i7.3.3 X2.5+[i7.3.3 X9.2+[i7.3.3 Z5	with	IN
+my	APPGE	Z8	my	PRP$
+freelancers	NN2	S5-/S2mf	freelancers	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+NYC	NP1	Z99	NYC	NNP
+,	,	""	,	,
+Brooklyn	NP1	A4.1 T1.2 M7c G1.1c	Brooklyn	NNP
+,	,	""	,	,
+Fort	NP1	Z1mf[i11.3.1 Z3c[i11.3.1 Z2[i9.2.1 Z1mf[i10.2.1 Z3c[i10.2.1 Z2[i12.2.1	Fort	NNP
+Green	NP1	Z1mf[i11.3.2 Z3c[i11.3.2 Z2[i9.2.2 Z1mf[i10.2.2 Z3c[i10.2.2 Z2[i12.2.2 Z2[i13.2.1 Z1mf[i14.2.1 Z3c[i14.2.1	Green	NNP
+Park	NP1	Z3c[i11.3.3 Z1mf[i11.3.3 Z2[i13.2.2 Z1mf[i14.2.2 Z3c[i14.2.2	Park	NNP
+:	:	""	:	:
+Happy	JJ	E4.1+ E4.2+	Happy	JJ
+to	TO	Z5	to	TO
+be	VBI	A3+ Z5	be	VB
+here	RL	M6 T1.1.2 T1.2	here	RB
+!	!	""	!	.
+-----	-----	""	-----	CD
+Fort	NP1	Z1mf[i17.3.1 Z3c[i17.3.1 Z2[i15.2.1 Z1mf[i16.2.1 Z3c[i16.2.1 Z2[i18.2.1	Fort	NNP
+Green	NP1	Z1mf[i17.3.2 Z3c[i17.3.2 Z2[i15.2.2 Z1mf[i16.2.2 Z3c[i16.2.2 Z2[i18.2.2 Z2[i19.2.1 Z1mf[i20.2.1 Z3c[i20.2.1	Green	NNP
+Park	NP1	Z3c[i17.3.3 Z1mf[i17.3.3 Z2[i19.2.2 Z1mf[i20.2.2 Z3c[i20.2.2	Park	NNP
+,	,	""	,	,
+Brooklyn	NP1	A4.1 T1.2 M7c G1.1c	Brooklyn	NNP
+,	,	""	,	,
+NYC	NP1	Z99	NYC	NNP
+:	:	""	:	:
+Happy	JJ	E4.1+ E4.2+	Happy	JJ
+to	TO	Z5	to	TO
+be	VBI	A3+ Z5	be	VB
+here	RL	M6 T1.1.2 T1.2	here	RB
+!	!	""	!	.
+-----	-----	""	-----	CD
+Why	RRQ	A2.2	Why	WRB
+did	VDD	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	did	VBD
+I	PPIS1	Z8mf	I	PRP
+want	VVI	X7+ S6+ A7+ S3.2 A9-	want	VBP
+to	TO	Z5	to	TO
+try	VVI	X2.4[i21.2.1 X8+ X2.4 Q2.2 G2.1 A12-	try	VB
+it	PPH1	Z8	it	PRP
+out	RP	X2.4[i21.2.2 M6	out	RP
+?	?	""	?	.
+-----	-----	""	-----	CD
+Well	RR	A5.1+ A13.3 A7+ B2+ Z4	Well	UH
+a	AT1	T1.1.1[i22.3.1 Z5	a	DT
+while	NNT1@	T1.1.1[i22.3.2 T1.3	while	NN
+ago	RA	T1.1.1[i22.3.3 T1.1.1	ago	RB
+,	,	""	,	,
+somebody	PN1	Z8mfc	somebody	NN
+who	PNQS	Z8	who	WP
+knows	VVZ	X2.2+ S3.2/B1%	knows	VBZ
+about	II	Z5	about	IN
+my	APPGE	Z8	my	PRP$
+business	NN1	I2.1 A1.1.1 A5.1+++	business	NN
+and	CC	Z5	and	CC
+its	APPGE	Z8	its	PRP$
+remote	JJ	N3.3+ S1.2.1-	remote	JJ
+nature	NN1	W5 A4.1 S1.2 A6.2+	nature	NN
+asked	VVD	Q2.2	asked	VBD
+me	PPIO1	Z8mf	me	PRP
+if	CS	Z7	if	IN
+I	PPIS1	Z8mf	I	PRP
+want	VV0	X7+ S6+ A7+ S3.2 A9-	want	VBP
+to	TO	Z5	to	TO
+start	VVI	T2+ E5- E3-	start	VB
+travelling	VVG	M1	travelling	VBG
+when	RRQ	Z5	when	WRB
+I	PPIS1	Z8mf	I	PRP
+get	VV0	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	get	VBP
+enough	DD	N5+ N6+	enough	JJ
+money	NN1	I1	money	NN
+from	II	Z5	from	IN
+my	APPGE	Z8	my	PRP$
+websites	NN2	Y2	websites	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+asked	VVD	Q2.2	asked	VBD
+myself	PPX1	Z8mf	myself	PRP
+the	AT	Z5	the	DT
+same	DA	A6.1+++	same	JJ
+question	NN1	Q2.2 X4.1	question	NN
+And	CC	Z5	And	CC
+the	AT	Z5	the	DT
+answer	NN1	Q2.2 X4.1 X9.2+	answer	NN
+is	VBZ	A3+ Z5	is	VBZ
+no	RR%	Z6	no	DT
+:	:	""	:	:
+)	)	""	)	CD
+Table	NN1	H5 Q1.2 N2	Table	NNP
+of	IO	Z5	of	IN
+Contents	NN2	A1.8+ Q2.1	Contents	NNP
+What	DDQ	Z8 Z5	What	WDT
+Is	VBZ	A3+ Z5	Is	VBZ
+a	AT1	Z5	a	DT
+Digital	JJ	Z3c	Digital	NNP
+Nomad	NN1	M1/S2mf	Nomad	NNP
+?	?	""	?	.
+-----	-----	""	-----	CD
+Being	VBG	A3+ Z5	Being	VBG
+a	AT1	Z5	a	DT
+Digital	JJ	Z3c	Digital	NNP
+Nomad	NN1	M1/S2mf	Nomad	NNP
+Looks	VVZ	A6.1+[i23.2.1 Z3c	Looks	VBZ
+Like	II	A6.1+[i23.2.2 Z5	Like	IN
+Fun	NN1	E4.1+	Fun	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+Price	NN1	I1.3	Price	NN
+Behind	II	Z5	Behind	IN
+Looking	VVG	A6.1+[i24.2.1 A8 X3.4 X2.4 X7+ Z4	Looking	VBG
+Like	II	A6.1+[i24.2.2 Z5	Like	IN
+a	AT1	Z5	a	DT
+Cool	JJ	O4.6- S1.2.1- O4.2+ E6+	Cool	NNP
+Digital	JJ	Z3c	Digital	NNP
+Nomad	NN1	M1/S2mf	Nomad	NNP
+Conclusion	NN1	X6+ T2-	Conclusion	NNP
+What	DDQ	Z8 Z5	What	WDT
+Is	VBZ	A3+ Z5	Is	VBZ
+a	AT1	Z5	a	DT
+Digital	JJ	Z3c	Digital	NNP
+Nomad	NN1	M1/S2mf	Nomad	NNP
+?	?	""	?	.
+-----	-----	""	-----	CD
+But	CCB	Z5	But	CC
+first	MD	N4	first	RB
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+case	NN1	A4.1 O2 G2.1 B3 X4.1 Q3	case	NN
+you	PPY	Z8mf	you	PRP
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+not	XX	Z6	not	RB
+know	VVI	X2.2+ S3.2/B1%	know	VB
+what	DDQ	Z8 Z5	what	WP
+it	PPH1	Z8	it	PRP
+is	VBZ	A3+ Z5	is	VBZ
+,	,	""	,	,
+lets	VVZ	S7.4+ I2.2/H1 T2-	lets	VBZ
+see	VVI	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VB
+what	DDQ	Z8 Z5	what	WP
+means	VVZ	Q1.1 X7+	means	VBZ
+to	TO	Z5	to	TO
+be	VBI	A3+ Z5	be	VB
+a	AT1	Z5	a	DT
+digital	JJ	Y2 N1	digital	JJ
+nomad	NN1	M1/S2mf	nomad	NN
+and	CC	Z5	and	CC
+why	RRQ	A2.2	why	WRB
+it	PPH1	Z8	it	PRP
+is	VBZ	A3+ Z5	is	VBZ
+so	RG	A13.3	so	RB
+popular	JJ	E2+ S5+	popular	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+This	DD1	Z8 M6 Z5	This	DT
+is	VBZ	A3+ Z5	is	VBZ
+what	DDQ	Z5 Z8	what	WP
+Wikipedia	NP1	Z99	Wikipedia	NNP
+says	VVZ	Q2.1	says	VBZ
+:	:	""	:	:
+Digital	JJ	Z3c	Digital	NNP
+nomads	NN2	M1/S2mf	nomads	NNS
+are	VBR	A3+ Z5	are	VBP
+individuals	NN2	S2mf	individuals	NNS
+who	PNQS	Z8	who	WP
+use	VV0	A1.5.1 S7.1+	use	VBP
+telecommunications	NN2	Q1.3	telecommunications	NNS
+technologies	NN2	Y1	technologies	NNS
+to	TO	Z5	to	TO
+earn	VVI	I3.1[i25.3.1 A9+/I1 S1.1.4+	earn	VB
+a	AT1	I3.1[i25.3.2 Z5	a	DT
+living	NN1	I3.1[i25.3.3 H4 L1+ I3.1 I1.1 S9%	living	NN
+and	CC	Z5	and	CC
+,	,	""	,	,
+more	RGR	A13.3	more	RBR
+generally	RR	A6.2+ A4.2- A13.2	generally	RB
+,	,	""	,	,
+conduct	VV0	A1.1.1 S1.1.1 K2 O4.1	conduct	VB
+their	APPGE	Z8	their	PRP$
+life	NN1	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	life	NN
+in	II	Z5	in	IN
+a	AT1	Z5	a	DT
+nomadic	JJ	M1	nomadic	JJ
+manner	NN1	S1.1.1 X4.2	manner	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Such	DA	Z5 Z8	Such	JJ
+workers	NN2	I3.1/S2mf	workers	NNS
+typically	RR	A6.2+ A4.2+	typically	RB
+work	VV0	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	work	VBP
+remotelyfrom	VV0	Z99	remotelyfrom	NN
+home	RL	H4 M6	home	NN
+,	,	""	,	,
+coffee	NN1	F2/H1c[i26.2.1 F2	coffee	NN
+shops	NN2	F2/H1c[i26.2.2 I2.2/H1 I4/H1 I2.2	shops	NNS
+,	,	""	,	,
+public	JJ	Q4.1/H1c[i27.2.1 S5+ A10+	public	JJ
+libraries	NN2	Q4.1/H1c[i27.2.2 Q4.1/H1c	libraries	NNS
+,	,	""	,	,
+and	CC	Z5	and	CC
+even	RR	A13.1	even	RB
+recreational	JJ	K1	recreational	JJ
+vehiclesto	NN1	Z99	vehiclesto	NN
+accomplish	VV0	X9.2+	accomplish	VB
+tasks	NN2	A1.1.1	tasks	NNS
+and	CC	Z5	and	CC
+goals	NN2	K5.1 X7+	goals	NNS
+that	CST	Z8 Z5	that	WDT
+traditionally	RR	S1.1.1 A6.2+ T3++	traditionally	RB
+took	VVD	A1.1.1[i28.2.1 A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@	took	VBD
+place	NN1	A1.1.1[i28.2.2 M7 H1 A1.2 P1	place	NN
+in	II	Z5	in	IN
+a	AT1	Z5	a	DT
+single	JJ	N5--- S5- S3.2- M3	single	JJ
+,	,	""	,	,
+stationary	JJ	M8	stationary	JJ
+workplace	NN1	I3.1/M7	workplace	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Many	DA2	N5+	Many	JJ
+people	NN	S2mfc	people	NNS
+like	VV0@	E2+	like	IN
+to	TO	Z5	to	TO
+travel	VVI	M1	travel	VB
+but	CCB	Z5	but	CC
+many	DA2	N5+	many	JJ
+are	VBR	Z5 A3+	are	VBP
+limited	VVN	A1.7+	limited	VBN
+in	II	Z5	in	IN
+travelling	VVG	M1	travelling	VBG
+by	II	Z5	by	IN
+their	APPGE	Z8	their	PRP$
+regular	JJ	A6.2+ N6+ O4.1 I3.1 T2++ A13.3	regular	JJ
+jobs	NN2	I3.1 A1.1.1	jobs	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Being	VBG	A3+ Z5	Being	VBG
+a	AT1	Z5	a	DT
+digital	JJ	Y2 N1	digital	JJ
+nomad	NN1	M1/S2mf	nomad	NN
+solves	VVZ	X9.2+	solves	VBZ
+this	DD1	M6 Z5 Z8	this	DT
+problem	NN1	A12- X4.1 B2-	problem	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+key	NN1	O2 X9.2+ Q1.2	key	NN
+is	VBZ	A3+ Z5	is	VBZ
+to	TO	Z5	to	TO
+find	VVI	A10+ X2.1 X6+	find	VB
+a	AT1	Z5	a	DT
+remote	JJ	N3.3+ S1.2.1-	remote	JJ
+work	NN1	I3.1 A1.1.1 Q4 K2 C1	work	NN
+and	CC	Z5	and	CC
+do	VD0	A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5	do	VBP
+it	PPH1	Z8	it	PRP
+while	CS	Z5	while	IN
+being	VBG	A3+ Z5	being	VBG
+on	II	Z5	on	IN
+a	AT1	M3[i29.2.1 Z5	a	DT
+road	NN1	M3[i29.2.2 M3 X4.2	road	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+nyc	NN1	Z99	nyc	NN
+brooklyn	NN1	A4.1 T1.2 M7c G1.1c	brooklyn	NN
+bridge	NN1	H1 W3 A2.2/S3.1 H2/M4 B1 B3 O2 K5.2	bridge	NN
+Being	VBG	A3+ Z5	Being	VBG
+a	AT1	Z5	a	DT
+digital	JJ	Y2 N1	digital	JJ
+nomad	NN1	M1/S2mf	nomad	NN
+,	,	""	,	,
+you	PPY	Z8mf	you	PRP
+can	VM	A7+	can	MD
+work	VVI	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	work	VB
+even	RR	A13.1	even	RB
+from	II	Z5	from	IN
+the	AT	Z5	the	DT
+top	NN1	M6 N4 N5.1+ O2 B5 K6 N5.1-	top	NN
+of	IO	Z5	of	IN
+Brooklyn	NP1	Z2[i30.2.1	Brooklyn	NNP
+Bridge	NN1	Z2[i30.2.2 H1 W3 A2.2/S3.1 H2/M4 B1 B3 O2 K5.2	Bridge	NNP
+!	!	""	!	.
+-----	-----	""	-----	CD
+Being	VBG	A3+ Z5	Being	VBG
+a	AT1	Z5	a	DT
+Digital	JJ	Z3c	Digital	NNP
+Nomad	NN1	M1/S2mf	Nomad	NNP
+Looks	VVZ	A6.1+[i31.2.1 Z3c	Looks	VBZ
+Like	II	A6.1+[i31.2.2 Z5	Like	IN
+Fun	NN1	E4.1+	Fun	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+When	CS	Z5	When	WRB
+I	PPIS1	Z4[i32.2.1 Z8mf	I	PRP
+see	VV0	Z4[i32.2.2 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VBP
+others	NN2	A6.1-/Z8	others	NNS
+working	VVG	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	working	VBG
+in	II	Z5	in	IN
+cafes	NN2	F1/H1	cafes	NNS
+with	IW	Z5	with	IN
+their	APPGE	Z8	their	PRP$
+laptops	NN2	Y2	laptops	NNS
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+feel	VV0	X2.1 E1 X3	feel	VBP
+a	AT1	Z5	a	DT
+bit	NN1	N5- N5.1- O2 Y2	bit	NN
+envy	VVI	S1.2.2+	envy	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+These	DD2	Z5 Z8	These	DT
+guys	NN2	S2.2m O2	guys	NNS
+and	CC	Z5	and	CC
+gals	NN2	S2.1f	gals	NNS
+look	VV0	A8 X3.4 X2.4 X7+ Z4	look	VBP
+being	VBG	A3+ Z5	being	VBG
+so	RG	A13.3	so	RB
+comfortable	JJ	O4.2+	comfortable	JJ
+sitting	NN1@	M8 C1 P1 G1.1 G2.1 M6 A9+	sitting	VBG
+in	II	Z5	in	IN
+big	JJ	N3.2+ N5+ A11.1+ S1.2.5+ X5.2+	big	JJ
+comfy	JJ	O4.2+	comfy	JJ
+chairs	NN2	H5 S7.1+mf P1	chairs	NNS
+with	IW	Z5	with	IN
+a	AT1	Z5	a	DT
+big	JJ	N3.2+ N5+ A11.1+ S1.2.5+ X5.2+	big	JJ
+latte	NN1	F2	latte	NN
+cup	NN1	O2 S7.3+ A5.1+/O2	cup	NN
+and	CC	Z5	and	CC
+deliciously	RR	X3.1+ O4.2+	deliciously	RB
+looking	VVG	A8 X3.4 X2.4 X7+ Z4	looking	VBG
+pastry	NN1	F1	pastry	NN
+on	II	A12+[i33.3.1 Z5	on	IN
+a	AT1	A12+[i33.3.2 Z5	a	DT
+plate	NN1	A12+[i33.3.3 O2 C1 B3	plate	NN
+next	II21	Z5[i34.2.1 A13.4[i34.2.1	next	JJ
+to	II22	Z5[i34.2.2 A13.4[i34.2.2 Z5	to	TO
+the	AT	Z5	the	DT
+coffee	NN1	F2/O2[i35.2.1 F2	coffee	NN
+cup	NN1	F2/O2[i35.2.2 O2 S7.3+ A5.1+/O2	cup	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+They	PPHS2	Z8mfn	They	PRP
+are	VBR	Z5 A3+	are	VBP
+sitting	VVG	M8 C1 P1 G1.1 G2.1 M6 A9+	sitting	VBG
+in	II	Z5	in	IN
+a	AT1	Z5	a	DT
+nicely	RR	A5.1+ O4.2+	nicely	RB
+decorated	JJ	O4.2+ C1/H1 S1.1.4+	decorated	VBN
+room	NN1	H2 N3.6	room	NN
+surrounded	VVN	M6 A1.8+ A10- G3	surrounded	VBN
+by	II	Z5	by	IN
+people	NN	S2mfc	people	NNS
+like	II	Z5	like	VBP
+themselves	PPX2	Z8	themselves	PRP
+;	;	""	;	:
+they	PPHS2	Z8mfn	they	PRP
+often	RR	N6+	often	RB
+sit	VV0	M8 C1 P1 G1.1 G2.1 M6 A9+	sit	VBP
+next	II21	Z5[i36.2.1 A13.4[i36.2.1	next	JJ
+to	II22	Z5[i36.2.2 A13.4[i36.2.2 Z5	to	TO
+the	AT	Z5	the	DT
+window	NN1	H2 T1.3	window	NN
+that	CST	Z8 Z5	that	WDT
+makes	VVZ	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	makes	VBZ
+people	NN	S2mfc	people	NNS
+watching	VVG	X3.4 S7.1 X2.4 A1.3+	watching	VBG
+so	RG	A13.3	so	RB
+easy	JJ	A12+	easy	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+If	CS	Z7	If	IN
+they	PPHS2	Z8mfn	they	PRP
+get	VV0	A2.1+ A9+ Z5 X9.2+ A2.2 M1 M2 X2.5+ E4.1-	get	VBP
+bored	JJ	X5.2- O4.1@	bored	VBN
+with	IW	Z5	with	IN
+work	NN1	I3.1 A1.1.1 Q4 K2 C1	work	NN
+,	,	""	,	,
+there	EX	Z5	there	EX
+is	VBZ	A3+ Z5	is	VBZ
+always	RR	N6+++	always	RB
+someone	PN1	Z8mfc	someone	NN
+to	TO	Z5	to	TO
+chat	VVI	Q2.1	chat	VB
+with	IW	Z5	with	IN
+even	CS21	Z7[i37.2.1	even	RB
+if	CS22	Z7[i37.2.2 Z7	if	IN
+it	PPH1	Z8	it	PRP
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+barista	NN1	Z99	barista	NN
+or	CC	Z5	or	CC
+a	AT1	Z5	a	DT
+waitress	NN1	I3.1/F1/S2.1f	waitress	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+They	PPHS2	Z8mfn	They	PRP
+look	VV0	O4.6-/A8[i38.2.1 A8 X3.4 X2.4 X7+ Z4	look	VBP
+cool	JJ	O4.6-/A8[i38.2.2 O4.6- S1.2.1- O4.2+ E6+	cool	JJ
+and	CC	Z5	and	CC
+happy	JJ	E4.1+ E4.2+	happy	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+And	CC	Z5	And	CC
+seemingly	RR	A8	seemingly	RB
+,	,	""	,	,
+they	PPHS2	Z8mfn	they	PRP
+always	RR	N6+++	always	RB
+find	VV0	A10+ X2.1 X6+	find	VBP
+themselves	PPX2	Z8	themselves	PRP
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+best	JJT	A5.1+++ G2.2+++ O4.2+++	best	JJS
+places	NN2	M7 H1 A1.2 P1	places	NNS
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+word	NN1	Q3 Q2.1 S9@	word	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Once	CS@	Z5	Once	IN
+they	PPHS2	Z8mfn	they	PRP
+get	VV0	A2.1+ A9+ Z5 X9.2+ A2.2 M1 M2 X2.5+ E4.1-	get	VBP
+bored	JJ	X5.2- O4.1@	bored	VBN
+,	,	""	,	,
+they	PPHS2	Z8mfn	they	PRP
+can	VM	A7+	can	MD
+pack	VVI	A1.1.1 N5+ A1.8+ B3	pack	VB
+their	APPGE	Z8	their	PRP$
+stuff	NN1	O1 O2	stuff	NN
+and	CC	Z5	and	CC
+move	VVI	M2 M1 A2.1+ E1 H4/A2.1	move	VB
+to	II	Z5	to	TO
+another	DD1	A6.1- N5++	another	DT
+cool	JJ	O4.6- S1.2.1- O4.2+ E6+	cool	JJ
+location	NN1	M7	location	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z4[i39.2.1 Z8mf	I	PRP
+see	VV0	Z4[i39.2.2 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VBP
+the	AT	Z5	the	DT
+same	DA	A6.1+++	same	JJ
+people	NN	S2mfc	people	NNS
+in	II	Z5	in	IN
+airports	NN2	M5/M7	airports	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+They	PPHS2	Z8mfn	They	PRP
+look	VV0	A1.1.1/A8[i40.2.1 A8 X3.4 X2.4 X7+ Z4	look	VBP
+busy	JJ	A1.1.1/A8[i40.2.2 A1.1.1/N5+	busy	JJ
+and	CC	Z5	and	CC
+concentrated	VVD	X5.1+ I2.2% M6 N5+ O1.2 W3/I4	concentrated	VBD
+they	PPHS2	Z8mfn	they	PRP
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+not	XX	Z6	not	RB
+like	VVI	E2+	like	VB
+to	TO	Z5	to	TO
+fool	VVI	G2.2- E4.1+	fool	VB
+around	RP	M6	around	RB
+and	CC	Z5	and	CC
+waste	VVI	X9.2-/T1.3[i41.3.1 N5.2+ X9.2- N3.2-/A2.1	waste	VB
+their	APPGE	X9.2-/T1.3[i41.3.2 Z8	their	PRP$
+time	NNT1	X9.2-/T1.3[i41.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+These	DD2	Z5 Z8	These	DT
+guys	NN2	S2.2m O2	guys	NNS
+are	VBR	Z5 A3+	are	VBP
+clearly	RR	A7+ A11.2+ A12+	clearly	RB
+doing	VDG	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	doing	VBG
+some	DD	N5 Z5	some	DT
+important	JJ	A11.1+	important	JJ
+stuff	NN1	O1 O2	stuff	NN
+on	II	Z5	on	IN
+their	APPGE	Z8	their	PRP$
+laptops	NN2	Y2	laptops	NNS
+while	CS	Z5	while	IN
+being	VBG	A3+ Z5	being	VBG
+on	II	M6[i42.3.1 A1.1.1[i42.3.1 T1.1.3[i42.3.1 Z5	on	IN
+their	APPGE	M6[i42.3.2 A1.1.1[i42.3.2 T1.1.3[i42.3.2 Z8	their	PRP$
+way	NN1	M6[i42.3.3 A1.1.1[i42.3.3 T1.1.3[i42.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3	way	NN
+to	II	Z5	to	TO
+amazing	JJ	O4.2+ X2.6- A6.2-	amazing	JJ
+places	NN2	M7 H1 A1.2 P1	places	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+People	NN	S2mfc	People	NNS
+resting	VVG	E3+ M6 A3+ A2.2	resting	VBG
+on	II	Z5	on	IN
+rocks	NN2	O2 O1.1 K2 F1	rocks	NNS
+in	II	Z5	in	IN
+Central	JJ	Z2[i43.2.1 Z3c	Central	NNP
+Park	NN1	Z2[i43.2.2 M7/L3	Park	NNP
+,	,	""	,	,
+NYC	NP1	Z99	NYC	NNP
+People	NN	S2mfc	People	NNPS
+resting	VVG	E3+ M6 A3+ A2.2	resting	VBG
+on	II	Z5	on	IN
+rocks	NN2	O2 O1.1 K2 F1	rocks	NNS
+in	II	Z5	in	IN
+Central	JJ	Z2[i44.2.1 Z3c	Central	NNP
+Park	NN1	Z2[i44.2.2 M7/L3	Park	NNP
+,	,	""	,	,
+NYC	NP1	Z1mf[i45.2.1 Z3c[i45.2.1	NYC	NNP
+Price	NP1	Z1mf[i45.2.2 Z3c[i45.2.2	Price	NNP
+Behind	II	Z5	Behind	IN
+Looking	VVG	A6.1+[i46.2.1 A8 X3.4 X2.4 X7+ Z4	Looking	VBG
+Like	II	A6.1+[i46.2.2 Z5	Like	IN
+a	AT1	Z5	a	DT
+Cool	JJ	O4.6- S1.2.1- O4.2+ E6+	Cool	NNP
+Digital	JJ	Z3c	Digital	NNP
+Nomad	NN1	M1/S2mf	Nomad	NNP
+From	II	Z5	From	IN
+the	AT	Z5	the	DT
+outside	JJ	M6 S5-	outside	JJ
+,	,	""	,	,
+it	PPH1	Z8	it	PRP
+all	DB	N5.1+	all	DT
+looks	VVZ	O4.6-/A8[i47.2.1 A8 X3.4 X2.4 X7+ Z4	looks	VBZ
+cool	JJ	O4.6-/A8[i47.2.2 O4.6- S1.2.1- O4.2+ E6+	cool	JJ
+and	CC	Z5	and	CC
+fun	JJ	E4.1+	fun	NN
+and	CC	Z5	and	CC
+efficient	JJ	X9.1+/I3.2 N3.8+ A1.5.2+	efficient	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+However	RRQV	Z4	However	RB
+when	CS	Z5	when	WRB
+I	PPIS1	Z8mf	I	PRP
+tried	VVD	X8+ X2.4 Q2.2 G2.1 A12-	tried	VBD
+to	TO	Z5	to	TO
+do	VDI	A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5	do	VB
+it	PPH1	Z8	it	PRP
+myself	PPX1	Z8mf	myself	PRP
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+realised	VVD	X2.5+ X9.2+	realised	VBD
+that	DD1	Z8 Z5	that	IN
+being	VBG	A3+ Z5	being	VBG
+a	AT1	Z5	a	DT
+digital	JJ	Y2 N1	digital	JJ
+nomad	NN1	M1/S2mf	nomad	NN
+is	VBZ	A3+ Z5	is	VBZ
+:	:	""	:	:
+expensive	JJ	I1.3+	expensive	JJ
+;	;	""	;	:
+distracting	VVG	X5.1-	distracting	VBG
+;	;	""	;	:
+time-consuming	JJ	T1.3+	time-consuming	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+is	VBZ	A3+ Z5	is	VBZ
+expensive	JJ	I1.3+	expensive	JJ
+to	TO	Z5	to	TO
+travel	VVI	M1	travel	VB
+,	,	""	,	,
+to	TO	Z5	to	TO
+live	VVI	H4 L1+ A3	live	VB
+in	II	Z5	in	IN
+different	JJ	A6.1-	different	JJ
+places	NN2	M7 H1 A1.2 P1	places	NNS
+,	,	""	,	,
+and	CC	Z5	and	CC
+to	TO	Z5	to	TO
+eat	VVI	F1/B1 A1.5.1/N5+	eat	VB
+in	II	Z5	in	IN
+cafes	NN2	F1/H1	cafes	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Digital	JJ	Y2 N1	Digital	NNP
+nomads	NN2	M1/S2mf	nomads	NNS
+depend	VV0	A2.2 S7.1-	depend	VBP
+on	II	Z5	on	IN
+a	AT1	Z5	a	DT
+good	JJ	A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+	good	JJ
+internet	NN1	Y2	internet	NN
+connection	NN1	A2.2 S5+ M3 O3 A1.1.1	connection	NN
+so	CS@	Z5	so	IN
+they	PPHS2	Z8mfn	they	PRP
+can	VM	A7+	can	MD
+not	XX	Z6	not	RB
+stay	VVI	M8 T2++ H4	stay	VB
+in	II	Z5	in	IN
+places	NN2	M7 H1 A1.2 P1	places	NNS
+where	RRQ	M6	where	WRB
+there	EX	Z5	there	EX
+is	VBZ	A3+ Z5	is	VBZ
+no	AT	Z6	no	DT
+fast	JJ	N3.8+	fast	JJ
+internet	NN1	Y2	internet	NN
+available	JJ	A3+ A9+ A1.2+/G1.2 S4	available	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+This	DD1	Z8 M6 Z5	This	DT
+forces	VVZ	S7.1+ A1.1.1 E3-	forces	VBZ
+them	PPHO2	Z8mfn	them	PRP
+to	TO	Z5	to	TO
+live	VVI	H4 L1+ A3	live	VB
+in	II	Z5	in	IN
+big	JJ	N3.2+ N5+ A11.1+ S1.2.5+ X5.2+	big	JJ
+cities	NN2	M7	cities	NNS
+that	CST	Z8 Z5	that	WDT
+are	VBR	A3+ Z5	are	VBP
+not	XX	Z6	not	RB
+cheap	JJ	I1.3- O4.2-	cheap	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+When	CS	Z5	When	WRB
+I	PPIS1	Z8mf	I	PRP
+went	VVD	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	went	VBD
+to	II	Z5	to	TO
+NYC	NP1	Z99	NYC	NNP
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+stayed	VVD	M8 T2++ H4	stayed	VBD
+at	II	Z5	at	IN
+a	AT1	Z5	a	DT
+pretty	RG	A13.5	pretty	RB
+cheap	JJ	I1.3- O4.2-	cheap	JJ
+airbnb	NN1	Z99	airbnb	NN
+place	NN1	M7 H1 A1.2 P1	place	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+was	VBDZ	A3+ Z5	was	VBD
+a	AT1	Z5	a	DT
+shared	JJ	S1.1.2+	shared	JJ
+room	NN1	H2 N3.6	room	NN
+in	II	Z5	in	IN
+Brooklyn	NP1	A4.1 T1.2 M7c G1.1c	Brooklyn	NNP
+for	IF	Z5	for	IN
+only	RR	A14	only	RB
+slightly	RR	A13.6	slightly	RB
+more	DAR	N5++	more	JJR
+than	CSN	Z5	than	IN
+$65	NNU	N1 T3 T1.2 Z5 S4mf S5+c K2 L2 O2 N5- N3.2- T3- N3.7- N3.3- T1.3- A11.1- A13.7 B1 N5 S2mf C1 O4.4 X2.1 X2.5+	$65	CD
+a	AT1	Z5	a	DT
+night	NNT1	T1.3	night	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+For	IF	Z5	For	IN
+three	MC	N1 T1.2 T3	three	CD
+nights	NNT2	T1.3	nights	NNS
+I	PPIS1	Z8mf	I	PRP
+paid	VVD	I1.2 A9- I1.1/I3.1	paid	VBD
+$195	NNU	Z99	$195	CD
+(	(	""	(	CD
+$271CAD	NNU	Z99	$271CAD	NN
+)	)	""	)	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+This	DD1	Z8 M6 Z5	This	DT
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+quarter	NN1	N1 N5 T1.3	quarter	NN
+of	IO	Z5	of	IN
+what	DDQ	Z8 Z5	what	WP
+I	PPIS1	Z8mf	I	PRP
+pay	VV0	I1.2 A9- I1.1/I3.1	pay	VBP
+here	RL	M6 T1.1.2 T1.2	here	RB
+,	,	""	,	,
+in	II	Z5	in	IN
+Montreal	NP1	Z2	Montreal	NNP
+,	,	""	,	,
+for	IF	Z5	for	IN
+a	AT1	Z5	a	DT
+mortgage	NN1	I1.2/H1	mortgage	NN
+of	IO	Z5	of	IN
+a	AT1	Z5	a	DT
+nice	JJ	O4.2+ S1.2.1+	nice	JJ
+2	MC	N1 T1.2 T3 T1.3 N3.2	2	CD
+bedroom	NN1	H2	bedroom	NN
+apartment	NN1	H1/H4	apartment	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+money	NN1	I1	money	NN
+I	PPIS1	Z8mf	I	PRP
+paid	VVD	I1.2 A9- I1.1/I3.1	paid	VBD
+for	IF	Z5	for	IN
+3	MC	N1 T1.2 T3 T1.3 N3.2	3	CD
+nights	NNT2	T1.3	nights	NNS
+in	II	Z5	in	IN
+New	NP1	Z2[i49.2.1 Z1mf[i48.2.1 Z3c[i48.2.1	New	NNP
+York	NP1	Z2[i49.2.2 Z2 Z1mf Z1mf[i48.2.2 Z3c[i48.2.2	York	NNP
+would	VM	A7+	would	MD
+cover	VVI	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1	cover	VB
+7.5	MC	N1 T1.2 T3 T1.3 N3.2	7.5	CD
+days	NNT2	T1.3	days	NNS
+of	IO	Z5	of	IN
+living	VVG	H4 L1+	living	VBG
+in	II	Z5	in	IN
+my	APPGE	Z8[i50.2.1 Z8	my	PRP$
+own	DA	Z8[i50.2.2 A9+ S5-	own	JJ
+apartment	NN1	H1/H4	apartment	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+So	RR	Z5 A13.3	So	RB
+,	,	""	,	,
+this	DD1	M6 Z5 Z8	this	DT
+stay	NN1@	M8 T4- H4	stay	NN
+was	VBDZ	A3+ Z5	was	VBD
+more	DAR	N5++	more	JJR
+than	CSN	Z5	than	IN
+twice	RR	N6	twice	RB
+as	RG	A13	as	IN
+expensive	JJ	I1.3+	expensive	JJ
+as	CSA	Z5	as	IN
+owning	VVG	A9+	owning	VBG
+a	AT1	Z5	a	DT
+much	RR	A13.3 N6+	much	RB
+bigger	JJR	N3.2++ N5++ A11.1++ S1.2.5++ X5.2++	bigger	JJR
+place	NN1	M7 H1 A1.2 P1	place	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+Couch	NN1	H5	Couch	NN
+surfing	NN1@	M4	surfing	NN
+can	VM	A7+	can	MD
+be	VBI	A3+ Z5	be	VB
+a	AT1	Z5	a	DT
+solution	NN1	X4.2 O1.2	solution	NN
+to	II	Z5	to	TO
+this	DD1	M6 Z5 Z8	this	DT
+problem	NN1	A12- X4.1 B2-	problem	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+But	CCB	Z5	But	CC
+it	PPH1	Z8	it	PRP
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+sacrifice	NN1	S9 A9-	sacrifice	NN
+in	II31	Z5[i51.3.1 Z5	in	IN
+terms	II32	Z5[i51.3.2	terms	NNS
+of	II33	Z5[i51.3.3	of	IN
+both	DB2	N5	both	DT
+physical	JJ	B1 A1.6 E3- Y1	physical	JJ
+and	CC	Z5	and	CC
+psychological	JJ	X1	psychological	JJ
+comfort	NN1	O4.2+ E6+	comfort	NN
+;	;	""	;	:
+thus	RR	Z5/A2.2	thus	RB
+,	,	""	,	,
+it	PPH1	Z8	it	PRP
+is	VBZ	A3+ Z5	is	VBZ
+not	XX	Z6	not	RB
+suitable	JJ	A1.2+	suitable	JJ
+for	IF	Z5	for	IN
+me	PPIO1	Z8mf	me	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Eating	VVG	F1[i52.2.1 F1/B1 A1.5.1/N5+	Eating	NNP
+out	RP	F1[i52.2.2 M6	out	IN
+all	DB	T2++[i53.3.1 N6+[i53.3.1 N5.1+	all	PDT
+the	AT	T2++[i53.3.2 N6+[i53.3.2 Z5	the	DT
+time	NNT1	T2++[i53.3.3 N6+[i53.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+is	VBZ	A3+ Z5	is	VBZ
+also	RR	N5++	also	RB
+very	RG	A13.3	very	RB
+expensive	JJ	I1.3+	expensive	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+Of	RR21	Z4[i54.2.1	Of	IN
+course	RR22	Z4[i54.2.2 Z4	course	NN
+,	,	""	,	,
+it	PPH1	Z8	it	PRP
+is	VBZ	A3+ Z5	is	VBZ
+possible	JJ	A7+	possible	JJ
+to	TO	Z5	to	TO
+not	XX	Z6	not	RB
+work	VVI	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	work	VB
+from	II	Z5	from	IN
+cafes	NN2	F1/H1	cafes	NNS
+but	CCB	Z5	but	CC
+rather	RR@	Z4 E2++	rather	RB
+stay	VV0	M8 T2++ H4	stay	VB
+at	II	Z5	at	IN
+the	AT	Z5	the	DT
+place	NN1	M7 H1 A1.2 P1	place	NN
+where	RRQ	M6	where	WRB
+you	PPY	Z8mf	you	PRP
+live	VV0	H4 L1+ A3	live	VBP
+and	CC	Z5	and	CC
+work	VV0	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	work	VBP
+from	II	Z5	from	IN
+there	RL	M6 T1.2	there	EX
+.	.	""	.	.
+-----	-----	""	-----	CD
+But	CCB	Z5	But	CC
+then	RT	N4 Z5 T1.2	then	RB
+whats	NN2	Z8 Z5	whats	VBZ
+the	AT	Z5	the	DT
+point	NN1	Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5	point	NN
+?	?	""	?	.
+-----	-----	""	-----	CD
+Why	RRQ	A2.2	Why	WRB
+should	VM	S6+ A7+	should	MD
+I	PPIS1	Z8mf	I	PRP
+come	VVI	A4.1[i55.2.1 M1[i55.2.1 B1[i55.2.1 N5[i55.2.1 X6+[i55.2.1 X2.1[i55.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2	come	VB
+to	II	A4.1[i55.2.2 M1[i55.2.2 B1[i55.2.2 N5[i55.2.2 X6+[i55.2.2 X2.1[i55.2.2 Z5	to	TO
+a	AT1	Z5	a	DT
+new	JJ	T3-	new	JJ
+place	NN1	M7 H1 A1.2 P1	place	NN
+only	RR	A14	only	RB
+to	TO	Z5	to	TO
+stay	VVI	M8 T2++ H4	stay	VB
+inside	RL	M6 G2.1@	inside	IN
+locked	VVN	A1.7+[i56.2.1 F2%[i56.2.1 A1.7+	locked	VBN
+in	II	A1.7+[i56.2.2 F2%[i56.2.2 Z5	in	IN
+four	MC	N1 T3 T1.2	four	CD
+walls	NN2	H2 O2 N5+ S8-	walls	NNS
+?	?	""	?	.
+-----	-----	""	-----	CD
+This	DD1	Z8 M6 Z5	This	DT
+is	VBZ	A3+ Z5	is	VBZ
+at	RR21	A13.7[i57.2.1	at	IN
+least	RR22	A13.7[i57.2.2 A13.7	least	JJS
+how	RRQ	Z5 A13.3	how	WRB
+I	PPIS1	Z8mf	I	PRP
+understand	VV0	X2.5+	understand	VBP
+it	PPH1	Z8	it	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+fishermen	NN2	F4/M4/S2.2m K5.1/M4/S2.2m	fishermen	NNS
+in	II	Z5	in	IN
+Central	JJ	Z1mf[i60.3.1 Z3c[i60.3.1 Z3c Z2[i58.2.1 Z1mf[i59.2.1 Z3c[i59.2.1	Central	NNP
+Park	NP1	Z1mf[i60.3.2 Z3c[i60.3.2 Z1mf[i62.3.1 Z3c[i62.3.1 Z2[i58.2.2 Z1mf[i59.2.2 Z3c[i59.2.2 Z1mf[i61.2.1 Z3c[i61.2.1	Park	NNP
+NYC	NP1	Z3c[i60.3.3 Z1mf[i60.3.3 Z1mf[i62.3.2 Z3c[i62.3.2 Z1mf[i61.2.2 Z3c[i61.2.2 Z1mf[i63.2.1 Z3c[i63.2.1	NYC	NNP
+Digital	JJ	Z3c[i62.3.3 Z1mf[i62.3.3 Z3c Z1mf[i63.2.2 Z3c[i63.2.2	Digital	NNP
+nomads	NN2	M1/S2mf	nomads	NNS
+trying	VVG	X8+ X2.4 Q2.2 G2.1 A12-	trying	VBG
+to	TO	Z5	to	TO
+save	VVI	I1.1 B3 A9+ S8+ A1.9 K5.1 S9	save	VB
+some	DD	N5 Z5	some	DT
+money	NN1	I1	money	NN
+on	II	Z5	on	IN
+food	NN1	F1	food	NN
+?	?	""	?	.
+-----	-----	""	-----	CD
+Central	JJ	A11.1+ M6	Central	NNP
+Park	NN1	M7/L3	Park	NNP
+,	,	""	,	,
+NYC	NP1	Z2[i64.3.1 Z2[i65.3.1	NYC	NNP
+In	II	Z2[i64.3.2 Z5 Z2[i65.3.2	In	IN
+NYC	NP1	Z2[i64.3.3 Z2[i65.3.3	NYC	NNP
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+worked	VVD	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	worked	VBD
+from	II	Z5	from	IN
+cafes	NN2	F1/H1	cafes	NNS
+a	AT1	Z5	a	DT
+few	DA2	N6+[i66.2.1 N5-	few	JJ
+times	NNT2	N6+[i66.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1	times	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Each	DD1	N6+[i67.2.1 N5.1+	Each	DT
+time	NNT1	N6+[i67.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+I	PPIS1	Z8mf	I	PRP
+paid	VVD	I1.2 A9- I1.1/I3.1	paid	VBD
+about	RG	A13.4	about	RB
+$12-16	NNU	Z99	$12-16	CD
+for	IF	Z5	for	IN
+a	AT1	Z5	a	DT
+meal	NN1	F1	meal	NN
+walking	VVG	M1 L2 X9.2+/A12+	walking	VBG
+all	DB	T1.3+[i68.2.1 N5.1+	all	DT
+day	NNT1	T1.3+[i68.2.2 T1.3	day	NN
+made	VVD	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	made	VBD
+me	PPIO1	Z8mf	me	PRP
+super	JJ	A5.1+	super	JJ
+hungry	JJ	F1-/B1 S1.2.2+ A1.5.1/N5+	hungry	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+However	RR	Z4	However	RB
+for	IF	Z5	for	IN
+suppers	NN2	F1	suppers	NNS
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+went	VVD	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	went	VBD
+to	II	Z5	to	TO
+a	AT1	Z5	a	DT
+grocery	NN1	F1/I2.2c[i69.2.1 F1	grocery	NN
+store	NN1	F1/I2.2c[i69.2.2 I2.2/H1c A9+ A9+/H1	store	NN
+where	CS	M6	where	WRB
+I	PPIS1	Z8mf	I	PRP
+spent	VVD	I1.2 A1.5.1 T1.3	spent	VBD
+$25-30	NNU	Z99	$25-30	CD
+each	DD1	N6+[i70.2.1 N5.1+	each	DT
+time	NNT1	N6+[i70.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+This	DD1	Z8 M6 Z5	This	DT
+was	VBDZ	A3+ Z5	was	VBD
+enough	DD	N5+ N6+	enough	RB
+to	TO	Z5	to	TO
+feed	VVI	F1 A9- S8+ M2@	feed	VB
+both	RR	Z5	both	CC
+me	PPIO1	Z8mf	me	PRP
+and	CC	Z5	and	CC
+Sam	NP1	Z1mf	Sam	NNP
+for	IF	Z5	for	IN
+supper	NN1	F1	supper	NN
+and	CC	Z5	and	CC
+the	AT	Z5	the	DT
+next	MD	T1.1.3[i71.2.1 N4	next	JJ
+day	NNT1	T1.1.3[i71.2.2 T1.3	day	NN
+for	IF	Z5	for	IN
+breakfast	NN1	F1	breakfast	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+could	VM	A7+	could	MD
+not	XX	Z6	not	RB
+help	VVI	S8+	help	VB
+but	CCB	Z5	but	CC
+prove	VV0	A5.2+ X2.4	prove	VB
+a	AT1	Z5	a	DT
+well-known	JJ	X2.2+ A11.1+	well-known	JJ
+fact	NN1	A5.2+ X2.2	fact	NN
+that	CST	Z8 Z5	that	IN
+cooking	VVG	F1	cooking	NN
+your	APPGE	Z8[i72.2.1 Z8	your	PRP$
+own	DA	Z8[i72.2.2 A9+ S5-	own	JJ
+food	NN1	F1	food	NN
+is	VBZ	A3+ Z5	is	VBZ
+much	RR	A13.3 N6+	much	JJ
+cheaper	JJR	I1.3-- O4.2--	cheaper	JJR
+than	CSN	Z5	than	IN
+eating	VVG	F1[i73.2.1 F1/B1 A1.5.1/N5+	eating	VBG
+out	RP	F1[i73.2.2 M6	out	RP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Working	VVG	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	Working	VBG
+in	II	Z5	in	IN
+public	JJ	S5+ A10+	public	JJ
+places	NN2	M7 H1 A1.2 P1	places	NNS
+can	VM	A7+	can	MD
+be	VBI	Z5 A3+	be	VB
+distracting	VVG	X5.1-	distracting	VBG
+.	.	""	.	.
+-----	-----	""	-----	CD
+At	RR21	A13.7[i74.2.1	At	IN
+least	RR22	A13.7[i74.2.2 A13.7	least	JJS
+,	,	""	,	,
+it	PPH1	Z8	it	PRP
+is	VBZ	A3+ Z5	is	VBZ
+for	IF	Z5	for	IN
+me	PPIO1	Z8mf	me	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+last	MD	T1.1.1[i75.2.1 N4	last	JJ
+time	NNT1	T1.1.1[i75.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+I	PPIS1	Z8mf	I	PRP
+went	VVD	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	went	VBD
+to	II	Z5	to	TO
+a	AT1	Z5	a	DT
+cafe	NN1	F1/H1	cafe	NN
+in	II	Z5	in	IN
+NYC	NP1	Z99	NYC	NNP
+,	,	""	,	,
+two	MC	N1 T3 T1.2	two	CD
+cafe	NN1	F1/H1	cafe	NN
+neighbours	NN2	H3/S2mf N3.3-/S2mf M7/N3.3-	neighbours	NNS
+of	IO	Z5	of	IN
+mine	PPGE	Z8	mine	NN
+had	VHN@	A9+ Z5 A2.2 S4	had	VBD
+a	AT1	Z5	a	DT
+loud	JJ	X3.2+ O4.3	loud	JJ
+conversation	NN1	Q2.1	conversation	NN
+about	II	Z5	about	IN
+their	APPGE	Z8	their	PRP$
+purpose	NN1	X7+ A2.2 A1.5.1	purpose	NN
+in	II	Z5	in	IN
+life	NN1	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	life	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+was	VBDZ	A3+ Z5	was	VBD
+so	RG	A13.3	so	RB
+hard	JJ	O4.5 A12- S1.2.5+ O4.1	hard	JJ
+for	IF	Z5	for	IN
+me	PPIO1	Z8mf	me	PRP
+to	TO	Z5	to	TO
+concentrate	VVI	X5.1+ I2.2% M6 N5+ O1.2 W3/I4	concentrate	VB
+!	!	""	!	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+did	VDD	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	did	VBD
+not	XX	Z6	not	RB
+think	VVI	X2.1	think	VB
+of	IO	Z5	of	IN
+bringing	VVG	M2 A2.2	bringing	VBG
+headphones	NN2	K3	headphones	NNS
+and	CC	Z5	and	CC
+regretted	VVD	E4.1-	regretted	VBD
+it	PPH1	Z8	it	PRP
+a	RR21@	A13.3[i76.2.1 N6+[i76.2.1	a	DT
+lot	RR22	A13.3[i76.2.2 N6+[i76.2.2	lot	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+At	II	T1.1.2[i77.4.1 Z5	At	IN
+the	AT	T1.1.2[i77.4.2 Z5	the	DT
+same	DA	T1.1.2[i77.4.3 A6.1+++	same	JJ
+time	NNT1	T1.1.2[i77.4.4 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+can	VM	A7+	can	MD
+not	XX	Z6	not	RB
+listen	VVI	X3.2	listen	VB
+to	II	Z5	to	TO
+music	NN1	K2	music	NN
+for	IF	Z5	for	IN
+too	RG	N5.2+ A13.3	too	RB
+long	RR	T1.3+	long	JJ
+my	APPGE	Z8	my	PRP$
+ears	NN2	B1	ears	NNS
+get	VV0	A2.1+ A9+ Z5 X9.2+ A2.2 M1 M2 X2.5+ E4.1-	get	VBP
+tired	JJ	B1 B2- X5.2- O4.2-	tired	JJ
+eventually	RR	N4	eventually	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+However	RR	Z4	However	RB
+,	,	""	,	,
+it	PPH1	Z8	it	PRP
+seems	VVZ	A8	seems	VBZ
+that	CST	Z8 Z5	that	IN
+having	VHG	A9+ Z5 A2.2 S4	having	VBG
+headphones	NN2	K3	headphones	NNS
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+must	NN1	S6+ A7+	must	MD
+for	IF	Z5	for	IN
+me	PPIO1	Z8mf	me	PRP
+if	CS	Z7	if	IN
+I	PPIS1	Z8mf	I	PRP
+want	VV0	X7+ S6+ A7+ S3.2 A9-	want	VBP
+to	TO	Z5	to	TO
+work	VVI	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	work	VB
+in	II	Z5	in	IN
+public	JJ	S5+ A10+	public	JJ
+places	NN2	M7 H1 A1.2 P1	places	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Otherwise	RR	A6.1-	Otherwise	RB
+,	,	""	,	,
+no	AT	Z6	no	DT
+work	NN1	I3.1 A1.1.1 Q4 K2 C1	work	NN
+can	VM	A7+	can	MD
+be	VBI	Z5 A3+	be	VB
+done	VDN	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	done	VBN
+.	.	""	.	.
+-----	-----	""	-----	CD
+guy	NN1	S2.2m O2	guy	NN
+chilling	JJ	E5-	chilling	VBG
+on	II	Z5	on	IN
+bench	NN1	H5 G2.1c	bench	NN
+in	II	Z5	in	IN
+Central	JJ	Z2[i78.2.1 Z3c	Central	NNP
+Park	NN1	Z2[i78.2.2 M7/L3	Park	NNP
+NYC	NN1	Z99	NYC	NNP
+This	DD1	M6 Z5 Z8	This	DT
+public	JJ	S5+ A10+	public	JJ
+place	NN1	M7 H1 A1.2 P1	place	NN
+does	VDZ	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	does	VBZ
+not	XX	Z6	not	RB
+seem	VVI	A8	seem	VB
+to	TO	Z5	to	TO
+be	VBI	Z5 A3+	be	VB
+distracting	VVG	X5.1-	distracting	VBG
+!	!	""	!	.
+-----	-----	""	-----	CD
+Too	RG	Z4[i79.2.1 N5.2+ A13.3	Too	RB
+bad	JJ	Z4[i79.2.2 A5.1- G2.2- O4.2- B2-	bad	JJ
+it	PPH1	Z8	it	PRP
+does	VDZ	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	does	VBZ
+not	XX	Z6	not	RB
+have	VHI	A9+ Z5 A2.2 S4	have	VB
+a	AT1	Z5	a	DT
+wifi	NN2	Q4.3 Q1.3 M7 H3/S2mf F2/H1c A4.1 N3.6 S5+c Y2 S1.1.1 S6+/S1.2 S6+/S4 A5.3+ Z3c	wifi	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Central	JJ	A11.1+ M6	Central	NNP
+Park	NN1	M7/L3	Park	NNP
+NYC	NN1	Z99	NYC	NNP
+And	CC	Z5	And	CC
+of	RR21	Z4[i80.2.1	of	IN
+course	RR22	Z4[i80.2.2 Z4	course	NN
+,	,	""	,	,
+you	PPY	Z8mf	you	PRP
+can	VM	A7+	can	MD
+argue	VVI	Q2.2	argue	VB
+with	IW	Z5	with	IN
+me	PPIO1	Z8mf	me	PRP
+saying	VVG	Q2.1 Z4%	saying	VBG
+that	CST	Z5 Z8	that	IN
+all	DB	N5.1+	all	PDT
+these	DD2	Z5 Z8	these	DT
+problems	NN2	A12- X4.1 B2-	problems	NNS
+can	VM	A7+	can	MD
+be	VBI	Z5 A3+	be	VB
+solved	VVN	X9.2+	solved	VBN
+!	!	""	!	.
+-----	-----	""	-----	CD
+Making	VVG	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	Making	VBG
+a	AT1	Z5	a	DT
+proper	JJ	A5.4+ A1.2+ A5.3+ S1.2.4+	proper	JJ
+planning	NN1	X7+	planning	NN
+ahead	II21	N4[i81.2.1 N4[i82.2.1 A5.1++[i82.2.1	ahead	RB
+of	II22	N4[i81.2.2 N4[i82.2.2 A5.1++[i82.2.2	of	IN
+the	AT	Z5	the	DT
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+and	CC	Z5	and	CC
+being	VBG	A3+ Z5	being	VBG
+enough	RR	N5+ N6+	enough	JJ
+flexible	JJ	O4.5 A2.1+	flexible	JJ
+to	TO	Z5	to	TO
+get	VVI	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	get	VB
+more	DAR	N5++	more	JJR
+value	NN1	A11.1+ I1.3 G2.2 A4.1 N1	value	NN
+for	IF	Z5	for	IN
+less	DAR	N5--	less	JJR
+money	NN1	I1	money	NN
+can	VM	A7+	can	MD
+reduce	VVI	N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1	reduce	VB
+costs	NN2	I1.3	costs	NNS
+and	CC	Z5	and	CC
+downsides	NN2	S8-	downsides	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Couch	NN1	H5	Couch	NN
+surfing	VVG	M4	surfing	NN
+and	CC	Z5	and	CC
+house	NN1	H1/S8+[i83.2.1 H1 P1/S5+c G1.1c	house	NN
+sitting	VVG	H1/S8+[i83.2.2 M8 C1 P1 G1.1 G2.1 M6 A9+	sitting	VBG
+are	VBR	A3+ Z5	are	VBP
+solutions	NN2	X4.2 O1.2	solutions	NNS
+to	II	Z5	to	TO
+living	JJ	H4 L1+	living	NN
+expenses	NN2	I1.3	expenses	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Working	VVG	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	Working	VBG
+from	II	Z5	from	IN
+a	AT1	Z5	a	DT
+library	NN1	Q4.1/H1c	library	NN
+with	IW	Z5	with	IN
+a	AT1	Z5	a	DT
+WiFi	NN1	Q4.3 Q1.3 M7 H3/S2mf F2/H1c A4.1 N3.6 S5+c Y2 S1.1.1 S6+/S1.2 S6+/S4 A5.3+ Z3c	WiFi	NNP
+(	(	""	(	CD
+or	CC	Z5	or	CC
+working	VVG	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	working	VBG
+from	II	Z5	from	IN
+your	APPGE	Z8	your	PRP$
+place	NN1	M7 H1 A1.2 P1	place	NN
+)	)	""	)	NN
+and	CC	Z5	and	CC
+bringing	VVG	M2 A2.2	bringing	VBG
+your	APPGE	Z8[i84.2.1 Z8	your	PRP$
+own	DA	Z8[i84.2.2 A9+ S5-	own	JJ
+meals	NN2	F1	meals	NNS
+with	IW	Z5	with	IN
+you	PPY	Z8mf	you	PRP
+are	VBR	A3+ Z5	are	VBP
+solutions	NN2	X4.2 O1.2	solutions	NNS
+to	II	Z5	to	TO
+eating	VVG	F1/B1 A1.5.1/N5+	eating	NN
+expenses	NN2	I1.3	expenses	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+And	CC	Z5	And	CC
+all	DB	N5.1+	all	PDT
+this	DD1	Z8 M6 Z5	this	DT
+brings	VVZ	M2 A2.2	brings	VBZ
+us	PPIO2	Z8	us	PRP
+to	II	Z5	to	TO
+the	AT	Z5	the	DT
+last	MD	N4	last	JJ
+disadvantage	NN1	A5.1-	disadvantage	NN
+of	IO	Z5	of	IN
+being	VBG	A3+ Z5	being	VBG
+a	AT1	Z5	a	DT
+digital	JJ	Y2 N1	digital	JJ
+nomad	NN1	M1/S2mf	nomad	NN
+:	:	""	:	:
+It	PPH1	Z8	It	PRP
+is	VBZ	A3+ Z5	is	VBZ
+time-consuming	JJ	T1.3+	time-consuming	JJ
+!	!	""	!	.
+-----	-----	""	-----	CD
+Planning	NN1	X7+	Planning	NNP
+,	,	""	,	,
+moving	VVG	M2 M1 A2.1+ E1 H4/A2.1	moving	VBG
+from	II	Z5	from	IN
+place	NN1	M6[i85.3.1 M7 H1 A1.2 P1	place	NN
+to	II	M6[i85.3.2 Z5	to	TO
+place	NN1	M6[i85.3.3 M7 H1 A1.2 P1	place	NN
+,	,	""	,	,
+finding	VVG	A10+ X2.1 X6+	finding	VBG
+your	APPGE	Z8	your	PRP$
+way	NN1	X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3	way	NN
+at	II	Z5	at	IN
+each	DD1	N5.1+	each	DT
+new	JJ	T3-	new	JJ
+destination	NN1	M6	destination	NN
+,	,	""	,	,
+trying	VVG	X8+ X2.4 Q2.2 G2.1 A12-	trying	VBG
+to	TO	Z5	to	TO
+optimize	VVI	A5.1+++/A2.1 Y2	optimize	VB
+spendings	NN2	I1.2 A1.5.1 T1.3	spendings	NNS
+it	PPH1	Z8	it	PRP
+eats	VVZ	F1/B1 A1.5.1/N5+	eats	VBZ
+up	RP	Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1	up	RP
+a	AT1	N5+[i86.2.1 N6+[i86.2.1 A13.3[i86.2.1 Z5	a	DT
+lot	NN1	N5+[i86.2.2 N6+[i86.2.2 A13.3[i86.2.2	lot	NN
+of	IO	Z5	of	IN
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+and	CC	Z5	and	CC
+energy	NN1	X5.2+ Y1	energy	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+In	II	Z5	In	IN
+NYC	NP1	Z99	NYC	NNP
+,	,	""	,	,
+the	AT	Z5	the	DT
+planning	NN1	X7+	planning	NN
+was	VBDZ	A3+ Z5	was	VBD
+a	AT1	Z5	a	DT
+necessary	JJ	S6+ A11.1+	necessary	JJ
+part	NN1	N5.1- O2 M7 I3.1 S1.1.3+ K4	part	NN
+of	IO	Z5	of	IN
+my	APPGE	Z8	my	PRP$
+daily	JJ	T1.1.2 N6+	daily	JJ
+activities	NN2	A1.1.1	activities	NNS
+despite	II	Z5	despite	IN
+my	APPGE	Z8	my	PRP$
+desire	NN1	X7+ S3.2	desire	NN
+to	TO	Z5	to	TO
+unwind	VVI	B1 A1.1.1	unwind	VB
+and	CC	Z5	and	CC
+just	RR	A14 T3--- T1.3- N3.3---	just	RB
+go	VVI	A6.1+/A1.1.1[i87.4.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% A6.1+[i88.2.1	go	VB
+with	IW	A6.1+/A1.1.1[i87.4.2 Z5 A6.1+[i88.2.2	with	IN
+the	AT	A6.1+/A1.1.1[i87.4.3 Z5	the	DT
+flow	NN1	A6.1+/A1.1.1[i87.4.4 M4 M1 N5	flow	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+When	CS	Z5	When	WRB
+I	PPIS1	Z8mf	I	PRP
+arrive	VV0	M1 T2-	arrive	VBP
+at	II	Z5	at	IN
+a	AT1	Z5	a	DT
+new	JJ	T3-	new	JJ
+place	NN1	M7 H1 A1.2 P1	place	NN
+I	PPIS1	Z8mf	I	PRP
+get	VV0	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	get	VBP
+a	RR21	A13.6[i89.2.1 A13.7[i89.2.1	a	DT
+bit	RR22	A13.6[i89.2.2 A13.7[i89.2.2	bit	NN
+overwhelmed	VVN	X9.2+/S7.3 X9.2+/G3 S7.1+ E1	overwhelmed	JJ
+,	,	""	,	,
+and	CC	Z5	and	CC
+it	PPH1	Z8	it	PRP
+is	VBZ	A3+ Z5	is	VBZ
+hard	JJ	O4.5 A12- S1.2.5+ O4.1	hard	JJ
+for	IF	Z5	for	IN
+me	PPIO1	Z8mf	me	PRP
+to	TO	Z5	to	TO
+decide	VVI	X6+	decide	VB
+where	RRQ	M6	where	WRB
+to	TO	Z5	to	TO
+go	VVI	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	go	VB
+and	CC	Z5	and	CC
+what	DDQ	Z8 Z5	what	WP
+to	TO	Z5	to	TO
+see	VVI	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VB
+I	PPIS1	Z8mf	I	PRP
+want	VV0	X7+ S6+ A7+ S3.2 A9-	want	VBP
+to	TO	Z5	to	TO
+go	VVI	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	go	VB
+and	CC	Z5	and	CC
+see	VVI	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VB
+everything	PN1	Z8/N5.1+	everything	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+But	CCB	Z5	But	CC
+if	CS	Z7	if	IN
+I	PPIS1	Z8mf	I	PRP
+want	VV0	X7+ S6+ A7+ S3.2 A9-	want	VBP
+to	TO	Z5	to	TO
+both	RR	Z5	both	DT
+do	VDI	A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5	do	VBP
+the	AT	Z5	the	DT
+work	NN1	I3.1 A1.1.1 Q4 K2 C1	work	NN
+and	CC	Z5	and	CC
+see	VV0	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VB
+the	AT	Z5	the	DT
+city	NN1	M7c M7/I2.1c	city	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+have	VH0	S6+[i90.2.1 A9+ Z5 A2.2 S4	have	VBP
+to	TO	S6+[i90.2.2 Z5	to	TO
+prepare	VVI	A1.1.1 F1	prepare	VB
+a	AT1	Z5	a	DT
+daily	JJ	T1.1.2 N6+	daily	JJ
+route	NN1	M6 X4.2	route	NN
+,	,	""	,	,
+allocate	VV0	A9-	allocate	VB
+a	AT1	N5[i91.3.1 Z5	a	DT
+certain	JJ	N5[i91.3.2 A4.2+ A7+	certain	JJ
+amount	NN1	N5[i91.3.3 N5	amount	NN
+of	IO	Z5	of	IN
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+for	IF	Z5	for	IN
+each	DD1	N5.1+	each	DT
+activity	NN1	A1.1.1	activity	NN
+,	,	""	,	,
+and	CC	Z5	and	CC
+then	RT	N4 Z5 T1.2	then	RB
+to	TO	Z5	to	TO
+stay	VVI	M8 T2++ H4	stay	VB
+on	II	Z5	on	IN
+the	AT	Z5	the	DT
+schedule	NN1	X7+ Q1.2/T1/M3 Q1.2/T1/M4 Q1.2/T1/M5 P1	schedule	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+sure	JJ	A7+ Z4	sure	JJ
+that	CST	Z8 Z5	that	WDT
+are	VBR	A3+ Z5	are	VBP
+people	NN	S2mfc	people	NNS
+who	PNQS	Z8	who	WP
+love	VV0	E2+	love	VBP
+planning	NN1	X7+	planning	NN
+and	CC	Z5	and	CC
+enjoy	VV0	E2+ A9+ E4.1+	enjoy	VB
+having	VHG	A9+ Z5 A2.2 S4	having	VBG
+a	AT1	Z5	a	DT
+daily	JJ	T1.1.2 N6+	daily	JJ
+agenda	NN1	Q1.2/X7+	agenda	NN
+while	CS	Z5	while	IN
+visiting	VVG	S1.1.1 M1	visiting	VBG
+new	JJ	T3-	new	JJ
+places	NN2	M7 H1 A1.2 P1	places	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+not	XX	Z6	not	RB
+such	DA	A13.3[i92.2.1 Z5 Z8	such	JJ
+a	AT1	A13.3[i92.2.2 Z5	a	DT
+person	NN1	S2mfc	person	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+enough	DD	N5+ N6+	enough	RB
+planning	NN1	X7+	planning	VBG
+and	CC	Z5	and	CC
+strict	JJ	S1.2.5+ A1.7+	strict	JJ
+schedule	NN1	X7+ Q1.2/T1/M3 Q1.2/T1/M4 Q1.2/T1/M5 P1	schedule	NN
+in	II	Z5	in	IN
+my	APPGE	Z8	my	PRP$
+regular	JJ	A6.2+ N6+ O4.1 I3.1 T2++ A13.3	regular	JJ
+life	NN1	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	life	NN
+and	CC	Z5	and	CC
+when	CS	Z5	when	WRB
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+not	XX	Z6	not	RB
+at	II	Z5	at	IN
+work	NN1	I3.1 A1.1.1 Q4 K2 C1	work	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+like	VV0	E2+	like	VBP
+to	TO	Z5	to	TO
+relax	VVI	E3+ K1 A1.7-	relax	VB
+and	CC	Z5	and	CC
+to	II	Z5	to	TO
+not	XX	Z6	not	RB
+think	VVI	X2.1	think	VB
+too	RG	N5.2+[i93.2.1 N5.2+ A13.3	too	RB
+much	DA1	N5.2+[i93.2.2 N5+ I1.3+	much	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+Not	XX	Z6	Not	RB
+possible	JJ	A7+	possible	JJ
+if	CS	Z7	if	IN
+you	PPY	Z8mf	you	PRP
+are	VBR	A3+ Z5	are	VBP
+a	AT1	Z5	a	DT
+digital	JJ	Y2 N1	digital	JJ
+nomad	NN1	M1/S2mf	nomad	NN
+!	!	""	!	.
+view	VV0@	X2.1 X3.4 X2.4	view	VB
+on	II	Z5	on	IN
+Manhattan	NP1	Z2 F2	Manhattan	NNP
+from	II	Z5	from	IN
+Central	JJ	Z1mf[i96.3.1 Z3c[i96.3.1 Z3c Z2[i94.2.1 Z1mf[i95.2.1 Z3c[i95.2.1	Central	NNP
+Park	NP1	Z1mf[i96.3.2 Z3c[i96.3.2 Z1mf[i98.3.1 Z3c[i98.3.1 Z2[i94.2.2 Z1mf[i95.2.2 Z3c[i95.2.2 Z1mf[i97.2.1 Z3c[i97.2.1	Park	NNP
+NYC	NP1	Z3c[i96.3.3 Z1mf[i96.3.3 Z1mf[i98.3.2 Z3c[i98.3.2 Z1mf[i97.2.2 Z3c[i97.2.2 Z1mf[i99.2.1 Z3c[i99.2.1	NYC	NNP
+Central	JJ	Z3c[i98.3.3 Z1mf[i98.3.3 Z3c Z1mf[i99.2.2 Z3c[i99.2.2 Z2[i100.2.1	Central	NNP
+Park	NN1	M7/L3 Z2[i100.2.2	Park	NNP
+,	,	""	,	,
+NYC	NP1	Z99	NYC	NNP
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+perfect	JJ	A5.1+++ A1.2+++ Q3	perfect	JJ
+place	NN1	M7 H1 A1.2 P1	place	NN
+to	TO	Z5	to	TO
+relax	VVI	E3+ K1 A1.7-	relax	VB
+and	CC	Z5	and	CC
+unwind	VVI	B1 A1.1.1	unwind	VB
+Conclusion	NN1	X6+ T2-	Conclusion	NNP
+Generally	RR	A6.2+ A4.2- A13.2	Generally	RB
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+a	AT1	Z5	a	DT
+homebody	NN1	T3+/S2 T3+/S2mf	homebody	NN
+who	PNQS	Z8	who	WP
+does	VDZ	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	does	VBZ
+not	XX	Z6	not	RB
+spend	VVI	I1.2 A1.5.1 T1.3	spend	VB
+too	RG	N5.2+[i101.2.1 N5.2+ A13.3	too	RB
+much	DA1	N5.2+[i101.2.2 N5+ I1.3+	much	JJ
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+traveling	VVG	M1	traveling	VBG
+on	II	N6+[i103.4.1 Z5 A6.2+[i102.4.1	on	IN
+a	AT1	N6+[i103.4.2 Z5 A6.2+[i102.4.2	a	DT
+regular	JJ	N6+[i103.4.3 A6.2+ N6+ O4.1 I3.1 T2++ A13.3 A6.2+[i102.4.3	regular	JJ
+basis	NN1	N6+[i103.4.4 A2.2 T2+ X4.2 A6.2+[i102.4.4	basis	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+But	CCB	Z5	But	CC
+when	CS	Z5	when	WRB
+I	PPIS1	Z8mf	I	PRP
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+travel	VVI	M1	travel	VB
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+like	VV0	E2+	like	VBP
+to	TO	Z5	to	TO
+immerse	VVI	M2 X5.2+	immerse	VB
+myself	PPX1	Z8mf	myself	PRP
+into	II	Z5	into	IN
+new	JJ	T3-	new	JJ
+places	NN2	M7 H1 A1.2 P1	places	NNS
+and	CC	Z5	and	CC
+not	XX	Z6	not	RB
+to	TO	Z5	to	TO
+think	VVI	X2.1	think	VB
+about	II	Z5	about	IN
+anything	PN1	Z8	anything	NN
+else	RR	A6.1- Z4	else	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+There	EX	Z5	There	EX
+is	VBZ	A3+ Z5	is	VBZ
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+to	TO@	Z5	to	TO
+work	VVI	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	work	VB
+and	CC	Z5	and	CC
+there	EX	Z5	there	EX
+is	VBZ	A3+ Z5	is	VBZ
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+to	TO	Z5	to	TO
+play	VVI	K1 K5.1 K5.2 K2 K3 A1.1.1 K6	play	VB
+.	.	""	.	.
+-----	-----	""	-----	CD
+And	CC	Z5	And	CC
+it	PPH1	Z8	it	PRP
+seems	VVZ	A8	seems	VBZ
+I	PPIS1	Z8mf	I	PRP
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+not	XX	Z6	not	RB
+like	VVI	E2+	like	VB
+to	TO	Z5	to	TO
+mix	VVI	A2.1+ S1.1.3+ K3	mix	VB
+them	PPHO2	Z8mfn	them	PRP
+both	DB2	N5	both	DT
+.	.	""	.	.
+-----	-----	""	-----	CD
+And	CC	Z5	And	CC
+I	PPIS1	Z8mf	I	PRP
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+not	XX	Z6	not	RB
+like	VVI	E2+	like	VB
+traveling	VVG	M1	traveling	VBG
+enough	DD	N5+ N6+	enough	RB
+to	TO	Z5	to	TO
+stand	VVI	M6 M2 M8 M1 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+	stand	VB
+issues	NN2	X4.1 Q4.2 S4 A9-	issues	NNS
+popping	VVG	A8+[i104.2.1 M1[i104.2.1 M2[i104.2.1 X3.2 M1	popping	VBG
+up	RP	A8+[i104.2.2 M1[i104.2.2 M2[i104.2.2	up	RP
+when	CS	Z5	when	WRB
+I	PPIS1	Z8mf	I	PRP
+arrive	VV0	M1 T2-	arrive	VBP
+at	II	Z5	at	IN
+a	AT1	Z5	a	DT
+new	JJ	T3-	new	JJ
+place	NN1	M7 H1 A1.2 P1	place	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+So	RR	Z5 A13.3	So	RB
+,	,	""	,	,
+the	AT	Z5	the	DT
+conclusion	NN1	X6+ T2-	conclusion	NN
+is	VBZ	A3+ Z5	is	VBZ
+I	PPIS1	Z8mf	I	PRP
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+not	XX	Z6	not	RB
+want	VVI	X7+ S6+ A7+ S3.2 A9-	want	VB
+to	TO	Z5	to	TO
+be	VBI	A3+ Z5	be	VB
+a	AT1	Z5	a	DT
+digital	JJ	Y2 N1	digital	JJ
+nomad	NN1	M1/S2mf	nomad	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+At	RR21	A13.7[i105.2.1	At	IN
+least	RR22	A13.7[i105.2.2 A13.7	least	JJS
+for	IF	Z5	for	IN
+now	RT	T1.1.2 Z4	now	RB
+:	:	""	:	:
+)	)	""	)	CD
+delicious	JJ	X3.1+ O4.2+	delicious	JJ
+ice	NN1	F1[i106.2.1 O1.1	ice	NN
+cream	NN1	F1[i106.2.2 F1 B3 O1.2 O4.3 A5.1+++	cream	NN
+rolls	NN2	O2 F1 M1 Q1.2	rolls	NNS
+at	II	Z5	at	IN
+10below	FO	Z99	10below	CD
+NYC	NP1	Z99	NYC	NNP
+Delicious	JJ	X3.1+ O4.2+	Delicious	NNP
+ice	NN1	F1[i107.2.1 O1.1	ice	NN
+cream	NN1	F1[i107.2.2 F1 B3 O1.2 O4.3 A5.1+++	cream	NN
+rolls	NN2	O2 F1 M1 Q1.2	rolls	NNS
+at	II	Z5	at	IN
+10below	FO	Z99	10below	CD
+NYC	NP1	Z99	NYC	NNP
+Check	VV0	X2.4[i108.2.1 I2.2[i108.2.1 A5.2+[i108.2.1 X2.4/A5.3 A15 Q1.2 T2- M5	Check	VB
+out	RP	X2.4[i108.2.2 I2.2[i108.2.2 A5.2+[i108.2.2 M6	out	RP
+my	APPGE	Z8	my	PRP$
+video	NN1	Q4.3	video	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+process	NN1	A1.1.1 X4.2	process	NN
+of	IO	Z5	of	IN
+cooking	VVG	F1	cooking	NN
+ice	NN1	F1[i109.2.1 O1.1	ice	NN
+cream	NN1	F1[i109.2.2 F1 B3 O1.2 O4.3 A5.1+++	cream	NN
+rolls	NN2	O2 F1 M1 Q1.2	rolls	NNS
+on	II	Z5	on	IN
+my	APPGE	Z8	my	PRP$
+Instagram	NN1	Z99	Instagram	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Also	RR	N5++	Also	RB
+,	,	""	,	,
+all	DB	N5.1+	all	PDT
+the	AT	Z5	the	DT
+pictures	NN2	C1 Q4.3 X4.1	pictures	NNS
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+post	NN1	Q1.2 O2 I3.1 M6	post	NN
+are	VBR	Z5 A3+	are	VBP
+taken	VVN	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@	taken	VBN
+by	II	Z5	by	IN
+me	PPIO1	Z8mf	me	PRP
+,	,	""	,	,
+and	CC	Z5	and	CC
+you	PPY	Z8mf	you	PRP
+can	VM	A7+	can	MD
+find	VVI	A10+ X2.1 X6+	find	VB
+them	PPHO2	Z8mfn	them	PRP
+on	II	Z5	on	IN
+my	APPGE	Z8	my	PRP$
+Instagram	NN1	Z99	Instagram	NN
+dushonok	NN1	Z99	dushonok	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+What	DDQ	Z8 Z5	What	WP
+do	VD0	Z4[i110.3.1 Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+you	PPY	Z4[i110.3.2 Z8mf	you	PRP
+think	VVI	Z4[i110.3.3 X2.1	think	VB
+about	II	Z5	about	IN
+digital	JJ	Y2 N1	digital	JJ
+nomadism	NN1	Z99	nomadism	NN
+,	,	""	,	,
+guys	NN2	S2.2m O2	guys	NNS
+?	?	""	?	.
+-----	-----	""	-----	CD
+Would	VM	A7+	Would	MD
+you	PPY	Z8mf	you	PRP
+like	VVI	E2+	like	VB
+to	TO	Z5	to	TO
+do	VDI	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VB
+it	PPH1	Z8	it	PRP
+?	?	""	?	.
+-----	-----	""	-----	CD
+Related	JJ	A2.2 S4	Related	JJ
+Posts	NN2	Q1.2 O2 I3.1 M6 M2	Posts	NNS
+"</text>
+"	NULL	""	</text>	VBP

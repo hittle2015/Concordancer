@@ -1,0 +1,828 @@
+token	pos	sem	stanford-token	stanford-pos
+<text>	NULL	""	<text>	JJ
+-----	-----	""	-----	CD
+Au	NN121	H4/S2.1f[i1.2.1	Au	NN
+pair	NN122	H4/S2.1f[i1.2.2	pair	NN
+from	II	Z5	from	IN
+Russia	NP1	Z2	Russia	NNP
+,	,	""	,	,
+with	IW	Z5	with	IN
+a	AT1	N5+[i2.2.1 N6+[i2.2.1 A13.3[i2.2.1 Z5	a	DT
+lot	NN1	N5+[i2.2.2 N6+[i2.2.2 A13.3[i2.2.2	lot	NN
+of	IO	Z5	of	IN
+childcare	NN1	P1	childcare	NN
+exerience	NN1	Z99	exerience	NN
+,	,	""	,	,
+starting	VVG	T2+ E5- E3-	starting	VBG
+from	II	Z5	from	IN
+March	NPM1	T1.3	March	NNP
+Dear	JJ	E2+ I1.3+	Dear	NNP
+Family	NP1	S4c A4.1c	Family	NNP
+,	,	""	,	,
+My	APPGE	Z8	My	PRP$
+name	NN1	Q2.2	name	NN
+is	VBZ	A3+ Z5	is	VBZ
+Darya	NP1	Z99	Darya	NNP
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+20	MC	T3 N1 T1.2 T1.3 N3.2	20	CD
+years	NNT2	T1.3	years	NNS
+old	JJ	T3+ Z4	old	JJ
+and	CC	Z5	and	CC
+I	PPIS1	Z8mf	I	PRP
+live	VV0	H4 L1+ A3	live	VBP
+in	II	Z5	in	IN
+Russia	NP1	Z2	Russia	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+would	VM	A7+	would	MD
+like	VVI	E2+	like	VB
+to	TO	Z5	to	TO
+begin	VVI	T2+	begin	VB
+with	IW	Z5	with	IN
+some	DD	N5 Z5	some	DT
+facts	NN2	A5.2+ X2.2	facts	NNS
+about	II	Z5	about	IN
+myself	PPX1	Z8mf	myself	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+a	AT1	Z5	a	DT
+very	RG	A13.3	very	RB
+energetic	JJ	X5.2+	energetic	JJ
+,	,	""	,	,
+optimistic	JJ	X2.6/A5.1+/S1.2	optimistic	JJ
+and	CC	Z5	and	CC
+friendly	JJ	S1.2.1+ S7.3-/K5.2	friendly	JJ
+person	NN1	S2mfc	person	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Moreover	RR	Z5	Moreover	RB
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+find	VV0	X2.1 A10+ X6+	find	VBP
+myself	PPX1	Z8mf	myself	PRP
+hardworking	JJ	X8+	hardworking	VBG
+and	CC	Z5	and	CC
+reliable	JJ	A5.1+ A5.3+	reliable	JJ
+person	NN1	S2mfc	person	NN
+,	,	""	,	,
+ready	JJ	O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+	ready	JJ
+to	TO	Z5	to	TO
+help	VVI	S8+	help	VB
+and	CC	Z5	and	CC
+support	NN1	S8+ O2 I1.1 B5%	support	VB
+.	.	""	.	.
+-----	-----	""	-----	CD
+My	APPGE	Z8	My	PRP$
+credo	NN1	X2.1 S9 X4.1 P1 A1.6 E6+ X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c P1/H1c S5+c L2%c Z5	credo	NN
+is	VBZ	A3+ Z5	is	VBZ
+:	:	""	:	:
+The	AT	Z5	The	DT
+more	RGR	A13.3	more	JJR
+you	PPY	Z8mf	you	PRP
+give	VV0	A9- A1.1.1	give	VBP
+,	,	""	,	,
+the	AT	Z5	the	DT
+more	RGR	A13.3	more	RBR
+you	PPY	Z8mf	you	PRP
+get	VV0	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	get	VBP
+!	!	""	!	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+would	VM	A7+	would	MD
+like	VVI	E2+	like	VB
+to	TO	Z5	to	TO
+tell	VVI	Q2.2 Q2.1 X3 A10+	tell	VB
+something	PN1	Z8	something	NN
+about	II	Z5	about	IN
+my	APPGE	Z8	my	PRP$
+family	NN1	S4c A4.1c	family	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+My	APPGE	Z8	My	PRP$
+family	NN1	S4c A4.1c	family	NN
+consists	VVZ	A1.8+	consists	VBZ
+of	IO	Z5	of	IN
+3	MC	N1 T1.2 T3 T1.3 N3.2	3	CD
+members	NN2	S5+/S2mf B1	members	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+This	DD1	Z8 M6 Z5	This	DT
+is	VBZ	A3+ Z5	is	VBZ
+me	PPIO1	Z8mf	me	PRP
+,	,	""	,	,
+my	APPGE	Z8	my	PRP$
+mother	NN1	S4f A11.1+++	mother	NN
+and	CC	Z5	and	CC
+our	APPGE	Z8	our	PRP$
+cat	NN1	L2 M3	cat	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+My	APPGE	Z8	My	PRP$
+dad	NN1	S4m	dad	NN
+died	VVD	L1- T2-	died	VBD
+when	RRQ	Z5	when	WRB
+I	PPIS1	Z8mf	I	PRP
+was	VBDZ	A3+ Z5	was	VBD
+a	AT1	Z5	a	DT
+child	NN1	S2mf/T3- S4mf	child	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+My	APPGE	Z8	My	PRP$
+relationships	NN2	S3.1 S3.2 A2.2 S4	relationships	NNS
+with	IW	Z5	with	IN
+mom	NN1	S4/S2.1f	mom	NN
+are	VBR	A3+ Z5	are	VBP
+very	RG	A13.3	very	RB
+warm	JJ	O4.6+ O4.2+ S1.2.1+	warm	JJ
+and	CC	Z5	and	CC
+friendly	JJ	S1.2.1+ S7.3-/K5.2	friendly	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+She	PPHS1	Z8f	She	PRP
+always	RR	N6+++	always	RB
+supports	VVZ	S8+ A1.1.1 K5.1 I1.1 A10+	supports	VBZ
+me	PPIO1	Z8mf	me	PRP
+in	II	Z5	in	IN
+my	APPGE	Z8	my	PRP$
+efforts	NN2	X8+ O2	efforts	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+In	II	Z5	In	IN
+our	APPGE	Z8	our	PRP$
+free	JJ	K1/T1.3[i3.2.1 S6- A1.7- A1.5.1- I1.3-	free	JJ
+time	NNT1	K1/T1.3[i3.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+we	PPIS2	Z8	we	PRP
+travel	VV0	M1	travel	VBP
+,	,	""	,	,
+do	VD0	A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5	do	VBP
+sports	NN2	K5.1	sports	NNS
+,	,	""	,	,
+watch	VV0	X3.4 S7.1 X2.4 A1.3+	watch	VBP
+movies	NN2	Q4.3	movies	NNS
+and	CC	Z5	and	CC
+listen	VV0	X3.2	listen	VB
+to	II	Z5	to	TO
+music	NN1	K2	music	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+a	AT1	Z5	a	DT
+student	NN1	P1/S2mf	student	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+final	JJ	N4 T2-	final	JJ
+year	NNT1	T1.3 P1c	year	NN
+at	II	Z5	at	IN
+the	AT	Z5	the	DT
+Ivanovo	NN1	Z2[i4.2.1 Z3c[i4.2.1	Ivanovo	NNP
+State	NN1	Z2[i4.2.2 Z3c[i4.2.2 G1.1c O4.1	State	NNP
+University	NN1	P1/H1c	University	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+My	APPGE	Z8	My	PRP$
+specialty	NN1	A4.2+	specialty	NN
+is	VBZ	A3+ Z5	is	VBZ
+Social	JJ	S1.1.1[i5.2.1 S1.1.1	Social	NNP
+work	NN1	S1.1.1[i5.2.2 I3.1 A1.1.1 Q4 K2 C1	work	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Through	II	Z5	Through	IN
+my	APPGE	Z8	my	PRP$
+specialty	NN1	A4.2+	specialty	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+opened	VVD	A1.1.1 T2+	opened	VBD
+the	AT	Z5	the	DT
+possibility	NN1	A7+	possibility	NN
+of	IO	Z5	of	IN
+practice	NN1	A1.1.1 I3.1/S5+c	practice	NN
+in	II	Z5	in	IN
+different	JJ	A6.1-	different	JJ
+places	NN2	M7 H1 A1.2 P1	places	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+For	REX21	Z5[i6.2.1	For	IN
+example	REX22	Z5[i6.2.2	example	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+was	VBDZ	A3+ Z5	was	VBD
+a	AT1	Z5	a	DT
+trainee	NN1	P1/S2mf	trainee	NN
+at	II	Z5	at	IN
+school	NN1	P1/H1c S5+c L2%c	school	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+In	II	Z5	In	IN
+the	AT	Z5	the	DT
+group	NN1	S5+c A4.1c B3%	group	NN
+of	IO	Z5	of	IN
+pupils	NN2	P1/S2mf G2.1/S2mf B1	pupils	NNS
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+fourth	MD	N4	fourth	JJ
+grade	NN1	A5.1 A4.1 S7.1 P1c%	grade	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+organized	VVD	S7.1+ O4.1 S5+@	organized	VBD
+game	NN1	K5.1 K5.2 X7+ A1.1.1 L2 F1	game	NN
+trainings	NN2	P1 K5.1	trainings	NNS
+and	CC	Z5	and	CC
+different	JJ	A6.1-	different	JJ
+creative	JJ	X2.1/A6.2-	creative	JJ
+tasks	NN2	A1.1.1	tasks	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+also	RR	N5++	also	RB
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+a	AT1	Z5	a	DT
+volunteer	NN1	I3.1/I1.1-/S2mf I3.1/X7+/S2mf G3/S2mf	volunteer	NN
+experience	NN1	X9.1+ X2.2 X3 I3.2	experience	NN
+in	II	Z5	in	IN
+a	AT1	Z5	a	DT
+rehabilitation	NN1	B3 S8+	rehabilitation	NN
+center	NN1	M6 H1c M7c G1.2c K5.1mfn	center	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+worked	VVD	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	worked	VBD
+with	IW	Z5	with	IN
+handicapped	JJ	B2- S8- B2-/S2c	handicapped	JJ
+children	NN2	S2mf/T3- S4mf	children	NNS
+of	IO	Z5	of	IN
+different	JJ	A6.1-	different	JJ
+ages	NN2	T1.3+ T3	ages	NNS
+(	(	""	(	VBP
+6	MC	N1 T1.2 T3 T1.3 N3.2	6	CD
+-	-	""	-	:
+15	MC	N1 T1.2 T3 T1.3 N3.2	15	CD
+years	NNT2	T1.3	years	NNS
+)	)	""	)	RB
+and	CC	Z5	and	CC
+various	JJ	A6.3+	various	JJ
+diseases	NN2	B2-	diseases	NNS
+,	,	""	,	,
+children	NN2	S2mf/T3- S4mf	children	NNS
+with	IW	Z5	with	IN
+autism	NN1	B2-/X1	autism	NN
+,	,	""	,	,
+Down	NP1@	Z1mf	Down	NN
+syndrome	NN1	B2- A1.1.1	syndrome	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+worked	VVD	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	worked	VBD
+1	MC1	N1 T1.2 T3 T1.3 N3.2	1	CD
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+per	II	Z5	per	IN
+week	NNT1	T1.3	week	NN
+for	IF	Z5	for	IN
+6	MC	N1 T1.2 T3 T1.3 N3.2	6	CD
+months	NNT2	T1.3	months	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+helped	VVD	S8+	helped	VBD
+the	AT	Z5	the	DT
+teachers	NN2	P1/I3.2/S2mf	teachers	NNS
+to	TO	Z5	to	TO
+organize	VVI	S7.1+ O4.1 S5+@	organize	VB
+lessons	NN2	P1 S9/Q4.1	lessons	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Our	APPGE	Z8	Our	PRP$
+meetings	NN2	S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+	meetings	NNS
+were	VBDR	A3+ Z5	were	VBD
+as	CSA	Z5	as	IN
+follows	VVZ	M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1	follows	VBZ
+:	:	""	:	:
+1	MC1	N1 T1.2 T3 T1.3 N3.2	1	CD
+hour	NNT1	T1.3	hour	NN
+,	,	""	,	,
+we	PPIS2	Z8	we	PRP
+were	VBDR	Z5 A3+	were	VBD
+engaged	VVN	S4 A1.5.1/H5 Q1.3 A1.1.1 S1.1.3+ X5.2+ I3.1 G3@	engaged	VBN
+in	II	Z5	in	IN
+cooking	NN1	F1	cooking	NN
+,	,	""	,	,
+it	PPH1	Z8	it	PRP
+was	VBDZ	A3+ Z5	was	VBD
+necessary	JJ	S6+ A11.1+	necessary	JJ
+to	TO	Z5	to	TO
+help	VVI	S8+	help	VB
+children	NN2	S2mf/T3- S4mf	children	NNS
+to	TO	Z5	to	TO
+develop	VVI	A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1	develop	VB
+the	AT	Z5	the	DT
+basic	JJ	A6.2+ A11.1+ A12+	basic	JJ
+skills	NN2	X9.1+	skills	NNS
+of	IO	Z5	of	IN
+self-service	JJ	S8+/S5-	self-service	NN
+,	,	""	,	,
+the	AT	Z5	the	DT
+second	MD	N4	second	JJ
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+we	PPIS2	Z8	we	PRP
+spent	VVD	I1.2 A1.5.1 T1.3	spent	VBD
+with	IW	Z5	with	IN
+the	AT	Z5	the	DT
+children	NN2	S2mf/T3- S4mf	children	NNS
+on	II	Z5	on	IN
+the	AT	Z5	the	DT
+lessons	NN2	P1 S9/Q4.1	lessons	NNS
+of	IO	Z5	of	IN
+art	NN1	B3/C1[i7.2.1 C1 X9.1+	art	NN
+therapy	NN1	B3/C1[i7.2.2 B3	therapy	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+At	II	Z5	At	IN
+these	DD2	Z5 Z8	these	DT
+sessions	NNT2	T1.3	sessions	NNS
+we	PPIS2	Z8	we	PRP
+helped	VVD	S8+	helped	VBD
+the	AT	Z5	the	DT
+children	NN2	S2mf/T3- S4mf	children	NNS
+develop	VVI	A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1	develop	VBP
+their	APPGE	Z8	their	PRP$
+imagination	NN1	X2.1/A6.2- A5.2-	imagination	NN
+and	CC	Z5	and	CC
+communication	NN1	Q1.1/X9.1[i8.2.1 Q2.1 Q1.2 Q1.3 Q4.3	communication	NN
+skills	NN2	Q1.1/X9.1[i8.2.2 X9.1+	skills	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+One	MC1	N1 T3 T1.2	One	CD
+hour	NNT1	T1.3	hour	NN
+after	II	Z5	after	IN
+the	AT	Z5	the	DT
+lessons	NN2	P1 S9/Q4.1	lessons	NNS
+the	AT	Z5	the	DT
+children	NN2	S2mf/T3- S4mf	children	NNS
+usually	RR	A6.2+	usually	RB
+attend	VV0	S1.1.3+	attend	VBP
+the	AT	Z5	the	DT
+special	JJ	A4.2+ A6.2-	special	JJ
+game	NN1	K5.1/H2[i9.2.1 K5.1 K5.2 X7+ A1.1.1 L2 F1	game	NN
+room	NN1	K5.1/H2[i9.2.2 H2 N3.6	room	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+My	APPGE	Z8	My	PRP$
+task	NN1	A1.1.1	task	NN
+was	VBDZ	A3+ Z5	was	VBD
+to	TO	Z5	to	TO
+look	VVI	S8+[i10.2.1 A1.1.1[i10.2.1 A8 X3.4 X2.4 X7+ Z4	look	VB
+after	II	S8+[i10.2.2 A1.1.1[i10.2.2 Z5	after	IN
+the	AT	Z5	the	DT
+children	NN2	S2mf/T3- S4mf	children	NNS
+,	,	""	,	,
+and	CC	Z5	and	CC
+coming	VVG	X2.1[i12.3.1 A9+[i12.3.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 A1.1.1[i11.2.1 M1[i11.2.1 T1.1.3[i11.2.1 A13.4[i11.2.1 P1%[i11.2.1	coming	VBG
+up	RP	X2.1[i12.3.2 A9+[i12.3.2 A1.1.1[i11.2.2 M1[i11.2.2 T1.1.3[i11.2.2 A13.4[i11.2.2 P1%[i11.2.2	up	RP
+with	IW	A9+[i12.3.3 X2.1[i12.3.3 Z5	with	IN
+interesting	JJ	X5.2+	interesting	JJ
+and	CC	Z5	and	CC
+exciting	JJ	X5.2+	exciting	JJ
+game	NN1	K5.1 K5.2 X7+ A1.1.1 L2 F1	game	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+This	DD1	Z8 M6 Z5	This	DT
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+great	JJ	A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3	great	JJ
+experience	NN1	X9.1+ X2.2 X3 I3.2	experience	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+have	VH0	Z5 A9+ A2.2 S4	have	VBP
+learned	VVN	X2.3+ P1	learned	VBN
+how	RRQ	Z5 A13.3	how	WRB
+to	TO	Z5	to	TO
+better	RRR	A5.1++ G2.2++ O4.2++	better	RBR
+understand	VVI	X2.5+	understand	VB
+the	AT	Z5	the	DT
+problems	NN2	A12- X4.1 B2-	problems	NNS
+of	IO	Z5	of	IN
+other	JJ	A6.1-	other	JJ
+people	NN	S2mfc	people	NNS
+and	CC	Z5	and	CC
+how	RRQ	Z5 A13.3	how	WRB
+to	TO	Z5	to	TO
+improve	VVI	A5.1+/A2.1	improve	VB
+the	AT	Z5	the	DT
+quality	NN1	A5.1 A5.1+ O4.1	quality	NN
+of	IO	Z5	of	IN
+life	NN1	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	life	NN
+of	IO	Z5	of	IN
+others	NN2	A6.1-/Z8	others	NNS
+and	CC	Z5	and	CC
+myself	PPX1	Z8mf	myself	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+would	VM	A7+	would	MD
+like	VVI	E2+	like	VB
+to	TO	Z5	to	TO
+be	VBI	A3+ Z5	be	VB
+an	AT1	Z5	an	DT
+Au	NN121	O1.1 O4.3 I1 Z3 Y1 N1 N5 Q1.3 K2 Q4.2 G2.2+ S7.1+ O4.2+ N3.2+++ S5+c O2 H5 H1 N3.1 P1 Y1/W1	Au	NN
+Pair	NN122	N5c N5	Pair	NN
+because	CS	Z5/A2.2	because	IN
+I	PPIS1	Z8mf	I	PRP
+really	RR	A13.3 A5.2+	really	RB
+love	VV0	E2+	love	VBP
+children	NN2	S2mf/T3- S4mf	children	NNS
+and	CC	Z5	and	CC
+I	PPIS1	Z8mf	I	PRP
+think	VV0	X2.1	think	VBP
+this	DD1	Z8 M6 Z5	this	DT
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+great	JJ	A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3	great	JJ
+opportunity	NN1	A1.4	opportunity	NN
+for	IF	Z5	for	IN
+me	PPIO1	Z8mf	me	PRP
+to	TO	Z5	to	TO
+turn	VVI	M2 M1 O4.4 A1.1.1 A2.1+ O4.2-	turn	VB
+my	APPGE	Z8	my	PRP$
+life	NN1	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	life	NN
+into	II	Z5	into	IN
+useful	JJ	A1.5.2+	useful	JJ
+actions	NN2	A1.1.1 G3	actions	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+experience	NN1	X9.1+ X2.2 X3 I3.2	experience	NN
+with	IW	Z5	with	IN
+children	NN2	S2mf/T3- S4mf	children	NNS
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+a	AT1	Z5	a	DT
+niece	NN1	S4f	niece	NN
+1,5	MC	T3[i14.3.1 N1 T1.2 T3 T1.3 N3.2 T3/S2mf[i13.3.1 T3[i13.3.1	1,5	CD
+years	NNT2	T3[i14.3.2 T1.3 T3/S2mf[i13.3.2 T3[i13.3.2	years	NNS
+old	JJ	T3[i14.3.3 T3+ Z4 T3/S2mf[i13.3.3 T3[i13.3.3	old	JJ
+,	,	""	,	,
+her	APPGE	Z8f	her	PRP$
+name	NN1	Q2.2	name	NN
+is	VBZ	A3+ Z5	is	VBZ
+Lisa	NP1	Z1f	Lisa	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+3	MC	N1 T1.2 T3 T1.3 N3.2	3	CD
+months	NNT2	T1.3	months	NNS
+I	PPIS1	Z8mf	I	PRP
+lived	VVD	E2+[i15.2.1 H4 L1+ A3 H4[i16.2.1	lived	VBD
+with	IW	E2+[i15.2.2 Z5 H4[i16.2.2	with	IN
+my	APPGE	Z8	my	PRP$
+cousin	NN1	S4mf	cousin	NN
+,	,	""	,	,
+and	CC	Z5	and	CC
+helped	VVD	S8+	helped	VBD
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+take	NN1%	S8+[i17.3.1 A1.1.1[i17.3.1 Q4.3	take	NN
+care	NN1	S8+[i17.3.2 A1.1.1[i17.3.2 S8+ G1.1/S8+ B3 A1.3 E6-	care	NN
+of	IO	S8+[i17.3.3 A1.1.1[i17.3.3 Z5	of	IN
+Liza	NP1	O4.3 O4.2- E4.1- Z1mf	Liza	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+was	VBDZ	A3+ Z5	was	VBD
+an	AT1	Z5	an	DT
+amazing	JJ	O4.2+ X2.6- A6.2-	amazing	JJ
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+with	IW	Z5	with	IN
+my	APPGE	Z8	my	PRP$
+niece	NN1	S4f	niece	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+cooked	VVD	F1	cooked	VBD
+for	IF	Z5	for	IN
+her	PPHO1	Z8f	her	PRP
+,	,	""	,	,
+walked	VVD	M1 L2 X9.2+/A12+	walked	VBD
+with	IW	Z5	with	IN
+her	PPHO1	Z8f	her	PRP
+,	,	""	,	,
+played	VVD	K1 K5.1 K5.2 K2 K3 A1.1.1 K6	played	VBD
+educational	JJ	P1	educational	JJ
+games	NN2	K5.1 K5.2 A1.1.1	games	NNS
+and	CC	Z5	and	CC
+just	RR	A14 T3--- T1.3- N3.3---	just	RB
+spent	VVN	I1.2 A1.5.1 T1.3	spent	VBD
+a	AT1	N5+[i18.2.1 N6+[i18.2.1 A13.3[i18.2.1 Z5	a	DT
+lot	NN1	N5+[i18.2.2 N6+[i18.2.2 A13.3[i18.2.2	lot	NN
+of	IO	Z5	of	IN
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+with	IW	Z5	with	IN
+her	PPHO1	Z8f	her	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+And	CC	Z5	And	CC
+I	PPIS1	Z8mf	I	PRP
+have	VH0	Z5 A9+ A2.2 S4	have	VBP
+had	VHN	A9+ Z5 A2.2 S4	had	VBN
+babysitting	NN1@	S8+/S4	babysitting	VBG
+experience	NN1	X9.1+ X2.2 X3 I3.2	experience	NN
+with	IW	Z5	with	IN
+a	AT1	Z5	a	DT
+1	MC1	N1 T1.2 T3 T1.3 N3.2	1	CD
+year	NNT1	T1.3 P1c	year	NN
+old	JJ	T3+ Z4	old	JJ
+baby	NN1	T3--/S2mf E2+mfn	baby	NN
+,	,	""	,	,
+her	APPGE	Z8f	her	PRP$
+name	NN1	Q2.2	name	NN
+is	VBZ	A3+ Z5	is	VBZ
+Arina	NP1	Z99	Arina	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Her	APPGE	Z8f	Her	PRP$
+parents	NN2	S4mf A9+	parents	NNS
+are	VBR	A3+ Z5	are	VBP
+my	APPGE	Z8	my	PRP$
+friends	NN2	S3.1/S2mf	friends	NNS
+and	CC	Z5	and	CC
+several	DA2	N6+[i19.2.1 N5	several	JJ
+times	NNT2	N6+[i19.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1	times	NNS
+a	AT1	Z5	a	DT
+week	NNT1	T1.3	week	NN
+I	PPIS1	Z8mf	I	PRP
+came	VVD	A4.1[i20.2.1 M1[i20.2.1 B1[i20.2.1 N5[i20.2.1 X6+[i20.2.1 X2.1[i20.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2	came	VBD
+to	II	A4.1[i20.2.2 M1[i20.2.2 B1[i20.2.2 N5[i20.2.2 X6+[i20.2.2 X2.1[i20.2.2 Z5	to	TO
+the	AT	Z5	the	DT
+family	NN1	S4c A4.1c	family	NN
+of	IO	Z5	of	IN
+to	TO	Z5	to	TO
+take	VVI	S8+[i21.3.1 A1.1.1[i21.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@	take	VB
+care	NN1	S8+[i21.3.2 A1.1.1[i21.3.2 S8+ G1.1/S8+ B3 A1.3 E6-	care	NN
+of	IO	S8+[i21.3.3 A1.1.1[i21.3.3 Z5	of	IN
+the	AT	Z5	the	DT
+baby	NN1	T3--/S2mf E2+mfn	baby	NN
+for	IF	Z5	for	IN
+several	DA2	N5	several	JJ
+hours	NNT2	T1.3	hours	NNS
+when	RRQ	Z5	when	WRB
+parents	NN2	S4mf A9+	parents	NNS
+went	VVD	M1[i22.2.1 K1[i22.2.1 S3.2[i22.2.1 O4.6-[i22.2.1 Q4[i22.2.1 B1[i22.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	went	VBD
+out	RP	M1[i22.2.2 K1[i22.2.2 S3.2[i22.2.2 O4.6-[i22.2.2 Q4[i22.2.2 B1[i22.2.2 M6	out	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+She	PPHS1	Z8f	She	PRP
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+lovely	JJ	O4.2+	lovely	JJ
+little	JJ	N3.2- T3- N3.7- N3.3- T1.3- A11.1-	little	JJ
+girl	NN1	S2.1f L2f@	girl	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+fed	VVD	F1 A9- S8+ M2@	fed	VBD
+a	AT1	Z5	a	DT
+baby	NN1	T3--/S2mf E2+mfn	baby	NN
+,	,	""	,	,
+played	VVD	K1 K5.1 K5.2 K2 K3 A1.1.1 K6	played	VBD
+,	,	""	,	,
+dressed	VVN	B5 F1 B3 O4.1	dressed	VBD
+a	AT1	Z5	a	DT
+her	PPHO1	Z8f	her	PRP$
+and	CC	Z5	and	CC
+went	VVN	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	went	VBD
+for	IF	Z5	for	IN
+a	AT1	Z5	a	DT
+walk	NN1	M1	walk	NN
+with	IW	Z5	with	IN
+her	PPHO1	Z8f	her	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+gave	VVD	A9- A1.1.1	gave	VBD
+me	PPIO1	Z8mf	me	PRP
+pleasure	NN1	E4.2+ K1	pleasure	NN
+and	CC	Z5	and	CC
+positive	JJ	A5.1+ A7+ N2	positive	JJ
+emotions	NN2	E1	emotions	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+was	VBDZ	A3+ Z5	was	VBD
+not	XX	Z6	not	RB
+always	RR	N6+++	always	RB
+easy	JJ	A12+	easy	JJ
+but	CCB	Z5	but	CC
+it	PPH1	Z8	it	PRP
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+great	JJ	A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3	great	JJ
+experience	NN1	X9.1+ X2.2 X3 I3.2	experience	NN
+for	IF	Z5	for	IN
+me	PPIO1	Z8mf	me	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+think	VV0	X2.1	think	VBP
+it	PPH1	Z8	it	PRP
+is	VBZ	A3+ Z5	is	VBZ
+the	AT	Z5	the	DT
+wrong	JJ	A5.3- A5.1- G2.2- B2-	wrong	JJ
+way	NN1	X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3	way	NN
+to	TO	Z5	to	TO
+shout	VVI	Q2.2/X3.2++	shout	VB
+at	II	Z5	at	IN
+children	NN2	S2mf/T3- S4mf	children	NNS
+and	CC	Z5	and	CC
+use	VVI	A1.5.1 S7.1+	use	VB
+aggression	NN1	E3-	aggression	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+believe	VV0	X2.1 S9%	believe	VBP
+that	DD1	Z8 Z5	that	IN
+can	VM	A7+	can	MD
+deserve	VVI	S1.1.4+	deserve	VB
+the	AT	Z5	the	DT
+trust	NN1	E6+ I1.1 S5+c B3/H1c	trust	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+children	NN2	S2mf/T3- S4mf	children	NNS
+only	RR	A14	only	RB
+warm	JJ	O4.6+ O4.2+ S1.2.1+	warm	JJ
+attitude	NN1	X2.1/E1	attitude	NN
+and	CC	Z5	and	CC
+love	NN1	S3.2 E2+ E2+/S2mf	love	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+try	VV0	X8+ X2.4 Q2.2 G2.1 A12-	try	VBP
+to	TO	Z5	to	TO
+be	VBI	A3+ Z5	be	VB
+patient	JJ	E3+	patient	NN
+,	,	""	,	,
+creative	JJ	X2.1/A6.2-	creative	JJ
+and	CC	Z5	and	CC
+humorous	JJ	E4.1+	humorous	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+Recently	RR	T3---	Recently	RB
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+have	VH0	Z5 A9+ A2.2 S4	have	VBP
+traveled	VVN	M1	traveled	VBN
+with	IW	Z5	with	IN
+my	APPGE	Z8	my	PRP$
+mom	NN1	S4/S2.1f	mom	NN
+to	II	Z5	to	TO
+the	AT	Z5	the	DT
+Netherlands	NP1	Z2 Z3c	Netherlands	NNP
+for	IF	Z5	for	IN
+a	AT1	Z5	a	DT
+short	JJ	T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1%	short	JJ
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+really	RR	A13.3 A5.2+	really	RB
+liked	VVD	E2+	liked	VBD
+this	DD1	M6 Z5 Z8	this	DT
+beautiful	JJ	O4.2+	beautiful	JJ
+country	NN1	G1.1c W3 F4/M7 K2	country	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+is	VBZ	A3+ Z5	is	VBZ
+my	APPGE	Z8	my	PRP$
+dream	NN1	X4.1 X7+ A5.2-	dream	NN
+to	TO	Z5	to	TO
+combine	VVI	A2.2 A1.8+ S5+c F4	combine	VB
+the	AT	Z5	the	DT
+wonderful	JJ	A5.1+	wonderful	JJ
+and	CC	Z5	and	CC
+interesting	JJ	X5.2+	interesting	JJ
+work	NN1	I3.1 A1.1.1 Q4 K2 C1	work	NN
+as	II	Z5	as	IN
+an	AT1	Z5	an	DT
+Au	NN121	O1.1 O4.3 I1 Z3 Y1 N1 N5 Q1.3 K2 Q4.2 G2.2+ S7.1+ O4.2+ N3.2+++ S5+c O2 H5 H1 N3.1 P1 Y1/W1	Au	NNP
+Pair	NN122	N5c N5	Pair	NN
+with	IW	Z5	with	IN
+the	AT	Z5	the	DT
+opportunity	NN1	A1.4	opportunity	NN
+to	TO	Z5	to	TO
+broaden	VVI	N3.7+/A2.1 N5+/A2.1 A4.2-/A2.1	broaden	VB
+my	APPGE	Z8	my	PRP$
+horizon	NN1	W3 X2.6+	horizon	NN
+,	,	""	,	,
+to	TO	Z5	to	TO
+get	VVI	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	get	VB
+acquainted	VVN	X2.2+	acquainted	VBN
+with	IW	Z5	with	IN
+the	AT	Z5	the	DT
+culture	NN1	C1 S1.1.1 S5+ L1	culture	NN
+and	CC	Z5	and	CC
+traditions	NN2	S1.1.1 T1.1.1 A6.2+	traditions	NNS
+of	IO	Z5	of	IN
+this	DD1	M6 Z5 Z8	this	DT
+country	NN1	G1.1c W3 F4/M7 K2	country	NN
+and	CC	Z5	and	CC
+to	II	Z5	to	TO
+practice	NN1	A1.1.1 I3.1/S5+c	practice	VB
+the	AT	Z5	the	DT
+language	NN1	Q3 Y2	language	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+would	VM	A7+	would	MD
+say	VVI	Q2.1 Z4%	say	VB
+that	CST	Z8 Z5	that	IN
+I	PPIS1	Z8mf	I	PRP
+always	RR	N6+++	always	RB
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+a	AT1	Z5	a	DT
+responsible	JJ	A2.2 S6+ S7.1 S1.2.6+ X6+	responsible	JJ
+attitude	NN1	X2.1/E1	attitude	NN
+to	II	Z5	to	TO
+the	AT	Z5	the	DT
+tasks	NN2	A1.1.1	tasks	NNS
+entrusted	VVN	A9- S7.1+ S7.4+	entrusted	VBD
+to	II	Z5	to	TO
+me	PPIO1	Z8mf	me	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+not	XX	Z6	not	RB
+have	VHI	A9+ Z5 A2.2 S4	have	VB
+problems	NN2	A12- X4.1 B2-	problems	NNS
+to	TO	Z5	to	TO
+help	VVI	S8+	help	VB
+with	IW	Z5	with	IN
+the	AT	Z5	the	DT
+housework	NN1	A1.1.1/H1	housework	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+really	RR	A13.3 A5.2+	really	RB
+love	VV0	E2+	love	VBP
+cooking	VVG	F1	cooking	JJ
+different	JJ	A6.1-	different	JJ
+dishes	NN2	O2 F1 Q4.3 O4.2+%	dishes	NNS
+and	CC	Z5	and	CC
+I	PPIS1	Z8mf	I	PRP
+like	VV0	E2+	like	VBP
+to	TO	Z5	to	TO
+taste	VVI	X3.1 F1 X2.2	taste	VB
+different	JJ	A6.1-	different	JJ
+food	NN1	F1	food	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+hope	VV0	X2.6+ E4.1+ X9.2+ A5.1+	hope	VBP
+very	RG	A13.3[i23.2.1 A13.3	very	RB
+much	DA1	A13.3[i23.2.2 N5+ I1.3+	much	RB
+that	CST	Z8 Z5	that	IN
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+the	AT	Z5	the	DT
+right	JJ	A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2	right	JJ
+person	NN1	S2mfc	person	NN
+which	DDQ	Z8 Z5	which	WDT
+will	VM	T1.1.3	will	MD
+be	VBI	A3+ Z5	be	VB
+to	TO	Z5	to	TO
+take	VVI	S8+[i24.3.1 A1.1.1[i24.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@	take	VB
+care	NN1	S8+[i24.3.2 A1.1.1[i24.3.2 S8+ G1.1/S8+ B3 A1.3 E6-	care	NN
+of	IO	S8+[i24.3.3 A1.1.1[i24.3.3 Z5	of	IN
+your	APPGE	Z8	your	PRP$
+children	NN2	S2mf/T3- S4mf	children	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+wish	VV0	X7+	wish	VBP
+to	TO	Z5	to	TO
+join	VVI	A2.2 S5+ A1.8+ A1.1.1	join	VB
+the	AT	Z5	the	DT
+family	NN1	S4c A4.1c	family	NN
+atmosphere	NN1	W3 W1 E1 N3.5	atmosphere	NN
+to	TO	Z5	to	TO
+share	VVI	S1.1.2+	share	VB
+all	DB	N5.1+	all	PDT
+the	AT	Z5	the	DT
+most	RGT	A13.2	most	RBS
+kind	JJ	S1.2/S8+ S1.2.2-	kind	JJ
+and	CC	Z5	and	CC
+positive	JJ	A5.1+ A7+ N2	positive	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+With	IW	Z5	With	IN
+Kind	NN1	A4.1	Kind	NNP
+regards	VVZ	X2.1	regards	VBZ
+,	,	""	,	,
+Darya	NP1	Z99	Darya	NNP
+.	.	""	.	.
+"</text>
+"	NULL	""	</text>	NN

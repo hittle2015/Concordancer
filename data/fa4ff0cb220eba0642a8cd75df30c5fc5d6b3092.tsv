@@ -1,0 +1,1256 @@
+token	pos	sem	stanford-token	stanford-pos
+<text>	NULL	""	<text>	NN
+-----	-----	""	-----	CD
+Building	VVG@	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	Building	NNP
+Private	JJ	A10- S5- G1.1-	Private	NNP
+Blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	Blog	NNP
+Network	NN1	S5+c Q4.3 Y2	Network	NNP
+:	:	""	:	:
+Why	RRQ	A2.2	Why	WRB
+And	CC	Z5	And	CC
+Why	RRQ	A2.2	Why	WRB
+Not	XX	Z6	Not	RB
+?	?	""	?	.
+-----	-----	""	-----	CD
+This	DD1	Z8 M6 Z5	This	DT
+is	VBZ	A3+ Z5	is	VBZ
+the	AT	Z5	the	DT
+first	MD	N4	first	JJ
+post	NN1	Q1.2 O2 I3.1 M6	post	NN
+from	II	Z5	from	IN
+the	AT	Z5	the	DT
+series	NN	N4c Q4.3c	series	NN
+about	II	Z5	about	IN
+how	RRQ	Z5 A13.3	how	WRB
+I	PPIS1	Z8mf	I	PRP
+build	VV0	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	build	VBP
+a	AT1	Z5	a	DT
+PBN	NP1	Z99	PBN	NNP
+for	IF	Z5	for	IN
+my	APPGE	Z8	my	PRP$
+money	NN1	I1	money	NN
+websites	NN2	Y2	websites	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+In	II	Z5	In	IN
+the	AT	Z5	the	DT
+beginning	NN1	T2+	beginning	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+wanted	VVD	X7+ S6+ A7+ S3.2 A9-	wanted	VBD
+to	TO	Z5	to	TO
+briefly	RR	T1.3-	briefly	RB
+cover	VVI	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1	cover	VB
+the	AT	Z5	the	DT
+strategy	NN1	X7+	strategy	NN
+and	CC	Z5	and	CC
+methods	NN2	X4.2	methods	NNS
+I	PPIS1	Z8mf	I	PRP
+am	VBM	Z5 A3+	am	VBP
+using	VVG	A1.5.1 S7.1+	using	VBG
+.	.	""	.	.
+-----	-----	""	-----	CD
+However	RR	Z4	However	RB
+,	,	""	,	,
+the	AT	Z5	the	DT
+more	DAR	N5++	more	JJR
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+I	PPIS1	Z8mf	I	PRP
+spent	VVD	I1.2 A1.5.1 T1.3	spent	VBD
+writing	VVG	Q1.2 I2.1	writing	VBG
+the	AT	Z5	the	DT
+bigger	JJR	N3.2++ N5++ A11.1++ S1.2.5++ X5.2++	bigger	JJR
+the	AT	Z5	the	DT
+post	NN1	Q1.2 O2 I3.1 M6	post	NN
+became	VVD	A2.1+ O4.2+	became	VBD
+.	.	""	.	.
+-----	-----	""	-----	CD
+So	RR	Z5 A13.3	So	RB
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+decided	VVD	X6+	decided	VBD
+to	TO	Z5	to	TO
+split	VVI	A6.1- A1.1.2 S1.1.2-	split	VB
+it	PPH1	Z8	it	PRP
+into	II	Z5	into	IN
+multiple	JJ	N5+	multiple	JJ
+articles	NN2	Q4.2 O2 Q3 G2.1/P1@	articles	NNS
+and	CC	Z5	and	CC
+publish	VVI	Q4	publish	VB
+it	PPH1	Z8	it	PRP
+as	II	Z5	as	IN
+a	AT1	Z5	a	DT
+series	NN	N4c Q4.3c	series	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+This	DD1	M6 Z5 Z8	This	DT
+post	NN1	Q1.2 O2 I3.1 M6	post	NN
+is	VBZ	A3+ Z5	is	VBZ
+pretty	RG	A13.5	pretty	RB
+short	JJ	T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1%	short	JJ
+and	CC	Z5	and	CC
+it	PPH1	Z8	it	PRP
+covers	VVZ	A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1	covers	VBZ
+the	AT	Z5	the	DT
+topics	NN2	X4.1	topics	NNS
+about	II	Z5	about	IN
+what	DDQ	Z8 Z5	what	WP
+a	AT1	Z5	a	DT
+PBN	NP1	Z99	PBN	NNP
+is	VBZ	A3+ Z5	is	VBZ
+,	,	""	,	,
+why	RRQ	A2.2	why	WRB
+I	PPIS1	Z8mf	I	PRP
+am	VBM	Z5 A3+	am	VBP
+building	VVG@	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	building	VBG
+one	PN1	Z8	one	CD
+myself	PPX1	Z8mf	myself	PRP
+,	,	""	,	,
+and	CC	Z5	and	CC
+basic	JJ	A6.2+ A11.1+ A12+	basic	JJ
+footprints	NN2	O4.4 Q1.1	footprints	NNS
+that	CST	Z8 Z5	that	WDT
+can	VM	A7+	can	MD
+be	VBI	Z5 A3+	be	VB
+left	VVN	M1 M2 A1.1.1 A1.9 A9- N5.2+ T2-	left	VBN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Since	CS	Z5	Since	IN
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+a	AT1	Z5	a	DT
+total	JJ	A13.2 N5.1+	total	JJ
+newbie	NN1	M1/T3-/S2mf T2+/X9.1-/S2mf T3- T3-- T3 F1 O2 T2+ K5.1/S2mf X9.1- P1/S2mf S1.1.3+/S2mf T2+/S2mf X9.1-/S2mf	newbie	NN
+in	II	Z5	in	IN
+this	DD1	M6 Z5 Z8	this	DT
+subject	NN1	X4.1 C1/S2mf Q3 P1 S7.1-/S2mf	subject	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+wont	JJ	A6.2+	wont	VBP
+try	NN1@	X8+ K5.1	try	VB
+to	TO	Z5	to	TO
+teach	VVI	P1	teach	VB
+you	PPY	Z8mf	you	PRP
+or	CC	Z4[i1.2.1 Z5	or	CC
+anything	PN1	Z4[i1.2.2 Z8	anything	NN
+like	II	Z5	like	IN
+this	DD1	Z8 M6 Z5	this	DT
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+not	XX	Z6	not	RB
+know	VVI	X2.2+ S3.2/B1%	know	VB
+a	AT1	Z5	a	DT
+perfect	JJ	A5.1+++ A1.2+++ Q3	perfect	JJ
+answer	NN1	Q2.2 X4.1 X9.2+	answer	NN
+how	RRQ	Z5 A13.3	how	WRB
+to	TO	Z5	to	TO
+build	VVI	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	build	VB
+a	AT1	Z5	a	DT
+reliable	JJ	A5.1+ A5.3+	reliable	JJ
+private	JJ	A10- S5- G1.1-	private	JJ
+blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	blog	NN
+network	NN1	S5+c Q4.3 Y2	network	NN
+not	XX	Z6	not	RB
+yet	RR	T1.1.2	yet	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+will	VM	T1.1.3	will	MD
+simply	RR	A13.6 A14 A12+	simply	RB
+share	VVI	S1.1.2+	share	VB
+my	APPGE	Z8[i2.2.1 Z8	my	PRP$
+own	DA	Z8[i2.2.2 A9+ S5-	own	JJ
+experience	NN1	X9.1+ X2.2 X3 I3.2	experience	NN
+and	CC	Z5	and	CC
+discoveries	NN2	A10+	discoveries	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+If	CS	Z7	If	IN
+you	PPY	Z8mf	you	PRP
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+any	DD	N5 N5.1+	any	DT
+questions	NN2	Q2.2 X4.1	questions	NNS
+or	CC	Z5	or	CC
+comments	NN2	Q2.1	comments	NNS
+or	CC	Z5	or	CC
+you	PPY	Z8mf	you	PRP
+see	VV0	X2.5+ X3.4 X2.1 S1.1.1 X2.3+ X3 A7+ Z4 S3.2	see	VBP
+that	CST	Z8 Z5	that	IN
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+wrong	RR@	G2.2- A5.3-	wrong	JJ
+feel	VV0	S7.4+[i3.2.1 X2.1 E1 X3	feel	VB
+free	JJ	S7.4+[i3.2.2 S6- A1.7- A1.5.1- I1.3-	free	JJ
+to	TO	Z5	to	TO
+drop	VVI	M2 M1 N5-/A2.1 O1.2/M1 B2- T2- A9- A1.8- X9.2-/K5 X3.2	drop	VB
+a	AT1	Z5	a	DT
+line	NN1	O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@	line	NN
+or	CC	Z5	or	CC
+two	MC	N1 T3 T1.2	two	CD
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+comments	NN2	Q2.1	comments	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Table	NN1	H5 Q1.2 N2	Table	NNP
+of	IO	Z5	of	IN
+Contents	NN2	A1.8+ Q2.1	Contents	NNP
+What	DDQ	Z8 Z5	What	WDT
+Is	VBZ	A3+ Z5	Is	VBZ
+a	AT1	Z5	a	DT
+Private	JJ	A10- S5- G1.1-	Private	JJ
+Blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	Blog	NNP
+Network	NN1	S5+c Q4.3 Y2	Network	NNP
+?	?	""	?	.
+-----	-----	""	-----	CD
+Google	VV0	X2.4 M1	Google	NNP
+And	CC	Z5	And	CC
+PBN	NP1	Z99	PBN	NNP
+Why	RRQ	A2.2	Why	WRB
+Am	VBM	Z5 A3+	Am	VBP
+I	PPIS1	Z8mf	I	PRP
+Doing	VDG	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	Doing	VBG
+It	PPH1	Z8	It	PRP
+Then	RT	N4 Z5 T1.2	Then	RB
+?	?	""	?	.
+5	MC	N1	5	CD
+Basic	JJ	Y2	Basic	JJ
+Things	NN2	O2 X4.1 A7- S2mf L2mf	Things	NNS
+To	II	Z5	To	TO
+Watch	NN1	X3.4[i4.2.1 A1.3+[i4.2.1 T1/O2 M4	Watch	VB
+Out	RP	X3.4[i4.2.2 A1.3+[i4.2.2 M6	Out	IN
+What	DDQ	Z8 Z5	What	WP
+Is	VBZ	A3+ Z5	Is	VBZ
+a	AT1	Z5	a	DT
+Private	JJ	A10- S5- G1.1-	Private	JJ
+Blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	Blog	NNP
+Network	NN1	S5+c Q4.3 Y2	Network	NNP
+?	?	""	?	.
+-----	-----	""	-----	CD
+So	RR	Z5 A13.3	So	CC
+What	DDQ	Z8 Z5	What	WP
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+private	JJ	A10- S5- G1.1-	private	JJ
+blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	blog	NN
+network	NN1	S5+c Q4.3 Y2	network	NN
+or	CC	Z5	or	CC
+PBN	NP1	Z99	PBN	NN
+?	?	""	?	.
+-----	-----	""	-----	CD
+Wikipedia	NN1	Z99	Wikipedia	NNP
+says	VVZ	Q2.1	says	VBZ
+that	CST	Z5 Z8	that	IN
+A	AT1@	Z5	A	DT
+blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	blog	NN
+network	NN1	S5+c Q4.3 Y2	network	NN
+,	,	""	,	,
+also	RR	N5++	also	RB
+known	VVN	X2.2+ S3.2/B1%	known	VBN
+as	II	Z5	as	IN
+a	AT1	Z5	a	DT
+link	NN1	A2.2 S5+ M3 Q1.3 F1 K5.1/M7%	link	NN
+farm	NN1	F4/M7	farm	NN
+,	,	""	,	,
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+group	NN1	S5+c A4.1c B3%	group	NN
+of	IO	Z5	of	IN
+blogs	NN2	Z1mf	blogs	NNS
+that	CST	Z8 Z5	that	WDT
+are	VBR	Z5 A3+	are	VBP
+owned	VVN	A9+	owned	VBN
+by	II	Z5	by	IN
+the	AT	Z5	the	DT
+same	DA	A6.1+++	same	JJ
+entity	NN1	O2 S5+	entity	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+A	AT1	Z5	A	DT
+blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	blog	NN
+network	NN1	S5+c Q4.3 Y2	network	NN
+can	VM	A7+	can	MD
+either	RR	Z5	either	RB
+be	VBI	A3+ Z5	be	VB
+a	AT1	Z5	a	DT
+group	NN1	S5+c A4.1c B3%	group	NN
+of	IO	Z5	of	IN
+loosely	RR	A1.7- A4.2-	loosely	RB
+connected	JJ	A2.2 S5+ M3 A1.1.1	connected	VBN
+blogs	NN2	Z1mf	blogs	NNS
+,	,	""	,	,
+or	CC	Z5	or	CC
+a	AT1	Z5	a	DT
+group	NN1	S5+c A4.1c B3%	group	NN
+of	IO	Z5	of	IN
+blogs	NN2	Z1mf	blogs	NNS
+that	CST	Z8 Z5	that	WDT
+are	VBR	Z5 A3+	are	VBP
+owned	VVN	A9+	owned	VBN
+by	II	Z5	by	IN
+the	AT	Z5	the	DT
+same	DA	A6.1+++	same	JJ
+company	NN1	I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c	company	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+purpose	NN1	X7+ A2.2 A1.5.1	purpose	NN
+of	IO	Z5	of	IN
+such	DA	A13.3[i5.2.1 Z5 Z8	such	PDT
+a	AT1	A13.3[i5.2.2 Z5	a	DT
+network	NN1	S5+c Q4.3 Y2	network	NN
+is	VBZ	A3+ Z5	is	VBZ
+usually	RR	A6.2+	usually	RB
+to	TO	Z5	to	TO
+promote	VVI	S8+ I2.2/Q2.2 S7.1+/A2.1	promote	VB
+the	AT	Z5	the	DT
+other	JJ	A6.1-	other	JJ
+blogs	NN2	Z1mf	blogs	NNS
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+same	DA	A6.1+++	same	JJ
+network	NN1	S5+c Q4.3 Y2	network	NN
+and	CC	Z5	and	CC
+therefore	RR	Z5	therefore	RB
+increase	VV0	N5+/A2.1	increase	VB
+the	AT	Z5	the	DT
+search	NN1	X2.4	search	NN
+engine	NN1	O2 Y2@	engine	NN
+rankings	NN2	A5.1	rankings	NNS
+or	CC	Z5	or	CC
+advertising	NN1	I2.2/Q2.1 X2.2+ A10+	advertising	NN
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+generated	VVN	A2.2 O3	generated	VBN
+from	II	Z5	from	IN
+online	JJ	Y2	online	JJ
+advertising	NN1	I2.2/Q2.1 X2.2+ A10+	advertising	NN
+on	II	Z5	on	IN
+the	AT	Z5	the	DT
+blogs	NN2	Z1mf	blogs	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Thus	RR	Z5/A2.2	Thus	RB
+,	,	""	,	,
+a	AT1	Z5	a	DT
+private	JJ	A10- S5- G1.1-	private	JJ
+blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	blog	NN
+network	NN1	S5+c Q4.3 Y2	network	NN
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+network	NN1	S5+c Q4.3 Y2	network	NN
+owned	VVN	A9+	owned	VBN
+by	II	Z5	by	IN
+one	MC1	N1 T3 T1.2	one	CD
+person	NN1	S2mfc	person	NN
+or	CC	Z5	or	CC
+company	NN1	I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c	company	NN
+and	CC	Z5	and	CC
+is	VBZ	Z5 A3+	is	VBZ
+not	XX	Z6	not	RB
+shared	VVN	S1.1.2+	shared	VBN
+with	IW	Z5	with	IN
+anybody	PN1	Z8mfc	anybody	NN
+else	RR	A6.1- Z4	else	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+advantages	NN2	A5.1+ K5.2	advantages	NNS
+of	IO	Z5	of	IN
+having	VHG	A9+ Z5 A2.2 S4	having	VBG
+a	AT1	Z5	a	DT
+PBN	NP1	Z99	PBN	NNP
+are	VBR	A3+ Z5	are	VBP
+pretty	RG	A13.5	pretty	RB
+great	JJ	A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3	great	JJ
+:	:	""	:	:
+fast	JJ	N3.8+	fast	JJ
+ranking	NN1	A5.1	ranking	NN
+of	IO	Z5	of	IN
+money	NN1	I1	money	NN
+websites	NN2	Y2	websites	NNS
+;	;	""	;	:
+increased	JJ	N5+/A2.1	increased	VBN
+competitiveness	NN1	S7.3+	competitiveness	NN
+compared	VVN	A6.1 A5.1 Q3	compared	VBN
+to	II	Z5	to	TO
+the	AT	Z5	the	DT
+other	JJ	A6.1-	other	JJ
+websites	NN2	Y2	websites	NNS
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+niche	NN1	O2 I3.1	niche	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Meanwhile	RR	T1.1.2	Meanwhile	RB
+,	,	""	,	,
+the	AT	Z5	the	DT
+disadvantages	NN2	A5.1-	disadvantages	NNS
+are	VBR	A3+ Z5	are	VBP
+pretty	RG	A13.5	pretty	RB
+horrible	JJ	O4.2-	horrible	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+There	EX	Z5	There	EX
+is	VBZ	A3+ Z5	is	VBZ
+only	RR	A14	only	RB
+one	MC1	N1 T3 T1.2	one	CD
+disadvantage	NN1	A5.1-	disadvantage	NN
+in	II	A5.2+[i6.2.1 Z5	in	IN
+fact	NN1	A5.2+[i6.2.2 A5.2+ X2.2	fact	NN
+:	:	""	:	:
+if	CS	Z7	if	IN
+Google	NP1	A4.1 T1.2 X2.4 O2 Y2@	Google	NNP
+finds	VVZ	X2.3+[i7.2.1 A10+ X2.1 X6+	finds	VBZ
+out	RP	X2.3+[i7.2.2 M6	out	RP
+about	II	Z5	about	IN
+it	PPH1	Z8	it	PRP
+,	,	""	,	,
+it	PPH1	Z8	it	PRP
+will	VM	T1.1.3	will	MD
+deindex	VVI	Z99	deindex	VB
+PBN	NP1	Z99	PBN	NNP
+and	CC	Z5	and	CC
+strip	VVI	B5- A1.1.1 A9-	strip	VB
+your	APPGE	Z8	your	PRP$
+money	NN1	I1	money	NN
+website	NN1	Y2	website	NN
+from	II	Z5	from	IN
+ranking	VVG	A5.1	ranking	VBG
+so	RG	A13.3	so	RB
+all	DB	N5.1+	all	RB
+your	APPGE	Z8	your	PRP$
+hard	JJ	A12-[i8.2.1 O4.5 A12- S1.2.5+ O4.1	hard	JJ
+work	NN1	A12-[i8.2.2 I3.1 A1.1.1 Q4 K2 C1	work	NN
+will	VM	T1.1.3	will	MD
+go	VVI	M1[i9.2.1 E2[i9.2.1 N5-/A2.1[i9.2.1 S7.1-/A2.1[i9.2.1 A1.1.1[i9.2.1 B2-[i9.2.1 P1%[i9.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	go	VB
+down	RP	M1[i9.2.2 E2[i9.2.2 N5-/A2.1[i9.2.2 S7.1-/A2.1[i9.2.2 A1.1.1[i9.2.2 B2-[i9.2.2 P1%[i9.2.2	down	RP
+the	AT	Z5	the	DT
+sewage	NN1	O1.2/O4.2-	sewage	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Google	VV0	X2.4 M1	Google	NNP
+And	CC	Z5	And	CC
+PBN	NP1	Z1mf[i10.2.1 Z3c[i10.2.1	PBN	NNP
+Google	NP1	Z1mf[i10.2.2 Z3c[i10.2.2	Google	NNP
+has	VHZ	Z5 A9+ A2.2 S4	has	VBZ
+never	RR	T1/Z6	never	RB
+liked	VVN	E2+	liked	VBN
+PBNs	NP1	Z99	PBNs	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+This	DD1	M6 Z5 Z8	This	DT
+way	NN1	X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3	way	NN
+of	IO	Z5	of	IN
+ranking	VVG	A5.1	ranking	JJ
+websites	NN2	Y2	websites	NNS
+has	VHZ	Z5 A9+ A2.2 S4	has	VBZ
+been	VBN	Z5 A3+	been	VBN
+always	RR	N6+++	always	RB
+considered	VVN	X2.1 X2.4 X6	considered	VBN
+to	TO	Z5	to	TO
+be	VBI	A3+ Z5	be	VB
+a	AT1	Z5	a	DT
+gray	JJ	O4.3	gray	JJ
+/	FO	Z5	/	:
+black	JJ	O4.3 G2.2- A5.1- E4.1- S5+	black	JJ
+hat	NN1	B5 I3.1@	hat	NN
+SEO	NN1	Z99	SEO	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+If	CS	Z7	If	IN
+Google	NP1	A4.1 T1.2 X2.4 O2 Y2@	Google	NNP
+finds	VVZ	X2.3+[i11.2.1 A10+ X2.1 X6+	finds	VBZ
+out	RP	X2.3+[i11.2.2 M6	out	RP
+that	CST	Z5 Z8	that	IN
+blogs	NN2	Z1mf	blogs	NNS
+exist	VV0	A3+	exist	VBP
+only	RR	A14	only	RB
+to	TO	Z5	to	TO
+improve	VVI	A5.1+/A2.1	improve	VB
+ranking	NN1	A5.1	ranking	NN
+of	IO	Z5	of	IN
+some	DD	N5 Z5	some	DT
+other	JJ	A6.1-	other	JJ
+website	NN1	Y2	website	NN
+,	,	""	,	,
+that	DD1	Z5 Z8	that	WDT
+website	NN1	Y2	website	NN
+will	VM	T1.1.3	will	MD
+get	VVI	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	get	VB
+a	AT1	Z5	a	DT
+serious	JJ	A11.1+ A15- E4.1-	serious	JJ
+penalty	NN1	G2.1 I1.3 K5.1	penalty	NN
+(	(	""	(	NN
+by	II	Z5	by	IN
+being	VBG	Z5 A3+	being	VBG
+pushed	VVN	M2 M1 S7.1+ X8+ I2.2 F3 I3.1-	pushed	VBN
+waaay	VV0	Z99	waaay	NN
+back	RP	M6 N6+ T1.1.1 S1.1.2+	back	RB
+down	II@	Z5	down	IN
+the	AT	Z5	the	DT
+search	NN1	X2.4	search	NN
+results	NN2	A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2	results	VBZ
+)	)	""	)	NN
+and	CC	Z5	and	CC
+the	AT	Z5	the	DT
+blogs	NN2	Z1mf	blogs	NNS
+will	VM	T1.1.3	will	MD
+get	VVI	A2.1+ A9+ Z5 X9.2+ A2.2 M1 M2 X2.5+ E4.1-	get	VB
+deindexed	JJ@	Z99	deindexed	VBN
+.	.	""	.	.
+-----	-----	""	-----	CD
+So	RR	Z5 A13.3	So	RB
+,	,	""	,	,
+the	AT	Z5	the	DT
+main	JJ	A11.1+ N5+++	main	JJ
+goal	NN1	K5.1 X7+	goal	NN
+here	RL	M6 T1.1.2 T1.2	here	RB
+is	VBZ	A3+ Z5	is	VBZ
+to	TO	Z5	to	TO
+over-play	VVI	F1 S2/E2+mf K4/S2mf Y2 B3@ Z8 Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 N5.2+ K5 K4 A5.4- G2.1 P1% T1.1.2 A8 K5.1 K1 K5.2 K2 K3 K6	over-play	VB
+Google	NN1	A4.1 T1.2 X2.4 O2 Y2@	Google	NNP
+by	II	Z5	by	IN
+hiding	VVG	A10-	hiding	VBG
+the	AT	Z5	the	DT
+true	JJ	A5.2+ A5.4+	true	JJ
+nature	NN1	W5 A4.1 S1.2 A6.2+	nature	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+blogs	NN2	Z1mf	blogs	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+As	CSA	Z5	As	IN
+one	MC1	N1 T3 T1.2	one	CD
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+recent	JJ	T3-	recent	JJ
+examples	NN2	A4.1	examples	NNS
+comes	VVZ	M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2	comes	VBZ
+a	AT1	Z5	a	DT
+story	NN1	Q2.1 X4.1 Q4	story	NN
+by	II	Z5	by	IN
+Matthew	NP1	Z1m S9/O1.2	Matthew	NNP
+from	II	Z5	from	IN
+DumbPassiveIncome.com	NP1	Z99	DumbPassiveIncome.com	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+In	II	Z5	In	IN
+October	NPM1	T1.3[i12.2.1 T1.3	October	NNP
+last	MD	T1.3[i12.2.2 T1.1.1[i14.2.1 N4 T1.3[i13.2.1 P1/S2mf[i13.2.1	last	JJ
+year	NNT1	T1.1.1[i14.2.2 T1.3 P1c T1.3[i13.2.2 P1/S2mf[i13.2.2	year	NN
+,	,	""	,	,
+he	PPHS1	Z8m	he	PRP
+lost	VVD	X9.2- A9- M6/A5.3- L1-	lost	VBD
+4	MC	N1 T1.2 T3 T1.3 N3.2	4	CD
+(	(	""	(	CD
+four	MC	N1 T3 T1.2	four	CD
+!	!	""	!	.
+)	)	""	)	CD
+of	IO	Z5	of	IN
+his	APPGE	Z8m	his	PRP$
+niche	NN1	O2 I3.1	niche	NN
+website	NN1	Y2	website	NN
+in	II	Z5	in	IN
+one	MC1	T1.1.3[i15.2.1 T1.1.1[i15.2.1 N1 T3 T1.2	one	CD
+day	NNT1	T1.1.3[i15.2.2 T1.1.1[i15.2.2 T1.3	day	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Horrible	JJ	O4.2-	Horrible	JJ
+,	,	""	,	,
+isnt	VV0	Z99	isnt	VB
+it	PPH1	Z8	it	PRP
+?	?	""	?	.
+-----	-----	""	-----	CD
+Matthew	NP1	Z1m S9/O1.2	Matthew	NNP
+suspects	VVZ	X2.1/A5.1- A7	suspects	VBZ
+that	CST	Z5 Z8	that	IN
+the	AT	Z5	the	DT
+reason	NN1	A2.2 X2.1	reason	NN
+was	VBDZ	A3+ Z5	was	VBD
+partially	RR	A13.6	partially	RB
+a	AT1	Z5	a	DT
+PBN	NP1	Z99	PBN	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+He	PPHS1	Z8m	He	PRP
+shared	VVD	S1.1.2+	shared	VBD
+his	APPGE	Z8m	his	PRP$
+blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	blog	NN
+network	NN1	S5+c Q4.3 Y2	network	NN
+with	IW	Z5	with	IN
+other	JJ	A6.1-	other	JJ
+webmasters	NN2	Y1/S2mf X9.1+/S2mf	webmasters	NNS
+and	CC	Z5	and	CC
+allowed	VVD	S7.4+ S8+ X2.1	allowed	VBD
+them	PPHO2	Z8mfn	them	PRP
+to	TO	Z5	to	TO
+host	VVI	S1.1.1	host	VB
+his	APPGE	Z8m	his	PRP$
+links	NN2	A2.2 S5+ M3 Q1.3 F1 K5.1/M7%	links	NNS
+on	II	Z5	on	IN
+their	APPGE	Z8	their	PRP$
+blogs	NN2	Z1mf	blogs	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Meaning	VVG	Q1.1 X7+	Meaning	VBG
+his	APPGE	Z8m	his	PRP$
+blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	blog	NN
+network	NN1	S5+c Q4.3 Y2	network	NN
+was	VBDZ	A3+ Z5	was	VBD
+not	XX	Z6	not	RB
+private	JJ	A10- S5- G1.1-	private	JJ
+anymore	RR	Z5	anymore	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+Eventually	RR	N4	Eventually	RB
+,	,	""	,	,
+Matthew	NP1	Z1m S9/O1.2	Matthew	NNP
+lost	VVD	X5.1-[i16.2.1 X9.2- A9- M6/A5.3- L1-	lost	VBD
+track	NN1	X5.1-[i16.2.2 M3 O2 K3 A4.1 X4.1 K5.1/M7	track	NN
+of	IO	Z5	of	IN
+his	APPGE	Z8m	his	PRP$
+blackhat	NN1	Z99	blackhat	NN
+buddies	NN2	S3.1mf	buddies	NNS
+and	CC	Z5	and	CC
+their	APPGE	Z8	their	PRP$
+blogs	NN2	Z1mf	blogs	NNS
+and	CC	Z5	and	CC
+thus	RR	Z5/A2.2	thus	RB
+,	,	""	,	,
+he	PPHS1	Z8m	he	PRP
+lost	VVD	X9.2- A9- M6/A5.3- L1-	lost	VBD
+control	NN1	S7.1+ A1.7+ O2	control	NN
+over	II	Z5	over	IN
+what	DDQ	Z8 Z5	what	WP
+was	VBDZ	Z5 A3+	was	VBD
+happening	VVG	A2.1+ A3+ X7-	happening	VBG
+with	IW	Z5	with	IN
+a	AT1	Z5	a	DT
+crucial	JJ	A11.1+	crucial	JJ
+part	NN1	N5.1- O2 M7 I3.1 S1.1.3+ K4	part	NN
+of	IO	Z5	of	IN
+his	APPGE	Z8m	his	PRP$
+money-making	JJ	I1.1+	money-making	JJ
+machine	NN1	O2 Y2	machine	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Because	II21	A2.2[i17.2.1	Because	IN
+of	II22	A2.2[i17.2.2	of	IN
+that	DD1	Z8 Z5	that	DT
+,	,	""	,	,
+troubles	NN2	E6- A12- B2- E3- X8+ O4.2-	troubles	NNS
+had	VHD	Z5 A9+ A2.2 S4	had	VBD
+eventually	RR	N4	eventually	RB
+found	VVN	A10+ X2.1 X6+.1	found	VBN
+him	PPHO1	Z8m	him	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Read	VV0	Q3 Q1.2 X3.2+ X2.5+ P1 A10+	Read	VB
+the	AT	Z5	the	DT
+full	JJ	N5.1+ I3.2+	full	JJ
+story	NN1	Q2.1 X4.1 Q4	story	NN
+here	RL	M6 T1.1.2 T1.2	here	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+So	RR	Z5 A13.3	So	IN
+no	UH	Z4	no	DT
+,	,	""	,	,
+this	DD1	Z8 M6 Z5	this	DT
+is	VBZ	A3+ Z5	is	VBZ
+not	XX	Z6	not	RB
+a	AT1	Z5	a	DT
+game	NN1	K5.1 K5.2 X7+ A1.1.1 L2 F1	game	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Why	RRQ	A2.2	Why	WRB
+Am	VBM	Z5 A3+	Am	VBP
+I	PPIS1	Z8mf	I	PRP
+Doing	VDG	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	Doing	VBG
+It	PPH1	Z8	It	PRP
+Then	RT	N4 Z5 T1.2	Then	RB
+?	?	""	?	.
+-----	-----	""	-----	CD
+There	EX	Z5	There	EX
+are	VBR	A3+ Z5	are	VBP
+two	MC	N1 T3 T1.2	two	CD
+reasons	NN2	A2.2 X2.1	reasons	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+First	MD	N4[i18.3.1 N4	First	NNP
+of	IO	N4[i18.3.2 Z5	of	IN
+all	DB	N4[i18.3.3 N5.1+	all	DT
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+want	VV0	X7+ S6+ A7+ S3.2 A9-	want	VBP
+my	APPGE	Z8	my	PRP$
+money	NN1	I1	money	NN
+websites	NN2	Y2	websites	NNS
+(	(	""	(	VBP
+the	AT	Z5	the	DT
+ones	NN2	Z8	ones	NNS
+I	PPIS1	Z8mf	I	PRP
+am	VBM	Z5 A3+	am	VBP
+building	VVG@	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	building	VBG
+myself	PPX1	Z8mf	myself	PRP
+)	)	""	)	CD
+to	TO	Z5	to	TO
+actually	RR	A5.4+ A14	actually	RB
+make	VVI	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+money	NN1	I1	money	NN
+:	:	""	:	:
+)	)	""	)	CD
+Without	IW	Z5	Without	IN
+a	AT1	Z5	a	DT
+PBN	NP1	Z99	PBN	NNP
+in	II	M6[i19.2.1 Z5	in	IN
+place	NN1	M6[i19.2.2 M7 H1 A1.2 P1	place	NN
+,	,	""	,	,
+the	AT	Z5	the	DT
+proper	JJ	A5.4+ A1.2+ A5.3+ S1.2.4+	proper	JJ
+ranking	NN1	A5.1	ranking	NN
+will	VM	T1.1.3	will	MD
+take	VVI	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@	take	VB
+a	AT1	N5+[i20.2.1 N6+[i20.2.1 A13.3[i20.2.1 Z5	a	DT
+lot	NN1	N5+[i20.2.2 N6+[i20.2.2 A13.3[i20.2.2	lot	NN
+of	IO	Z5	of	IN
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+,	,	""	,	,
+and	CC	Z5	and	CC
+maybe	RR	A7	maybe	RB
+the	AT	Z5	the	DT
+websites	NN2	Y2	websites	NNS
+will	VM	T1.1.3	will	MD
+never	RR	T1/Z6	never	RB
+be	VBI	A3+ Z5	be	VB
+able	JK	X9.1+	able	JJ
+to	TO	Z5	to	TO
+reach	VVI	M1 N3.3 Q2.1 X9.2+	reach	VB
+the	AT	Z5	the	DT
+1st	MD	N4 T1.3	1st	JJ
+page	NN1	Q1.2 Q2.2 S7.1-/S2.2m	page	NN
+of	IO	Z5	of	IN
+search	NN1	X2.4	search	NN
+results	NN2	A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2	results	NNS
+because	CS	Z5/A2.2	because	IN
+their	APPGE	Z8	their	PRP$
+competition	NN1	K1 S7.3+	competition	NN
+uses	VVZ	A1.5.1 S7.1+	uses	VBZ
+PBNs	NP1	Z99	PBNs	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Second	MD	N4	Second	JJ
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+also	RR	N5++	also	RB
+curious	JJ	X5.2+ A6.2-	curious	JJ
+:	:	""	:	:
+)	)	""	)	CD
+I	PPIS1	Z4[i21.2.1 Z8mf	I	PRP
+see	VV0	Z4[i21.2.2 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VBP
+it	PPH1	Z8	it	PRP
+as	II	Z5	as	IN
+a	AT1	Z5	a	DT
+challenge	NN1	A12- A6.1- S7.3+ E3-	challenge	NN
+and	CC	Z5	and	CC
+as	II	Z5	as	IN
+a	AT1	Z5	a	DT
+valuable	JJ	I1.3+ A1.5.2+	valuable	JJ
+learning	NN1	P1[i22.2.1 X2.3+ P1	learning	NN
+experience	NN1	P1[i22.2.2 X9.1+ X2.2 X3 I3.2	experience	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+want	VV0	X7+ S6+ A7+ S3.2 A9-	want	VBP
+to	TO	Z5	to	TO
+try	VVI	X2.4[i23.2.1 X8+ X2.4 Q2.2 G2.1 A12-	try	VB
+it	PPH1	Z8	it	PRP
+out	RP	X2.4[i23.2.2 M6	out	RP
+and	CC	Z5	and	CC
+see	VVI	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VB
+how	RRQ	Z5 A13.3	how	WRB
+it	PPH1	Z8	it	PRP
+works	VVZ	I3.1 A1.1.1 X9.2+ A2.2	works	VBZ
+and	CC	Z5	and	CC
+how	RRQ	Z5 A13.3	how	WRB
+it	PPH1	Z8	it	PRP
+does	VDZ	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	does	VBZ
+not	XX	Z6	not	RB
+to	TO	Z5	to	TO
+gain	VVI	A9+ N5+/A2.1	gain	VB
+an	AT1	Z5	an	DT
+understanding	NN1	X2.5+	understanding	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+PBN	NP1	Z99	PBN	NNP
+building	NN1	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	building	NN
+mechanism	NN1	O2	mechanism	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Many	DA2	N5+	Many	JJ
+niche	NN1	O2 I3.1	niche	NN
+webmasters	NN2	Y1/S2mf X9.1+/S2mf	webmasters	NNS
+start	VV0	T2+ E5- E3-	start	VBP
+saying	VVG	Q2.1 Z4%	saying	VBG
+no	UH	Z4	no	DT
+to	II	Z5	to	TO
+PBN	NP1	Z99	PBN	NNP
+after	II	Z5	after	IN
+experiencing	VVG	X3 A1.1.1	experiencing	VBG
+deindexing	JJ@	Z99	deindexing	NN
+and	CC	Z5	and	CC
+losing	VVG	X9.2- A9- M6/A5.3- L1-	losing	VBG
+ranking	NN1	A5.1	ranking	NN
+of	IO	Z5	of	IN
+their	APPGE	Z8	their	PRP$
+money	NN1	I1	money	NN
+websites	NN2	Y2	websites	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+think	VV0	X2.1	think	VBP
+it	PPH1	Z8	it	PRP
+will	VM	T1.1.3	will	MD
+happen	VVI	A1.4[i24.2.1 A2.1+ A3+ X7-	happen	VB
+to	II@	A1.4[i24.2.2 Z5	to	TO
+me	PPIO1	Z8mf	me	PRP
+too	RR@	N5++	too	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+But	CCB	Z5	But	CC
+I	PPIS1	Z8mf	I	PRP
+kinda	RR	A13.4	kinda	VBP
+hope	VV0	X2.6+ E4.1+ X9.2+ A5.1+	hope	NN
+to	TO	Z5	to	TO
+be	VBI	A3+ Z5	be	VB
+luckier	JJR	A1.4+	luckier	JJR
+or	CC	Z5	or	CC
+maybe	RR	A7	maybe	RB
+care	VV0	E6- E2+ S8+ B3 X7+	care	VB
+more	DAR	N5++	more	RBR
+(	(	""	(	JJ
+hehe	VV0	Z99	hehe	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+probably	RR	A7+	probably	RB
+overconfident	JJ	S1.2.3+ A5.1+ A7+ N2 E6+ S2mf	overconfident	JJ
+!	!	""	!	.
+)	)	""	)	CD
+and	CC	Z5	and	CC
+postpone	VV0	T1.1.3	postpone	VB
+the	AT	Z5	the	DT
+fate	NN1	S9 A7+++/S7.1- A3+/S7.1-	fate	NN
+as	RG	N5.1+++[i26.4.1 A13 A13.4[i25.3.1	as	RB
+much	DA1	N5.1+++[i26.4.2 N5+ I1.3+ A13.4[i25.3.2	much	RB
+as	CSA	N5.1+++[i26.4.3 Z5 A13.4[i25.3.3	as	IN
+possible	JJ	N5.1+++[i26.4.4 A7+	possible	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+5	MC	N1	5	CD
+Basic	JJ	Y2	Basic	JJ
+Things	NN2	O2 X4.1 A7- S2mf L2mf	Things	NNS
+To	II	Z5	To	TO
+Watch	NN1	X3.4[i27.2.1 A1.3+[i27.2.1 T1/O2 M4	Watch	VB
+Out	RP	X3.4[i27.2.2 A1.3+[i27.2.2 M6	Out	IN
+While	CS	Z5	While	IN
+building	VVG@	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	building	VBG
+a	AT1	Z5	a	DT
+PBN	NP1	Z99	PBN	NNP
+,	,	""	,	,
+your	APPGE	Z8	your	PRP$
+main	JJ	A11.1+ N5+++	main	JJ
+goal	NN1	K5.1 X7+	goal	NN
+is	VBZ	A3+ Z5	is	VBZ
+to	TO	Z5	to	TO
+make	VVI	A7+[i28.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+sure	JJ	A7+[i28.2.2 A7+ Z4	sure	JJ
+that	CST	Z5 Z8	that	IN
+all	DB	N5.1+	all	PDT
+the	AT	Z5	the	DT
+blogs	NN2	Z1mf	blogs	NNS
+look	VV0	A6.1+[i29.2.1 A8 X3.4 X2.4 X7+ Z4	look	VBP
+like	CS	A6.1+[i29.2.2 Z5	like	IN
+they	PPHS2	Z8mfn	they	PRP
+were	VBDR	Z5 A3+	were	VBD
+created	VVN	A1.1.1 A2.2 E1	created	VBN
+by	II	Z5	by	IN
+different	JJ	A6.1-	different	JJ
+people	NN	S2mfc	people	NNS
+who	PNQS	Z8	who	WP
+never	RR	T1/Z6	never	RB
+heard	VVN	X2.2+[i30.2.1 X3.2 X2.3+ G2.1@	heard	VBD
+of	IO	X2.2+[i30.2.2 Z5	of	IN
+each	PPX221	Z8[i31.2.1	each	DT
+other	PPX222	Z8[i31.2.2	other	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+is	VBZ	A3+ Z5	is	VBZ
+technically	RR	Y1 I4 X9.1	technically	RB
+not	XX	Z6	not	RB
+hard	JJ	O4.5 A12- S1.2.5+ O4.1	hard	JJ
+to	TO	Z5	to	TO
+do	VDI	A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5	do	VB
+,	,	""	,	,
+but	CCB	Z5	but	CC
+when	RRQ	Z5	when	WRB
+the	AT	Z5	the	DT
+PBN	NP1	Z99	PBN	NN
+starts	VVZ	T2+ E5- E3-	starts	VBZ
+growing	VVG	N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4	growing	VBG
+beyond	II	Z5	beyond	IN
+10	MC	N1 T1.2 T3 T1.3 N3.2	10	CD
+blogs	NN2	Z1mf	blogs	NNS
+,	,	""	,	,
+it	PPH1	Z8	it	PRP
+eventually	RR	N4	eventually	RB
+becomes	VVZ	A2.1+ O4.2+	becomes	VBZ
+a	AT1	Z5	a	DT
+tedious	JJ	X5.2-	tedious	JJ
+task	NN1	A1.1.1	task	NN
+that	CST	Z8 Z5	that	WDT
+is	VBZ	A3+ Z5	is	VBZ
+hard	JJ	O4.5 A12- S1.2.5+ O4.1	hard	JJ
+to	TO	Z5	to	TO
+keep	VVI	X2.4[i32.3.1 A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4	keep	VB
+track	NN1	X2.4[i32.3.2 M3 O2 K3 A4.1 X4.1 K5.1/M7	track	NN
+of	IO	X2.4[i32.3.3 Z5	of	IN
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+traces	NN2	A11.2+ N5- X2.4	traces	NNS
+or	CC	Z5	or	CC
+footprints	VVZ	O4.4 Q1.1	footprints	NNS
+you	PPY	Z8mf	you	PRP
+leave	VV0	M1 M2 A1.1.1 A1.9 A9- T2-	leave	VBP
+may	VM	A7+	may	MD
+be	VBI	A3+ Z5	be	VB
+a	AT1	Z5	a	DT
+good	JJ	A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+	good	JJ
+indicator	NN1	A10+ O2 M3/O4.3	indicator	NN
+that	CST	Z5 Z8	that	IN
+the	AT	Z5	the	DT
+blogs	NN2	Z1mf	blogs	NNS
+were	VBDR	Z5 A3+	were	VBD
+built	VVN	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	built	VBN
+by	II	Z5	by	IN
+one	MC1	N1 T3 T1.2	one	CD
+person	NN1	S2mfc	person	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+This	DD1	Z8 M6 Z5	This	DT
+can	VM	A7+	can	MD
+and	CC	Z5	and	CC
+will	VM	T1.1.3	will	MD
+be	VBI	Z5 A3+	be	VB
+used	VVN	A1.5.1 S7.1+	used	VBN
+by	II	Z5	by	IN
+Google	NP1	A4.1 T1.2 X2.4 O2 Y2@	Google	NNP
+to	TO	Z5	to	TO
+crack	VVI	A1.1.2 X3.2 X9.2+ B2-/X1 Q2.2/E4.1+	crack	VB
+your	APPGE	Z8	your	PRP$
+private	JJ	A10- S5- G1.1-	private	JJ
+blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	blog	NN
+network	NN1	S5+c Q4.3 Y2	network	NN
+down	RP	Z5 M6 N4 N5-- E4.1- S7.1- N3.1 Q1.2 O1.1 L2 Z1mf F1/B1 A1.1.1	down	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+So	RR	Z5 A13.3	So	RB
+,	,	""	,	,
+the	AT	Z5	the	DT
+majority	NN1	N5+++c	majority	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+work	NN1	I3.1 A1.1.1 Q4 K2 C1	work	NN
+of	IO	Z5	of	IN
+building	VVG@	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	building	NN
+private	JJ	A10- S5- G1.1-	private	JJ
+blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	blog	NN
+network	NN1	S5+c Q4.3 Y2	network	NN
+is	VBZ	A3+ Z5	is	VBZ
+about	II	Z5	about	IN
+how	RRQ	Z5 A13.3	how	WRB
+to	TO	Z5	to	TO
+avoid	VVI	A1.9 M1	avoid	VB
+making	VVG	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	making	VBG
+these	DD2	Z5 Z8	these	DT
+footprints	NN2	O4.4 Q1.1	footprints	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Ive	NP1@	Z99	Ive	NN
+learned	VVD	X2.3+ P1	learned	VBD
+that	CST	Z8 Z5	that	IN
+I	PPIS1	Z8mf	I	PRP
+have	VH0	S6+[i33.2.1 A9+ Z5 A2.2 S4	have	VBP
+to	TO	S6+[i33.2.2 Z5	to	TO
+take	VVI	S8+[i34.3.1 A1.1.1[i34.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@	take	VB
+care	NN1	S8+[i34.3.2 A1.1.1[i34.3.2 S8+ G1.1/S8+ B3 A1.3 E6-	care	NN
+of	IO	S8+[i34.3.3 A1.1.1[i34.3.3 Z5	of	IN
+many	DA2	N5+	many	JJ
+things	NN2	O2 X4.1 A7- S2mf L2mf	things	NNS
+including	II	A1.8+	including	VBG
+these	DD2	Z5 Z8	these	DT
+5	MC	N1	5	CD
+:	:	""	:	:
+each	DD1	N5.1+	each	DT
+blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	blog	NN
+on	II	Z5	on	IN
+a	AT1	Z5	a	DT
+PBN	NP1	Z99	PBN	NNP
+must	VM	S6+ A7+	must	MD
+have	VHI	A9+ Z5 A2.2 S4	have	VB
+a	AT1	Z5	a	DT
+different	JJ	A6.1-	different	JJ
+IP	NN1	Y2	IP	NNP
+address	NN1	H4 Q2.2	address	NN
+;	;	""	;	:
+blogs	NN2	Z1mf	blogs	NNS
+have	VH0	S6+[i35.2.1 A9+ Z5 A2.2 S4	have	VBP
+to	TO	S6+[i35.2.2 Z5	to	TO
+differ	VVI	A6.1-	differ	VB
+from	II	Z5	from	IN
+each	PPX221	Z8[i36.2.1	each	DT
+other	PPX222	Z8[i36.2.2	other	JJ
+on	II	Z5	on	IN
+every	AT1	N5.1+	every	DT
+possible	JJ	A7+	possible	JJ
+level	NN1	N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1	level	NN
+:	:	""	:	:
+domain	NN1	X4.1 A9+ Y2	domain	NN
+registration	NN1	Q1.2/G1.1	registration	NN
+date	NN1	T1.2 S3.2 S3.2/S2mf	date	NN
+,	,	""	,	,
+domain	NN1	X4.1 A9+ Y2	domain	NN
+WhoIs	NP1	Z99	WhoIs	NNS
+info	NN1	X2.2+	info	NN
+,	,	""	,	,
+website	NN1	Y2	website	NN
+structure	NN1	O4.1 H1 S7.1 O2 A4.1 X4.2 B1	structure	NN
+,	,	""	,	,
+content	NN1	Q2.1 A1.8+ N5 E4.1+%	content	NN
+,	,	""	,	,
+etc	RA	Z4	etc	NN
+;	;	""	;	:
+each	DD1	N5.1+	each	DT
+blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	blog	NN
+must	VM	S6+ A7+	must	MD
+have	VHI	A9+ Z5 A2.2 S4	have	VB
+one	MC1	N1 T3 T1.2	one	CD
+and	CC	Z5	and	CC
+only	JJ	A14	only	RB
+one	MC1	N1 T3 T1.2	one	CD
+link	NN1	A2.2 S5+ M3 Q1.3 F1 K5.1/M7%	link	NN
+to	II	Z5	to	TO
+a	AT1	Z5	a	DT
+money	NN1	I1	money	NN
+website	NN1	Y2	website	NN
+;	;	""	;	:
+each	DD1	N5.1+	each	DT
+blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	blog	NN
+must	VM	S6+ A7+	must	MD
+have	VHI	A9+ Z5 A2.2 S4	have	VB
+other	JJ	A6.1-	other	JJ
+links	NN2	A2.2 S5+ M3 Q1.3 F1 K5.1/M7%	links	NNS
+to	II	Z5	to	TO
+low	JJ	N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1-	low	JJ
+authority	NN1	G1.1c S7.1+ S7.4+ X2.2+	authority	NN
+websites	NN2	Y2	websites	NNS
+to	TO	Z5	to	TO
+make	VVI	X9.2+[i37.2.1 M1[i37.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+it	PPH1	X9.2+[i37.2.2 M1[i37.2.2 Z8	it	PRP
+look	VVI	A6.2+/A8[i38.2.1 A8 X3.4 X2.4 X7+ Z4	look	VB
+more	RGR	A13.3	more	RBR
+natural	JJ	A6.2+/A8[i38.2.2 A6.2+ A9+ A5.4+ W3 W5 B1 K2	natural	JJ
+and	CC	Z5	and	CC
+hide	VV0	A10-	hide	VB
+links	NN2	A2.2 S5+ M3 Q1.3 F1 K5.1/M7%	links	NNS
+to	II	Z5	to	TO
+money	NN1	I1	money	NN
+websites	NN2	Y2	websites	NNS
+;	;	""	;	:
+blogs	NN2	Z1mf	blogs	NNS
+should	VM	S6+ A7+	should	MD
+stay	VVI	M8 T2++ H4	stay	VB
+alive	JJ	L1+ X5.2+	alive	JJ
+by	II	Z5	by	IN
+having	VHG	A9+ Z5 A2.2 S4	having	VBG
+more	DAR	N5++	more	JJR
+posts	NN2	Q1.2 O2 I3.1 M6	posts	NNS
+published	VVN	Q4	published	VBN
+and	CC	Z5	and	CC
+software	NN1	Y2	software	NN
+updates	NN2	T1.1.2/Q1.1	updates	NNS
+installed	VVD	A1.1.1 S1.1.1	installed	VBN
+.	.	""	.	.
+-----	-----	""	-----	CD
+How	RGQ@	Z5 A13.3	How	WRB
+exactly	RR	A4.2+ A5.3+	exactly	RB
+I	PPIS1	Z8mf	I	PRP
+am	VBM	Z5 A3+	am	VBP
+executing	VVG	L1- A1.1.1	executing	VBG
+on	II	Z5	on	IN
+that	DD1	Z8 Z5	that	DT
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+will	VM	T1.1.3	will	MD
+write	VVI	Q1.2 I2.1	write	VB
+in	II	Z5	in	IN
+my	APPGE	Z8	my	PRP$
+next	MD	N4	next	JJ
+posts	NN2	Q1.2 O2 I3.1 M6	posts	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+As	CSA	Z5	As	IN
+you	PPY	Z8mf	you	PRP
+saw	VVD	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2	saw	VBD
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+wrote	VVD	Q1.2 I2.1	wrote	VBD
+not	XX	Z6	not	RB
+shared	VVN	S1.1.2+	shared	VBN
+with	IW	Z5	with	IN
+anybody	PN1	Z8mfc	anybody	NN
+else	RR	A6.1- Z4	else	RB
+as	II	Z5	as	IN
+a	AT1	Z5	a	DT
+part	NN1	N5.1- O2 M7 I3.1 S1.1.3+ K4	part	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+definition	NN1	Q2.2 O4.1	definition	NN
+of	IO	Z5	of	IN
+a	AT1	Z5	a	DT
+PBN	NP1	Z99	PBN	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+This	DD1	Z8 M6 Z5	This	DT
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+very	RG	A13.3	very	RB
+important	JJ	A11.1+	important	JJ
+part	NN1	N5.1- O2 M7 I3.1 S1.1.3+ K4	part	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Each	DD1	N5.1+	Each	DT
+blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	blog	NN
+in	II	Z5	in	IN
+a	AT1	Z5	a	DT
+PBN	NP1	Z99	PBN	NNP
+has	VHZ	S6+[i39.2.1 A9+ Z5 A2.2 S4	has	VBZ
+to	TO	S6+[i39.2.2 Z5	to	TO
+have	VHI	A9+ Z5 A2.2 S4	have	VB
+one	MC1	N1 T3 T1.2	one	CD
+and	CC	Z5	and	CC
+only	JJ	A14	only	RB
+one	MC1	N1 T3 T1.2	one	CD
+link	NN1	A2.2 S5+ M3 Q1.3 F1 K5.1/M7%	link	NN
+to	II	Z5	to	TO
+a	AT1	Z5	a	DT
+money	NN1	I1	money	NN
+website	NN1	Y2	website	NN
+,	,	""	,	,
+and	CC	Z5	and	CC
+it	PPH1	Z8	it	PRP
+should	VM	S6+ A7+	should	MD
+be	VBI	A3+ Z5	be	VB
+a	AT1	Z5	a	DT
+link	NN1	A2.2 S5+ M3 Q1.3 F1 K5.1/M7%	link	NN
+to	II	Z5	to	TO
+your	APPGE	Z8	your	PRP$
+money	NN1	I1	money	NN
+website	NN1	Y2	website	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Otherwise	RR	A6.1-	Otherwise	RB
+,	,	""	,	,
+the	AT	Z5	the	DT
+chances	NN2	A1.4 A7+	chances	NNS
+to	TO	Z5	to	TO
+get	VVI	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	get	VB
+caught	VVN	A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3	caught	VBN
+are	VBR	A3+ Z5	are	VBP
+higher	JJR	N3.7++ N5++ A11.1++ S7.1++ A5.1++ T3-- X3.2 G2.2++ E4.1++ I1.3++ O4.2-- O4.6++ S9	higher	JJR
+.	.	""	.	.
+-----	-----	""	-----	CD
+You	PPY	Z8mf	You	PRP
+lose	VV0	X9.2- A9- M6/A5.3- L1-	lose	VBP
+the	AT	Z5	the	DT
+control	NN1	S7.1+ A1.7+ O2	control	NN
+over	II	Z5	over	IN
+your	APPGE	Z8	your	PRP$
+PBN	NP1	Z99	PBN	NN
+who	PNQS	Z8	who	WP
+knows	VVZ	X2.2+ S3.2/B1%	knows	VBZ
+that	CST	Z5 Z8	that	IN
+the	AT	Z5	the	DT
+other	JJ	A6.1-	other	JJ
+guy	NN1	S2.2m O2	guy	NN
+is	VBZ	Z5 A3+	is	VBZ
+doing	VDG	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	doing	VBG
+with	IW	Z5	with	IN
+their	APPGE	Z8	their	PRP$
+money	NN1	I1	money	NN
+website	NN1	Y2	website	NN
+?	?	""	?	.
+-----	-----	""	-----	CD
+If	CS	Z7	If	IN
+you	PPY	Z8mf	you	PRP
+use	VV0	A1.5.1 S7.1+	use	VBP
+a	AT1	Z5	a	DT
+PBN	NP1	Z99	PBN	NNP
+,	,	""	,	,
+you	PPY	Z8mf	you	PRP
+must	VM	S6+ A7+	must	MD
+be	VBI	A3+ Z5	be	VB
+in	II	S7.1+[i40.2.1 Z5	in	IN
+control	NN1	S7.1+[i40.2.2 S7.1+ A1.7+ O2	control	NN
+of	IO	Z5	of	IN
+it	PPH1	Z8	it	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+is	VBZ	A3+ Z5	is	VBZ
+not	XX	Z6	not	RB
+a	AT1	Z5	a	DT
+very	RG	A13.3	very	RB
+good	JJ	A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+	good	JJ
+idea	NN1	X4.1 X7+	idea	NN
+to	TO	Z5	to	TO
+let	VVI	S7.4+ I2.2/H1 T2-	let	VB
+someone	PN1	Z8mfc	someone	NN
+else	RR	A6.1- Z4	else	RB
+handle	VVI	A1.1.1 S7.1+ X9.2+	handle	VB
+it	PPH1	Z8	it	PRP
+without	IW	Z5	without	IN
+giving	VVG	A9- A1.1.1	giving	VBG
+you	PPY	Z8mf	you	PRP
+a	AT1	Z5	a	DT
+proper	JJ	A5.4+ A1.2+ A5.3+ S1.2.4+	proper	JJ
+access	NN1	M1 A9+ A1.1.1	access	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+PBN	NP1	Z99	PBN	NNP
+is	VBZ	Z5 A3+	is	VBZ
+meant	VVN	Q1.1 X7+ S6+	meant	VBN
+to	TO	Z5	to	TO
+be	VBI	Z5 A3+	be	VB
+cared	VVN	E6- E2+ S8+ B3 X7+	cared	VBN
+of	IO	Z5	of	IN
+and	CC	Z5	and	CC
+nurtured	VVN	S1.1.1 A1.1.1 E1 S8+	nurtured	VBD
+.	.	""	.	.
+-----	-----	""	-----	CD
+Otherwise	RR	A6.1-	Otherwise	RB
+,	,	""	,	,
+Google	NP1	A4.1 T1.2 X2.4 O2 Y2@	Google	NNP
+will	VM	T1.1.3	will	MD
+come	VVI	M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2	come	VB
+and	CC	Z5	and	CC
+stop	VVI	T2- S8- M8 H4 A1.1.1@	stop	VB
+the	AT	Z5	the	DT
+game	NN1	K5.1 K5.2 X7+ A1.1.1 L2 F1	game	NN
+.	.	""	.	.
+"</text>
+"	NULL	""	</text>	NN

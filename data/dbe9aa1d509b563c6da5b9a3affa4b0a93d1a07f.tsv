@@ -1,0 +1,1433 @@
+token	pos	sem	stanford-token	stanford-pos
+<text>	NULL	""	<text>	JJ
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+Websites	NN2	Y2	Websites	NNPS
+I	PPIS1	Z8mf	I	PRP
+Bought	VVD	I2.2	Bought	VBD
+:	:	""	:	:
+Current	JJ	T1.1.2	Current	JJ
+State	NN1	G1.1c O4.1	State	NNP
+Report	NN1	Q2.2 X3.2	Report	NNP
+And	CC	Z5	And	CC
+Action	NN1	A1.1.1 G3	Action	NNP
+Plan	NN1	X7+ C1/H1	Plan	NNP
+To	II	Z5	To	TO
+Increase	NN1	N5+/A2.1	Increase	VB
+Revenue	NN1	G1.1/I1 I1.1+ Z3c	Revenue	NN
+As	CSA	Z5	As	IN
+you	PPY	Z8mf	you	PRP
+know	VV0	X2.2+ S3.2/B1%	know	VBP
+I	PPIS1	Z8mf	I	PRP
+have	VH0	Z5 A9+ A2.2 S4	have	VBP
+recently	RR	T3---	recently	RB
+bought	VVN	I2.2	bought	VBN
+two	MC	N1 T3 T1.2	two	CD
+websites	NN2	Y2	websites	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Lets	VVZ	S7.4+ I2.2/H1 T2-	Lets	VBZ
+look	NN1	X3.4[i1.2.1 X2.4[i1.2.1 X2.1[i1.2.1 A8 X3.4 X2.4 O4.1	look	NN
+at	II	X3.4[i1.2.2 X2.4[i1.2.2 X2.1[i1.2.2 Z5	at	IN
+their	APPGE	Z8	their	PRP$
+performance	NN1	K4 X9.2 A1.1.1 A12-	performance	NN
+and	CC	Z5	and	CC
+what	DDQ	Z8 Z5	what	WP
+I	PPIS1	Z8mf	I	PRP
+plan	VV0	X7+	plan	VBP
+to	TO	Z5	to	TO
+do	VDI	A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5	do	VB
+to	TO	Z5	to	TO
+increase	VVI	N5+/A2.1	increase	VB
+it	PPH1	Z8	it	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+have	VH0	X2.2-[i2.3.1 X9.1-[i2.3.1 A9+ Z5 A2.2 S4	have	VBP
+no	AT	X2.2-[i2.3.2 X9.1-[i2.3.2 Z6	no	DT
+idea	NN1	X2.2-[i2.3.3 X9.1-[i2.3.3 X4.1 X7+	idea	NN
+how	RRQ	Z5 A13.3	how	WRB
+realistic	JJ	A3+/A1.6 S1.2.6+	realistic	JJ
+my	APPGE	Z8	my	PRP$
+plan	NN1	X7+ C1/H1	plan	NN
+is	VBZ	A3+ Z5	is	VBZ
+so	RR	Z5 A13.3	so	RB
+,	,	""	,	,
+a	AT1	Z5	a	DT
+part	NN1	N5.1- O2 M7 I3.1 S1.1.3+ K4	part	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+plan	NN1	X7+ C1/H1	plan	NN
+is	VBZ	A3+ Z5	is	VBZ
+to	TO	Z5	to	TO
+find	VVI	X2.3+[i3.2.1 A10+ X2.1 X6+	find	VB
+it	PPH1	Z8	it	PRP
+out	RP	X2.3+[i3.2.2 M6	out	RP
+!	!	""	!	.
+-----	-----	""	-----	CD
+:	:	""	:	:
+)	)	""	)	CD
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+sure	JJ	A7+ Z4	sure	JJ
+it	PPH1	Z8	it	PRP
+wont	NN1	A6.2+	wont	VBD
+be	VBI	A3+ Z5	be	VB
+easy	JJ	A12+	easy	JJ
+to	TO	Z5	to	TO
+achieve	VVI	A9+ X9.2+	achieve	VB
+my	APPGE	Z8	my	PRP$
+ambitious	JJ	X7+	ambitious	JJ
+goals	NN2	K5.1 X7+	goals	NNS
+,	,	""	,	,
+and	CC	Z5	and	CC
+it	PPH1	Z8	it	PRP
+will	VM	T1.1.3	will	MD
+require	VVI	X7+ S6+	require	VB
+a	AT1	N5+[i4.2.1 N6+[i4.2.1 A13.3[i4.2.1 Z5	a	DT
+lot	NN1	N5+[i4.2.2 N6+[i4.2.2 A13.3[i4.2.2	lot	NN
+of	IO	Z5	of	IN
+efforts	NN2	X8+ O2	efforts	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+But	CCB	Z5	But	CC
+,	,	""	,	,
+as	CSA	Z5	as	IN
+Kennedy	NP1	Z1mf	Kennedy	NNP
+said	VVD	Q2.1	said	VBD
+We	PPIS2	Z8	We	PRP
+choose	VV0	X7+	choose	VB
+to	TO	Z5	to	TO
+go	VVI	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	go	VB
+to	II	Z5	to	TO
+the	AT	Z5	the	DT
+moon	NN1	W1	moon	NN
+in	II	Z5	in	IN
+this	DD1	M6 Z5 Z8	this	DT
+decade	NNT1	T1.3	decade	NN
+,	,	""	,	,
+not	XX	Z6	not	RB
+because	CS	Z5/A2.2	because	IN
+it	PPH1	Z8	it	PRP
+'	NULL	""	'	''
+s	ZZ1	Z5	s	VBZ
+easy	JJ	A12+	easy	JJ
+,	,	""	,	,
+but	CCB	Z5	but	CC
+because	CS	Z5/A2.2	because	IN
+it	PPH1	Z8	it	PRP
+'	NULL	""	'	''
+s	ZZ1	Z5	s	VBZ
+hard	JJ	O4.5 A12- S1.2.5+ O4.1	hard	JJ
+-	-	""	-	:
+JFK	NP1	Z1m	JFK	NN
+CLICK	VV0	X3.2 Y2 X2.5+ S1.2.1+	CLICK	NN
+TO	TO	Z5	TO	TO
+TWEET	VVI	O4.1 B2+ A5.1+ A13.2 X3.2 Q2.2 A8 N3.1% X8+ T2+ S1.1.2+ M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% E3- N5- A12- N3.2- G2.1-/A9+ M2 S2/N5+ I1/A1.7+ S7.1+ M2/O1.2 A9+/S7.1+ F1 F2 O4.6- Z2/S2mf% O2	TWEET	NNP
+So	RR	Z5 A13.3	So	RB
+,	,	""	,	,
+lets	VVZ	S7.4+ I2.2/H1 T2-	lets	VBZ
+go	VVI	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	go	VB
+to	II	Z5	to	TO
+the	AT	Z5	the	DT
+moon	NN1	W1	moon	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+Table	NN1	H5 Q1.2 N2	Table	NNP
+of	IO	Z5	of	IN
+Contents	NN2	A1.8+ Q2.1	Contents	NNP
+Niche	NN1	O2 I3.1	Niche	NNP
+Website	NN1	Y2	Website	NNP
+#1	NNU	I1	#1	RB
+Revenue	NN1	G1.1/I1 I1.1+ Z3c	Revenue	NN
+Goals	NN2	K5.1 X7+	Goals	NNP
+Action	NN1	A1.1.1 G3	Action	NNP
+Plan	NN1	X7+ C1/H1	Plan	NNP
+Niche	NN1	O2 I3.1	Niche	NNP
+Website	NN1	Y2	Website	NNP
+#2	NNU	I1	#2	NNP
+Revenue	NN1	G1.1/I1 I1.1+ Z3c	Revenue	NNP
+Goals	NN2	K5.1 X7+	Goals	NNP
+Action	NN1	A1.1.1 G3	Action	NNP
+Plan	NN1	X7+ C1/H1	Plan	NNP
+Goal	NN1	K5.1 X7+	Goal	NNP
+Achieving	VVG	A9+ X9.2+	Achieving	NNP
+Guidelines	NN2	S8+	Guidelines	NNS
+Niche	NN1	O2 I3.1	Niche	NNP
+Website	NN1	Y2	Website	NNP
+#1	NNU	I1	#1	RB
+This	DD1	Z8 M6 Z5	This	DT
+is	VBZ	A3+ Z5	is	VBZ
+the	AT	Z5	the	DT
+website	NN1	Y2	website	NN
+I	PPIS1	Z8mf	I	PRP
+bought	VVD	I2.2	bought	VBD
+first	MD	N4	first	RB
+and	CC	Z5	and	CC
+it	PPH1	Z8	it	PRP
+brings	VVZ	M2 A2.2	brings	VBZ
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+main	JJ	A11.1+ N5+++	main	JJ
+part	NN1	N5.1- O2 M7 I3.1 S1.1.3+ K4	part	NN
+of	IO	Z5	of	IN
+my	APPGE	Z8	my	PRP$
+income	NN1	I1.1	income	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+monetizing	NN1@	Z99	monetizing	NN
+is	VBZ	Z5 A3+	is	VBZ
+mostly	RR	A13.2	mostly	RB
+done	VDN	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	done	VBN
+with	IW	Z5	with	IN
+AdSense	NN1	Z99	AdSense	NN
+with	IW	Z5	with	IN
+a	AT1	Z5	a	DT
+bit	NN1	N5- N5.1- O2 Y2	bit	NN
+of	IO	Z5	of	IN
+Amazone	NP1	Z99	Amazone	NNP
+links	VVZ	A2.2 S5+ A1.1.1	links	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Revenue	NN1	G1.1/I1 I1.1+ Z3c	Revenue	NN
+Here	RL	M6 T1.1.2 T1.2	Here	RB
+is	VBZ	A3+ Z5	is	VBZ
+the	AT	Z5	the	DT
+chart	NN1	Q1.2/N2 Q1.2/W1 Q1.2/K3	chart	NN
+showing	VVG	A10+ S1.1.1	showing	VBG
+the	AT	Z5	the	DT
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+I	PPIS1	Z8mf	I	PRP
+am	VBM	Z5 A3+	am	VBP
+getting	VVG	M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1-	getting	VBG
+since	II@	Z5	since	IN
+the	AT	Z5	the	DT
+day	NNT1	T1.3	day	NN
+I	PPIS1	Z8mf	I	CD
+bought	VVD	I2.2	bought	VBD
+it	PPH1	Z8	it	PRP
+(	(	""	(	VBD
+no	AT	Z6	no	DT
+numbers	NN2	N5 N1 Q1.3 K2 Q4.2	numbers	NNS
+for	IF	Z5	for	IN
+December	NPM1	T1.3	December	NNP
+yet	RR	T1.1.2	yet	RB
+)	)	""	)	CD
+.	.	""	.	.
+-----	-----	""	-----	CD
+Website	NN1	Y2	Website	NN
+#1	NNU	I1	#1	RB
+:	:	""	:	:
+Projected	VVN	A10+ X7+ X2.6+ M2 O4.4 X3.2 Q2.2 X2.1	Projected	NNP
+vs	II	F2	vs	CC
+real	JJ	A3+ A5.2+ A5.4+ A13.3	real	JJ
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+As	CSA	Z4[i5.4.1 Z5	As	IN
+you	PPY	Z4[i5.4.2 Z8mf	you	PRP
+can	VM	Z4[i5.4.3 A7+	can	MD
+see	VVI	Z4[i5.4.4 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VB
+,	,	""	,	,
+the	AT	Z5	the	DT
+website	NN1	Y2	website	NN
+did	VDD	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	did	VBD
+not	XX	Z6	not	RB
+reach	VVI	M1 N3.3 Q2.1 X9.2+	reach	VB
+the	AT	Z5	the	DT
+expected	JJ	X2.6+	expected	VBN
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+first	MD	N4	first	JJ
+month	NNT1	T1.3	month	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+There	EX	Z5	There	EX
+are	VBR	A3+ Z5	are	VBP
+two	MC	N1 T3 T1.2	two	CD
+reasons	NN2	A2.2 X2.1	reasons	NNS
+for	IF	Z5	for	IN
+that	DD1	Z8 Z5	that	DT
+.	.	""	.	.
+-----	-----	""	-----	CD
+First	MD	N4	First	NNP
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+did	VDD	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	did	VBD
+not	XX	Z6	not	RB
+have	VHI	A9+ Z5 A2.2 S4	have	VB
+any	DD	N5.1+ N5	any	DT
+Amazon	NN1@	Z2 M7	Amazon	NNP
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+due	II21	A2.2[i6.2.1	due	JJ
+to	II22	A2.2[i6.2.2 Z5	to	TO
+my	APPGE	Z8	my	PRP$
+problems	NN2	A12- X4.1 B2-	problems	NNS
+with	IW	Z5	with	IN
+Amazon	NP1	Z2 M7	Amazon	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Second	MD	N4	Second	JJ
+,	,	""	,	,
+it	PPH1	Z8	it	PRP
+was	VBDZ	A3+ Z5	was	VBD
+my	APPGE	Z8	my	PRP$
+start	NN1	T2+ E5-	start	NN
+of	IO	Z5	of	IN
+working	VVG	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	working	VBG
+with	IW	Z5	with	IN
+AdSense	NP1	Z99	AdSense	NNP
+as	RR21	N5++[i7.2.1	as	RB
+well	RR22	N5++[i7.2.2 A5.1+ A13.3 A7+ B2+ Z4	well	RB
+,	,	""	,	,
+so	CS@	Z5	so	IN
+the	AT	Z5	the	DT
+ads	NN2	I2.2/Q2.1 X2.2+ A10+	ads	NNS
+were	VBDR	Z5 A3+	were	VBD
+running	VVG	M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4	running	VBG
+blank	JJ	O4.1 X9.1- X2.2- G3	blank	NN
+for	IF	Z5	for	IN
+a	AT1	Z5	a	DT
+few	DA2	N5-	few	JJ
+days	NNT2	T1.3	days	NNS
+while	CS	Z5	while	IN
+my	APPGE	Z8	my	PRP$
+AdSense	NN1	Z99	AdSense	NNP
+account	NN1	I1 I1.3 I2.1 Q2.2 Y2	account	NN
+was	VBDZ	A3+ Z5	was	VBD
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+pre-approval	JJ	Z99	pre-approval	JJ
+state	NN1	G1.1c O4.1	state	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+On	II31	M6[i8.3.1 N5++[i8.3.1 X2.2+[i8.3.1 Z5 Z5[i9.3.1	On	IN
+top	II32	M6[i8.3.2 N5++[i8.3.2 X2.2+[i8.3.2 Z5[i9.3.2	top	NN
+of	II33	M6[i8.3.3 N5++[i8.3.3 X2.2+[i8.3.3 Z5[i9.3.3	of	IN
+that	DD1	Z8 Z5	that	IN
+I	PPIS1	Z4[i10.2.1 Z8mf	I	PRP
+suspect	VV0	Z4[i10.2.2 X2.1/A5.1- A7	suspect	VBP
+that	CST	Z8 Z5	that	IN
+after	CS	Z5	after	IN
+the	AT	Z5	the	DT
+ad	NN1	I2.2/Q2.1 X2.2+ A10+	ad	NN
+units	NN2	S5+c O2 H5 H1 N3.1 P1 N1	units	NNS
+were	VBDR	Z5 A3+	were	VBD
+changed	VVN	A2.1+ I1 B5	changed	VBN
+from	II	Z5	from	IN
+the	AT	Z5	the	DT
+sellers	NN2	I2.2/S2mf I2.2/N5+	sellers	NNS
+ones	NN2	Z8	ones	NNS
+to	II	Z5	to	TO
+mine	PPGE	Z8	mine	NN
+,	,	""	,	,
+Google	NP1	A4.1 T1.2 X2.4 O2 Y2@	Google	NNP
+needed	VVD	S6+	needed	VBD
+some	DD	T1.2[i11.2.1 N5 Z5	some	DT
+time	NNT1	T1.2[i11.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+to	TO	Z5	to	TO
+adjust	VVI	A2.1+	adjust	VB
+the	AT	Z5	the	DT
+ads	NN2	I2.2/Q2.1 X2.2+ A10+	ads	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+This	DD1	Z8 M6 Z5	This	DT
+made	VVD	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	made	VBD
+the	AT	Z5	the	DT
+ads	NN2	I2.2/Q2.1 X2.2+ A10+	ads	NNS
+less	RGR	A13.6	less	RBR
+efficient	JJ	X9.1+/I3.2 N3.8+ A1.5.2+	efficient	JJ
+and	CC	Z5	and	CC
+the	AT	Z5	the	DT
+click-through	JJ	Y2	click-through	JJ
+rate	NN1	N3.8 N5 I1.3	rate	NN
+lower	JJR	M6 N3.7-- N5-- I1.3-- A5.1-- A11.1-- E4.1-- X3.2-- G2.2-- S7.1--	lower	JJR
+than	CSN	Z5	than	IN
+it	PPH1	Z8	it	PRP
+should	VM	S6+ A7+	should	MD
+be	VBI	A3+ Z5	be	VB
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+second	MD	N4	second	JJ
+month	NNT1	T1.3	month	NN
+(	(	""	(	CD
+November	NPM1	T1.3	November	NNP
+)	)	""	)	NN
+was	VBDZ	A3+ Z5	was	VBD
+pretty	RG	A13.5	pretty	RB
+good	JJ	A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+	good	JJ
+,	,	""	,	,
+and	CC	Z5	and	CC
+the	AT	Z5	the	DT
+real	JJ	A3+ A5.2+ A5.4+ A13.3	real	JJ
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+exceeded	VVD	N5.2+	exceeded	VBD
+the	AT	Z5	the	DT
+projected	JJ	A10+ X2.6+	projected	VBN
+one	PN1	Z8	one	CD
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+did	VDD	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	did	VBD
+not	XX	Z6	not	RB
+do	VDI	A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5	do	VB
+anything	PN1	Z8	anything	NN
+to	TO	Z5	to	TO
+increase	VVI	N5+/A2.1	increase	VB
+it	PPH1	Z8	it	PRP
+,	,	""	,	,
+so	CS@	Z5	so	IN
+I	PPIS1	Z8mf	I	PRP
+think	VV0	X2.1	think	VBP
+it	PPH1	Z8	it	PRP
+happened	VVD	A2.1+ A3+ X7-	happened	VBD
+because	II21	A2.2[i12.2.1	because	IN
+of	II22	A2.2[i12.2.2	of	IN
+the	AT	Z5	the	DT
+pre-Christmas	JJ	S9/T1.3/N4	pre-Christmas	JJ
+season	NNT1	T1.3	season	NN
+when	RRQ	Z5	when	WRB
+everybody	PN1	Z8/N5.1+c	everybody	NN
+is	VBZ	A3+ Z5	is	VBZ
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+buying	NN1	I2.2	buying	NN
+(	(	""	(	NN
+and	CC	Z5	and	CC
+clicking	VVG	X3.2 Y2 X2.5+ S1.2.1+	clicking	VBG
+)	)	""	)	CD
+mood	NN1	E1 E3-	mood	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+You	PPY	Z8mf	You	PRP
+may	VM	A7+	may	MD
+ask	VVI	Q2.2	ask	VB
+how	RRQ	Z5 A13.3	how	WRB
+the	AT	Z5	the	DT
+projected	JJ	A10+ X2.6+	projected	VBN
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+was	VBDZ	Z5 A3+	was	VBD
+calculated	VVN	N2 X7+	calculated	VBN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+did	VDD	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	did	VBD
+it	PPH1	Z8	it	PRP
+before	II	Z5	before	IN
+buying	VVG	I2.2	buying	VBG
+the	AT	Z5	the	DT
+website	NN1	Y2	website	NN
+to	TO	Z5	to	TO
+determine	VVI	A2.2 A7+ X6+	determine	VB
+the	AT	Z5	the	DT
+fair	JJ	G2.2+ A5.1+ O4.2+ O4.3 W4 N5	fair	JJ
+price	NN1	I1.3	price	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+First	MD	N4[i13.3.1 N4	First	NNP
+of	IO	N4[i13.3.2 Z5	of	IN
+all	DB	N4[i13.3.3 N5.1+	all	DT
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+took	VVD	A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@	took	VBD
+the	AT	Z5	the	DT
+top	NN1	A5.1+++[i14.2.1 M6 N4 N5.1+ O2 B5 K6 N5.1-	top	JJ
+5	MC	A5.1+++[i14.2.2 N1	5	CD
+keywords	NN2	Q3 Y2	keywords	NNS
+and	CC	Z5	and	CC
+calculated	VVD	N2 X7+	calculated	VBN
+how	RGQ@	Z5 A13.3	how	WRB
+much	RR	A13.3 N6+	much	JJ
+each	DD1	N5.1+	each	DT
+of	IO	Z5	of	IN
+them	PPHO2	Z8mfn	them	PRP
+brings	VVZ	M2 A2.2	brings	VBZ
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+revenue	NN1	G1.1/I1[i15.2.1 G1.1/I1 I1.1+ Z3c	revenue	NN
+based	VVN	G1.1/I1[i15.2.2 T2+ M6 A2.2 A2.2[i16.2.1	based	VBN
+on	II	Z5 A2.2[i16.2.2	on	IN
+their	APPGE	Z8	their	PRP$
+shares	NN2	N5.1- I1.1	shares	NNS
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+total	JJ	A13.2 N5.1+	total	JJ
+traffic	NN1	M3 M4 G2.1-/I2.2 M1 S1.1.2+	traffic	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Then	RT	N4 Z5 T1.2	Then	RB
+I	PPIS1	Z8mf	I	PRP
+looked	VVD	X3.4[i17.2.1 X2.4[i17.2.1 X2.1[i17.2.1 A8 X3.4 X2.4 X7+	looked	VBD
+at	II	X3.4[i17.2.2 X2.4[i17.2.2 X2.1[i17.2.2 Z5	at	IN
+the	AT	Z5	the	DT
+traffic	NN1	M3 M4 G2.1-/I2.2 M1 S1.1.2+	traffic	NN
+volume	NN1	N3.4 N5 Q4.1 Q4.2 X3.2	volume	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+previous	JJ	N4	previous	JJ
+year	NNT1	T1.3 P1c	year	NN
+for	IF	Z5	for	IN
+each	DD1	N5.1+	each	DT
+keyword	NN1	Q3 Y2	keyword	NN
+per	II	Z5	per	IN
+quarter	NN1	N1 N5 T1.3	quarter	NN
+(	(	""	(	CD
+to	TO	Z5	to	TO
+simplify	VVI	A12+/A2.1	simplify	VB
+the	AT	Z5	the	DT
+calculation	NN1	N2 X2.4	calculation	NN
+)	)	""	)	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+After	II	Z5	After	IN
+that	DD1	Z8 Z5	that	DT
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+re-calculated	VVD	N2 X7+ A10-/Q1.2 X3.2/N6+ A11.1- S7.1-/S2mf Y2 I3.1 A1.1.1 Q4 K2 C1 X9.2+ A2.1+ A2.2 Z5 K5.1 M6 S3.2 X2.1 N5 N1 B1 S2mf O4.4 O2 X2.5+	re-calculated	VBD
+the	AT	Z5	the	DT
+revenue	NN1	G1.1/I1[i18.2.1 G1.1/I1 I1.1+ Z3c	revenue	NN
+based	VVN	G1.1/I1[i18.2.2 T2+ M6 A2.2 A2.2[i19.2.1	based	VBN
+on	II	Z5 A2.2[i19.2.2	on	IN
+theses	NN2	P1/Q1.2 X4.1	theses	DT
+numbers	NN2	N5 N1 Q1.3 K2 Q4.2	numbers	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Since	CS	Z5	Since	IN
+I	PPIS1	Z8mf	I	PRP
+used	VVD	A1.5.1 S7.1+	used	VBD
+quarters	NN2	N1 T1.3 H4	quarters	NNS
+rather	II21	Z5[i21.2.1 Z5[i20.2.1	rather	RB
+than	II22	Z5[i21.2.2 Z5[i20.2.2	than	IN
+months	NNT2	T1.3	months	NNS
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+divided	VVD	A6.1- A9-/N5.1 N2	divided	VBD
+the	AT	Z5	the	DT
+number	NN1	N5 N1 Q1.3 K2 Q4.2	number	NN
+by	II	Z5	by	IN
+3	MC	N1 T1.2 T3 T1.3 N3.2	3	CD
+to	TO	Z5	to	TO
+get	VVI	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	get	VB
+the	AT	Z5	the	DT
+month	NNT1	T1.3	month	NN
+income	NN1	I1.1	income	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Here	RL	M6 T1.1.2 T1.2	Here	RB
+is	VBZ	A3+ Z5	is	VBZ
+the	AT	Z5	the	DT
+website	NN1	Y2	website	NN
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+breakdown	NN1	X9.2- A1.1.2 Q2.2 T2- B2-	breakdown	NN
+:	:	""	:	:
+Amazon	NP1	Z2 M7	Amazon	NNP
+vs	II	F2	vs	CC
+AdSense	NP1	Z99	AdSense	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Website	NN1	Y2	Website	NN
+#1	NNU	I1	#1	RB
+:	:	""	:	:
+Revenue	NN1	G1.1/I1 I1.1+ Z3c	Revenue	NN
+breakdown	NN1	X9.2- A1.1.2 Q2.2 T2- B2-	breakdown	NN
+As	CSA	Z4[i22.4.1 Z5	As	IN
+you	PPY	Z4[i22.4.2 Z8mf	you	PRP
+can	VM	Z4[i22.4.3 A7+	can	MD
+see	VVI	Z4[i22.4.4 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VB
+,	,	""	,	,
+the	AT	Z5	the	DT
+Amazon	NP1	Z2 M7	Amazon	NNP
+portion	NN1	N5	portion	NN
+is	VBZ	A3+ Z5	is	VBZ
+really	RR	A13.3 A5.2+	really	RB
+small	JJ	N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1-	small	JJ
+,	,	""	,	,
+3.4%	FO	Z99	3.4%	CD
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+total	JJ	A13.2 N5.1+	total	JJ
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+really	RR	A13.3 A5.2+	really	RB
+like	VV0	E2+	like	IN
+diversified	JJ@	A6.3+	diversified	JJ
+sources	NN2	T2+ Q1.1 X2.2 W3/M4	sources	NNS
+of	IO	Z5	of	IN
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+(	(	""	(	CD
+it	PPH1	Z8	it	PRP
+makes	VVZ	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	makes	VBZ
+my	APPGE	Z8	my	PRP$
+sleep	NN1	B1	sleep	NN
+better	RRR	A5.1++ G2.2++ O4.2++	better	JJR
+)	)	""	)	CD
+,	,	""	,	,
+so	CS@	Z5	so	RB
+I	PPIS1	Z8mf	I	PRP
+plan	VV0	X7+	plan	VBP
+to	TO	Z5	to	TO
+increase	VVI	N5+/A2.1	increase	VB
+the	AT	Z5	the	DT
+Amazon	NP1	Z2 M7	Amazon	NNP
+part	NN1	N5.1- O2 M7 I3.1 S1.1.3+ K4	part	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Hopefully	RR	X2.6+ E4.1+ X9.2+ A5.1+ A13.3	Hopefully	RB
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+will	VM	T1.1.3	will	MD
+increase	VVI	N5+/A2.1	increase	VB
+up	RG21	Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1	up	RP
+to	RG22	Z5 M6	to	TO
+10%	NNU	N5	10%	CD
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+total	JJ	A13.2 N5.1+	total	JJ
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+,	,	""	,	,
+so	CS@	Z5	so	IN
+it	PPH1	Z8	it	PRP
+would	VM	A7+	would	MD
+make	VVI	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+about	RG	A13.4	about	IN
+$66	NNU	N1 T3 T1.2 G3/S7.1+/S2mf M4/S7.1+/S2mf M5/S7.1+/S2mf K5/S7.1+/S2mf S7.1+ Z1mf N5 N5c A13.4 Z5 K2 S5 B1 S2mf C1 O4.4 O2 X2.1 X2.5+	$66	CD
+or	CC	Z5	or	CC
+3	MC	N6+[i23.2.1 A13.3[i23.2.1 N1 T1.2 T3 T1.3 N3.2	3	CD
+times	NNT2	N6+[i23.2.2 A13.3[i23.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1	times	NNS
+more	RRR	A13.3 N6++	more	JJR
+than	CSN	Z5	than	IN
+it	PPH1	Z8	it	PRP
+is	VBZ	Z5 A3+	is	VBZ
+making	VVG	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	making	VBG
+now	RT	T1.1.2 Z4	now	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+At	II	T1.1.2[i24.4.1 Z5	At	IN
+the	AT	T1.1.2[i24.4.2 Z5	the	DT
+same	DA	T1.1.2[i24.4.3 A6.1+++	same	JJ
+time	NNT1	T1.1.2[i24.4.4 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+,	,	""	,	,
+the	AT	Z5	the	DT
+AdSense	NN1	Z99	AdSense	NNP
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+should	VM	S6+ A7+	should	MD
+not	XX	Z6	not	RB
+go	VVI	M1[i25.2.1 E2[i25.2.1 N5-/A2.1[i25.2.1 S7.1-/A2.1[i25.2.1 A1.1.1[i25.2.1 B2-[i25.2.1 P1%[i25.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	go	VB
+down	RP	M1[i25.2.2 E2[i25.2.2 N5-/A2.1[i25.2.2 S7.1-/A2.1[i25.2.2 A1.1.1[i25.2.2 B2-[i25.2.2 P1%[i25.2.2	down	RB
+and	CC	Z5	and	CC
+it	PPH1	Z8	it	PRP
+should	VM	S6+ A7+	should	MD
+grow	VVI	N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4	grow	VB
+even	RR	A13.1	even	RB
+more	RRR	A13.3 N6++	more	RBR
+I	PPIS1	Z8mf	I	PRP
+have	VH0	Z5 A9+ A2.2 S4	have	VBP
+already	RR	T1.1.1	already	RB
+started	VVN	T2+ E5- E3-	started	VBN
+working	VVG	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	working	VBG
+on	II	Z5	on	IN
+this	DD1	M6 Z5 Z8	this	DT
+goal	NN1	K5.1 X7+	goal	NN
+,	,	""	,	,
+and	CC	Z5	and	CC
+it	PPH1	Z8	it	PRP
+seems	VVZ	A8	seems	VBZ
+quite	RG	A13.5 A13.6 A13.2	quite	RB
+ambitious	JJ	X7+	ambitious	JJ
+and	CC	Z5	and	CC
+hard	RR	O4.1 X8+ X5.2+ N5+ A12-	hard	JJ
+!	!	""	!	.
+-----	-----	""	-----	CD
+Goals	NN2	K5.1 X7+	Goals	NNS
+So	RR	Z5 A13.3	So	RB
+,	,	""	,	,
+here	RL	M6 T1.1.2 T1.2	here	RB
+are	VBR	A3+ Z5	are	VBP
+my	APPGE	Z8	my	PRP$
+goals	NN2	K5.1 X7+	goals	NNS
+,	,	""	,	,
+and	CC	Z5	and	CC
+the	AT	Z5	the	DT
+scope	NN1	A1.7- A4.1	scope	NN
+is	VBZ	A3+ Z5	is	VBZ
+5-6	MCMC	T3 N1 T1.2 T1.3 N3.2	5-6	CD
+months	NNT2	T1.3	months	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Increase	VV0	N5+/A2.1	Increase	NN
+the	AT	Z5	the	DT
+Amazon	NP1	Z2 M7	Amazon	NNP
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+up	RG21	Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1	up	IN
+to	RG22	Z5 M6	to	TO
+10%	NNU	N5	10%	CD
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+total	JJ	A13.2 N5.1+	total	JJ
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Increase	VV0	N5+/A2.1	Increase	NN
+the	AT	Z5	the	DT
+AdSense	NN1	Z99	AdSense	NNP
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+by	II	Z5	by	IN
+15%	NNU	N5	15%	CD
+.	.	""	.	.
+-----	-----	""	-----	CD
+Action	NN1	A1.1.1 G3	Action	NNP
+Plan	NN1	X7+ C1/H1	Plan	NNP
+Since	CS	Z5	Since	IN
+this	DD1	Z8 M6 Z5	this	DT
+is	VBZ	A3+ Z5	is	VBZ
+the	AT	Z5	the	DT
+major	JJ	A11.1+ N3.2+	major	JJ
+income	NN1	I1.1	income	NN
+bringing	VVG	M2 A2.2	bringing	VBG
+website	NN1	Y2	website	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+want	VV0	X7+ S6+ A7+ S3.2 A9-	want	VBP
+to	TO	Z5	to	TO
+spend	VVI	I1.2 A1.5.1 T1.3	spend	VB
+more	DAR	N5++	more	JJR
+efforts	NN2	X8+ O2	efforts	NNS
+on	II	Z5	on	IN
+it	PPH1	Z8	it	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Here	RL	M6 T1.1.2 T1.2	Here	RB
+is	VBZ	A3+ Z5	is	VBZ
+what	DDQ	Z8 Z5	what	WP
+I	PPIS1	Z8mf	I	PRP
+plan	VV0	X7+	plan	VBP
+to	TO	Z5	to	TO
+do	VDI	A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5	do	VB
+to	TO	Z5	to	TO
+achieve	VVI	A9+ X9.2+	achieve	VB
+the	AT	Z5	the	DT
+goals	NN2	K5.1 X7+	goals	NNS
+:	:	""	:	:
+First	MD	N4[i26.3.1 N4	First	NNP
+of	IO	N4[i26.3.2 Z5	of	IN
+all	DB	N4[i26.3.3 N5.1+	all	DT
+,	,	""	,	,
+introduce	VV0	S1.1.1 T2+	introduce	VB
+different	JJ	A6.1-	different	JJ
+Amazon	NP1	Z2 M7	Amazon	NNP
+tags	VVZ	Q1.2 X2.2+ Q2.2 Y2	tags	NNS
+for	IF	Z5	for	IN
+each	DD1	N5.1+	each	DT
+product	NN1	O2 A1.1.1 A2.2 N2%	product	NN
+for	IF	Z5	for	IN
+easy	JJ	A12+	easy	JJ
+tracking	NN1	X2.4	tracking	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+This	DD1	Z8 M6 Z5	This	DT
+is	VBZ	A3+ Z5	is	VBZ
+how	RRQ	Z5 A13.3	how	WRB
+it	PPH1	Z8	it	PRP
+was	VBDZ	Z5 A3+	was	VBD
+implemented	VVN	A1.1.1 A9-/O2	implemented	VBN
+by	II	Z5	by	IN
+the	AT	Z5	the	DT
+previous	JJ	N4	previous	JJ
+owner	NN1	A9+/S2mf	owner	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+During	II	Z5	During	IN
+the	AT	Z5	the	DT
+website	NN1	Y2	website	NN
+migration	NN1	M1	migration	NN
+,	,	""	,	,
+it	PPH1	Z8	it	PRP
+was	VBDZ	A3+ Z5	was	VBD
+easier	JJR	A12++	easier	JJR
+to	TO	Z5	to	TO
+replace	VVI	A2.1+ M2	replace	VB
+all	DB	N5.1+	all	PDT
+the	AT	Z5	the	DT
+tags	NN2	Q1.2 Q3 K6	tags	NNS
+by	II	Z5	by	IN
+one	MC1	N1 T3 T1.2	one	CD
+,	,	""	,	,
+so	CS@	Z5	so	RB
+the	AT	Z5	the	DT
+fine	JJ	A5.1+ A4.2+ O4.5 O4.1 W4 N3.2-	fine	JJ
+tracking	JJ	X2.4	tracking	NN
+level	NN1	N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1	level	NN
+was	VBDZ	Z5 A3+	was	VBD
+lost	VVN	X9.2- A9- M6/A5.3- L1-	lost	VBN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Now	RT	T1.1.2 Z4	Now	RB
+I	PPIS1	Z8mf	I	PRP
+am	VBM	Z5 A3+	am	VBP
+restoring	VVG	A2.1+ C1 A9-	restoring	VBG
+it	PPH1	Z8	it	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Add	VV0	N5+/A2.1 N2 A1.8+	Add	VB
+more	RRR	A13.3 N6++	more	JJR
+Amazon	NP1	Z2 M7	Amazon	NNP
+links	VVZ	A2.2 S5+ A1.1.1	links	NNS
+to	II	Z5	to	TO
+the	AT	Z5	the	DT
+most	RGT	A13.2	most	RBS
+popular	JJ	E2+ S5+	popular	JJ
+pages	NN2	Q1.2 Q2.2 S7.1-/S2.2m	pages	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+have	VH0	Z5 A9+ A2.2 S4	have	VBP
+started	VVN	T2+ E5- E3-	started	VBN
+doing	VDG	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	doing	VBG
+it	PPH1	Z8	it	PRP
+and	CC	Z5	and	CC
+so	RG	T1.1.2[i27.2.1 M6[i27.2.1 N5[i27.2.1 A13.3	so	RB
+far	RR	T1.1.2[i27.2.2 M6[i27.2.2 N5[i27.2.2 A13.3 N3.3+ X9.2+	far	RB
+the	AT	Z5	the	DT
+results	NN2	A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2	results	NNS
+are	VBR	A3+ Z5	are	VBP
+a	RR21	A13.6[i28.2.1 A13.7[i28.2.1	a	DT
+bit	RR22	A13.6[i28.2.2 A13.7[i28.2.2	bit	NN
+disappointing	JJ	E4.2-	disappointing	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+But	CCB	Z5	But	CC
+I	PPIS1	Z8mf	I	PRP
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+not	XX	Z6	not	RB
+want	VVI	X7+ S6+ A7+ S3.2 A9-	want	VB
+to	TO	Z5	to	TO
+jump	VVI	M1 N5+/A2.1 A1.9	jump	VB
+to	II	Z5	to	TO
+any	DD	N5 N5.1+	any	DT
+conclusions	NN2	X6+ T2-	conclusions	NNS
+now	RT	T1.1.2 Z4	now	RB
+there	EX	Z5	there	EX
+is	VBZ	A3+ Z5	is	VBZ
+not	XX	Z6	not	RB
+enough	DD	N5+ N6+	enough	JJ
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+passed	VVN	M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8	passed	VBD
+since	CS	Z5	since	IN
+the	AT	Z5	the	DT
+beginning	NN1	T2+	beginning	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+experiment	NN1	Y1 X2.4	experiment	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+will	VM	T1.1.3	will	MD
+write	VVI	Q1.2 I2.1	write	VB
+about	II	Z5	about	IN
+it	PPH1	Z8	it	PRP
+in	II	Z5	in	IN
+future	JJ	T1.1.3	future	JJ
+posts	NN2	Q1.2 O2 I3.1 M6	posts	NNS
+after	CS	Z5	after	IN
+I	PPIS1	Z8mf	I	PRP
+finish	VV0	T2- A1.5.1/N5.1+ A1.1.1 X9.2-	finish	VBP
+it	PPH1	Z8	it	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Add	VV0	N5+/A2.1 N2 A1.8+	Add	VB
+more	DAR	N5++	more	JJR
+ad	NN1	I2.2/Q2.1 X2.2+ A10+	ad	NN
+units	NN2	S5+c O2 H5 H1 N3.1 P1 N1	units	NNS
+to	II	Z5	to	TO
+fine	JJ	A5.1+ A4.2+ O4.5 O4.1 W4 N3.2-	fine	JJ
+track	NN1	M3 O2 K3 A4.1 X4.1 K5.1/M7	track	NN
+the	AT	Z5	the	DT
+performance	NN1	K4 X9.2 A1.1.1 A12-	performance	NN
+of	IO	Z5	of	IN
+each	DD1	N5.1+	each	DT
+high	JJ	N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9	high	JJ
+traffic	NN1	M3 M4 G2.1-/I2.2 M1 S1.1.2+	traffic	NN
+page	NN1	Q1.2 Q2.2 S7.1-/S2.2m	page	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Run	VV0	M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4	Run	NNP
+Adsense	NN1	Z99	Adsense	NNP
+experiments	NN2	Y1 X2.4	experiments	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+This	DD1	Z8 M6 Z5	This	DT
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+low	JJ	N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1-	low	JJ
+hanging	JJ	M2 M1 M8 G2.1	hanging	NN
+fruit	NN	F1 X9.2+	fruit	NN
+which	DDQ	Z8 Z5	which	WDT
+is	VBZ	A3+ Z5	is	VBZ
+also	RR	N5++	also	RB
+light	JJ	W2 O4.3 N3.5- N5- N3.2- A12+ X3.2- F1 A11.1- O4.2+	light	JJ
+on	II	A10-/N5++[i29.3.1 Z5	on	IN
+the	AT	A10-/N5++[i29.3.2 Z5	the	DT
+side	NN1	A10-/N5++[i29.3.3 A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2	side	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+required	JJ	X7+ S6+	required	VBN
+work	NN1	I3.1 A1.1.1 Q4 K2 C1	work	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+only	RR	A14	only	RB
+needed	VVD	S6+	needed	VBD
+to	TO	Z5	to	TO
+create	VVI	A1.1.1 A2.2 E1	create	VB
+an	AT1	Z5	an	DT
+AdSense	NN1	Z99	AdSense	NNP
+experiment	NN1	Y1 X2.4	experiment	NN
+,	,	""	,	,
+and	CC	Z5	and	CC
+the	AT	Z5	the	DT
+rest	NN1	E3+ K1 T2-/T1.3 O2 N5.1-	rest	NN
+is	VBZ	Z5 A3+	is	VBZ
+taken	VVN	S8+[i30.3.1 A1.1.1[i30.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@	taken	VBN
+care	NN1	S8+[i30.3.2 A1.1.1[i30.3.2 S8+ G1.1/S8+ B3 A1.3 E6-	care	NN
+of	IO	S8+[i30.3.3 A1.1.1[i30.3.3 Z5	of	IN
+by	II	Z5	by	IN
+Google	NP1	A4.1 T1.2 X2.4 O2 Y2@	Google	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Add	VV0	N5+/A2.1 N2 A1.8+	Add	VB
+more	DAR	N5++	more	JJR
+content	NN1	Q2.1 A1.8+ N5 E4.1+%	content	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+website	NN1	Y2	website	NN
+has	VHZ	A9+ Z5 A2.2 S4	has	VBZ
+potential	JJ	A7+	potential	JJ
+to	TO	Z5	to	TO
+rank	VVI	A5.1 S7.1++	rank	VB
+for	IF	Z5	for	IN
+more	DAR	N5++	more	JJR
+keywords	NN2	Q3 Y2	keywords	NNS
+and	CC	Z5	and	CC
+I	PPIS1	Z8mf	I	PRP
+already	RR	T1.1.1	already	RB
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+a	AT1	Z5	a	DT
+list	NN1	Q1.2 N4 M4	list	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+Niche	NN1	O2 I3.1	Niche	NNP
+Website	NN1	Y2	Website	NNP
+#2	NNU	I1	#2	CD
+This	DD1	Z8 M6 Z5	This	DT
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+small	JJ	N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1-	small	JJ
+pure	JJ	A5.4+ O4.1 A14 A4.2+ G2.2+	pure	JJ
+AdSense	NN1	Z99	AdSense	NNP
+website	NN1	Y2	website	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+bought	VVD	I2.2	bought	VBD
+it	PPH1	Z8	it	PRP
+because	CS	Z5/A2.2	because	IN
+I	PPIS1	Z8mf	I	PRP
+saw	VVD	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2	saw	VBD
+a	AT1	Z5	a	DT
+potential	NN1	A7+ O3	potential	NN
+in	II	Z5	in	IN
+it	PPH1	Z8	it	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+think	VV0	X2.1	think	VBP
+it	PPH1	Z8	it	PRP
+is	VBZ	A3+ Z5	is	VBZ
+possible	JJ	A7+	possible	JJ
+to	TO	Z5	to	TO
+grow	VVI	N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4	grow	VB
+the	AT	Z5	the	DT
+AdSense	NN1	Z99	AdSense	NNP
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+and	CC	Z5	and	CC
+become	VVI	A2.1+ O4.2+	become	VB
+an	AT1	Z5	an	DT
+associate	NN1	S5+/S2mf S3.1mf	associate	NN
+of	IO	Z5	of	IN
+a	AT1	Z5	a	DT
+particular	JJ	A4.2+ X7+	particular	JJ
+affiliate	NN1	S5+mfn	affiliate	NN
+program	NN1	Y2 X7+ Q4.3 Q1.2 P1	program	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Revenue	NN1	G1.1/I1 I1.1+ Z3c	Revenue	NN
+Here	RL	M6 T1.1.2 T1.2	Here	RB
+is	VBZ	A3+ Z5	is	VBZ
+the	AT	Z5	the	DT
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+website	NN1	Y2	website	NN
+since	CS	Z5	since	IN
+the	AT	Z5	the	DT
+day	NNT1	T1.3	day	NN
+I	PPIS1	Z8mf	I	CD
+bought	VVD	I2.2	bought	VBD
+it	PPH1	Z8	it	PRP
+(	(	""	(	VBD
+no	AT	Z6	no	DT
+numbers	NN2	N5 N1 Q1.3 K2 Q4.2	numbers	NNS
+for	IF	Z5	for	IN
+December	NPM1	T1.3	December	NNP
+yet	RR	T1.1.2	yet	RB
+)	)	""	)	CD
+.	.	""	.	.
+-----	-----	""	-----	CD
+Website	NN1	Y2	Website	NNP
+#2	NNU	I1	#2	CD
+:	:	""	:	:
+Projected	VVN	A10+ X7+ X2.6+ M2 O4.4 X3.2 Q2.2 X2.1	Projected	NNP
+vs	II	F2	vs	CC
+real	JJ	A3+ A5.2+ A5.4+ A13.3	real	JJ
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+For	IF	Z5	For	IN
+this	DD1	M6 Z5 Z8	this	DT
+website	NN1	Y2	website	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+did	VDD	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	did	VBD
+not	XX	Z6	not	RB
+calculate	VVI	N2 X7+	calculate	VB
+the	AT	Z5	the	DT
+projected	JJ	A10+ X2.6+	projected	VBN
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+myself	PPX1	Z8mf	myself	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+simply	RR	A13.6 A14 A12+	simply	RB
+took	VVD	A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@	took	VBD
+the	AT	Z5	the	DT
+numbers	NN2	N5 N1 Q1.3 K2 Q4.2	numbers	NNS
+posted	VVN	Q1.2 M2 I3.1	posted	VBN
+by	II	Z5	by	IN
+the	AT	Z5	the	DT
+seller	NN1	I2.2/S2mf I2.2/N5+	seller	NN
+;	;	""	;	:
+he	PPHS1	Z8m	he	PRP
+calculated	VVD	N2 X7+	calculated	VBD
+them	PPHO2	Z8mfn	them	PRP
+based	VVN	A2.2[i31.2.1 T2+ M6 A2.2	based	VBN
+on	II	A2.2[i31.2.2 Z5	on	IN
+the	AT	Z5	the	DT
+average	JJ	A6.2+ A5.1 N2	average	JJ
+performance	NN1	K4 X9.2 A1.1.1 A12-	performance	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+website	NN1	Y2	website	NN
+during	II	Z5	during	IN
+the	AT	Z5	the	DT
+three	MC	N1 T1.2 T3	three	CD
+months	NNT2	T1.3	months	NNS
+before	CS	Z5	before	IN
+it	PPH1	Z8	it	PRP
+put	VVD	A1.1.1[i32.2.1 M2[i32.2.1 E2[i32.2.1 H4[i32.2.1 H1[i32.2.1 A9-[i32.2.1 M2 Q2.1 Q2.2 A1.1.1	put	VBD
+up	RP	A1.1.1[i32.2.2 M2[i32.2.2 E2[i32.2.2 H4[i32.2.2 H1[i32.2.2 A9-[i32.2.2	up	RP
+for	IF	Z5	for	IN
+sell	NN1%	I2.2	sell	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+is	VBZ	A3+ Z5	is	VBZ
+quite	RG	A13.5 A13.6 A13.2	quite	RB
+possible	JJ	A7+	possible	JJ
+that	CST	Z5 Z8	that	IN
+seasonal	JJ	T1.3	seasonal	JJ
+changes	NN2	A2.1+ I1 B1	changes	NNS
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+traffic	NN1	M3 M4 G2.1-/I2.2 M1 S1.1.2+	traffic	NN
+may	VM	A7+	may	MD
+affect	VVI	A2.1+ A5.4-/A8	affect	VB
+the	AT	Z5	the	DT
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+So	RR	Z5 A13.3	So	RB
+,	,	""	,	,
+here	RL	M6 T1.1.2 T1.2	here	RB
+are	VBR	A3+ Z5	are	VBP
+the	AT	Z5	the	DT
+goals	NN2	K5.1 X7+	goals	NNS
+and	CC	Z5	and	CC
+the	AT	Z5	the	DT
+action	NN1	A1.1.1 G3	action	NN
+plan	NN1	X7+ C1/H1	plan	NN
+for	IF	Z5	for	IN
+the	AT	Z5	the	DT
+website	NN1	Y2	website	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Goals	NN2	K5.1 X7+	Goals	NNS
+The	AT	Z5	The	DT
+scope	NN1	A1.7- A4.1	scope	NN
+is	VBZ	A3+ Z5	is	VBZ
+7-8	MCMC	T3 N1 T1.2 T1.3 N3.2	7-8	CD
+months	NNT2	T1.3	months	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+This	DD1	M6 Z5 Z8	This	DT
+website	NN1	Y2	website	NN
+has	VHZ	A9+ Z5 A2.2 S4	has	VBZ
+less	DAR	N5--	less	JJR
+traffic	NN1	M3 M4 G2.1-/I2.2 M1 S1.1.2+	traffic	NN
+than	CSN	Z5	than	IN
+the	AT	Z5	the	DT
+first	MD	N4	first	JJ
+one	PN1	Z8	one	CD
+,	,	""	,	,
+and	CC	Z5	and	CC
+it	PPH1	Z8	it	PRP
+will	VM	T1.1.3	will	MD
+take	VVI	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@	take	VB
+more	DAR	N5++	more	JJR
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+to	TO	Z5	to	TO
+run	VVI	M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4	run	VB
+its	APPGE	Z8	its	PRP$
+experiments	NN2	Y1 X2.4	experiments	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Increase	VV0	N5+/A2.1	Increase	NN
+the	AT	Z5	the	DT
+AdSense	NN1	Z99	AdSense	NNP
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+by	II	Z5	by	IN
+100%	NNU	N5.1+	100%	CD
+.	.	""	.	.
+-----	-----	""	-----	CD
+Start	VV0	T2+ E5- E3-	Start	NNP
+getting	VVG	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	getting	VBG
+a	AT1	Z5	a	DT
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+from	II	Z5	from	IN
+the	AT	Z5	the	DT
+affiliate	NN1	S5+mfn	affiliate	NN
+program	NN1	Y2 X7+ Q4.3 Q1.2 P1	program	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Action	NN1	A1.1.1 G3	Action	NNP
+Plan	VV0	X7+	Plan	NNP
+Here	RL	M6 T1.1.2 T1.2	Here	RB
+is	VBZ	A3+ Z5	is	VBZ
+how	RRQ	Z5 A13.3	how	WRB
+I	PPIS1	Z8mf	I	PRP
+plan	VV0	X7+	plan	VBP
+to	TO	Z5	to	TO
+achieve	VVI	A9+ X9.2+	achieve	VB
+it	PPH1	Z8	it	PRP
+:	:	""	:	:
+First	MD	N4[i33.3.1 N4	First	NNP
+of	IO	N4[i33.3.2 Z5	of	IN
+all	DB	N4[i33.3.3 N5.1+	all	DT
+,	,	""	,	,
+run	VV0	M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4	run	VBP
+Adsense	NN1	Z99	Adsense	JJ
+experiments	NN2	Y1 X2.4	experiments	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Test	VV0	P1 B3 X2.4 A12-	Test	NN
+the	AT	Z5	the	DT
+AdSence	NP1	Z99	AdSence	NNP
+ad	NN1	I2.2/Q2.1 X2.2+ A10+	ad	NN
+unit	NN1	S5+c O2 H5 H1 N3.1 P1 N1	unit	NN
+placement	NN1	M2 I3.1	placement	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Sign	VV0	Q2.2[i34.2.1 Q1.2 Q1.1 G2.1 I3.1 S9	Sign	NN
+up	RP	Q2.2[i34.2.2	up	RP
+for	IF	Z5	for	IN
+the	AT	Z5	the	DT
+affiliate	NN1	S5+mfn	affiliate	NN
+program	NN1	Y2 X7+ Q4.3 Q1.2 P1	program	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Find	VV0	A10+ X2.1 X6+	Find	VB
+more	DAR	N5++	more	JJR
+keywords	NN2	Q3 Y2	keywords	NNS
+to	TO	Z5	to	TO
+rank	VVI	A5.1 S7.1++	rank	VB
+for	IF	Z5	for	IN
+and	CC	Z5	and	CC
+add	VVI	N5+/A2.1 N2 A1.8+	add	VB
+the	AT	Z5	the	DT
+content	NN1	Q2.1 A1.8+ N5 E4.1+%	content	NN
+for	IF	Z5	for	IN
+the	AT	Z5	the	DT
+said	JJ%	Q1.1 Q2.1	said	VBD
+keywords	NN2	Q3 Y2	keywords	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Start	VV0	T2+ E5- E3-	Start	NNP
+building	VVG@	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	building	VBG
+some	DD	N5 Z5	some	DT
+backlinks	NN2	Z99	backlinks	NNS
+to	TO	Z5	to	TO
+increase	VVI	N5+/A2.1	increase	VB
+ranking	VVG	A5.1	ranking	JJ
+for	IF	Z5	for	IN
+the	AT	Z5	the	DT
+new	JJ	T3-	new	JJ
+keywords	NN2	Q3 Y2	keywords	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Goal	NN1	K5.1 X7+	Goal	NNP
+Achieving	VVG	A9+ X9.2+	Achieving	NNP
+Guidelines	NN2	S8+	Guidelines	NNS
+I	PPIS1	Z8mf	I	PRP
+have	VH0	Z5 A9+ A2.2 S4	have	VBP
+already	RR	T1.1.1	already	RB
+started	VVN	T2+ E5- E3-	started	VBN
+working	VVG	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	working	VBG
+on	II	Z5	on	IN
+my	APPGE	Z8	my	PRP$
+goals	NN2	K5.1 X7+	goals	NNS
+,	,	""	,	,
+and	CC	Z5	and	CC
+I	PPIS1	Z8mf	I	PRP
+have	VH0	Z5 A9+ A2.2 S4	have	VBP
+realized	VVN	X2.5+ X9.2+	realized	VBN
+(	(	""	(	CD
+or	CC	Z5	or	CC
+remembered	VVN	X2.2+	remembered	VBD
+)	)	""	)	NN
+that	CST	Z8 Z5	that	IN
+I	PPIS1	Z8mf	I	PRP
+should	VM	S6+ A7+	should	MD
+follow	VVI	M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4	follow	VB
+some	DD	N5 Z5	some	DT
+particular	JJ	A4.2+ X7+	particular	JJ
+guidelines	NN2	S8+	guidelines	NNS
+that	CST	Z8 Z5	that	WDT
+will	VM	T1.1.3	will	MD
+make	VVI	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+my	APPGE	Z8	my	PRP$
+goal	NN1	K5.1 X7+	goal	NN
+achieving	VVG	A9+ X9.2+	achieving	VBG
+life	NN1	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	life	NN
+easier	RRR	A12++	easier	JJR
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+put	VV0	M2 Q2.1 Q2.2 A1.1.1	put	VBD
+them	PPHO2	Z8mfn	them	PRP
+here	RL	M6 T1.1.2 T1.2	here	RB
+for	IF	Z5	for	IN
+you	PPY	Z8mf	you	PRP
+and	CC	Z5	and	CC
+for	IF	Z5	for	IN
+myself	PPX1	Z8mf	myself	PRP
+,	,	""	,	,
+so	CS@	Z5	so	IN
+I	PPIS1	Z8mf	I	PRP
+would	VM	A7+	would	MD
+not	XX	Z6	not	RB
+forget	VVI	X2.2-	forget	VB
+them	PPHO2	Z8mfn	them	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Before	II	Z5	Before	IN
+starting	VVG	T2+ E5- E3-	starting	VBG
+experimenting	VVG	X2.4	experimenting	VBG
+,	,	""	,	,
+assign	VV0	A9- S7.1+	assign	VB
+different	JJ	A6.1-	different	JJ
+codes/names	NN2	Z99	codes/names	NNS
+to	II	Z5	to	TO
+each	DD1	N5.1+	each	DT
+unit	NN1	S5+c O2 H5 H1 N3.1 P1 N1	unit	NN
+under	II	Z5	under	IN
+experiment	NN1	Y1 X2.4	experiment	NN
+for	IF	Z5	for	IN
+easy	JJ	A12+	easy	JJ
+result	NN1	A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2	result	NN
+tracking	NN1	X2.4	tracking	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+This	DD1	Z8 M6 Z5	This	DT
+includes	VVZ	A1.8+	includes	VBZ
+Amazon	NP1	Z2 M7	Amazon	NNP
+tags	NN2	Q1.2 Q3 K6	tags	NNS
+and	CC	Z5	and	CC
+AdSense	NP1	Z99	AdSense	NNP
+ad	NN1	I2.2/Q2.1 X2.2+ A10+	ad	NN
+units	NN2	S5+c O2 H5 H1 N3.1 P1 N1	units	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Write	VV0	Q1.2[i35.2.1 Q1.2 I2.1	Write	VB
+down	RP	Q1.2[i35.2.2	down	RP
+all	DB	N5.1+	all	DT
+actions	NN2	A1.1.1 G3	actions	NNS
+that	CST	Z8 Z5	that	IN
+you	PPY	Z8mf	you	PRP
+do	VD0	A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5	do	VBP
+with	IW	Z5	with	IN
+a	AT1	Z5	a	DT
+website	NN1	Y2	website	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+will	VM	T1.1.3	will	MD
+help	VVI	S8+	help	VB
+to	TO	Z5	to	TO
+analyze	VVI	X2.4	analyze	VB
+what	DDQ	Z8 Z5	what	WP
+was	VBDZ	Z5 A3+	was	VBD
+done	VDN	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	done	VBN
+,	,	""	,	,
+whats	NN2	Z8 Z5	whats	NNS
+working	VVG	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	working	VBG
+,	,	""	,	,
+and	CC	Z5	and	CC
+whats	NN2	Z8 Z5	whats	NNS
+not	XX	Z6	not	RB
+,	,	""	,	,
+and	CC	Z5	and	CC
+roll	VV0	M1[i36.2.1 M2[i36.2.1 M1 M2 A1.1.1	roll	NN
+back	RP	M1[i36.2.2 M2[i36.2.2 M6 N6+ T1.1.1 S1.1.2+	back	RB
+to	II	Z5	to	TO
+the	AT	Z5	the	DT
+changes	NN2	A2.1+ I1 B1	changes	NNS
+that	CST	Z8 Z5	that	WDT
+did	VDD	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	did	VBD
+not	XX	Z6	not	RB
+work	VVI	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	work	VB
+.	.	""	.	.
+-----	-----	""	-----	CD
+Change	VV0	A2.1+ I1 B5	Change	NNP
+one	PN1	Z8	one	CD
+setting	VVG	M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3	setting	VBG
+at	II	T1.1.2[i37.3.1 Z5	at	IN
+a	AT1	T1.1.2[i37.3.2 Z5	a	DT
+time	NNT1	T1.1.2[i37.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+If	CS	Z7	If	IN
+you	PPY	Z8mf	you	PRP
+change	VV0	A2.1+ I1 B5	change	VBP
+more	DAR	N5++	more	JJR
+than	CSN	Z5	than	IN
+one	MC1	N1 T3 T1.2	one	CD
+thing	NN1	O2 X4.1 A7- S2mf L2mf	thing	NN
+,	,	""	,	,
+in	II	N4[i38.3.1 Z5	in	IN
+the	AT	N4[i38.3.2 Z5	the	DT
+end	NN1	N4[i38.3.3 M6 T2- O2 X7+ N4	end	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+experiment	NN1	Y1 X2.4	experiment	NN
+you	PPY	Z8mf	you	PRP
+would	VM	A7+	would	MD
+have	VHI	A9+ Z5 A2.2 S4	have	VB
+hard	JJ	A12-[i39.2.1 O4.5 A12- S1.2.5+ O4.1	hard	JJ
+time	NNT1	A12-[i39.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+understanding	NN1	X2.5+	understanding	NN
+which	DDQ	Z8 Z5	which	WDT
+change	VV0	A2.1+ I1 B5	change	VBP
+exactly	RR	A4.2+ A5.3+	exactly	RB
+is	VBZ	A3+ Z5	is	VBZ
+responsible	JJ	A2.2 S6+ S7.1 S1.2.6+ X6+	responsible	JJ
+for	IF	Z5	for	IN
+the	AT	Z5	the	DT
+result	NN1	A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2	result	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Run	VV0	M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4	Run	NNP
+the	AT	Z5	the	DT
+experiment	NN1	Y1 X2.4	experiment	NN
+/	FO	Z5	/	:
+test	VV0	P1 B3 X2.4 A12-	test	NN
+for	IF	Z5	for	IN
+long	JJ	N3.7+ T1.3+ N3.3+ N3.2+	long	RB
+enough	RR	N5+ N6+	enough	JJ
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+to	TO	Z5	to	TO
+avoid	VVI	A1.9 M1	avoid	VB
+making	VVG	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	making	VBG
+precocious	JJ	T3- A5.1+ Y1 A12- T4- T3+ M1 A5.1+/A2.1+ I1.1 T4+ S8+ X2.1 N5++ T1.1.1	precocious	JJ
+conclusions	NN2	X6+ T2-	conclusions	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Here	RL	M6 T1.1.2 T1.2	Here	RB
+is	VBZ	A3+ Z5	is	VBZ
+an	AT1	Z5	an	DT
+A/B	ZZ1	Z99	A/B	NN
+test	VV0	P1 B3 X2.4 A12-	test	NN
+sample	NN1	A4.1 B3 X7+	sample	NN
+calculator	NN1	Y2/N2	calculator	NN
+that	CST	Z8 Z5	that	WDT
+may	VM	A7+	may	MD
+give	VVI	A9- A1.1.1	give	VB
+some	DD	N5 Z5	some	DT
+insights	NN2	X2.5+	insights	NNS
+about	II	Z5	about	IN
+the	AT	Z5	the	DT
+testing	NN1	P1 B3 X2.4 A12-	testing	NN
+timeline	NN1	T1/N4	timeline	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	MC1@	Z8	I	PRP
+still	JJ	M8 E3+ O4.5	still	RB
+need	NN1	S6+	need	VBP
+to	TO	Z5	to	TO
+read	VVI	Q3 Q1.2 X3.2+ X2.5+ P1 A10+	read	VB
+more	RRR	A13.3 N6++	more	JJR
+about	II	Z5	about	IN
+it	PPH1	Z8	it	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+During	II	Z5	During	IN
+the	AT	Z5	the	DT
+period	NN1	T1.3 B1 Q3 P1/T1.3	period	NN
+of	IO	Z5	of	IN
+testing	VVG	P1 B3 X2.4 A12-	testing	VBG
+the	AT	Z5	the	DT
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+will	VM	T1.1.3	will	MD
+drop	VVI	M2 M1 N5-/A2.1 O1.2/M1 B2- T2- A9- A1.8- X9.2-/K5 X3.2	drop	VB
+this	DD1	Z8 M6 Z5	this	DT
+is	VBZ	A3+ Z5	is	VBZ
+normal	JJ	A6.2+	normal	JJ
+and	CC	Z5	and	CC
+should	VM	S6+ A7+	should	MD
+be	VBI	Z5 A3+	be	VB
+expected	VVN	X2.6+ B1	expected	VBN
+So	RR	Z5 A13.3	So	RB
+,	,	""	,	,
+lets	VVZ	S7.4+ I2.2/H1 T2-	lets	VBZ
+stat	NN1	Z99	stat	NN
+doing	VDG	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	doing	VBG
+it	PPH1	Z8	it	PRP
+!	!	""	!	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+will	VM	T1.1.3	will	MD
+share	VVI	S1.1.2+	share	VB
+my	APPGE	Z8	my	PRP$
+results	NN2	A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2	results	NNS
+with	IW	Z5	with	IN
+you	PPY	Z8mf	you	PRP
+along	II	M6[i40.3.1 T1.1.2[i40.3.1 Z5	along	IN
+the	AT	M6[i40.3.2 T1.1.2[i40.3.2 Z5	the	DT
+way	NN1	M6[i40.3.3 T1.1.2[i40.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3	way	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Stay	VV0	M8 T2++ H4	Stay	NNP
+tuned	VVN	K2 A1.1.1 Q4.3 A2.1+	tuned	VBD
+!	!	""	!	.
+"</text>
+"	NULL	""	</text>	IN

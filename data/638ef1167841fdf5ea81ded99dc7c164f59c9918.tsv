@@ -1,0 +1,762 @@
+token	pos	sem	stanford-token	stanford-pos
+<text>	NULL	""	<text>	NN
+-----	-----	""	-----	CD
+Hey	UH	Z4	Hey	UH
+sexy	JJ	S3.2	sexy	JJ
+,	,	""	,	,
+Vera	NP1	Z1f	Vera	NNP
+here	RL	M6 T1.1.2 T1.2	here	RB
+,	,	""	,	,
+your	APPGE	Z8	your	PRP$
+Sexyfit	NN1	Z99	Sexyfit	NN
+chef	NN1	F1/S2mf	chef	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+havent	VV0	Z99	havent	VBP
+lived	VVN	H4 L1+ A3	lived	VBN
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+United	NP1	Z2c[i3.2.1 Z2c[i2.2.1 Z3c Z1mf[i1.2.1 Z3c[i1.2.1	United	NNP
+States	NP1	Z2c[i3.2.2 Z2c[i2.2.2 Z2 Z1mf[i1.2.2 Z3c[i1.2.2	States	NNPS
+my	APPGE	Z8	my	PRP$
+whole	JJ	N5.1+	whole	JJ
+life	NN1	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	life	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+moved	VVD	M2 M1 A2.1+ E1 H4/A2.1	moved	VBD
+here	RL	M6 T1.1.2 T1.2	here	RB
+when	CS	Z5	when	WRB
+I	PPIS1	Z8mf	I	PRP
+was	VBDZ	A3+ Z5	was	VBD
+21	MC	T3 N1 T1.2 T1.3 N3.2	21	CD
+.	.	""	.	.
+-----	-----	""	-----	CD
+One	MC1	N1 T3 T1.2	One	CD
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+first	MD	N4	first	JJ
+things	NN2	O2 X4.1 A7- S2mf L2mf	things	NNS
+I	PPIS1	Z8mf	I	PRP
+noticed	VVD	X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1	noticed	VBD
+was	VBDZ	A3+ Z5	was	VBD
+that	DD1	Z5 Z8	that	IN
+American	JJ	Z2	American	JJ
+breads	NN2	F1 I1.1	breads	NNS
+are	VBR	A3+ Z5	are	VBP
+VERY	RG	A13.3	VERY	RB
+different	JJ	A6.1-	different	JJ
+from	II	Z5	from	IN
+those	DD2	Z8 Z5	those	DT
+we	PPIS2	Z8	we	PRP
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+back	NN1	B1 M6	back	RB
+home	RL	H4 M6	home	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+am	VBM	Z5 A3+	am	VBP
+not	XX	Z6	not	RB
+saying	VVG	Q2.1 Z4%	saying	VBG
+ours	PPGE	Z8	ours	JJ
+taste	VV0@	X3.1 F1 X2.2	taste	NN
+better	RRR	A5.1++ G2.2++ O4.2++	better	JJR
+(	(	""	(	CD
+some	DD	N5 Z5	some	DT
+do	VD0	A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5	do	VBP
+and	CC	Z5	and	CC
+some	DD	N5 Z5	some	DT
+do	VD0	A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5	do	VBP
+nt	XX	S9/Q4.1 Z3c	nt	NNS
+)	)	""	)	NN
+but	CCB	Z5	but	CC
+ours	PPGE	Z8	ours	JJ
+isnt	VV0	Z99	isnt	NN
+as	RG@	A13	as	IN
+sweet	JJ	X3.1 O4.2+	sweet	JJ
+,	,	""	,	,
+isnt	VV0	Z99	isnt	JJ
+as	RG@	A13	as	IN
+soft	JJ	O4.5 X3.2- O4.3 O4.1 S1.2.5- A12+	soft	JJ
+and	CC	Z5	and	CC
+sliced	JJ	O4.1	sliced	JJ
+bagged	JJ@	O4.4 A9+ K5.1	bagged	JJ
+bread	NN1	F1 I1.1	bread	NN
+wasnt	VV0	Z99	wasnt	NN
+popular	JJ	M1[i4.2.1 M2[i4.2.1 E2+ S5+	popular	JJ
+in	II	M1[i4.2.2 M2[i4.2.2 Z5	in	IN
+Russia	NP1	Z2 Z2[i5.2.1 Z1mf[i5.2.1	Russia	NNP
+11	MC	T1.1.1[i6.3.1 N1 T1.2 T3 T1.3 N3.2 Z2[i5.2.2 Z1mf[i5.2.2	11	CD
+years	NNT2	T1.1.1[i6.3.2 T1.3 T1.1.1[i7.2.1	years	NNS
+ago	RA	T1.1.1[i6.3.3 T1.1.1 T1.1.1[i7.2.2	ago	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+You	PPY	Z8mf	You	PRP
+can	VM	A7+	can	MD
+see	VVI	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VB
+some	DD	N5 Z5	some	DT
+sliced	JJ	O4.1	sliced	JJ
+bread	NN1	F1 I1.1	bread	NN
+at	II	Z5	at	IN
+supermarkets	NN2	I2.2/H1	supermarkets	NNS
+now	RT	T1.1.2 Z4	now	RB
+,	,	""	,	,
+but	CCB	Z5	but	CC
+Russians	NN2	Z2/S2mf	Russians	NNPS
+still	RR	T2++ Z4 E3+	still	RB
+prefer	VV0	E2++	prefer	VBP
+nice	JJ	O4.2+ S1.2.1+	nice	JJ
+freshly	RR	T3-	freshly	RB
+baked	JJ	F1 O4.6	baked	JJ
+bread	NN1	F1 I1.1	bread	NN
+a	AT1	Z5	a	DT
+loaf	NN1	F1	loaf	NN
+you	PPY	Z8mf	you	PRP
+slice	VV0	A1.1.1	slice	VBP
+at	II	Z5	at	IN
+home	NN1	H4/H1c M6	home	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+When	CS	Z5	When	WRB
+I	PPIS1	Z8mf	I	PRP
+read	VV0	Q3 Q1.2 X3.2+ X2.5+ P1 A10+	read	VBP
+the	AT	Z5	the	DT
+ingredient	NN1	A1.8+	ingredient	NN
+list	NN1	Q1.2 N4 M4	list	NN
+I	PPIS1	Z8mf	I	PRP
+was	VBDZ	A3+ Z5	was	VBD
+in	II	Z5	in	IN
+shock	NN1	E5- B2- O3	shock	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Because	CS	Z5/A2.2	Because	IN
+what	DDQ	Z8 Z5	what	WP
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+you	PPY	Z8mf	you	PRP
+really	RR	A13.3 A5.2+	really	RB
+need	VVI	S6+	need	VBP
+to	TO	Z5	to	TO
+make	VVI	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+bread	NN1	F1 I1.1	bread	NN
+:	:	""	:	:
+flour	NN1	F1	flour	NN
+,	,	""	,	,
+some	DD	N5 Z5	some	DT
+oil	NN1	O1.2 C1 C1/O1	oil	NN
+,	,	""	,	,
+water	NN1	O1.2 W3/M4 B1 C1%	water	NN
+,	,	""	,	,
+a	AT1	Z5	a	DT
+bit	NN1	N5- N5.1- O2 Y2	bit	NN
+of	IO	Z5	of	IN
+sugar	NN1	F1	sugar	NN
+,	,	""	,	,
+little	JJ	N3.2- T3- N3.7- N3.3- T1.3- A11.1-	little	JJ
+salt	NN1	F1 O1.1	salt	NN
+and	CC	Z5	and	CC
+yeast	NN1	L3 F1	yeast	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Thats	VVZ	Z5 Z8 A13.3 A6.1+	Thats	NNS
+all	DB	N5.1+	all	DT
+.	.	""	.	.
+-----	-----	""	-----	CD
+What	DDQ	Z8 Z5	What	WP
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+you	PPY	Z4[i8.2.1 Z8mf	you	PRP
+see	VVI	Z4[i8.2.2 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VB
+on	II	Z5	on	IN
+the	AT	Z5	the	DT
+label	NN1	Q1.2 Q2.2	label	NN
+:	:	""	:	:
+up	RG21	A13.4[i9.3.1	up	IN
+to	RG22	A13.4[i9.3.2	to	TO
+35	MC	A13.4[i9.3.3 N1 T1.2 T3 T1.3 N3.2	35	CD
+ingredients	NN2	O1	ingredients	NNS
+No	AT	Z6	No	DT
+wonder	NN1	X2.6- A5.1+	wonder	VBP
+a	AT1	N5+[i10.2.1 N6+[i10.2.1 A13.3[i10.2.1 Z5	a	DT
+lot	NN1	N5+[i10.2.2 N6+[i10.2.2 A13.3[i10.2.2	lot	NN
+of	IO	Z5	of	IN
+people	NN	S2mfc	people	NNS
+feel	VV0	X2.1 E1 X3	feel	VBP
+bloated	JJ	N3.2++	bloated	JJ
+and	CC	Z5	and	CC
+heavy	JJ	N3.5+ S1.2.5+ N5+ O4.1 E4.1- W4 A12- A1.1.1 N3.2+ A1.1.2@	heavy	JJ
+after	II	Z5	after	IN
+eating	VVG	F1/B1 A1.5.1/N5+	eating	VBG
+bread	NN1	F1 I1.1	bread	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+First	MD	N4	First	NNP
+,	,	""	,	,
+all	DB	N5.1+	all	PDT
+the	AT	Z5	the	DT
+preservatives	NN2	O1/A1.1.2-	preservatives	NNS
+and	CC	Z5	and	CC
+additives	NN2	F1 F2	additives	NNS
+are	VBR	Z5 A3+	are	VBP
+not	XX	Z6	not	RB
+meant	VVN	Q1.1 X7+ S6+	meant	VBN
+to	TO	Z5	to	TO
+be	VBI	Z5 A3+	be	VB
+digested	VVN	F1/B1 X2.3+	digested	VBN
+by	II	Z5	by	IN
+your	APPGE	Z8	your	PRP$
+body	NN1	B1 O2 S5+c O4.1 S2mf	body	NN
+your	APPGE	Z8	your	PRP$
+body	NN1	B1 O2 S5+c O4.1 S2mf	body	NN
+simply	RR	A13.6 A14 A12+	simply	RB
+does	VDZ	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	does	VBZ
+nt	XX	S9/Q4.1 Z3c	nt	NNS
+know	VVI	X2.2+ S3.2/B1%	know	VBP
+what	DDQ	Z8 Z5	what	WP
+to	TO	A2.2[i11.3.1 Z5	to	TO
+do	VDI	A2.2[i11.3.2 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5	do	VB
+with	IW	A2.2[i11.3.3 Z5	with	IN
+them	PPHO2	Z8mfn	them	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Second	MD	N4	Second	JJ
+,	,	""	,	,
+the	AT	Z5	the	DT
+flours	NN2	F1	flours	NNS
+these	DD2	T1.1.2[i12.2.1 Z5 Z8	these	DT
+days	NNT2	T1.1.2[i12.2.2 T1.3	days	NNS
+are	VBR	A3+ Z5	are	VBP
+not	XX	Z6	not	RB
+the	AT	Z5	the	DT
+same	DA	A6.1+++	same	JJ
+as	CSA	Z5	as	IN
+they	PPHS2	Z8mfn	they	PRP
+used	VMK	T1.1.1[i13.2.1 A6.2+[i13.2.1	used	VBD
+to	TO	T1.1.1[i13.2.2 A6.2+[i13.2.2 Z5	to	TO
+be	VBI	A3+ Z5	be	VB
+a	AT1	Z5	a	DT
+hundred	NNO	N1	hundred	CD
+years	NNT2	T1.1.1[i14.2.1 T1.3	years	NNS
+ago	RA	T1.1.1[i14.2.2 T1.1.1	ago	IN
+they	PPHS2	Z8mfn	they	PRP
+are	VBR	Z5 A3+	are	VBP
+also	RR	N5++	also	RB
+processed	VVN	A1.1.1 Y2 M1	processed	VBN
+so	RG	A13.3	so	RB
+much	DA1	N5+ I1.3+	much	RB
+,	,	""	,	,
+all	DB	N5.1+	all	DT
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+fibers	NN2	O1.1 O2	fibers	NNS
+and	CC	Z5	and	CC
+vitamins	NN2	O1 B3	vitamins	NNS
+are	VBR	Z5 A3+	are	VBP
+lost	VVN	X9.2- A9- M6/A5.3- L1-	lost	VBN
+during	II	Z5	during	IN
+processing	NN1	A1.1.1 Y2 M1	processing	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Bread	NN1	F1 I1.1	Bread	NNP
+is	VBZ	A3+ Z5	is	VBZ
+something	PN1	Z8	something	NN
+I	PPIS1	Z8mf	I	PRP
+will	VM	T1.1.3	will	MD
+NEVER	RR	T1/Z6	NEVER	RB
+give	VVI	T2-[i15.2.1 S7.1-[i15.2.1 A9-[i15.2.1 A1.1.2[i15.2.1 A9- A1.1.1	give	VB
+up	RP	T2-[i15.2.2 S7.1-[i15.2.2 A9-[i15.2.2 A1.1.2[i15.2.2	up	RP
+I	PPIS1	Z8mf	I	PRP
+grew	VVD	T3+/A2.1[i16.2.1 N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4	grew	VBD
+up	RP	T3+/A2.1[i16.2.2	up	RP
+on	II	Z5	on	IN
+it	PPH1	Z8	it	PRP
+,	,	""	,	,
+its	APPGE	Z8	its	PRP$
+comforting	JJ	E3+	comforting	JJ
+for	IF	Z5	for	IN
+me	PPIO1	Z8mf	me	PRP
+,	,	""	,	,
+and	CC	Z5	and	CC
+I	PPIS1	Z8mf	I	PRP
+can	VM	A7+	can	MD
+not	XX	Z6	not	RB
+live	VVI	H4 L1+ A3	live	VB
+without	IW	Z5	without	IN
+it	PPH1	Z8	it	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+tried	VVD	X8+ X2.4 Q2.2 G2.1 A12-	tried	VBD
+diets	NN2	F1 T1.2%	diets	NNS
+that	CST	Z8 Z5	that	WDT
+required	VVD@	X7+ S6+	required	VBD
+to	TO	Z5	to	TO
+quit	VVI	T2- I3.1- M1	quit	VB
+bread	NN1	F1 I1.1	bread	NN
+altogether	RR	A13.2 N5.1+ A1.8+	altogether	RB
+,	,	""	,	,
+and	CC	Z5	and	CC
+I	PPIS1	Z8mf	I	PRP
+failed	VVD	X9.2- A5.1-/A2.1	failed	VBD
+.	.	""	.	.
+-----	-----	""	-----	CD
+Multiple	JJ	N5+	Multiple	JJ
+times	NNT2	T1 T1.2 T1.3 T1.1.2 N6 N1	times	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+As	CSA	Z5	As	IN
+you	PPY	Z8mf	you	PRP
+already	RR	T1.1.1	already	RB
+know	VV0	X2.2+ S3.2/B1%	know	VBP
+,	,	""	,	,
+at	II	Z5	at	IN
+Sexyfit	NN1	Z99	Sexyfit	NNP
+we	PPIS2	Z8	we	PRP
+would	VM	A7+	would	MD
+never	RR	T1/Z6	never	RB
+ask	VVI	Q2.2	ask	VB
+you	PPY	Z8mf	you	PRP
+to	TO	Z5	to	TO
+stop	VVI	T2- S8- M8 H4 A1.1.1@	stop	VB
+eating	VVG	F1/B1 A1.5.1/N5+	eating	VBG
+something	PN1	Z8	something	NN
+you	PPY	Z8mf	you	PRP
+absolutely	RR	A13.2 Z4	absolutely	RB
+can	VM	A7+	can	MD
+not	XX	Z6	not	RB
+live	VVI	H4 L1+ A3	live	VB
+without	IW	Z5	without	IN
+(	(	""	(	CD
+unless	CS	Z5	unless	IN
+you	PPY	Z8mf	you	PRP
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+a	AT1	Z5	a	DT
+real	JJ	A3+ A5.2+ A5.4+ A13.3	real	JJ
+allergy	NN1	B2-	allergy	NN
+to	II	Z5	to	TO
+that	DD1	Z5 Z8	that	DT
+product	NN1	O2 A1.1.1 A2.2 N2%	product	NN
+)	)	""	)	NN
+,	,	""	,	,
+but	CCB	Z5	but	CC
+we	PPIS2	Z8	we	PRP
+will	VM	T1.1.3	will	MD
+make	VVI	A7+[i17.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+sure	JJ	A7+[i17.2.2 A7+ Z4	sure	JJ
+we	PPIS2	Z8	we	PRP
+find	VV0	A10+ X2.1 X6+	find	VBP
+the	AT	Z5	the	DT
+best	JJT	A5.1+++ G2.2+++ O4.2+++	best	JJS
+ever	RR	T1.1 N6+++ A13	ever	RB
+substitute	VV0	A2.1+	substitute	VB
+for	IF	Z5	for	IN
+that	DD1	Z5 Z8	that	DT
+favorite	JJ	E2+++	favorite	JJ
+food	NN1	F1	food	NN
+of	IO	Z5	of	IN
+yours	PPGE	Z8	yours	PRP$
+.	.	""	.	.
+-----	-----	""	-----	CD
+So	RR	Z5 A13.3	So	IN
+this	DD1	Z8 M6 Z5	this	DT
+is	VBZ	A3+ Z5	is	VBZ
+what	DDQ	Z8 Z5	what	WP
+I	PPIS1	Z8mf	I	PRP
+did	VDD	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	did	VBD
+I	PPIS1	Z8mf	I	PRP
+bought	VVD	I2.2	bought	VBD
+a	AT1	Z5	a	DT
+bread	NN1	F1 I1.1	bread	NN
+maker	NN1	A1.1.1/S2mf	maker	NN
+(	(	""	(	CD
+best	VV0%	A5.1+++ G2.2+++ O4.2+++ A13.2	best	JJS
+$80	NNU	N1 G3% N5--- Z6/Z8 A10-/Q1.2 N2 X3.2/N6+ A11.1- S7.1-/S2mf B1 N5 S2mf C1 O4.4 O2 X2.1 X2.5+	$80	CD
+I	PPIS1	Z8mf	I	PRP
+have	VH0	Z5 A9+ A2.2 S4	have	VBP
+ever	RR	T1.1 N6+++ A13	ever	RB
+spent	VVN	I1.2 A1.5.1 T1.3	spent	VBN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+swear	VV0	Q2.2/S1.2.4- Q2.2	swear	VBP
+!	!	""	!	.
+)	)	""	)	CD
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+played	VVD	K1 K5.1 K5.2 K2 K3 A1.1.1 K6	played	VBD
+with	IW	Z5	with	IN
+different	JJ	A6.1-	different	JJ
+recipes	NN2	F1 X4.2	recipes	NNS
+until	CS	Z5	until	IN
+I	PPIS1	Z8mf	I	PRP
+came	VVD	X2.1[i19.3.1 A9+[i19.3.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 A1.1.1[i18.2.1 M1[i18.2.1 P1%[i18.2.1	came	VBD
+up	RP	X2.1[i19.3.2 A9+[i19.3.2 A1.1.1[i18.2.2 M1[i18.2.2 P1%[i18.2.2	up	RP
+with	IW	A9+[i19.3.3 X2.1[i19.3.3 Z5	with	IN
+my	APPGE	Z8[i20.2.1 Z8	my	PRP$
+own	DA	Z8[i20.2.2 A9+ S5-	own	JJ
+,	,	""	,	,
+ultimate	JJ	T2- S7.1+++ A11.1+ N5.1+ A5.1+++	ultimate	JJ
+,	,	""	,	,
+the	AT	Z5	the	DT
+most	RGT	A13.2	most	RBS
+delicious	JJ	X3.1+ O4.2+	delicious	JJ
+bread	NN1	F1 I1.1	bread	NN
+recipe	NN1	F1 X4.2	recipe	NN
+that	CST	Z8 Z5	that	WDT
+is	VBZ	A3+ Z5	is	VBZ
+soft	JJ	O4.5 X3.2- O4.3 O4.1 S1.2.5- A12+	soft	JJ
+enough	RR	N5+ N6+	enough	RB
+to	TO	Z5	to	TO
+make	VVI	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+PBJ	NP1	Z99	PBJ	NN
+with	IW	Z5	with	IN
+,	,	""	,	,
+and	CC	Z5	and	CC
+if	CS	Z7	if	IN
+toasted	VVN	F1 S1.1.1	toasted	VBN
+its	APPGE	Z8	its	PRP$
+nice	JJ	A13.3[i21.2.1 O4.2+ S1.2.1+	nice	JJ
+and	CC	A13.3[i21.2.2 Z5	and	CC
+crisp	JJ	O4.5 O4.1	crisp	JJ
+and	CC	Z5	and	CC
+can	VM	A7+	can	MD
+be	VBI	A3+ Z5	be	VB
+a	AT1	Z5	a	DT
+base	NN1	M7 T2+ A1.1.1 O1 K5.1@ B1%	base	NN
+for	IF	Z5	for	IN
+any	DD	N5.1+ N5	any	DT
+sandwich	NN1	F1 O2 T1.3/P1	sandwich	NN
+out	RP	M6[i22.2.1 M6	out	IN
+there	RL	M6[i22.2.2 M6 T1.2	there	RB
+or	CC	Z5	or	CC
+to	TO	Z5	to	TO
+be	VBI	Z5 A3+	be	VB
+eaten	VVN	F1/B1 A1.5.1/N5+	eaten	VBN
+with	IW	Z5	with	IN
+a	AT1	Z5	a	DT
+bowl	NN1	O2	bowl	NN
+of	IO	Z5	of	IN
+hot	JJ	O4.6+ X9.1+ O4.2+ X5.2+ G2.1- A12- S7.3+ E6- A7+++	hot	JJ
+soup	NN1	F1	soup	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+is	VBZ	A3+ Z5	is	VBZ
+much	RR	A13.3 N6+	much	RB
+lower	JJR	M6 N3.7-- N5-- I1.3-- A5.1-- A11.1-- E4.1-- X3.2-- G2.2-- S7.1--	lower	JJR
+on	II	Z5	on	IN
+carbs	NN2	Z99	carbs	NNS
+compared	VVN	A6.1 A5.1 Q3	compared	VBN
+to	II	Z5	to	TO
+the	AT	Z5	the	DT
+store	NN1	I2.2/H1c A9+ A9+/H1	store	NN
+bought	VVD	I2.2	bought	VBD
+bread	NN1	F1 I1.1	bread	NN
+,	,	""	,	,
+it	PPH1	Z8	it	PRP
+is	VBZ	A3+ Z5	is	VBZ
+higher	JJR	N3.7++ N5++ A11.1++ S7.1++ A5.1++ T3-- X3.2 G2.2++ E4.1++ I1.3++ O4.2-- O4.6++ S9	higher	JJR
+on	II	Z5	on	IN
+protein	NN1	O1	protein	NN
+,	,	""	,	,
+it	PPH1	Z8	it	PRP
+has	VHZ	A9+ Z5 A2.2 S4	has	VBZ
+a	AT1	Z5	a	DT
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+dose	NN1	N5	dose	NN
+of	IO	Z5	of	IN
+heart-healthy	JJ	A5.1+ B2+ G2.2+	heart-healthy	JJ
+fats	NN2	O1	fats	NNS
+,	,	""	,	,
+it	PPH1	Z8	it	PRP
+has	VHZ	A9+ Z5 A2.2 S4	has	VBZ
+plenty	PN	N5+	plenty	NN
+of	IO	Z5	of	IN
+fiber	NN1	O1.1 O2 A1.6 A11.1+ O1 B5 X2.2 S1.2 M2 A1.1.1 F1 S7.1+@ Z4@ A2.2 N2% B1 G2.1/H2 S9/H2 S5+c O3 O4.1 S2mf K4/S2mf S2mf/A6.2- Q1.2 A4.1 O4.2+ A10+ S5+ S9/S5+	fiber	NN
+and	CC	Z5	and	CC
+lots	PN	N5+	lots	NNS
+of	IO	Z5	of	IN
+vitamins	NN2	O1 B3	vitamins	NNS
+and	CC	Z5	and	CC
+minerals	NN2	O1	minerals	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+is	VBZ	A3+ Z5	is	VBZ
+also	RR	N5++	also	RB
+so	RG	A13.3	so	RB
+easy	JJ	A12+	easy	JJ
+to	TO	Z5	to	TO
+make	VVI	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+,	,	""	,	,
+you	PPY	Z8mf	you	PRP
+will	VM	T1.1.3	will	MD
+not	XX	Z6	not	RB
+believe	VVI	X2.1 S9%	believe	VB
+it	PPH1	Z8	it	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+My	APPGE	Z8	My	PRP$
+breadmaker	NN1	Z99	breadmaker	NN
+(	(	""	(	CD
+I	PPIS1	Z8mf	I	PRP
+bought	VVD	I2.2	bought	VBD
+it	PPH1	Z8	it	PRP
+almost	RR	A13.4	almost	RB
+three	MC	T1.1.1[i23.3.1 N1 T1.2 T3	three	CD
+years	NNT2	T1.1.1[i23.3.2 T1.3 T1.1.1[i24.2.1	years	NNS
+ago	RA	T1.1.1[i23.3.3 T1.1.1 T1.1.1[i24.2.2	ago	RB
+at	II	Z5	at	IN
+a	AT1	Z5	a	DT
+nice	JJ	O4.2+ S1.2.1+	nice	JJ
+sale	NN1	I2.2 I2.2/I1.3-	sale	NN
+so	CS@	Z5	so	IN
+it	PPH1	Z8	it	PRP
+was	VBDZ	A3+ Z5	was	VBD
+a	RR21@	A13.3[i25.2.1 N6+[i25.2.1	a	DT
+lot	RR22	A13.3[i25.2.2 N6+[i25.2.2	lot	NN
+cheaper	JJR	I1.3-- O4.2--	cheaper	JJR
+)	)	""	)	CD
+does	VDZ	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	does	VBZ
+a	AT1	Z5	a	DT
+great	JJ	A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3	great	JJ
+job	NN1	I3.1 A1.1.1 A12-	job	NN
+it	PPH1	Z8	it	PRP
+mixes	VVZ@	A2.1+ S1.1.3+ K3	mixes	VBZ
+everything	PN1	Z8/N5.1+	everything	NN
+for	IF	Z5	for	IN
+you	PPY	Z8mf	you	PRP
+,	,	""	,	,
+makes	VVZ	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	makes	VBZ
+the	AT	Z5	the	DT
+dough	NN1	F1 I1	dough	NN
+rise	NN1	N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 O4.4	rise	NN
+and	CC	Z5	and	CC
+then	RT	N4 Z5 T1.2	then	RB
+bakes	VVZ	F1 O4.6	bakes	VBZ
+it	PPH1	Z8	it	PRP
+at	II	Z5	at	IN
+a	AT1	Z5	a	DT
+perfect	JJ	A5.1+++ A1.2+++ Q3	perfect	JJ
+temperature	NN1	O4.6	temperature	NN
+to	TO	Z5	to	TO
+create	VVI	A1.1.1 A2.2 E1	create	VB
+a	AT1	Z5	a	DT
+perfect	JJ	A5.1+++ A1.2+++ Q3	perfect	JJ
+crust	NN1	O1.1 F1	crust	NN
+and	CC	Z5	and	CC
+keep	VVI	A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4	keep	VB
+it	PPH1	Z8	it	PRP
+soft	JJ	O4.5 X3.2- O4.3 O4.1 S1.2.5- A12+	soft	JJ
+inside	RL	M6 G2.1@	inside	IN
+.	.	""	.	.
+-----	-----	""	-----	CD
+If	CS	Z7	If	IN
+you	PPY	Z8mf	you	PRP
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+nt	XX	S9/Q4.1 Z3c	nt	NNS
+own	VVI	A9+	own	VB
+a	AT1	Z5	a	DT
+bread	NN1	F1 I1.1	bread	NN
+maker	NN1	A1.1.1/S2mf	maker	NN
+,	,	""	,	,
+you	PPY	Z8mf	you	PRP
+can	VM	A7+	can	MD
+mix	VVI	A2.1+ S1.1.3+ K3	mix	VB
+the	AT	Z5	the	DT
+ingredients	NN2	O1	ingredients	NNS
+with	IW	Z5	with	IN
+your	APPGE	Z8	your	PRP$
+hands	NN2	B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf	hands	NNS
+,	,	""	,	,
+then	RT	N4 Z5 T1.2	then	RB
+let	VV0	S7.4+ I2.2/H1 T2-	let	VB
+the	AT	Z5	the	DT
+dough	NN1	F1 I1	dough	NN
+rise	VVI	M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1	rise	NN
+for	IF	Z5	for	IN
+about	RG	A13.4	about	IN
+2	MC	N1 T1.2 T3 T1.3 N3.2	2	CD
+hrs	NNU2	Z3c	hrs	NNS
+and	CC	Z5	and	CC
+then	RT	N4 Z5 T1.2	then	RB
+bake	VV0	F1 O4.6	bake	VB
+at	II	Z5	at	IN
+350	MC	N1 T1.2 T3 T1.3 N3.2	350	CD
+for	IF	Z5	for	IN
+about	RG%	A13.4	about	IN
+45-50	MCMC	N1 T1.2 T3 T1.3 N3.2	45-50	CD
+minutes	NNT2	T1.3 Q1.2	minutes	NNS
+(	(	""	(	CD
+depending	II21	A2.2[i26.2.1	depending	VBG
+on	II22	A2.2[i26.2.2 Z5	on	IN
+the	AT	Z5	the	DT
+crunchiness	NN1	Z99	crunchiness	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+crust	NN1	O1.1 F1	crust	NN
+you	PPY	Z8mf	you	PRP
+prefer	VV0	E2++	prefer	VBP
+)	)	""	)	CD
+Here	RL	M6 T1.1.2 T1.2	Here	RB
+it	PPH1	Z8	it	PRP
+is	VBZ	A3+ Z5	is	VBZ
+.	.	""	.	.
+-----	-----	""	-----	CD
+My	APPGE	Z8	My	PRP$
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+Whole	JJ	N5.1+	Whole	NNP
+Wheat	NN1	F1	Wheat	NNP
+Bread	NN1	F1 I1.1	Bread	NNP
+for	IF	Z5	for	IN
+you	PPY	Z8mf	you	PRP
+,	,	""	,	,
+sister	NN1	S4f S9/S2.1f B3/S2.1f S2.1f A2.2	sister	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+food	NN1	F1	food	NN
+recipes	NN2	F1 X4.2	recipes	NNS
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+bread	NN1	F1 I1.1	bread	NN
+What	DDQ	Z8 Z5	What	WDT
+you	PPY	Z8mf	you	PRP
+need	VV0	S6+	need	VBP
+:	:	""	:	:
+1.5	MC	N1 T1.2 T3 T1.3 N3.2	1.5	CD
+cup	NN1	O2 S7.3+ A5.1+/O2	cup	NN
+of	IO	Z5	of	IN
+water	NN1	O1.2 W3/M4 B1 C1%	water	NN
+2.5	MC	N1 T1.2 T3 T1.3 N3.2	2.5	CD
+cups	NN2	O2 S7.3+ A5.1+/O2	cups	NNS
+of	IO	Z5	of	IN
+Organic	JJ	L1 W5	Organic	NNP
+Whole	JJ	N5.1+	Whole	NNP
+Wheat	NN1	F1	Wheat	NNP
+Flour	NN1	F1	Flour	NNP
+3	MC	N1 T1.2 T3 T1.3 N3.2	3	CD
+tbsp	NNU	I1	tbsp	NN
+olive	JJ	O4.3	olive	JJ
+oil	NN1	O1.2 C1 C1/O1	oil	NN
+A	ZZ1	Z5	A	DT
+dash	NN1	N3.8+ N5 Q3 O4.2+%	dash	NN
+of	IO	Z5	of	IN
+salt	NN1	F1 O1.1	salt	NN
+2	MC	N1 T1.2 T3 T1.3 N3.2	2	CD
+tsp	NNU	I1	tsp	NN
+brown	JJ	F1[i27.2.1 O4.3	brown	JJ
+sugar	NN1	F1[i27.2.2 F1	sugar	NN
+7	MC	N1 T1.2 T3 T1.3 N3.2	7	CD
+tbsp	NNU	I1	tbsp	NN
+flax	NN1	L3[i28.2.1 L3	flax	NN
+seeds	NN2	L3[i28.2.2 L3 T2+ K5.1/S2	seeds	NNS
+4	MC	N1 T1.2 T3 T1.3 N3.2	4	CD
+tbsp	NNU	I1	tbsp	NN
+milled	JJ@	O4.1 O4.2+	milled	VBN
+flax	NN1	L3[i29.2.1 L3	flax	NN
+seeds	NN2	L3[i29.2.2 L3 T2+ K5.1/S2	seeds	NNS
+6	MC	N1 T1.2 T3 T1.3 N3.2	6	CD
+tbsp	NNU	I1	tbsp	NN
+chia	NN1	L3[i30.2.1	chia	NN
+seeds	NN2	L3[i30.2.2 L3 T2+ K5.1/S2	seeds	NNS
+2	MC	N1 T1.2 T3 T1.3 N3.2	2	CD
+teaspoons	NN2	O2 N5	teaspoons	NNS
+of	IO	Z5	of	IN
+yeast	NN1	L3 F1	yeast	NN
+How	RRQ	Z5 A13.3	How	WRB
+to	TO	Z5	to	TO
+make	VVI	X9.2+[i31.2.1 M1[i31.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+it	PPH1	X9.2+[i31.2.2 M1[i31.2.2 Z8	it	PRP
+:	:	""	:	:
+Put	VV0	M2[i32.2.1 A9-[i32.2.1 M2 Q2.1 Q2.2 A1.1.1	Put	VB
+everything	PN1	Z8/N5.1+	everything	NN
+into	II	M2[i32.2.2 A9-[i32.2.2 Z5	into	IN
+your	APPGE	Z8	your	PRP$
+bread	NN1	F1 I1.1	bread	NN
+machine	NN1	O2 Y2	machine	NN
+,	,	""	,	,
+set	VVN	M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3	set	VBN
+to	II	Z5	to	TO
+Whole	JJ	N5.1+	Whole	NNP
+Wheat	NN1	F1	Wheat	NNP
+setting	NN1	M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3	setting	VBG
+and	CC	Z5	and	CC
+wait	VV0	T1.3 A3+ A11.1+ S1.1.1%	wait	VB
+while	CS	Z5	while	IN
+it	PPH1	Z8	it	PRP
+bakes	VVZ	F1 O4.6	bakes	VBZ
+;	;	""	;	:
+-	-	""	-	:
+)	)	""	)	CD
+It	PPH1	Z8	It	PRP
+makes	VVZ	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	makes	VBZ
+about	RG	A13.4	about	IN
+20	MC	N1 T1.2 T3 T1.3 N3.2	20	CD
+thin	JJ	N3.7- B1 O4.5 N5- A5.1- X3.2%	thin	JJ
+slices	NN2	O2 N5.1-	slices	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+macros	NN2	Y2	macros	NNS
+are	VBR	Z5 A3+	are	VBP
+provided	VVN	A9- S6+	provided	VBN
+per	II	Z5	per	IN
+one	MC1	N1 T3 T1.2	one	CD
+40	MC	N1 T1.2 T3 T1.3 N3.2	40	CD
+gr	NNU	N3.5	gr	NN
+slice	NN1	O2 N5.1-	slice	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Macros	NN2	Y2	Macros	NNP
+:	:	""	:	:
+Calories	NNU2	N3/F1	Calories	NNS
+:	:	""	:	:
+93	MC	N1 T1.2 T3 T1.3 N3.2	93	CD
+Protein	NN1	O1	Protein	NN
+:	:	""	:	:
+3.5	MC	N1 T1.2 T3 T1.3 N3.2	3.5	CD
+gr	NNU	N3.5	gr	NN
+Carbs	NN2@	Z99	Carbs	NNS
+:	:	""	:	:
+13.5	MC	N1 T1.2 T3 T1.3 N3.2	13.5	CD
+gr	NNU	N3.5	gr	NN
+Fat	NN1	O1	Fat	NNP
+:	:	""	:	:
+2.5	MC	N1 T1.2 T3 T1.3 N3.2	2.5	CD
+gr	NNU	N3.5	gr	NN
+All	RR@	A13.2	All	DT
+of	IO	Z5	of	IN
+my	APPGE	Z8	my	PRP$
+friends	NN2	S3.1/S2mf	friends	NNS
+who	PNQS	Z8	who	WP
+have	VH0	Z5 A9+ A2.2 S4	have	VBP
+ever	RR	T1.1 N6+++ A13	ever	RB
+tried	VVN	X8+ X2.4 Q2.2 G2.1 A12-	tried	VBN
+this	DD1	M6 Z5 Z8	this	DT
+bread	NN1	F1 I1.1	bread	NN
+,	,	""	,	,
+absolutely	RR	A13.2 Z4	absolutely	RB
+loved	VVD	E2+	loved	VBD
+it	PPH1	Z8	it	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Seriously	RR	A13.3 Z4 E4.1-	Seriously	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+Try	VV0	X8+ X2.4 Q2.2 G2.1 A12-	Try	VB
+it	PPH1	Z8	it	PRP
+and	CC	Z5	and	CC
+let	VV0	Q2.1[i33.2.1 S7.4+ I2.2/H1 T2-	let	VB
+me	PPIO1	Z8mf	me	PRP
+know	VVI	Q2.1[i33.2.2 X2.2+ S3.2/B1%	know	VB
+how	RRQ	Z5 A13.3	how	WRB
+it	PPH1	Z8	it	PRP
+came	VVD	M1[i34.2.1 A10-[i34.2.1 A10+[i34.2.1 A1.1.1[i34.2.1 T2-[i34.2.1 S3.2/B1@[i34.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2	came	VBD
+out	RP	M1[i34.2.2 A10-[i34.2.2 A10+[i34.2.2 A1.1.1[i34.2.2 T2-[i34.2.2 S3.2/B1@[i34.2.2 M6	out	RP
+;	;	""	;	:
+-	-	""	-	:
+)	)	""	)	CD
+Love	VV0	E2+	Love	NNP
+,	,	""	,	,
+Vera	NP1	Z1f	Vera	NNP
+"</text>
+"	NULL	""	</text>	NNP

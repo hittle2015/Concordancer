@@ -1,0 +1,1723 @@
+token	pos	sem	stanford-token	stanford-pos
+<text>	NULL	""	<text>	JJ
+-----	-----	""	-----	CD
+January	NPM1	T1.3[i1.2.1 T1.3	January	NNP
+2016	MC	T1.3[i1.2.2 N1 T1.2 T3 T1.3 N3.2	2016	CD
+Income	NN1	I1.1	Income	NNP
+Report	NN1	Q2.2 X3.2	Report	NNP
+:	:	""	:	:
+Website	JJ	Y2	Website	NNP
+Nicknames	NN2	Q2.2	Nicknames	NNPS
+,	,	""	,	,
+Hiring	VVG	I2.2 I3.1	Hiring	VBG
+a	AT1	Z5	a	DT
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NNP
+,	,	""	,	,
+Good	JJ	A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+	Good	JJ
+Kickfurther	NN1	Z99	Kickfurther	NNP
+Business	NN1	I2.1 A1.1.1 A5.1+++	Business	NNP
+Here	RL	M6 T1.1.2 T1.2	Here	RB
+comes	VVZ	M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2	comes	VBZ
+my	APPGE	Z8	my	PRP$
+first	MD	N4	first	JJ
+report	NN1	Q2.2 X3.2	report	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+year	NNT1	P1c[i2.2.1 T1.3 P1c	year	NN
+2016	MC	P1c[i2.2.2 N1 T1.2 T3 T1.3 N3.2	2016	CD
+!	!	""	!	.
+-----	-----	""	-----	CD
+January	NPM1	T1.3	January	NNP
+was	VBDZ	A3+ Z5	was	VBD
+somehow	RR	X4.2 A13.4	somehow	RB
+a	AT1	Z5	a	DT
+controversial	JJ	A6.2-	controversial	JJ
+month	NNT1	T1.3	month	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+One	MC1	N1 T3 T1.2	One	CD
+of	IO	Z5	of	IN
+my	APPGE	Z8	my	PRP$
+acquired	JJ@	A9+	acquired	VBN
+websites	NN2	Y2	websites	NNS
+had	VHD	A9+ Z5 A2.2 S4	had	VBD
+lower	JJR	M6 N3.7-- N5-- I1.3-- A5.1-- A11.1-- E4.1-- X3.2-- G2.2-- S7.1--	lower	JJR
+earnings	NN2	I1.1	earnings	NNS
+than	CSN	Z5	than	IN
+expected	VVN	X2.6+ B1	expected	VBN
+while	CS	Z5	while	IN
+the	AT	Z5	the	DT
+other	NN1@	A6.1-/Z8	other	JJ
+had	VHD	A9+ Z5 A2.2 S4	had	VBD
+much	RR	A13.3 N6+	much	RB
+higher	JJR	N3.7++ N5++ A11.1++ S7.1++ A5.1++ T3-- X3.2 G2.2++ E4.1++ I1.3++ O4.2-- O4.6++ S9	higher	JJR
+numbers	NN2	N5 N1 Q1.3 K2 Q4.2	numbers	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+hired	VVD	I2.2 I3.1	hired	VBD
+my	APPGE	Z8	my	PRP$
+very	RG	A13.3	very	RB
+first	MD	N4	first	JJ
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NNP
+and	CC	Z5	and	CC
+then	RT	N4 Z5 T1.2	then	RB
+fired	VVD	I3.1- G3 M2 A2.2 Q2.2	fired	VBD
+my	APPGE	Z8	my	PRP$
+very	RG	A13.3	very	RB
+first	MD	N4	first	JJ
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NNP
+:	:	""	:	:
+)	)	""	)	CD
+The	AT	Z5	The	DT
+PBN	NP1	Z99	PBN	NN
+building	NN1	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	building	NN
+process	NN1	A1.1.1 X4.2	process	NN
+stagnated	VVD	A2.1- X5.2- A1.1.2	stagnated	VBD
+,	,	""	,	,
+but	CCB	Z5	but	CC
+blog	VV0	Q2.1 Q1.2 Q1.3 X2.2+	blog	NN
+commenting	VVG	Q2.1	commenting	VBG
+task	NN1	A1.1.1	task	NN
+advanced	VVD	M1 A5.1+/A2.1+ I1.1 T4+ S8+ X2.1	advanced	VBD
+.	.	""	.	.
+-----	-----	""	-----	CD
+Also	RR	N5++	Also	RB
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+decided	VVD	X6+	decided	VBD
+to	TO	Z5	to	TO
+give	VVI	A9- A1.1.1	give	VB
+my	APPGE	Z8	my	PRP$
+websites	NN2	Y2	websites	NNS
+nicknames	NN2	Q2.2	nicknames	NNS
+to	TO	Z5	to	TO
+make	VVI	X9.2+[i3.2.1 M1[i3.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+it	PPH1	X9.2+[i3.2.2 M1[i3.2.2 Z8	it	PRP
+easier	JJR	A12++	easier	JJR
+to	TO	Z5	to	TO
+write	VVI	Q1.2 I2.1	write	VB
+about	II	Z5	about	IN
+them	PPHO2	Z8mfn	them	PRP
+:	:	""	:	:
+)	)	""	)	CD
+Now	RT	T1.1.2 Z4	Now	RB
+lets	VVZ	S7.4+ I2.2/H1 T2-	lets	VBZ
+look	NN1	X3.4[i4.2.1 X2.4[i4.2.1 X2.1[i4.2.1 A8 X3.4 X2.4 O4.1	look	NN
+at	II	X3.4[i4.2.2 X2.4[i4.2.2 X2.1[i4.2.2 Z5	at	IN
+all	DB	N5.1+	all	DT
+of	IO	Z5	of	IN
+this	DD1	Z8 M6 Z5	this	DT
+in	II	Z5	in	IN
+details	NN2	A4.2+ S5+c B5	details	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Table	NN1	H5 Q1.2 N2	Table	NNP
+of	IO	Z5	of	IN
+Contents	NN2	A1.8+ Q2.1	Contents	NNP
+What	DDQ	Z8 Z5	What	WDT
+Happened	VVD	A2.1+ A3+ X7-	Happened	VBD
+In	II	Z5	In	IN
+January	NPM1	T1.3	January	NNP
+Website	JJ	Y2	Website	NNP
+Nicknames	NN2	Q2.2	Nicknames	NNPS
+Hiring	VVG	I2.2 I3.1	Hiring	VBG
+a	AT1	Z5	a	DT
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NNP
+Building	NN1	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	Building	NNP
+Backlinks	NN2	Z99	Backlinks	NNP
+Adding	VVG	N5+/A2.1 N2 A1.8+	Adding	VBG
+More	DAR	Z1mf[i5.2.1 Z3c[i5.2.1 Z3c	More	JJR
+Amazon	NN1@	Z1mf[i5.2.2 Z3c[i5.2.2 Z2 M7	Amazon	NNP
+Product	NN1	O2 A1.1.1 A2.2 N2%	Product	NNP
+Links	NN2	A2.2 S5+ M3 Q1.3 F1 K5.1/M7%	Links	NNP
+Kickfurther	VV0	Z99	Kickfurther	NNP
+News	NN1	X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3	News	NNP
+About	II	Z5	About	IN
+This	DD1	M6 Z5 Z8	This	DT
+Blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	Blog	NNP
+Expenses	NN2	I1.3	Expenses	NNS
+Income	NN1	I1.1	Income	NNP
+Totals	VVZ	Z3c	Totals	NNS
+Plans	NN2	X7+ C1/H1	Plans	NNS
+For	IF	Z5	For	IN
+February	NPM1	T1.3	February	NNP
+What	DDQ	Z8 Z5	What	WDT
+Happened	VVD	A2.1+ A3+ X7-	Happened	VBD
+In	II	Z5	In	IN
+January	NPM1	T1.3	January	NNP
+Website	JJ	Y2	Website	NNP
+Nicknames	NN2	Q2.2	Nicknames	NNPS
+So	RR	Z5 A13.3	So	RB
+,	,	""	,	,
+in	BCL21	Z5[i6.3.1 Z5[i7.2.1	in	IN
+order	BCL22	Z5[i6.3.2 Z5[i7.2.2	order	NN
+to	TO	Z5[i6.3.3 Z5	to	TO
+make	VVI	X9.2+[i8.2.1 M1[i8.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+it	PPH1	X9.2+[i8.2.2 M1[i8.2.2 Z8	it	PRP
+easier	JJR	A12++	easier	JJR
+to	TO	Z5	to	TO
+write	VVI	Q1.2 I2.1	write	VB
+about	II	Z5	about	IN
+my	APPGE	Z8	my	PRP$
+websites	NN2	Y2	websites	NNS
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+decided	VVD	X6+	decided	VBD
+to	TO	Z5	to	TO
+give	VVI	A9- A1.1.1	give	VB
+them	PPHO2	Z8mfn	them	PRP
+nicknames	NN2	Q2.2	nicknames	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Well	RR	A5.1+ A13.3 A7+ B2+ Z4	Well	UH
+,	,	""	,	,
+in	II	A5.2+[i9.2.1 Z5	in	IN
+fact	NN1	A5.2+[i9.2.2 A5.2+ X2.2	fact	NN
+,	,	""	,	,
+this	DD1	Z8 M6 Z5	this	DT
+was	VBDZ	A3+ Z5	was	VBD
+an	AT1	Z5	an	DT
+idea	NN1	X4.1 X7+	idea	NN
+of	IO	Z5	of	IN
+my	APPGE	Z8	my	PRP$
+boyfriend	NN1	S3.2/S2.2m	boyfriend	NN
+Sam	NP1	Z1mf	Sam	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+He	PPHS1	Z8m	He	PRP
+got	VVD	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	got	VBD
+lost	VVN	X9.2- A9- M6/A5.3- L1-	lost	VBN
+in	II	Z5	in	IN
+all	DB	N5.1+	all	DT
+these	DD2	Z5 Z8	these	DT
+URLs	NN2	A6.1+ B5 A9+ W3 A9- M7 A1.8+ N5.1+ X2.2 A5.2+ H4 Q2.2 Q1.2 A1.1.1 Y2	URLs	NNS
+and	CC	Z5	and	CC
+descriptions	NN2	Q2.2 A4.1	descriptions	NNS
+,	,	""	,	,
+so	CS@	Z5	so	RB
+he	PPHS1	Z8m	he	PRP
+suggested	VVD	Q2.2 Q1.1	suggested	VBD
+to	TO	Z5	to	TO
+simplify	VVI	A12+/A2.1	simplify	VB
+it	PPH1	Z8	it	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+We	PPIS2	Z8	We	PRP
+both	DB2	N5	both	DT
+like	VV0	E2+	like	IN
+animals	NN2	L2mfn S5+c O2c	animals	NNS
+,	,	""	,	,
+so	CS@	Z5	so	IN
+it	PPH1	Z8	it	PRP
+was	VBDZ	A3+ Z5	was	VBD
+somehow	RR	X4.2 A13.4	somehow	RB
+natural	JJ	A6.2+ A9+ A5.4+ W3 W5 B1 K2	natural	JJ
+for	IF	Z5	for	IN
+us	PPIO2	Z8	us	PRP
+to	TO	Z5	to	TO
+come	VVI	X2.1[i10.3.1 A9+[i10.3.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 A1.1.1[i11.2.1 M1[i11.2.1 P1%[i11.2.1	come	VB
+up	RP	X2.1[i10.3.2 A9+[i10.3.2 A1.1.1[i11.2.2 M1[i11.2.2 P1%[i11.2.2	up	RP
+with	IW	X2.1[i10.3.3 A9+[i10.3.3 Z5	with	IN
+animal-related	JJ	Z99	animal-related	JJ
+names	NN2	Q2.2	names	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Original	JJ	T3- A5.4+ A6.2-	Original	JJ
+names	NN2	Q2.2	names	NNS
+were	VBDR	A3+ Z5	were	VBD
+slightly	RR	A13.6	slightly	RB
+different	JJ	A6.1-	different	JJ
+from	II	Z5	from	IN
+the	AT	Z5	the	DT
+ones	NN2	Z8	ones	NNS
+you	PPY	Z4[i12.2.1 Z8mf	you	PRP
+see	VV0	Z4[i12.2.2 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VBP
+here	RL	M6 T1.1.2 T1.2	here	RB
+,	,	""	,	,
+but	CCB	Z5	but	CC
+they	PPHS2	Z8mfn	they	PRP
+were	VBDR	Z5 A3+	were	VBD
+related	VVN	A2.2 S3.1 X2.5+ Q2.1	related	VBN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+changed	VVD	A2.1+ I1 B5	changed	VBD
+them	PPHO2	Z8mfn	them	PRP
+because	CS	Z5/A2.2	because	IN
+I	PPIS1	Z8mf	I	PRP
+wanted	VVD	X7+ S6+ A7+ S3.2 A9-	wanted	VBD
+to	TO	Z5	to	TO
+have	VHI	A9+ Z5 A2.2 S4	have	VB
+an	AT1	Z5	an	DT
+emoji	NN2	Z99	emoji	NN
+for	IF	Z5	for	IN
+each	DD1	N5.1+	each	DT
+name	NN1	Q2.2	name	NN
+and	CC	Z5	and	CC
+not	XX	Z6	not	RB
+all	DB	N5.1+	all	DT
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+original	JJ	T3- A5.4+ A6.2-	original	JJ
+ones	NN2	Z8	ones	NNS
+had	VHD	A9+ Z5 A2.2 S4	had	VBD
+an	AT1	Z5	an	DT
+emoji	NN2	Z99	emoji	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Here	RL	M6 T1.1.2 T1.2	Here	RB
+they	PPHS2	Z8mfn	they	PRP
+go	VV0	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	go	VBP
+:	:	""	:	:
+the	AT	Z5	the	DT
+first	MD	N4	first	JJ
+acquired	JJ@	A9+	acquired	VBN
+website	NN1	Y2	website	NN
+:	:	""	:	:
+Elephant	NN1	L2mfn	Elephant	NN
+the	AT	Z5	the	DT
+second	MD	N4	second	JJ
+acquired	JJ@	A9+	acquired	VBN
+website	NN1	Y2	website	NN
+:	:	""	:	:
+Horse	NN1	L2mfn	Horse	NNP
+the	AT	Z5	the	DT
+website	NN1	Y2	website	NN
+I	PPIS1	Z8mf	I	PRP
+got	VVD	M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1-	got	VBD
+from	II	Z5	from	IN
+HumanProofDesigns	NP1	Z99	HumanProofDesigns	NNPS
+:	:	""	:	:
+Rat	NN1	L2mfn G2.2-/S2mf Q2.2	Rat	NN
+the	AT	Z5	the	DT
+website	NN1	Y2	website	NN
+I	PPIS1	Z8mf	I	PRP
+am	VBM	Z5 A3+	am	VBP
+building	VVG@	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	building	VBG
+myself	PPX1	Z8mf	myself	PRP
+:	:	""	:	:
+Bee	NN1	L2mfn K1/S1.1.3+	Bee	NN
+The	AT	Z5	The	DT
+choice	NN1	X7+ A6.3+	choice	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+nicknames	NN2	Q2.2	nicknames	NNS
+is	VBZ	A3+ Z5	is	VBZ
+definitely	RR	A7+++	definitely	RB
+a	RR21	A13.6[i13.2.1 A13.7[i13.2.1	a	DT
+bit	RR22	A13.6[i13.2.2 A13.7[i13.2.2	bit	NN
+bizzare	VV0	Z99	bizzare	JJ
+:	:	""	:	:
+)	)	""	)	NN
+but	CCB	Z5	but	CC
+now	RT	T1.1.2 Z4	now	RB
+it	PPH1	Z8	it	PRP
+is	VBZ	A3+ Z5	is	VBZ
+much	DA1	N5+ I1.3+	much	RB
+more	DAR	N5++	more	RBR
+fun	NN1	E4.1+	fun	NN
+to	TO	Z5	to	TO
+talk	VVI	Q2.1	talk	VB
+about	II	Z5	about	IN
+my	APPGE	Z8	my	PRP$
+websites	NN2	Y2	websites	NNS
+:	:	""	:	:
+)	)	""	)	CD
+)	)	""	)	CD
+)	)	""	)	CD
+)	)	""	)	CD
+Hiring	VVG	I2.2 I3.1	Hiring	VBG
+a	AT1	Z5	a	DT
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NNP
+So	RR	Z5 A13.3	So	RB
+,	,	""	,	,
+in	II	Z5	in	IN
+January	NPM1	T1.3	January	NNP
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+hired	VVD	I2.2 I3.1	hired	VBD
+my	APPGE	Z8	my	PRP$
+very	RG	A13.3	very	RB
+first	MD	N4	first	JJ
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+However	RR	Z4	However	RB
+,	,	""	,	,
+the	AT	Z5	the	DT
+girl	NN1	S2.1f L2f@	girl	NN
+did	VDD	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	did	VBD
+not	XX	Z6	not	RB
+stay	VVI	M8 T2++ H4	stay	VB
+for	RR21	Z5 A5.1+ S8+ M6	for	IN
+long	RR22	T1.3+	long	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+She	PPHS1	Z8f	She	PRP
+was	VBDZ	A3+ Z5	was	VBD
+a	AT1	Z5	a	DT
+very	RG	A13.3	very	RB
+good	JJ	A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+	good	JJ
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NN
+,	,	""	,	,
+effective	JJ	X9.2+	effective	JJ
+and	CC	Z5	and	CC
+knowledgeable	JJ	X2.2+	knowledgeable	JJ
+but	CCB	Z5	but	CC
+unfortunately	RR	A1.4- A5.1- E4.1-	unfortunately	RB
+,	,	""	,	,
+she	PPHS1	Z8f	she	PRP
+was	VBDZ	A3+ Z5	was	VBD
+also	RR	N5++	also	RB
+a	AT1	Z5	a	DT
+very	RG	A13.3	very	RB
+busy	JJ	A1.1.1/N5+	busy	JJ
+one	PN1	Z8	one	CD
+.	.	""	.	.
+-----	-----	""	-----	CD
+Our	APPGE	Z8	Our	PRP$
+contract	NN1	I2.1 G2.1	contract	NN
+lasted	VVD	T2++ T1.3	lasted	VBD
+for	IF	Z5	for	IN
+2.5	MC	N1 T1.2 T3 T1.3 N3.2	2.5	CD
+weeks	NNT2	T1.3	weeks	NNS
+in	II	N5.1+[i14.2.1 Z5	in	IN
+total	NN1	N5.1+[i14.2.2 N5.1+	total	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+During	II	Z5	During	IN
+the	AT	Z5	the	DT
+fist	NN1	B1	fist	NN
+2	MC	N1 T1.2 T3 T1.3 N3.2	2	CD
+weeks	NNT2	T1.3	weeks	NNS
+,	,	""	,	,
+she	PPHS1	Z8f	she	PRP
+worked	VVD	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	worked	VBD
+barely	RR	A13.7	barely	RB
+50%	NNU	N5	50%	CD
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+assigned	JJ%	A9- S7.1+	assigned	VBN
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+,	,	""	,	,
+which	DDQ	Z8 Z5	which	WDT
+was	VBDZ	A3+ Z5	was	VBD
+15	MC	N1 T1.2 T3 T1.3 N3.2	15	CD
+hours	NNT2	T1.3	hours	NNS
+/	FO	Z5	/	:
+week	NNT1	T1.3	week	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+third	MD	N4 N5 N1	third	JJ
+week	NNT1	T1.3	week	NN
+she	PPHS1	Z8f	she	PRP
+never	RR	T1/Z6	never	RB
+showed	VVD	A10+[i15.2.1 S1.2.3+[i15.2.1 S1.1.3+[i15.2.1 A10+ S1.1.1	showed	VBD
+up	RP	A10+[i15.2.2 S1.2.3+[i15.2.2 S1.1.3+[i15.2.2	up	RP
+so	CS@	Z5	so	IN
+I	PPIS1	Z8mf	I	PRP
+fired	VVD	I3.1- G3 M2 A2.2 Q2.2	fired	VBD
+her	PPHO1	Z8f	her	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+A	AT1	Z5	A	DT
+few	DA2	T1.1.1[i16.3.1 N5-	few	JJ
+days	NNT2	T1.1.1[i16.3.2 T1.3 T1.1.1[i17.2.1	days	NNS
+ago	RA	T1.1.1[i16.3.3 T1.1.1 T1.1.1[i17.2.2	ago	IN
+I	PPIS1	Z8mf	I	PRP
+hired	VVD	I2.2 I3.1	hired	VBD
+another	DD1	A6.1- N5++	another	DT
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+So	RG	T1.1.2[i18.2.1 M6[i18.2.1 N5[i18.2.1 A13.3	So	RB
+far	RR	T1.1.2[i18.2.2 M6[i18.2.2 N5[i18.2.2 A13.3 N3.3+ X9.2+	far	RB
+so	RG	A13.3	so	RB
+good	JJ	A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+	good	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+is	VBZ	A3+ Z5	is	VBZ
+sooo	NN1	Z99	sooo	JJ
+amazing	JJ	O4.2+ X2.6- A6.2-	amazing	JJ
+to	TO	Z5	to	TO
+have	VHI	A9+ Z5 A2.2 S4	have	VB
+a	AT1	Z5	a	DT
+helper	NN1	S8+/S2mf	helper	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+Hiring	VVG	I2.2 I3.1	Hiring	VBG
+a	AT1	Z5	a	DT
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NN
+is	VBZ	A3+ Z5	is	VBZ
+the	AT	Z5	the	DT
+second	MD	N4	second	JJ
+best	RRT	A5.1+++ A13.2 G2.2+++ O4.2+++	best	JJS
+cause	VV0	A2.2	cause	NN
+to	TO	Z5	to	TO
+spend	VVI	I1.2 A1.5.1 T1.3	spend	VB
+money	NN1	I1	money	NN
+-	-	""	-	:
+after	II	Z5	after	IN
+hiring	VVG	I2.2 I3.1	hiring	VBG
+a	AT1	Z5	a	DT
+cleaning	NN1	B4	cleaning	NN
+lady	NN1	S2.1f S7.1+/S2.1f	lady	NN
+:	:	""	:	:
+)	)	""	)	CD
+CLICK	VV0	X3.2 Y2 X2.5+ S1.2.1+	CLICK	NN
+TO	TO	Z5	TO	TO
+TWEET	VVI	O4.1 B2+ A5.1+ A13.2 X3.2 Q2.2 A8 N3.1% X8+ T2+ S1.1.2+ M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% E3- N5- A12- N3.2- G2.1-/A9+ M2 S2/N5+ I1/A1.7+ S7.1+ M2/O1.2 A9+/S7.1+ F1 F2 O4.6- Z2/S2mf% O2	TWEET	NNP
+Now	RT	T1.1.2 Z4	Now	RB
+I	PPIS1	Z8mf	I	PRP
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+both	RR	Z5	both	DT
+Building	VVG@	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	Building	NN
+Backlinks	NN2	Z99	Backlinks	NNS
+I	PPIS1	Z8mf	I	PRP
+continued	VVD	T2++	continued	VBD
+building	NN1	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	building	VBG
+backlinks	VVZ	Z99	backlinks	NNS
+for	IF	Z5	for	IN
+the	AT	Z5	the	DT
+websites	NN2	Y2	websites	NNS
+I	PPIS1	Z8mf	I	PRP
+am	VBM	Z5 A3+	am	VBP
+building	VVG@	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	building	VBG
+myself	PPX1	Z8mf	myself	PRP
+(	(	""	(	VBP
+that	DD1	Z8 Z5	that	DT
+is	VBZ	A3+ Z5	is	VBZ
+for	IF	Z5	for	IN
+Rat	NN1	L2mfn G2.2-/S2mf Q2.2	Rat	NN
+and	CC	Z5	and	CC
+Bee	NN1	L2mfn K1/S1.1.3+	Bee	NN
+:	:	""	:	:
+)	)	""	)	CD
+)	)	""	)	CD
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+PBN	NP1	Z99	PBN	NN
+building	NN1	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	building	NN
+has	VHZ	Z5 A9+ A2.2 S4	has	VBZ
+stagnated	VVN	A2.1- X5.2- A1.1.2	stagnated	VBN
+a	RR21	A13.6[i19.2.1 A13.7[i19.2.1	a	DT
+bit	RR22	A13.6[i19.2.2 A13.7[i19.2.2	bit	NN
+because	CS	Z5/A2.2	because	IN
+I	PPIS1	Z8mf	I	PRP
+instead	RR	A6.1-	instead	RB
+spent	VVD	I1.2 A1.5.1 T1.3	spent	VBD
+my	APPGE	Z8	my	PRP$
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+to	TO	Z5	to	TO
+find	VVI	A10+ X2.1 X6+	find	VB
+and	CC	Z5	and	CC
+hire	VVI	I2.2 I3.1	hire	VB
+a	AT1	Z5	a	DT
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+first	MD	N4	first	JJ
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NNP
+did	VDD	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	did	VBD
+a	AT1	Z5	a	DT
+bit	NN1	N5- N5.1- O2 Y2	bit	NN
+of	IO	Z5	of	IN
+work	NN1	I3.1 A1.1.1 Q4 K2 C1	work	NN
+of	IO	Z5	of	IN
+finding	VVG	A10+ X2.1 X6+	finding	VBG
+authority	NN1	G1.1c S7.1+ S7.4+ X2.2+	authority	NN
+blogs	VVZ	Z1mf	blogs	NNS
+to	TO	Z5	to	TO
+comment	VVI	Q2.1	comment	VB
+on	II	Z5	on	IN
+,	,	""	,	,
+so	CS@	Z5	so	IN
+I	PPIS1	Z8mf	I	PRP
+built	VVD	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	built	VBD
+some	DD	N5 Z5	some	DT
+backlinks	NN2	Z99	backlinks	NNS
+through	II	Z5	through	IN
+commenting	VVG	Q2.1	commenting	VBG
+.	.	""	.	.
+-----	-----	""	-----	CD
+Also	RR	N5++	Also	RB
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+bought	VVD	I2.2	bought	VBD
+a	AT1	Z5	a	DT
+PBN	NP1	Z99	PBN	NNP
+hosting	VVG	S1.1.1	hosting	VBG
+package	NN1	O2 A1.8+ Y2	package	NN
+from	II	Z5	from	IN
+Easy	JJ	A12+	Easy	NNP
+Blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	Blog	NNP
+Networks	NN2	S5+ Q4.3 Y2	Networks	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+new	JJ	T3-	new	JJ
+approach	NN1	X4.2 M1 E1 S1.1.1	approach	NN
+to	II	Z5	to	TO
+hosting	VVG	S1.1.1	hosting	VBG
+PBNs	NP1	Z99	PBNs	NNS
+,	,	""	,	,
+and	CC	Z5	and	CC
+I	PPIS1	Z8mf	I	PRP
+am	VBM	Z5 A3+	am	VBP
+trying	VVG	X2.4[i20.2.1 X8+ X2.4 Q2.2 G2.1 A12-	trying	VBG
+it	PPH1	Z8	it	PRP
+out	RP	X2.4[i20.2.2 M6	out	RP
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+will	VM	T1.1.3	will	MD
+write	VVI	Q1.2 I2.1	write	VB
+a	AT1	Z5	a	DT
+detailed	JJ	A4.2+	detailed	JJ
+review	NN1	Q4 X2.4	review	NN
+soon	RR	T1.1.3/N3.8+	soon	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+Adding	VVG	N5+/A2.1 N2 A1.8+	Adding	VBG
+More	DAR	Z1mf[i21.2.1 Z3c[i21.2.1 Z3c	More	JJR
+Amazon	NN1@	Z1mf[i21.2.2 Z3c[i21.2.2 Z2 M7	Amazon	NNP
+Product	NN1	O2 A1.1.1 A2.2 N2%	Product	NNP
+Links	NN2	A2.2 S5+ M3 Q1.3 F1 K5.1/M7%	Links	NNP
+Following	VVG	M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4	Following	VBG
+my	APPGE	Z8	my	PRP$
+plan	NN1	X7+ C1/H1	plan	NN
+of	IO	Z5	of	IN
+improving	VVG	A5.1+/A2.1	improving	VBG
+my	APPGE	Z8	my	PRP$
+acquired	JJ@	A9+	acquired	VBN
+websites	NN2	Y2	websites	NNS
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+added	VVD	N5+/A2.1 N2 A1.8+	added	VBD
+more	RRR	A13.3 N6++	more	RBR
+Amazon	NP1	Z2 M7	Amazon	NNP
+product	NN1	O2 A1.1.1 A2.2 N2%	product	NN
+links	VVZ	A2.2 S5+ A1.1.1	links	NNS
+to	II	Z5	to	TO
+the	AT	Z5	the	DT
+Elephant	NN1	L2mfn	Elephant	NN
+website	NN1	Y2	website	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+You	PPY	Z8mf	You	PRP
+will	VM	T1.1.3	will	MD
+see	VVI	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VB
+below	RL	M6	below	IN
+that	CST	Z5 Z8	that	IN
+the	AT	Z5	the	DT
+Amazon	NP1	Z2 M7	Amazon	NNP
+portion	NN1	N5	portion	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+has	VHZ	Z5 A9+ A2.2 S4	has	VBZ
+grown	VVN	N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4	grown	VBN
+compared	VVN	A6.1 A5.1 Q3	compared	VBN
+to	II	Z5	to	TO
+the	AT	Z5	the	DT
+previous	JJ	N4	previous	JJ
+month	NNT1	T1.3	month	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+However	RR	Z4	However	RB
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+think	VV0	X2.1	think	VBP
+it	PPH1	Z8	it	PRP
+was	VBDZ	A3+ Z5	was	VBD
+just	RR	A14 T3--- T1.3- N3.3---	just	RB
+a	AT1	Z5	a	DT
+fluctuation	NN1	A2.1+	fluctuation	NN
+and	CC	Z5	and	CC
+not	XX	Z6	not	RB
+a	AT1	Z5	a	DT
+result	NN1	A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2	result	NN
+of	IO	Z5	of	IN
+my	APPGE	Z8	my	PRP$
+efforts	NN2	X8+ O2	efforts	NNS
+because	CS	Z5/A2.2	because	IN
+the	AT	Z5	the	DT
+total	JJ	A13.2 N5.1+	total	JJ
+amount	NN1	N5	amount	NN
+of	IO	Z5	of	IN
+orders	NN2	S7.1+/Q2.2 I2.2/Q2.2 A4.1 N4 G2.1+ G2.1 Q1.2/I1.1 O4.2+	orders	NNS
+was	VBDZ	A3+ Z5	was	VBD
+smaller	JJR	N3.2-- N3.7-- N5-- T3-- A11.1-- S5--/I2.1 X3.2- A5.1--	smaller	JJR
+than	CSN	Z5	than	IN
+in	II	Z5	in	IN
+December	NPM1	T1.3	December	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Winter	NNT1	T1.3	Winter	NNP
+seems	VVZ	A8	seems	VBZ
+to	TO	Z5	to	TO
+affect	VVI	A2.1+ A5.4-/A8	affect	VB
+this	DD1	M6 Z5 Z8	this	DT
+niche	NN1	O2 I3.1	niche	NN
+more	RRR	A13.3 N6++	more	RBR
+than	CSN	Z5	than	IN
+I	PPIS1	Z8mf	I	PRP
+thought	VVD	X2.1	thought	VBD
+.	.	""	.	.
+-----	-----	""	-----	CD
+Kickfurther	VV0	Z99	Kickfurther	NNP
+Kickfuther	NN1	Z99	Kickfuther	NNP
+business	NN1	I2.1 A1.1.1 A5.1+++	business	NN
+was	VBDZ	Z5 A3+	was	VBD
+doing	VDG	S8+[i22.2.1 A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	doing	VBG
+pretty	RG	A13.5	pretty	RB
+good	JJ	S8+[i22.2.2 A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+	good	JJ
+in	II	Z5	in	IN
+January	NPM1	T1.3	January	NNP
+!	!	""	!	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+got	VVD	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	got	VBD
+many	DA2	N5+	many	JJ
+payouts	NN2	I1.2	payouts	NNS
+and	CC	Z5	and	CC
+some	DD	N5 Z5	some	DT
+of	IO	Z5	of	IN
+them	PPHO2	Z8mfn	them	PRP
+were	VBDR	A3+ Z5	were	VBD
+final	JJ	N4 T2-	final	JJ
+and	CC	Z5	and	CC
+were	VBDR	Z5 A3+	were	VBD
+paid	VVN	I1.2[i23.2.1 I1.2 A9- I1.1/I3.1	paid	VBN
+way	NN1	I1.2[i23.2.2 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3	way	NN
+ahead	II21	N4[i24.2.1 N4[i25.2.1 A5.1++[i25.2.1	ahead	RB
+of	II22	N4[i24.2.2 N4[i25.2.2 A5.1++[i25.2.2	of	IN
+the	AT	Z5	the	DT
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+guess	VV0	X2.1	guess	VBP
+it	PPH1	Z8	it	PRP
+happened	VVD	A2.1+ A3+ X7-	happened	VBD
+because	CS	Z5/A2.2	because	RB
+many	DA2	N5+	many	JJ
+businesses	NN2	I2.1 A1.1.1 A5.1+++	businesses	NNS
+borrowed	VVD	A9+	borrowed	VBN
+money	NN1	I1	money	NN
+for	IF	Z5	for	IN
+the	AT	Z5	the	DT
+busy	JJ	A1.1.1/N5+	busy	JJ
+Christmas	NNT1	S9/T1.3	Christmas	NNP
+&	CC	Z5	&	CC
+New	JJ	T1.3/K1[i26.2.1 T3-	New	NNP
+Year	NNT1	T1.3/K1[i26.2.2 T1.3 P1c	Year	NNP
+season	NNT1	T1.3	season	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+season	NNT1	T1.3	season	NN
+sales	NN	I2.2 I2.2/I1.3-	sales	NNS
+did	VDD	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	did	VBD
+better	RRR	A5.1++ G2.2++ O4.2++	better	JJR
+than	CSN	Z5	than	IN
+expected	JJ	X2.6+	expected	VBN
+,	,	""	,	,
+and	CC	Z5	and	CC
+the	AT	Z5	the	DT
+businesses	NN2	I2.1 A1.1.1 A5.1+++	businesses	NNS
+made	VVD	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	made	VBN
+enough	DD	N5+ N6+	enough	JJ
+money	NN1	I1	money	NN
+to	TO	Z5	to	TO
+pay	VVI	I1.2[i27.2.1 S1.1.2+[i27.2.1 I1.2 A9- I1.1/I3.1	pay	VB
+back	RP	I1.2[i27.2.2 S1.1.2+[i27.2.2 M6 N6+ T1.1.1 S1.1.2+	back	RP
+all	DB	N5.1+	all	PDT
+the	AT	Z5	the	DT
+loans	NN2	I1.2 A9-	loans	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+In	II	N5.1+[i28.2.1 Z5	In	IN
+total	NN1	N5.1+[i28.2.2 N5.1+	total	JJ
+,	,	""	,	,
+there	EX	Z5	there	EX
+were	VBDR	A3+ Z5	were	VBD
+6	MC	N1 T1.2 T3 T1.3 N3.2	6	CD
+businesses	NN2	I2.1 A1.1.1 A5.1+++	businesses	NNS
+I	PPIS1	Z8mf	I	PRP
+backed	VVD	S8+ K5.1/I1 M1 M6 K2	backed	VBD
+that	CST	Z8 Z5	that	IN
+paid	VVD	I1.2[i29.2.1 I3.1-[i29.2.1 X9.2+[i29.2.1 I1.2 A9- I1.1/I3.1	paid	VBN
+off	RP	I1.2[i29.2.2 I3.1-[i29.2.2 X9.2+[i29.2.2 M6 K1 A1.1.1 A1.9	off	RP
+everything	PN1	Z8/N5.1+	everything	NN
+during	II	Z5	during	IN
+January	NPM1	T1.3	January	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Here	RL	M6 T1.1.2 T1.2	Here	RB
+are	VBR	A3+ Z5	are	VBP
+their	APPGE	Z8	their	PRP$
+names	NN2	Q2.2	names	NNS
+and	CC	Z5	and	CC
+the	AT	Z5	the	DT
+products	NN2	O2 A1.1.1 A2.2 N2%	products	NNS
+they	PPHS2	Z8mfn	they	PRP
+borrowed	VVD	A9+	borrowed	VBD
+money	NN1	I1	money	NN
+for	IF	Z5	for	IN
+:	:	""	:	:
+Airbag	NP1	O2/M3	Airbag	NNP
+(	(	""	(	NNP
+backpacks	NN2	O2	backpacks	NNS
+)	)	""	)	VBP
+Glamour	NN1	O4.2+	Glamour	NNP
+Dolls	NN2	K6 B5	Dolls	NNP
+Makeup	NN1	B4	Makeup	NNP
+(	(	""	(	NN
+lipsticks	NN2	B4	lipsticks	NNS
+)	)	""	)	VBP
+Scratch	VV0	B2- A1.1.1 A1.1.2	Scratch	VB
+Tracks	NN2	M3 O2 K3 A4.1 X4.1 K5.1/M7 X2.4	Tracks	NNP
+(	(	""	(	CD
+Bluetooth	NP1	Z99	Bluetooth	NNP
+speakers	NN2	Q2.1/S2mf G1.1/S2mf O3	speakers	NNS
+)	)	""	)	VBP
+Clarisea	NP1	Z99	Clarisea	NNP
+,	,	""	,	,
+Inc.	JJ	I2.1	Inc.	NNP
+(	(	""	(	CD
+cosmetics	NN2	B4	cosmetics	NNS
+)	)	""	)	VBP
+Vaportini	NP1	Z99	Vaportini	NNP
+(	(	""	(	CD
+innovative	JJ	T3-	innovative	JJ
+cocktail	NN1	F2	cocktail	NN
+glasses	NN2	O2 B3/X3.4	glasses	VBZ
+)	)	""	)	NNP
+Harvey	NP1	Z1mf[i31.3.1 Z3c[i31.3.1 Z1mf Z1mf[i30.2.1 Z3c[i30.2.1	Harvey	NNP
+Prince	NNB	Z1mf[i31.3.2 Z3c[i31.3.2 Z1mf Z3m Z1mf[i30.2.2 Z3c[i30.2.2 Z1mf[i32.2.1 Z3c[i32.2.1	Prince	NNP
+Organics	NP1	Z3c[i31.3.3 Z1mf[i31.3.3 Z1mf[i32.2.2 Z3c[i32.2.2	Organics	NNP
+(	(	""	(	NN
+perfume	NN1	B4 X3.5	perfume	NN
+)	)	""	)	CD
+Three	MC	N1 T1.2 T3	Three	CD
+of	IO	Z5	of	IN
+them	PPHO2	Z8mfn	them	PRP
+came	VVD	M1/N6+[i33.2.1 X2.2+[i33.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2	came	VBD
+back	RP	M1/N6+[i33.2.2 X2.2+[i33.2.2 M6 N6+ T1.1.1 S1.1.2+	back	RB
+almost	RR	A13.4	almost	RB
+immediately	RR	N3.8+ T1.1.2/A11.1+ N4	immediately	RB
+with	IW	Z5	with	IN
+the	AT	Z5	the	DT
+next	MD	N4	next	JJ
+offer	NN1	A9- Q2.2 I1.3-	offer	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Needless	JJ	S6-	Needless	JJ
+to	TO	Z5	to	TO
+say	VVI	Q2.1 Z4%	say	VB
+that	CST	Z8 Z5	that	IN
+I	PPIS1	Z8mf	I	PRP
+gladly	RR	X5.2+	gladly	RB
+lent	VVD	A9-	lent	VBD
+them	PPHO2	Z8mfn	them	PRP
+money	NN1	I1	money	NN
+again	RT	N6+ Z4	again	RB
+:	:	""	:	:
+)	)	""	)	CD
+If	CS	Z7	If	IN
+you	PPY	Z8mf	you	PRP
+want	VV0	X7+ S6+ A7+ S3.2 A9-	want	VBP
+to	TO	Z5	to	TO
+try	VVI	X2.4[i34.2.1 X8+ X2.4 Q2.2 G2.1 A12-	try	VB
+it	PPH1	Z8	it	PRP
+out	RP	X2.4[i34.2.2 M6	out	RP
+,	,	""	,	,
+get	VV0	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	get	VB
+$5	NNU	Z99	$5	CD
+to	II	Z5	to	TO
+back	NN1	B1 M6	back	VB
+a	AT1	Z5	a	DT
+business	NN1	I2.1 A1.1.1 A5.1+++	business	NN
+on	II	Z5	on	IN
+Kickfurther	NP1	Z99	Kickfurther	NN
+through	II	Z5	through	IN
+my	APPGE	Z8	my	PRP$
+referral	NN1	Q2.2/S2mf Q2.2	referral	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+News	NN1	X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3	News	NNP
+About	II	Z5	About	IN
+This	DD1	M6 Z5 Z8	This	DT
+Blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	Blog	NN
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+sooo	NN1	Z99	sooo	JJ
+happy	JJ	E4.1+ E4.2+	happy	JJ
+to	TO	Z5	to	TO
+tell	VVI	Q2.2 Q2.1 X3 A10+	tell	VB
+you	PPY	Z8mf	you	PRP
+that	CST	Z5 Z8	that	IN
+EmpireFlippers	NP1	Z99	EmpireFlippers	NNP
+(	(	""	(	VBD
+the	AT	Z5	the	DT
+online	JJ	Y2	online	JJ
+broker	NN1	I2.2/S2mf S8+/S2mf	broker	NN
+where	CS	M6	where	WRB
+I	PPIS1	Z8mf	I	PRP
+bought	VVD	I2.2	bought	VBD
+Elephant	NN1	L2mfn	Elephant	NN
+and	CC	Z5	and	CC
+Horse	NN1	L2mfn	Horse	NN
+websites	NN2	Y2	websites	NNS
+)	)	""	)	VBP
+featured	VVD	A10+	featured	VBN
+my	APPGE	Z8	my	PRP$
+blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	blog	NN
+in	II	Z5	in	IN
+their	APPGE	Z8	their	PRP$
+podcast	NN1	Z99	podcast	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+This	DD1	M6 Z5 Z8	This	DT
+particular	JJ	A4.2+ X7+	particular	JJ
+episode	NN1	A3+/A11.1+ A6.2- Q4 B2-	episode	NN
+is	VBZ	A3+ Z5	is	VBZ
+about	II	Z5	about	IN
+FBA	NP1	Z99	FBA	NNP
+business	NN1	I2.1 A1.1.1 A5.1+++	business	NN
+,	,	""	,	,
+Fulfillment	NP1	E4.2+ X9.2+	Fulfillment	NN
+By	II	Z5	By	IN
+Amazon	NP1	Z2 M7	Amazon	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+You	PPY	Z8mf	You	PRP
+can	VM	A7+	can	MD
+listen	VVI	X3.2	listen	VB
+to	II	Z5	to	TO
+it	PPH1	Z8	it	PRP
+here	RL	M6 T1.1.2 T1.2	here	RB
+:	:	""	:	:
+empireflippers.com/fba	FU	Z99	empireflippers.com/fba	NN
+I	PPIS1	Z8mf	I	PRP
+am	VBM	Z5 A3+	am	VBP
+mentioned	VVN	Q2.1	mentioned	VBN
+on	II	Z5	on	IN
+59:13	MC	N1 T1.2 T3 T1.3 N3.2	59:13	CD
+:	:	""	:	:
+)	)	""	)	CD
+Thanks	NN2	S1.2.4+	Thanks	NNS
+,	,	""	,	,
+guys	NN2	S2.2m O2	guys	NNS
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+really	RR	A13.3 A5.2+	really	RB
+appreciate	VV0	E2+ X2.5+ S1.1.1 I1.1++	appreciate	VBP
+it	PPH1	Z8	it	PRP
+!	!	""	!	.
+-----	-----	""	-----	CD
+So	RR	Z5 A13.3	So	RB
+,	,	""	,	,
+thats	NN2	Z5 Z8 A13.3 A6.1+	thats	VBZ
+what	DDQ	Z8 Z5	what	WP
+I	PPIS1	Z8mf	I	PRP
+was	VBDZ	A3+ Z5	was	VBD
+busy	JJ	A1.1.1/N5+	busy	JJ
+with	IW	Z5	with	IN
+in	II	Z5	in	IN
+January	NPM1	T1.3	January	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Now	RT	T1.1.2 Z4	Now	RB
+,	,	""	,	,
+lets	VVZ	S7.4+ I2.2/H1 T2-	lets	VBZ
+look	NN1	X3.4[i35.2.1 X2.4[i35.2.1 X2.1[i35.2.1 A8 X3.4 X2.4 O4.1	look	NN
+at	II	X3.4[i35.2.2 X2.4[i35.2.2 X2.1[i35.2.2 Z5	at	IN
+the	AT	Z5	the	DT
+numbers	NN2	N5 N1 Q1.3 K2 Q4.2	numbers	NNS
+!	!	""	!	.
+-----	-----	""	-----	CD
+Expenses	NN2	I1.3	Expenses	NNS
+The	AT	Z5	The	DT
+expenses	NN2	I1.3	expenses	NNS
+in	II	Z5	in	IN
+month	NNT1	T1.3	month	NN
+January	NPM1	T1.3[i36.2.1 T1.3	January	NNP
+2016	MC	T1.3[i36.2.2 N1 T1.2 T3 T1.3 N3.2	2016	CD
+were	VBDR	A3+ Z5	were	VBD
+on	II	Z5	on	IN
+one	MC1	N1 T3 T1.2	one	CD
+hand	NN1	B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf	hand	NN
+somehow	RR	X4.2 A13.4	somehow	RB
+low	JJ	N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1-	low	JJ
+and	CC	Z5	and	CC
+on	II	Z4[i37.4.1 Z5	on	IN
+the	AT	Z4[i37.4.2 Z5	the	DT
+other	JJ	Z4[i37.4.3 A6.1-	other	JJ
+hand	NN1	Z4[i37.4.4 B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf	hand	NN
+somehow	RR	X4.2 A13.4	somehow	RB
+high	JJ	N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9	high	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+planned	VVD	X7+	planned	VBD
+to	TO	Z5	to	TO
+spend	VVI	I1.2 A1.5.1 T1.3	spend	VB
+a	AT1	N5+[i38.2.1 N6+[i38.2.1 A13.3[i38.2.1 Z5	a	DT
+lot	NN1	N5+[i38.2.2 N6+[i38.2.2 A13.3[i38.2.2	lot	NN
+of	IO	Z5	of	IN
+money	NN1	I1	money	NN
+paying	VVG	I1.2 A9- I1.1/I3.1	paying	VBG
+to	II	Z5	to	TO
+a	AT1	Z5	a	DT
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NNP
+,	,	""	,	,
+but	CCB	Z5	but	CC
+in	II	Z5	in	IN
+reality	NN1	A3+ A5.2+	reality	NN
+,	,	""	,	,
+the	AT	Z5	the	DT
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NNP
+worked	VVD	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	worked	VBD
+much	DA1	N5+ I1.3+	much	RB
+less	DAR	N5--	less	JJR
+than	CSN	Z5	than	IN
+expected	JJ	X2.6+	expected	VBN
+.	.	""	.	.
+-----	-----	""	-----	CD
+At	II	T1.1.2[i39.4.1 Z5	At	IN
+the	AT	T1.1.2[i39.4.2 Z5	the	DT
+same	DA	T1.1.2[i39.4.3 A6.1+++	same	JJ
+time	NNT1	T1.1.2[i39.4.4 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+spent	VVD	I1.2 A1.5.1 T1.3	spent	VBD
+a	AT1	N5+[i40.2.1 N6+[i40.2.1 A13.3[i40.2.1 Z5	a	DT
+lot	NN1	N5+[i40.2.2 N6+[i40.2.2 A13.3[i40.2.2	lot	NN
+of	IO	Z5	of	IN
+money	NN1	I1	money	NN
+backing	VVG	S8+[i41.2.1 M1[i41.2.1 A9+[i41.2.1 Y2/A5.4-[i41.2.1 S8+ K5.1/I1 M1 M6 S8+[i42.2.1 M1[i42.2.1 A9+[i42.2.1	backing	VBG
+up	RP	S8+[i41.2.2 M1[i41.2.2 A9+[i41.2.2 Y2/A5.4-[i41.2.2 S8+[i42.2.2 M1[i42.2.2 A9+[i42.2.2	up	RP
+businesses	NN2	I2.1 A1.1.1 A5.1+++	businesses	NNS
+on	II	Z5	on	IN
+Kickfurther	NP1	Z99	Kickfurther	NNP
+about	RG	A13.4	about	IN
+3	MC	N6+[i43.2.1 A13.3[i43.2.1 N1 T1.2 T3 T1.3 N3.2	3	CD
+times	NNT2	N6+[i43.2.2 A13.3[i43.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1	times	NNS
+more	RRR	A13.3 N6++	more	JJR
+than	CSN	Z5	than	IN
+the	AT	Z5	the	DT
+last	MD	T1.1.1[i44.2.1 N4	last	JJ
+month	NNT1	T1.1.1[i44.2.2 T1.3	month	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+However	RR	Z4	However	RB
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+did	VDD	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	did	VBD
+not	XX	Z6	not	RB
+put	VVI	M2 Q2.1 Q2.2 A1.1.1	put	VB
+any	DD	N5.1+ N5	any	DT
+fresh	JJ	T3- O4.2+ B1 W4 S1.2.3+	fresh	JJ
+money	NN1	I1	money	NN
+and	CC	Z5	and	CC
+re-invested	VVD	I1.1/N6+	re-invested	VBD
+only	RR	A14	only	RB
+what	DDQ	Z8 Z5	what	WP
+I	PPIS1	Z8mf	I	PRP
+got	VVD	M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1-	got	VBD
+from	II	Z5	from	IN
+the	AT	Z5	the	DT
+payouts	NN2	I1.2	payouts	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Expenses	NN2	I1.3	Expenses	NNS
+Expense	NN1	I1.3	Expense	NNP
+Amount	NN1	N5	Amount	NNP
+Notes	VVZ@	Q1.2 K2 Q2.1	Notes	NNP
+Outsourced	JJ	Z99	Outsourced	NNP
+writing	NN1	Q1.2 I2.1	writing	VBG
+$101.38	NNU	Z99	$101.38	CD
+Content	NN1	Q2.1 A1.8+ N5 E4.1+%	Content	NN
+for	IF	Z5	for	IN
+money	NN1	I1.1+[i45.2.1 I1	money	NN
+making	VVG	I1.1+[i45.2.2 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	making	VBG
+websites	NN2	Y2	websites	NNS
+and	CC	Z5	and	CC
+for	IF	Z5	for	IN
+PBN	NP1	Z99	PBN	NNP
+Outsourced	VVD@	I2.2 T2+ Q1.1 X2.2 W3/M4 A9+	Outsourced	NNP
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NNP
+$48.00	NNU	Z99	$48.00	CD
+Outsourcing	VVG	I2.2	Outsourcing	VBG
+some	DD	N5 Z5	some	DT
+work	NN1	I3.1 A1.1.1 Q4 K2 C1	work	NN
+to	II	Z5	to	TO
+a	AT1	Z5	a	DT
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NNP
+PBN	NP1	Z99	PBN	NNP
+domain	NN1	X4.1 A9+ Y2	domain	NN
+registration	NN1	Q1.2/G1.1	registration	NN
+$26.88	NNU	Z99	$26.88	NN
+For	IF	Z5	For	IN
+my	APPGE	Z8	my	PRP$
+PBN	NP1	Z1mf[i46.2.1 Z3c[i46.2.1	PBN	NNP
+PBN	NP1	Z1mf[i46.2.2 Z3c[i46.2.2	PBN	NNP
+hosting	VVG	S1.1.1	hosting	VBG
+$37.28	NNU	Z99	$37.28	CD
+For	IF	Z5	For	IN
+my	APPGE	Z8	my	PRP$
+PBN	NP1	Z99	PBN	NN
+;	;	""	;	:
+I	PPIS1	Z8mf	I	PRP
+am	VBM	Z5 A3+	am	VBP
+giving	VVG	A9- A1.1.1	giving	VBG
+a	AT1	Z5	a	DT
+try	NN1@	X8+ K5.1	try	NN
+to	TO	Z5	to	TO
+Easy	JJ	A12+	Easy	NNP
+Blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	Blog	NNP
+Network	NN1	S5+c Q4.3 Y2	Network	NNP
+Expired	VVD	M1/N3.8+ M1 B5 X8+ T1.3 X7/N5+ N5 K4 K5.1% G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ Z5 K5.1 M6 S3.2 T2- L1- O2 O4.2- T2+ S1.1.2+ A2.1+ A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 B2-/X1% B1% M7 L1-@ X9.2+ Q1.2 W3 M2 N5.2+ S7.4+ A5.4+/A8 A1.1.1% E3- E4.1+ W4 A4.1 I1 O4.2+ F1 Y2 K5.2/I1 F4/M7 F4 S9mfn G2.1-/S2mf Q4.3 Z3 A10-/Q4.1 O1.2/N5 N5-/A2.1 N5- B3 N3.3 O1.2/M1 B2- A1.8- X9.2-/K5 X3.2 X5.2- A4.2+ A1.1.1- E3+ A13.3 K2 F2 S4m Z4 E2- A5.1- G2.2- K1 A1.9 M3/O2 S8- Q2.2 F3 G2.1-/S3.2 O4.6- B3@ Z8 B1 G1.1c O4.1 N4 O4.4 T1.3/I3.1 A9+ C1 S7.1- X2.4 S6+ N3 P1 X2.5+ F1@ F2@ Q1.2@ N5-@	Expired	NNP
+domains	NN2	X4.1 A9+ Y2	domains	NNS
+$19.00	NNU	Z99	$19.00	CD
+Paying	VVG	I1.2 A9- I1.1/I3.1	Paying	VBG
+for	IF	Z5	for	IN
+a	AT1	Z5	a	DT
+subscription	NN1	Q4.2/I2.2 A9-/I1 I2.2/I1	subscription	NN
+from	II	Z5	from	IN
+HammerheadDomians	NN2	Z99	HammerheadDomians	NNPS
+for	IF	Z5	for	IN
+PBN	NP1	Z99	PBN	NNP
+Domain	NN1	X4.1 A9+ Y2	Domain	NN
+privacy	NN1	A10-	privacy	NN
+$15.00	NNU	N1 T3 T1.2 Z5 N3.2+ N5+ A11.1+	$15.00	CD
+Finally	RR	N4	Finally	RB
+!	!	""	!	.
+-----	-----	""	-----	CD
+Bought	VVN	I2.2	Bought	JJ
+domain	NN1	X4.1 A9+ Y2	domain	NN
+privacy	NN1	A10-	privacy	NN
+for	IF	Z5	for	IN
+my	APPGE	Z8	my	PRP$
+websites	NN2	Y2	websites	NNS
+KickFurther	VV0	Z99	KickFurther	NNP
+$600.75	NNU	Z99	$600.75	CD
+Re-invested	VVD	I1.1/N6+	Re-invested	VBD
+the	AT	Z5	the	DT
+paybacks	NN2	I1.1+ I1.2 S1.1.2+	paybacks	NNS
+received	VVN	A9+ S5+	received	VBN
+in	II	Z5	in	IN
+January	NPM1	T1.3	January	NNP
+and	CC	Z5	and	CC
+a	AT1	Z5	a	DT
+left-over	JJ	F1 N5.2+/A1.5.1- M6 G1.2 N5.2+ G1.2c M1 M2 A1.1.1 A1.9 A9- T2- A6.2- N6- A13.4 T2++ M8	left-over	NN
+from	II	Z5	from	IN
+December	NPM1	T1.3	December	NNP
+;	;	""	;	:
+read	VV0	Q3 Q1.2 X3.2+ X2.5+ P1 A10+	read	VB
+more	RRR	A13.3 N6++	more	RBR
+in	II	Z5	in	IN
+my	APPGE	Z8	my	PRP$
+post	NN1	Q1.2 O2 I3.1 M6	post	NN
+about	II	Z5	about	IN
+Kickfurther	NP1	Z1mf[i47.2.1 Z3c[i47.2.1	Kickfurther	NNP
+Total	NN1	Z1mf[i47.2.2 Z3c[i47.2.2 Z3c	Total	NNP
+$862.56	NNU	Z99	$862.56	CD
+In	II	Z5	In	IN
+January	NPM1	T1.3	January	NNP
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+hired	VVD	I2.2 I3.1	hired	VBD
+a	AT1	Z5	a	DT
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NN
+to	TO	Z5	to	TO
+outsource	VVI	I2.2	outsource	VB
+some	DD	N5 Z5	some	DT
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+mundane	JJ	X5.2- A6.2+	mundane	JJ
+work	NN1	I3.1 A1.1.1 Q4 K2 C1	work	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Best	RRT	A5.1+++ A13.2 G2.2+++ O4.2+++	Best	JJS
+spent	VVN	I1.2 A1.5.1 T1.3	spent	VBN
+money	NN1	I1	money	NN
+ever	RR	T1.1 N6+++ A13	ever	RB
+!	!	""	!	.
+(	(	""	(	CD
+apart	II21	A1.8-[i48.2.1	apart	RB
+from	II22	A1.8-[i48.2.2 Z5	from	IN
+paying	VVG	I1.2 A9- I1.1/I3.1	paying	VBG
+to	II	Z5	to	TO
+a	AT1	Z5	a	DT
+cleaning	NN1	B4	cleaning	NN
+lady	NN1	S2.1f S7.1+/S2.1f	lady	NN
+)	)	""	)	CD
+.	.	""	.	.
+-----	-----	""	-----	CD
+Currently	RR	T1.1.2	Currently	NNP
+I	PPIS1	Z8mf	I	PRP
+am	VBM	Z5 A3+	am	VBP
+training	VVG@	P1 K5.1	training	VBG
+a	AT1	Z5	a	DT
+second	NNT1	T1.3 T1.2	second	JJ
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NN
+after	CS	Z5	after	IN
+I	PPIS1	Z8mf	I	PRP
+fired	VVD	I3.1- G3 M2 A2.2 Q2.2	fired	VBD
+the	AT	Z5	the	DT
+first	MD	N4	first	JJ
+one	PN1	Z8	one	CD
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+continued	VVD	T2++	continued	VBD
+building	VVG@	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	building	VBG
+the	AT	Z5	the	DT
+PBNs	NP1	Z99	PBNs	NNS
+but	CCB	Z5	but	CC
+not	XX	Z6	not	RB
+very	RG	A13.3	very	RB
+actively	RR	X5.2+ A1.1.1	actively	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+registered	VVD	Q1.2/G1.1 N3.1 A9+ Q2.1 A10+ X2.5+	registered	VBD
+a	AT1	Z5	a	DT
+few	DA2	N5-	few	JJ
+more	DAR	N5++	more	JJR
+sites	NN2	M7	sites	NNS
+on	II	Z5	on	IN
+expired	JJ@	A5.2- B2- B2-/S2mf T2-	expired	VBN
+domains	NN2	X4.1 A9+ Y2	domains	NNS
+I	PPIS1	Z8mf	I	PRP
+got	VVD	M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1-	got	VBD
+from	II	Z5	from	IN
+HammerheadDomains	NN2	Z99	HammerheadDomains	NNS
+and	CC	Z5	and	CC
+DomCop	NP1	Z99	DomCop	NNP
+and	CC	Z5	and	CC
+am	VBM	Z5 A3+	am	VB
+trying	VVG	X2.4[i49.2.1 X8+ X2.4 Q2.2 G2.1 A12-	trying	VBG
+out	RP	X2.4[i49.2.2 M6	out	IN
+a	AT1	Z5	a	DT
+new	JJ	T3-	new	JJ
+PBN	NP1	Z99	PBN	NNP
+hosting	VVG	S1.1.1	hosting	VBG
+solution	NN1	X4.2 O1.2	solution	NN
+:	:	""	:	:
+Easy	JJ	A12+	Easy	NNP
+Blog	NN1	L2 O2 A1.1.1 Q1.2 N2 Q4.2	Blog	NNP
+Network	NN1	S5+c Q4.3 Y2	Network	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+wrote	VVD	Q1.2 I2.1	wrote	VBD
+the	AT	Z5	the	DT
+first	MD	N4	first	JJ
+post	NN1	Q1.2 O2 I3.1 M6	post	NN
+about	II	Z5	about	IN
+building	NN1	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	building	VBG
+PBNs	NP1	Z99	PBNs	NNS
+and	CC	Z5	and	CC
+plan	VV0	X7+	plan	NN
+to	TO	Z5	to	TO
+continue	VVI	T2++	continue	VB
+to	TO	Z5	to	TO
+write	VVI	Q1.2 I2.1	write	VB
+a	AT1	Z5	a	DT
+series	NN	N4c Q4.3c	series	NN
+of	IO	Z5	of	IN
+posts	NN2	Q1.2 O2 I3.1 M6	posts	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Subscribe	VV0	X2.1/A6.1+ Q4.2/I2.2 A9-/I1 I2.2/I1	Subscribe	NN
+to	II	Z5	to	TO
+my	APPGE	Z8	my	PRP$
+emails	NN2	Q1.3/Y2	emails	NNS
+to	TO	Z5	to	TO
+avoid	VVI	A1.9 M1	avoid	VB
+missing	VVG	A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3-	missing	VBG
+the	AT	Z5	the	DT
+rest	NN1	E3+ K1 T2-/T1.3 O2 N5.1-	rest	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+First	MD	N4	First	NNP
+Name	NN1	Q2.2	Name	VB
+:	:	""	:	:
+Your	APPGE	Z8	Your	PRP$
+first	MD	N4	first	JJ
+name	NN1	Q2.2	name	NN
+Email	NN1	Q1.3/Y2	Email	VB
+address	NN1	H4 Q2.2	address	NN
+:	:	""	:	:
+Your	APPGE	Z8	Your	PRP$
+email	NN1	Q1.3/Y2	email	NN
+address	NN1	H4 Q2.2	address	NN
+Sign	VV0	Q2.2[i50.2.1 Q1.2 Q1.1 G2.1 I3.1 S9	Sign	VB
+up	RP	Q2.2[i50.2.2	up	RP
+seven	MC	N1 T3 T1.2	seven	CD
+=	FO	Z5	=	JJ
+On	II31	M6[i51.3.1 N5++[i51.3.1 X2.2+[i51.3.1 Z5 Z5[i52.3.1	On	IN
+top	II32	M6[i51.3.2 N5++[i51.3.2 X2.2+[i51.3.2 Z5[i52.3.2	top	NN
+of	II33	M6[i51.3.3 N5++[i51.3.3 X2.2+[i51.3.3 Z5[i52.3.3	of	IN
+that	DD1	Z8 Z5	that	DT
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+continued	VVD	T2++	continued	VBD
+backing	VVG	S8+[i53.2.1 M1[i53.2.1 A9+[i53.2.1 Y2/A5.4-[i53.2.1 S8+ K5.1/I1 M1 M6 S8+[i54.2.1 M1[i54.2.1 A9+[i54.2.1	backing	VBG
+up	RP	S8+[i53.2.2 M1[i53.2.2 A9+[i53.2.2 Y2/A5.4-[i53.2.2 S8+[i54.2.2 M1[i54.2.2 A9+[i54.2.2	up	RP
+businesses	NN2	I2.1 A1.1.1 A5.1+++	businesses	NNS
+on	II	Z5	on	IN
+Kickfurther	NP1	Z99	Kickfurther	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+If	CS	Z7	If	IN
+you	PPY	Z8mf	you	PRP
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+not	XX	Z6	not	RB
+know	VVI	X2.2+ S3.2/B1%	know	VB
+what	DDQ	Z8 Z5	what	WP
+it	PPH1	Z8	it	PRP
+is	VBZ	A3+ Z5	is	VBZ
+,	,	""	,	,
+read	VVD	Q3 Q1.2 X3.2+ X2.5+ P1 A10+	read	VB
+my	APPGE	Z8	my	PRP$
+post	NN1	Q1.2 O2 I3.1 M6	post	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+As	CSA	Z4[i55.3.1 Z5	As	IN
+I	PPIS1	Z4[i55.3.2 Z8mf	I	PRP
+said	VVD	Z4[i55.3.3 Q2.1	said	VBD
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+again	RT	N6+ Z4	again	RB
+used	VVD	A1.5.1 S7.1+	used	VBD
+only	RR	A14	only	RB
+the	AT	Z5	the	DT
+money	NN1	I1	money	NN
+I	PPIS1	Z8mf	I	PRP
+got	VVD	M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1-	got	VBD
+from	II	Z5	from	IN
+the	AT	Z5	the	DT
+payouts	NN2	I1.2	payouts	NNS
+coming	VVG	M6[i56.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2	coming	VBG
+from	II	M6[i56.2.2 Z5	from	IN
+the	AT	Z5	the	DT
+deals	NN2	N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2	deals	NNS
+I	PPIS1	Z8mf	I	PRP
+backed	VVD	S8+ K5.1/I1 M1 M6 K2	backed	VBD
+earlier	RRR	N4 T1.1.1 T4++	earlier	RBR
+.	.	""	.	.
+-----	-----	""	-----	CD
+So	RR	Z5 A13.3	So	RB
+,	,	""	,	,
+the	AT	Z5	the	DT
+money	NN1	I1	money	NN
+that	CST	Z8 Z5	that	WDT
+was	VBDZ	Z5 A3+	was	VBD
+made	VVN	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	made	VBN
+by	II	Z5	by	IN
+the	AT	Z5	the	DT
+initial	JJ	T2+	initial	JJ
+investment	NN1	I1.1	investment	NN
+are	VBR	Z5 A3+	are	VBP
+now	RT	T1.1.2 Z4	now	RB
+making	VVG	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	making	VBG
+more	DAR	N5++	more	JJR
+money	NN1	I1	money	NN
+:	:	""	:	:
+)	)	""	)	CD
+Thats	NN2	Z5 Z8 A13.3 A6.1+	Thats	NNS
+called	VVN	Q2.2 S1.1.1 Q1.3 S9%	called	VBD
+a	AT1	Z5	a	DT
+compound	NN1	I1.1[i57.2.1 H3 H4 O1 A6.3+ G2.1/M6 Q3%	compound	NN
+interest	NN1	I1.1[i57.2.2 X5.2+ I1.1 S8+ S1.1.3+	interest	NN
+,	,	""	,	,
+totally	RR	A13.2 N5.1+	totally	RB
+passive	JJ	X5.2-	passive	JJ
+and	CC	Z5	and	CC
+effortless	JJ	A12+	effortless	JJ
+Income	NN1	I1.1	Income	NN
+My	APPGE	Z8	My	PRP$
+January	NPM1	T1.3	January	NNP
+income	NN1	I1.1	income	NN
+was	VBDZ	A3+ Z5	was	VBD
+not	XX	Z6	not	RB
+bad	JJ	A5.1- G2.2- O4.2- B2-	bad	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+am	VBM	Z5 A3+	am	VBP
+getting	VVG	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	getting	VBG
+a	AT1	Z5	a	DT
+steady	JJ	T2++ A2.1- E3+ S1.2 O4.1	steady	JJ
+income	NN1	I1.1	income	NN
+from	II	Z5	from	IN
+the	AT	Z5	the	DT
+Elephant	NN1	L2mfn	Elephant	NN
+website	NN1	Y2	website	NN
+however	RR	Z4	however	RB
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+expected	VVD	X2.6+ B1	expected	VBD
+it	PPH1	Z8	it	PRP
+to	TO	Z5	to	TO
+bring	VVI	M2 A2.2	bring	VB
+more	DAR	N5++	more	JJR
+money	NN1	I1	money	NN
+in	II	Z5	in	IN
+January	NPM1	T1.3	January	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+traffic	NN1	M3 M4 G2.1-/I2.2 M1 S1.1.2+	traffic	NN
+has	VHZ	Z5 A9+ A2.2 S4	has	VBZ
+increased	VVN	N5+/A2.1	increased	VBN
+as	CSA	Z5	as	IN
+anticipated	VVN	X2.6+	anticipated	VBN
+,	,	""	,	,
+but	CCB	Z5	but	CC
+the	AT	Z5	the	DT
+AdSence	NP1	Z1mf[i58.2.1 Z3c[i58.2.1	AdSence	NNP
+CPR	NP1	Z1mf[i58.2.2 Z3c[i58.2.2	CPR	NNP
+has	VHZ	Z5 A9+ A2.2 S4	has	VBZ
+dropped	VVN	M2 M1 N5-/A2.1 O1.2/M1 B2- T2- A9- A1.8- X9.2-/K5 X3.2	dropped	VBN
+comparing	VVG	A6.1 A5.1 Q3	comparing	VBG
+to	II	Z5	to	TO
+the	AT	Z5	the	DT
+previous	JJ	N4	previous	JJ
+month	NNT1	T1.3	month	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+means	VVZ	Q1.1 X7+	means	VBZ
+fewer	DAR	N5--	fewer	JJR
+clicks	NN2	X3.2 Y2	clicks	NNS
+happened	VVD	A2.1+ A3+ X7-	happened	VBD
+thus	RR	Z5/A2.2	thus	RB
+making	VVG	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	making	VBG
+the	AT	Z5	the	DT
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+sank	VVD	M1 M2 M4 N5-/A2.1 X3.2-/A2.1 A2.1+ E4.1- A1.1.1	sank	VBD
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+Horse	NN1	L2mfn	Horse	NN
+website	NN1	Y2	website	NN
+turned	VVD	A1.1.1[i59.2.1 A8[i59.2.1 N5+/S1.1.3[i59.2.1 M1[i59.2.1 M2[i59.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- M1[i60.2.1 S1.1.1[i60.2.1 T2+[i60.2.1 A2.1+[i60.2.1	turned	VBD
+out	RP	A1.1.1[i59.2.2 A8[i59.2.2 N5+/S1.1.3[i59.2.2 M1[i59.2.2 M2[i59.2.2 M6	out	RP
+to	TO	Z5 M1[i60.2.2 S1.1.1[i60.2.2 T2+[i60.2.2 A2.1+[i60.2.2	to	TO
+be	VBI	A3+ Z5	be	VB
+a	AT1	Z5	a	DT
+surprise	NN1	X2.6-	surprise	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Last	MD	T1.1.1[i61.2.1 N4	Last	JJ
+month	NNT1	T1.1.1[i61.2.2 T1.3	month	NN
+it	PPH1	Z8	it	PRP
+showed	VVD	A10+ S1.1.1	showed	VBD
+a	AT1	Z5	a	DT
+steady	JJ	T2++ A2.1- E3+ S1.2 O4.1	steady	JJ
+growth	NN1	N3.2+/A2.1 A5.1+/A2.1 L3 B2-	growth	NN
+,	,	""	,	,
+and	CC	Z5	and	CC
+this	DD1	M6 Z5 Z8	this	DT
+month	NNT1	T1.3	month	NN
+it	PPH1	Z8	it	PRP
+grew	VVD	N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4	grew	VBD
+even	RR	A13.1	even	RB
+more	RRR	A13.3 N6++	more	RBR
+.	.	""	.	.
+-----	-----	""	-----	CD
+In	II	Z5	In	IN
+January	NPM1	T1.3	January	NNP
+,	,	""	,	,
+it	PPH1	Z8	it	PRP
+made	VVD	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	made	VBD
+twice	RR	N6	twice	RB
+as	RG	A13.4[i62.3.1 A13	as	RB
+much	DA1	A13.4[i62.3.2 N5+ I1.3+	much	JJ
+as	CSA	A13.4[i62.3.3 Z5	as	IN
+projected	VVN	A10+ X7+ X2.6+ M2 O4.4 X3.2 Q2.2 X2.1	projected	VBN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+even	RR	A13.1	even	RB
+wrote	VVD	Q1.2 I2.1	wrote	VBD
+a	AT1	Z5	a	DT
+separate	JJ	A6.1-	separate	JJ
+post	NN1	Q1.2 O2 I3.1 M6	post	NN
+about	II	Z5	about	IN
+the	AT	Z5	the	DT
+website	NN1	Y2	website	NN
+you	PPY	Z8mf	you	PRP
+can	VM	A7+	can	MD
+read	VVI	Q3 Q1.2 X3.2+ X2.5+ P1 A10+	read	VB
+it	PPH1	Z8	it	PRP
+here	RL	M6 T1.1.2 T1.2	here	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+Also	RR	N5++	Also	RB
+,	,	""	,	,
+quite	RG	A13.5 A13.6 A13.2	quite	RB
+a	AT1	Z5	a	DT
+few	DA2	N5-	few	JJ
+online	JJ	Y2	online	JJ
+investments	NN2	I1.1	investments	NNS
+I	PPIS1	Z8mf	I	PRP
+made	VVD	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	made	VBD
+on	II	Z5	on	IN
+KickFurther	NP1	Z99	KickFurther	NNP
+paid	VVD	I1.2 A9- I1.1/I3.1	paid	VBD
+back	RP	M6 N6+ T1.1.1 S1.1.2+	back	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+Income	NN1	I1.1	Income	NNP
+Income	NN1	I1.1	Income	NNP
+Amount	NN1	N5	Amount	NNP
+Notes	NN2	Q1.2 K2 Q2.1	Notes	NNP
+AdSense	VV0	Z99	AdSense	NNP
+by	II	Z5	by	IN
+Elephant	NN1	L2mfn	Elephant	NNP
+$571.50	NNU	Z99	$571.50	NNP
+Revenue	NN1	G1.1/I1 I1.1+ Z3c	Revenue	NN
+from	II	Z5	from	IN
+the	AT	Z5	the	DT
+1st	MD	N4 T1.3	1st	JJ
+website	NN1	Y2	website	NN
+I	PPIS1	Z8mf	I	PRP
+bought	VVD	I2.2	bought	VBD
+Amazon	NP1	Z2 M7	Amazon	NNP
+by	II	Z5	by	IN
+Elephant	NN1	L2mfn	Elephant	NNP
+$42.44	NNU	Z99	$42.44	NNP
+Revenue	NN1	G1.1/I1 I1.1+ Z3c	Revenue	NN
+from	II	Z5	from	IN
+the	AT	Z5	the	DT
+1st	MD	N4 T1.3	1st	JJ
+website	NN1	Y2	website	NN
+I	PPIS1	Z8mf	I	PRP
+bought	VVD	I2.2	bought	VBD
+AdSense	NP1	Z99	AdSense	NNP
+by	II	Z5	by	IN
+Horse	NN1	L2mfn	Horse	NNP
+$171.61	NNU	Z99	$171.61	CD
+Revenue	NN1	G1.1/I1 I1.1+ Z3c	Revenue	NN
+from	II	Z5	from	IN
+the	AT	Z5	the	DT
+2nd	MD	N4 T1.3	2nd	JJ
+website	NN1	Y2	website	NN
+I	PPIS1	Z8mf	I	PRP
+bought	VVD	I2.2	bought	VBD
+KickFurther	NP1	Z99	KickFurther	NNP
+$560.36	NNU	Z99	$560.36	CD
+Online	JJ	Y2	Online	NNP
+investments	NN2	I1.1	investments	NNS
+read	VV0	Q3 Q1.2 X3.2+ X2.5+ P1 A10+	read	VBD
+more	RRR	A13.3 N6++	more	RBR
+in	II	Z5	in	IN
+my	APPGE	Z8	my	PRP$
+post	NN1	Q1.2 O2 I3.1 M6	post	NN
+about	II	Z5	about	IN
+Kickfurther	NP1	Z1mf[i63.2.1 Z3c[i63.2.1	Kickfurther	NNP
+Total	NN1	Z1mf[i63.2.2 Z3c[i63.2.2 Z3c	Total	NNP
+$1,345.91	NNU	Z99	$1,345.91	CD
+Totals	NN2	Z3c	Totals	NNS
+Here	RL	M6 T1.1.2 T1.2	Here	RB
+are	VBR	A3+ Z5	are	VBP
+my	APPGE	Z8	my	PRP$
+totals	NN2	N5.1+	totals	NNS
+for	IF	Z5	for	IN
+January	NPM1	T1.3[i64.2.1 T1.3	January	NNP
+2016	MC	T1.3[i64.2.2 N1 T1.2 T3 T1.3 N3.2	2016	CD
+.	.	""	.	.
+-----	-----	""	-----	CD
+Total	JJ	A13.2 N5.1+	Total	JJ
+income	NN1	I1.1	income	NN
+$1,345.91	NNU	Z99	$1,345.91	CD
+minus	II	Z5	minus	CC
+total	JJ	A13.2 N5.1+	total	NN
+expenses	NN2	I1.3	expenses	NNS
+$862.56	NNU	Z99	$862.56	CD
+makes	VVZ	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	makes	VBZ
+a	AT1	Z5	a	DT
+net	JJ	N5	net	JJ
+profit	NN1	I1.1 A5.1+	profit	NN
+of	IO	Z5	of	IN
+$483.35	NNU	Z99	$483.35	CD
+.	.	""	.	.
+-----	-----	""	-----	CD
+January	NPM1	T1.3[i65.2.1 T1.3	January	NNP
+2016	MC	T1.3[i65.2.2 N1 T1.2 T3 T1.3 N3.2	2016	CD
+Income	NN1	I1.1	Income	NNP
+Report	NN1	Q2.2 X3.2	Report	NNP
+I	PPIS1	Z8mf	I	PRP
+prepared	VVD@	A1.1.1 F1	prepared	VBD
+another	DD1	A6.1- N5++	another	DT
+graph	NN1	Q1.2/N2	graph	NN
+that	CST	Z8 Z5	that	WDT
+excludes	VVZ	A1.8-	excludes	VBZ
+all	DB	N5.1+	all	PDT
+the	AT	Z5	the	DT
+big	JJ	N3.2+ N5+ A11.1+ S1.2.5+ X5.2+	big	JJ
+scary	JJ	E5-	scary	JJ
+investments	NN2	I1.1	investments	NNS
+made	VVN	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	made	VBN
+in	II	Z5	in	IN
+October	NPM1	T1.3	October	NNP
+and	CC	Z5	and	CC
+November	NPM1	T1.3	November	NNP
+(	(	""	(	CD
+What	DDQ	Z8 Z5	What	WP
+happened	VVD	A2.1+ A3+ X7-	happened	VBD
+in	II	Z5	in	IN
+October	NPM1	T1.3	October	NNP
+?	?	""	?	.
+-----	-----	""	-----	CD
+See	VV0	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	See	VB
+the	AT	Z5	the	DT
+answer	NN1	Q2.2 X4.1 X9.2+	answer	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+What	DDQ	Z8 Z5	What	WP
+happened	VVD	A2.1+ A3+ X7-	happened	VBD
+in	II	Z5	in	IN
+November	NPM1	T1.3	November	NNP
+?	?	""	?	.
+-----	-----	""	-----	CD
+See	VV0	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	See	VB
+the	AT	Z5	the	DT
+answer	NN1	Q2.2 X4.1 X9.2+	answer	NN
+)	)	""	)	CD
+January	NPM1	T1.3[i66.2.1 T1.3	January	NNP
+2016	MC	T1.3[i66.2.2 N1 T1.2 T3 T1.3 N3.2	2016	CD
+Income	NN1	I1.1	Income	NNP
+Report	NN1	Q2.2 X3.2	Report	NNP
+:	:	""	:	:
+Investments	NN2	I1.1	Investments	NNP
+Removed	VVD	M2	Removed	VBN
+Plans	NN2	X7+ C1/H1	Plans	NNS
+For	IF	Z5	For	IN
+February	NPM1	T1.3	February	NNP
+So	RR	Z5 A13.3	So	RB
+,	,	""	,	,
+what	DDQ	Z8 Z5	what	WP
+are	VBR	A3+ Z5	are	VBP
+my	APPGE	Z8	my	PRP$
+plans	NN2	X7+ C1/H1	plans	NNS
+for	IF	Z5	for	IN
+the	AT	Z5	the	DT
+next	MD	T1.1.3[i67.2.1 N4	next	JJ
+month	NNT1	T1.1.3[i67.2.2 T1.3	month	NN
+?	?	""	?	.
+-----	-----	""	-----	CD
+Well	RR	A5.1+ A13.3 A7+ B2+ Z4	Well	UH
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+started	VVD	T2+ E5- E3-	started	VBD
+worrying	JJ	E6-	worrying	VBG
+a	RR21	A13.6[i68.2.1 A13.7[i68.2.1	a	DT
+bit	RR22	A13.6[i68.2.2 A13.7[i68.2.2	bit	NN
+about	II	Z5	about	IN
+the	AT	Z5	the	DT
+websites	NN2	Y2	websites	NNS
+I	PPIS1	Z8mf	I	PRP
+am	VBM	Z5 A3+	am	VBP
+building	VVG@	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1	building	VBG
+myself	PPX1	Z8mf	myself	PRP
+:	:	""	:	:
+Rat	NN1	L2mfn G2.2-/S2mf Q2.2	Rat	NN
+and	CC	Z5	and	CC
+Bee	NN1	L2mfn K1/S1.1.3+	Bee	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+traffic	NN1	M3 M4 G2.1-/I2.2 M1 S1.1.2+	traffic	NN
+growth	NN1	N3.2+/A2.1 A5.1+/A2.1 L3 B2-	growth	NN
+is	VBZ	A3+ Z5	is	VBZ
+very	RG	A13.3	very	RB
+slow	JJ	N3.8- T1.3+ X9.1- A5.3-/T1	slow	JJ
+,	,	""	,	,
+and	CC	Z5	and	CC
+as	CSA	Z4[i69.4.1 Z5	as	IN
+you	PPY	Z4[i69.4.2 Z8mf	you	PRP
+can	VM	Z4[i69.4.3 A7+	can	MD
+see	VVI	Z4[i69.4.4 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VB
+,	,	""	,	,
+none	PN	Z6/Z8c	none	NN
+of	IO	Z5	of	IN
+them	PPHO2	Z8mfn	them	PRP
+has	VHZ	Z5 A9+ A2.2 S4	has	VBZ
+started	VVN	T2+ E5- E3-	started	VBN
+bringing	VVG	M2 A2.2	bringing	VBG
+revenue	NN1	G1.1/I1 I1.1+ Z3c	revenue	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+hope	VV0	X2.6+ E4.1+ X9.2+ A5.1+	hope	VBP
+that	CST	Z8 Z5	that	IN
+with	IW	Z5	with	IN
+the	AT	Z5	the	DT
+help	NN1	S8+	help	NN
+of	IO	Z5	of	IN
+a	AT1	Z5	a	DT
+VA	FW	Z2 Z1f T3+ Z4 S7.1+ G1.1c O4.1 Q2.1 A4.1 T1.2 Z2/S2mf H2 S5+c X2.2 Z5 G3/S2mf T3+/S2mf A1.1.1 S1.1.1 S3.2 I2.1/S2mf S7.1+/S5+c	VA	NN
+I	PPIS1	Z8mf	I	PRP
+will	VM	T1.1.3	will	MD
+improve	VVI	A5.1+/A2.1	improve	VB
+the	AT	Z5	the	DT
+situation	NN1	A3+ O4.1 M6 I3.1@	situation	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Disclaimer	NN1	Q2.2/Z6 S7.4-	Disclaimer	NNP
+Some	DD	N5 Z5	Some	DT
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+links	NN2	A2.2 S5+ M3 Q1.3 F1 K5.1/M7%	links	NNS
+in	II	Z5	in	IN
+this	DD1	M6 Z5 Z8	this	DT
+income	NN1	I1.1	income	NN
+report	NN1	Q2.2 X3.2	report	NN
+are	VBR	A3+ Z5	are	VBP
+affiliate	NN1	S5+mfn	affiliate	NN
+links	NN2	A2.2 S5+ M3 Q1.3 F1 K5.1/M7%	links	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+will	VM	T1.1.3	will	MD
+receive	VVI	A9+ S5+	receive	VB
+a	AT1	Z5	a	DT
+small	JJ	N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1-	small	JJ
+fee	NN1	I1.3 I1	fee	NN
+if	CS	Z7	if	IN
+you	PPY	Z8mf	you	PRP
+choose	VV0	X7+	choose	VB
+to	TO	Z5	to	TO
+buy	VVI	I2.2	buy	VB
+after	II	Z5	after	IN
+clicking	VVG	X3.2 Y2 X2.5+ S1.2.1+	clicking	VBG
+on	II	Z5	on	IN
+any	DD	N5.1+ N5	any	DT
+of	IO	Z5	of	IN
+these	DD2	Z5 Z8	these	DT
+links	NN2	A2.2 S5+ M3 Q1.3 F1 K5.1/M7%	links	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Thank	VV0	Z4[i70.2.1 S1.2.4+[i70.2.1 S1.2.4+	Thank	VB
+you	PPY	Z4[i70.2.2 S1.2.4+[i70.2.2 Z8mf	you	PRP
+if	CS	Z7	if	IN
+you	PPY	Z8mf	you	PRP
+do	VD0	A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5	do	VBP
+!	!	""	!	.
+"</text>
+"	NULL	""	</text>	IN

@@ -1,0 +1,843 @@
+token	pos	sem	stanford-token	stanford-pos
+<text>	NULL	""	<text>	JJ
+-----	-----	""	-----	CD
+Dear	JJ	E2+ I1.3+	Dear	NNP
+family	NN1	S4c A4.1c	family	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+My	APPGE	Z8	My	PRP$
+name	NN1	Q2.2	name	NN
+is	VBZ	A3+ Z5	is	VBZ
+Tanya	NP1	Z1f	Tanya	NNP
+and	CC	Z5	and	CC
+I	ZZ1%	Z8	I	PRP
+'	NULL	""	'	''
+d	ZZ1	Z5	d	NN
+like	VV0@	E2+	like	IN
+to	TO	Z5	to	TO
+become	VVI	A2.1+ O4.2+	become	VB
+your	APPGE	Z8	your	PRP$
+au	NN121	H4/S2.1f[i1.2.1	au	NN
+pair	NN122	H4/S2.1f[i1.2.2	pair	NN
+for	IF	T1.3[i2.3.1 Z5	for	IN
+a	AT1	T1.3[i2.3.2 Z5	a	DT
+year	NNT1	T1.3[i2.3.3 T1.3 P1c	year	NN
+,	,	""	,	,
+to	TO	Z5	to	TO
+become	VVI	A2.1+ O4.2+	become	VB
+a	AT1	Z5	a	DT
+part	NN1	N5.1- O2 M7 I3.1 S1.1.3+ K4	part	NN
+of	IO	Z5	of	IN
+your	APPGE	Z8	your	PRP$
+wonderful	JJ	A5.1+	wonderful	JJ
+family	NN1	S4c A4.1c	family	NN
+,	,	""	,	,
+to	TO	Z5	to	TO
+be	VBI	A3+ Z5	be	VB
+a	AT1	Z5	a	DT
+person	NN1	S2mfc	person	NN
+you	PPY	Z8mf	you	PRP
+can	VM	A7+	can	MD
+always	RR	N6+++	always	RB
+rely	VVI	S7.1-	rely	VB
+on	RP@	M6 A1.1.1	on	IN
+and	CC	Z5	and	CC
+to	TO	Z5	to	TO
+take	VVI	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@	take	VB
+care	NN1	S8+ G1.1/S8+ B3 A1.3 E6-	care	NN
+about	II	Z5	about	IN
+the	AT	Z5	the	DT
+gift	NN1	A9- X9.1+	gift	NN
+in	II	Z5	in	IN
+your	APPGE	Z8	your	PRP$
+life	NN1	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	life	NN
+-	-	""	-	:
+your	APPGE	Z8	your	PRP$
+child	NN1	S2mf/T3- S4mf	child	NN
+(	(	""	(	CD
+or	CC	Z5	or	CC
+children	NN2	S2mf/T3- S4mf	children	NNS
+)	)	""	)	VBP
+!	!	""	!	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+have	VH0	Z5 A9+ A2.2 S4	have	VBP
+graduated	VVN	P1 A11.1+/A2.1	graduated	VBN
+from	II	Z5	from	IN
+University	NN1	P1/H1c	University	NNP
+of	IO	Z5	of	IN
+Foreign	JJ	M7	Foreign	NNP
+Languages	NN2	Q3 Y2	Languages	NNP
+in	II	Z5	in	IN
+Moscow	NP1	Z2	Moscow	NNP
+,	,	""	,	,
+Examination	NN1	P1 X2.4 B3	Examination	NNP
+Centre	NN1	M6 H1c M7c G1.2c K5.1mfn	Centre	NNP
+of	IO	Z5	of	IN
+Cambridge	NP1	Z3c[i3.2.1 Z2	Cambridge	NNP
+University	NN1	Z3c[i3.2.2 P1/H1c	University	NNP
+with	IW	Z5	with	IN
+a	AT1	Z5	a	DT
+degree	NN1	A13.1 N3.1 N3.2 N5 P1	degree	NN
+of	IO	Z5	of	IN
+English	JJ	Z1mf	English	NNP
+teacher	NN1	P1/I3.2/S2mf	teacher	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+Cambridge	NP1	Z2	Cambridge	NNP
+certificates	NN2	Q1.2	certificates	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	ZZ1@	Z8	I	PRP
+'	NULL	""	'	''
+m	ZZ1	Z5 G1.1/S2	m	NN
+fluent	JJ	X9.1+	fluent	JJ
+in	II	Z5	in	IN
+English	NN1	Z1mf	English	NNP
+and	CC	Z5	and	CC
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+basic	JJ	A6.2+ A11.1+ A12+	basic	JJ
+knowledge	NN1	X2.2+ S3.2/B1%	knowledge	NN
+of	IO	Z5	of	IN
+Spanish	JJ	Z2 Z2/Q3 Z2/S2mfnc	Spanish	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	ZZ1@	Z8	I	PRP
+'	NULL	""	'	''
+d	ZZ1	Z5	d	NN
+love	VV0	E2+	love	NN
+to	TO	Z5	to	TO
+learn	VVI	X2.3+ P1	learn	VB
+Dutch	JJ	Z2 Z2/Q3 Z2/S2mfnc	Dutch	JJ
+and	CC	Z5	and	CC
+have	VH0	Z5 A9+ A2.2 S4	have	VBP
+already	RR	T1.1.1	already	RB
+started	VVN	T2+ E5- E3-	started	VBN
+to	TO	Z5	to	TO
+learn	VVI	X2.3+ P1	learn	VB
+it	PPH1	Z8	it	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+travelled	VVD	M1	travelled	VBD
+to	II	Z5	to	TO
+the	AT	Z5	the	DT
+Neterlands	NN2@	Z99	Neterlands	NNPS
+4	MC	N6+[i4.2.1 A13.3[i4.2.1 N1 T1.2 T3 T1.3 N3.2	4	CD
+times	NNT2	N6+[i4.2.2 A13.3[i4.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1	times	NNS
+and	CC	Z5	and	CC
+I	PPIS1	Z8mf	I	PRP
+like	VV0	E2+	like	VBP
+this	DD1	M6 Z5 Z8	this	DT
+amazing	JJ	O4.2+ X2.6- A6.2-	amazing	JJ
+country	NN1	G1.1c W3 F4/M7 K2	country	NN
+so	RG	A13.3	so	RB
+much	DA1	N5+ I1.3+	much	RB
+!	!	""	!	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+realized	VVD	X2.5+ X9.2+	realized	VBD
+it	PPH1	Z8	it	PRP
+after	II	Z5	after	IN
+the	AT	Z5	the	DT
+first	MD	T1.3[i5.3.1 N4	first	JJ
+5	MC	T1.3[i5.3.2 N1	5	CD
+minutes	NNT2	T1.3[i5.3.3 T1.3 Q1.2	minutes	NNS
+being	VBG	A3+ Z5	being	VBG
+there	RL	M6 T1.2	there	RB
+during	II	Z5	during	IN
+my	APPGE	Z8	my	PRP$
+first	MD	N4	first	JJ
+stay	VV0	M8 T2++ H4	stay	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+was	VBDZ	A3+ Z5	was	VBD
+amazed	JJ	X2.6-	amazed	VBN
+by	II	Z5	by	IN
+country	NN1	G1.1c W3 F4/M7 K2	country	NN
+beauty	NN1	O4.2+ B4	beauty	NN
+,	,	""	,	,
+so	RG	A13.3	so	RB
+cosy	JJ	O4.1	cosy	JJ
+houses	NN2	H1 P1/S5+c G1.1c	houses	NNS
+and	CC	Z5	and	CC
+green	JJ	O4.3 W5 L3 X9.1-	green	JJ
+lawns	NN2	L3/H3	lawns	NNS
+,	,	""	,	,
+modernity	NN1	T3- I1 A6.2+	modernity	NN
+,	,	""	,	,
+impressive	JJ	O4.2+	impressive	JJ
+architecture	NN1	H1 O4.1	architecture	NN
+,	,	""	,	,
+millions	NNO2	N1 N5+ I1	millions	NNS
+of	IO	Z5	of	IN
+bikes	NN2	M3fn	bikes	NNS
+everywhere	RL	M6/N5.1+	everywhere	RB
+and	CC	Z5	and	CC
+how	RGQ@	Z5 A13.3	how	WRB
+marvelous	JJ	A5.1+	marvelous	JJ
+is	VBZ	A3+ Z5	is	VBZ
+to	TO	Z5	to	TO
+live	VVI	H4 L1+ A3	live	VB
+in	II	Z5	in	IN
+a	AT1	Z5	a	DT
+country	NN1	G1.1c W3 F4/M7 K2	country	NN
+where	RRQ	M6	where	WRB
+your	APPGE	Z8	your	PRP$
+hobby	NN1	K1	hobby	NN
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+way	NN1	S1.1.1[i6.3.1 A6.2+[i6.3.1 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3	way	NN
+of	IO	S1.1.1[i6.3.2 A6.2+[i6.3.2 Z5	of	IN
+life	NN1	S1.1.1[i6.3.3 A6.2+[i6.3.3 L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	life	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+Thousands	NNO2	N1 N5+ I1	Thousands	NNS
+of	IO	Z5	of	IN
+flowers	NN2	L3	flowers	NNS
+are	VBR	A3+ Z5	are	VBP
+everywhere	RL	M6/N5.1+	everywhere	RB
+,	,	""	,	,
+fresh	JJ	T3- O4.2+ B1 W4 S1.2.3+	fresh	JJ
+air	NN1	O1.3 A8 W1 Q4.3 M1	air	NN
+,	,	""	,	,
+clean	JJ	O4.2+ G2.2+	clean	JJ
+water	NN1	O1.2 W3/M4 B1 C1%	water	NN
+and	CC	Z5	and	CC
+so	RG	A13.3	so	RB
+sociable	JJ	S1.2.1+	sociable	JJ
+,	,	""	,	,
+good-natured	JJ	E4.2+	good-natured	JJ
+,	,	""	,	,
+interesting	JJ	X5.2+	interesting	JJ
+,	,	""	,	,
+energetic	JJ	X5.2+	energetic	JJ
+people	NN	S2mfc	people	NNS
+!	!	""	!	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+a	AT1	Z5	a	DT
+strong	JJ	S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+	strong	JJ
+motivated	JJ	A2.2 X5.2+	motivated	JJ
+desire	NN1	X7+ S3.2	desire	NN
+to	TO	Z5	to	TO
+be	VBI	A3+ Z5	be	VB
+an	AT1	Z5	an	DT
+au	NN121	H4/S2.1f[i7.2.1	au	NN
+pair	NN122	H4/S2.1f[i7.2.2	pair	NN
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+Netherlands	NP1	Z2 Z3c	Netherlands	NNPS
+:	:	""	:	:
+)	)	""	)	CD
+I	ZZ1%	Z8	I	PRP
+'	NULL	""	'	''
+m	ZZ1	Z2[i8.2.1 Z5 G1.1/S2	m	NN
+25	MC	Z2[i8.2.2 N1 T1.2 T3 T1.3 N3.2	25	CD
+and	CC	Z5	and	CC
+I	ZZ1%	Z8	I	PRP
+'	NULL	""	'	''
+m	ZZ1	Z5 G1.1/S2	m	NN
+so	RR	Z5 A13.3	so	RB
+active	JJ	X5.2+ A1.1.1	active	JJ
+,	,	""	,	,
+enthusiastic	JJ	X5.2+	enthusiastic	JJ
+,	,	""	,	,
+positive	JJ	A5.1+ A7+ N2	positive	JJ
+,	,	""	,	,
+cheerful	JJ	E4.1+	cheerful	JJ
+,	,	""	,	,
+creative	JJ	X2.1/A6.2-	creative	JJ
+and	CC	Z5	and	CC
+I	PPIS1	Z8mf	I	PRP
+feel	VV0	X2.1 E1 X3	feel	VBP
+very	RG	A13.3	very	RB
+comfortable	JJ	O4.2+	comfortable	JJ
+with	IW	Z5	with	IN
+children	NN2	S2mf/T3- S4mf	children	NNS
+!	!	""	!	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+attract	VV0	O4.2+ S3.2 O3	attract	VBP
+people	NN	S2mfc	people	NNS
+by	II	Z5	by	IN
+my	APPGE	Z8	my	PRP$
+positive	JJ	A5.1+ A7+ N2	positive	JJ
+energy	NN1	X5.2+ Y1	energy	NN
+and	CC	Z5	and	CC
+always	RR	N6+++	always	RB
+see	VV0	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VBP
+something	PN1	Z8	something	NN
+exciting	JJ	X5.2+	exciting	JJ
+in	II	Z5	in	IN
+every	AT1	N5.1+	every	DT
+breath	NN1	B1 N5-@	breath	NN
+I	PPIS1	Z8mf	I	PRP
+take	VV0	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@	take	VBP
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	ZZ1@	Z8	I	PRP
+'	NULL	""	'	''
+m	ZZ1	Z5 G1.1/S2	m	NN
+so	CS@	Z5	so	RB
+initiative	NN1	A1.1.1 X5.2+	initiative	NN
+and	CC	Z5	and	CC
+imaginative	JJ	X2.1/A6.2-	imaginative	JJ
+so	CS21	Z5[i9.2.1 Z5	so	RB
+that	CS22	Z5[i9.2.2 Z5 Z8	that	IN
+your	APPGE	Z8	your	PRP$
+children	NN2	S2mf/T3- S4mf	children	NNS
+will	VM	T1.1.3	will	MD
+definitely	RR	A7+++	definitely	RB
+have	VHI	A9+ Z5 A2.2 S4	have	VB
+a	AT1	Z5	a	DT
+person	NN1	S2mfc	person	NN
+to	TO	Z5	to	TO
+dream	VVI	X2 X2.1 X7++	dream	VB
+big	JJ	N3.2+ N5+ A11.1+ S1.2.5+ X5.2+	big	JJ
+with	IW	Z5	with	IN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Your	APPGE	Z8	Your	PRP$
+kids	NN2	S2mf/T3- S4mf L2	kids	NNS
+will	VM	T1.1.3	will	MD
+never	RR	T1/Z6	never	RB
+get	VVI	A2.1+ A9+ Z5 X9.2+ A2.2 M1 M2 X2.5+ E4.1-	get	VB
+bored	JJ	X5.2- O4.1@	bored	VBN
+,	,	""	,	,
+gloomy	JJ	O4.3 E4.1-	gloomy	JJ
+or	CC	Z5	or	CC
+upset	VV0	E4.1- A2.1+ M2	upset	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+Nevertheless	RR	Z4	Nevertheless	RB
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+always	RR	N6+++	always	RB
+stay	VV0	M8 T2++ H4	stay	VBP
+level-headed	JJ	B2+ X9.2+ A5.1+ X9.1+ S1.2.6+ O4.1 A13.2 X3.2 Q2.2 A8 N3.1% I1.3-	level-headed	JJ
+and	CC	Z5	and	CC
+rational	JJ	S1.2.6+	rational	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+So	RR	Z5 A13.3	So	RB
+,	,	""	,	,
+if	CS	Z7	if	IN
+it	PPH1	Z8	it	PRP
+'	NULL	""	'	''
+s	ZZ1	Z5	s	NNS
+sleeping	JJ	B1 S1.1.3-	sleeping	VBG
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+for	IF	Z5	for	IN
+a	AT1	Z5	a	DT
+child	NN1	S2mf/T3- S4mf	child	NN
+,	,	""	,	,
+we	PPIS2	Z8	we	PRP
+shall	VM	T1.1.3	shall	MD
+finish	VVI	T2- A1.5.1/N5.1+ A1.1.1 X9.2-	finish	VB
+a	AT1	Z5	a	DT
+game	NN1	K5.1 K5.2 X7+ A1.1.1 L2 F1	game	NN
+quickly	RR	N3.8+	quickly	RB
+and	CC	Z5	and	CC
+he	PPHS1	Z8m	he	PRP
+or	CC	Z5	or	CC
+she	PPHS1	Z8f	she	PRP
+will	VM	T1.1.3	will	MD
+be	VBI	A3+ Z5	be	VB
+in	II	Z5	in	IN
+bed	NN1	H5 H3/L3	bed	NN
+on	II	T4[i10.2.1 Z5	on	IN
+time	NNT1	T4[i10.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+like	VV0	E2+	like	VBP
+to	TO	Z5	to	TO
+play	VVI	K1 K5.1 K5.2 K2 K3 A1.1.1 K6	play	VB
+with	IW	Z5	with	IN
+children	NN2	S2mf/T3- S4mf	children	NNS
+so	RG	A13.3	so	RB
+much	DA1	N5+ I1.3+	much	RB
+!	!	""	!	.
+-----	-----	""	-----	CD
+I	ZZ1@	Z8	I	PRP
+'	NULL	""	'	''
+m	MC@	N1 T1.2 T3 T1.3 N3.2	m	NN
+very	RG	A13.3	very	RB
+vivid	JJ	O4.3 A1.1.1 A4.2+	vivid	JJ
+in	II	Z5	in	IN
+conversation	NN1	Q2.1	conversation	NN
+with	IW	Z5	with	IN
+people	NN	S2mfc	people	NNS
+of	IO	Z5	of	IN
+any	DD	N5.1+ N5	any	DT
+age	NN1	T3 T1.3	age	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+a	AT1	Z5	a	DT
+very	RG	A13.3	very	RB
+good	JJ	A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+	good	JJ
+family	NN1	S4c A4.1c	family	NN
+and	CC	Z5	and	CC
+that	CST	Z5 Z8	that	IN
+'	NULL	""	'	''
+s	ZZ1	Z5	s	NNS
+why	RRQ	A2.2	why	WRB
+I	ZZ1%	Z8	I	PRP
+'	NULL	""	'	''
+m	ZZ1	Z5 G1.1/S2	m	NN
+well-mannered	JJ	S1.2.4+	well-mannered	JJ
+,	,	""	,	,
+always	RR	N6+++	always	RB
+respect	VV0@	S7.2+	respect	NN
+people	NN	S2mfc	people	NNS
+,	,	""	,	,
+good-natured	JJ	E4.2+	good-natured	JJ
+and	CC	Z5	and	CC
+amiable	JJ	S1.2.1+	amiable	JJ
+,	,	""	,	,
+neat	JJ	O4.2+ A2.1-	neat	JJ
+and	CC	Z5	and	CC
+tidy	JJ	O4.2+	tidy	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+have	VH0	Z5 A9+ A2.2 S4	have	VBP
+never	RR	T1/Z6	never	RB
+smoked	VVN	F3 O1.3 F1	smoked	VBN
+in	II	Z5	in	IN
+my	APPGE	Z8	my	PRP$
+life	NN1	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	life	NN
+and	CC	Z5	and	CC
+I	PPIS1	Z8mf	I	PRP
+can	VM	A7+	can	MD
+always	RR	N6+++	always	RB
+be	VBI	A3+ Z5	be	VB
+a	AT1	Z5	a	DT
+good	JJ	A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+	good	JJ
+listener	NN1	X3.2/S2mf	listener	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+adore	VV0	E2+	adore	VBP
+to	TO	Z5	to	TO
+listen	VVI	X3.2	listen	VB
+to	II	Z5	to	TO
+different	JJ	A6.1-	different	JJ
+stories	NN2	Q2.1 X4.1	stories	NNS
+,	,	""	,	,
+share	VV0	S1.1.2+	share	NN
+my	APPGE	Z8	my	PRP$
+culture	NN1	C1 S1.1.1 S5+ L1	culture	NN
+and	CC	Z5	and	CC
+adventures	NN2	X8+ X5.2+ A15-	adventures	NNS
+and	CC	Z5	and	CC
+learn	VV0	X2.3+ P1	learn	VBP
+details	NN2	A4.2+ S5+c B5	details	NNS
+of	IO	Z5	of	IN
+your	APPGE	Z8	your	PRP$
+culture	NN1	C1 S1.1.1 S5+ L1	culture	NN
+and	CC	Z5	and	CC
+customs	NN2	A6.2+ G2.1/I2.2	customs	NNS
+!	!	""	!	.
+-----	-----	""	-----	CD
+Responsibility	NN1	S6+ S7.1+ X6+	Responsibility	NN
+,	,	""	,	,
+care	NN1	S8+ G1.1/S8+ B3 A1.3 E6-	care	NN
+and	CC	Z5	and	CC
+independence	NN1	S5-	independence	NN
+are	VBR	A3+ Z5	are	VBP
+also	RR	N5++	also	RB
+my	APPGE	Z8	my	PRP$
+advantages	NN2	A5.1+ K5.2	advantages	NNS
+!	!	""	!	.
+-----	-----	""	-----	CD
+If	CS	Z7	If	IN
+your	APPGE	Z8	your	PRP$
+kids	NN2	S2mf/T3- S4mf L2	kids	NNS
+are	VBR	A3+ Z5	are	VBP
+with	IW	Z5	with	IN
+me	PPIO1	Z8mf	me	PRP
+you	PPY	Z8mf	you	PRP
+shouldn	VV0	Z99	shouldn	VBP
+'	NULL	""	'	''
+t	ZZ1	Z5	t	NN
+even	RR	A13.1	even	RB
+worry	VV0	E6-	worry	VBP
+about	II	Z5	about	IN
+them	PPHO2	Z8mfn	them	PRP
+and	CC	Z5	and	CC
+I	PPIS1	Z8mf	I	PRP
+will	VM	T1.1.3	will	MD
+always	RR	N6+++	always	RB
+look	VVI	S8+[i11.2.1 A1.1.1[i11.2.1 A8 X3.4 X2.4 X7+ Z4	look	VB
+after	II	S8+[i11.2.2 A1.1.1[i11.2.2 Z5	after	IN
+them	PPHO2	Z8mfn	them	PRP
+and	CC	Z5	and	CC
+give	VVI	A9- A1.1.1	give	VB
+them	PPHO2	Z8mfn	them	PRP
+all	DB	N5.1+	all	DT
+my	APPGE	Z8	my	PRP$
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+,	,	""	,	,
+play	VV0	K1 K5.1 K5.2 K2 K3 A1.1.1 K6	play	NN
+in	II	Z5	in	IN
+all	DB	N5.1+	all	DT
+kinds	NN2	A4.1	kinds	NNS
+of	IO	Z5	of	IN
+games	NN2	K5.1 K5.2 A1.1.1	games	NNS
+with	IW	Z5	with	IN
+them	PPHO2	Z8mfn	them	PRP
+indoor	JJ	H2	indoor	JJ
+and	CC	Z5	and	CC
+outdoor	JJ	M6	outdoor	JJ
+,	,	""	,	,
+draw	VV0	C1 M2 A9+ X5.1+ I1.2 O4.2+ X2.1 K5.1	draw	NN
+,	,	""	,	,
+jump	VV0	M1 N5+/A2.1 A1.9	jump	NN
+,	,	""	,	,
+sing	VV0	K2	sing	VB
+,	,	""	,	,
+have	VH0	A9+ Z5 A2.2 S4	have	VB
+some	DD	N5 Z5	some	DT
+puzzles	NN2	X2.5- X4.1	puzzles	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+We	PPIS2	Z8	We	PRP
+can	VM	A7+	can	MD
+go	VVI	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	go	VB
+to	II	Z5	to	TO
+museums	NN2	T1.1.1/H1c A10+/H1c	museums	NNS
+,	,	""	,	,
+parks	NN2	M7/L3	parks	NNS
+,	,	""	,	,
+zoos	NN2	M7/L2	zoos	NNS
+,	,	""	,	,
+planetarium	NN1	H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 X3.4 O2 X4.2 Q1.1 A5.1+ A5.4- O2/A5.4- A4.1 A5.1+++ C1/S2mf B5/I3.2/S2mf A10+ C1 A6.1+	planetarium	NN
+,	,	""	,	,
+observation	NN1	X3.4 Q2.1	observation	NN
+wheels	NN2	O2 N4 M3	wheels	NNS
+and	CC	Z5	and	CC
+of	RR21	Z4[i12.2.1	of	IN
+course	RR22	Z4[i12.2.2 Z4	course	NN
+biking	VVG	M3	biking	NN
+!	!	""	!	.
+!	!	""	!	.
+!	!	""	!	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+more	DAR	N5++	more	JJR
+than	CSN	Z5	than	IN
+200	MC	N1 T1.2 T3 T1.3 N3.2	200	CD
+hours	NNT2	T1.3	hours	NNS
+of	IO	Z5	of	IN
+care	NN1	S8+ G1.1/S8+ B3 A1.3 E6-	care	NN
+experience	NN1	X9.1+ X2.2 X3 I3.2	experience	NN
+including	II	A1.8+	including	VBG
+Russian	JJ	Z2	Russian	JJ
+and	CC	Z5	and	CC
+American	JJ	Z2	American	JJ
+children	NN2	S2mf/T3- S4mf	children	NNS
+of	IO	Z5	of	IN
+different	JJ	A6.1-	different	JJ
+ages	NN2	T1.3+ T3	ages	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+teach	VV0	P1	teach	VBP
+a	AT1	Z5	a	DT
+boy	NN1	S2.2m L2m@	boy	NN
+(	(	""	(	CD
+13	MC	N1 T1.2 T3 T1.3 N3.2	13	CD
+)	)	""	)	CD
+English	NN1	Z1mf Z2[i13.2.1 Z1mf[i13.2.1	English	NNP
+3	MC	N6+[i14.4.1 N1 T1.2 T3 T1.3 N3.2 Z2[i13.2.2 Z1mf[i13.2.2 N6+[i15.2.1 A13.3[i15.2.1 N6[i16.4.1	3	CD
+times	NNT2	N6+[i14.4.2 T1 T1.2 T1.3 T1.1.2 N6 N1 N6+[i15.2.2 A13.3[i15.2.2 N6[i16.4.2	times	NNS
+a	AT1	N6+[i14.4.3 Z5 N6[i16.4.3	a	DT
+week	NNT1	N6+[i14.4.4 T1.3 N6[i16.4.4	week	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+a	AT1	N5+[i17.2.1 N6+[i17.2.1 A13.3[i17.2.1 Z5	a	DT
+lot	NN1	N5+[i17.2.2 N6+[i17.2.2 A13.3[i17.2.2	lot	NN
+of	IO	Z5	of	IN
+pleasure	NN1	E4.2+ K1	pleasure	NN
+to	TO	Z5	to	TO
+see	VVI	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VB
+kids	NN2	S2mf/T3- S4mf L2	kids	NNS
+smile	VVI	E4.1+	smile	NN
+and	CC	Z5	and	CC
+always	RR	N6+++	always	RB
+try	VV0	X8+ X2.4 Q2.2 G2.1 A12-	try	VBP
+to	TO	Z5	to	TO
+interest	VVI	X5.2+	interest	VB
+them	PPHO2	Z8mfn	them	PRP
+by	II	Z5	by	IN
+something	PN1	Z8	something	NN
+curious	JJ	X5.2+ A6.2-	curious	JJ
+and	CC	Z5	and	CC
+funny	JJ	E4.1+ A6.2- A12- B2-	funny	JJ
+!	!	""	!	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+like	VV0	E2+	like	VBP
+traveling	VVG	M1	traveling	VBG
+so	RG	A13.3	so	RB
+much	DA1	N5+ I1.3+	much	JJ
+and	CC	Z5	and	CC
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+very	RG	A13.3	very	RB
+adaptable	JJ	A2.1+	adaptable	JJ
+to	TO	Z5	to	TO
+live	VVI	H4 L1+ A3	live	VB
+in	II	Z5	in	IN
+new	JJ	T3-	new	JJ
+places	NN2	M7 H1 A1.2 P1	places	NNS
+with	IW	Z5	with	IN
+any	DD	N5.1+ N5	any	DT
+climate	NN1	W4 A1.1.1 E1	climate	NN
+change	NN1	A2.1+ I1 B1	change	NN
+(	(	""	(	CD
+I	PPIS1	Z8mf	I	PRP
+'	NULL	""	'	''
+ve	VV0	Z8	ve	FW
+already	RR	T1.1.1	already	RB
+visited	VVN	S1.1.1 M1	visited	VBD
+many	DA2	N5+	many	JJ
+countries	NN2	M7	countries	NNS
+and	CC	Z5	and	CC
+I	PPIS1	Z8mf	I	PRP
+would	VM	A7+	would	MD
+love	VVI	E2+	love	VB
+to	TO	Z5	to	TO
+share	VVI	S1.1.2+	share	VB
+my	APPGE	Z8	my	PRP$
+numerous	JJ	N5+	numerous	JJ
+adventures	NN2	X8+ X5.2+ A15-	adventures	NNS
+with	IW	Z5	with	IN
+you	PPY	Z8mf	you	PRP
+!	!	""	!	.
+)	)	""	)	CD
+,	,	""	,	,
+cycling	VVG	M3	cycling	NN
+,	,	""	,	,
+walking	VVG	M1 L2 X9.2+/A12+	walking	VBG
+,	,	""	,	,
+running	VVG	M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4	running	VBG
+,	,	""	,	,
+swimming	VVG	M4 M1 N5.2+	swimming	VBG
+,	,	""	,	,
+playing	VVG	K1 K5.1 K5.2 K2 K3 A1.1.1 K6	playing	VBG
+badminton	NN1	K5.1	badminton	NN
+,	,	""	,	,
+dart	VV0	M1/N3.8+	dart	NN
+,	,	""	,	,
+frisbee	NN1	O2 B1 Y2 K3 O4.4 O4.4/O2 K6 X2.1 A1.1.1	frisbee	NN
+,	,	""	,	,
+sewing	VVG	C1 A1.1.1	sewing	VBG
+(	(	""	(	CD
+cross	VV0	M1 M6 S8- A1.8+ A6.3+ F4/L2 O4.4 Q1.2 E3- S1.1.1 S9@	cross	JJ
+stitch	NN1	B5 B2- B3	stitch	NN
+is	VBZ	A3+ Z5	is	VBZ
+my	APPGE	Z8	my	PRP$
+favorite	JJ	E2+++	favorite	JJ
+one	PN1	Z8	one	CD
+)	)	""	)	NN
+,	,	""	,	,
+talking	VVG	Q2.1	talking	VBG
+to	II	Z5	to	TO
+people	NN	S2mfc	people	NNS
+from	II	Z5	from	IN
+different	JJ	A6.1-	different	JJ
+countries	NN2	M7	countries	NNS
+all	RR	M7/N5.1+[i19.4.1 A13.2 N5.1+[i18.2.1	all	DT
+over	II	M7/N5.1+[i19.4.2 Z5 N5.1+[i18.2.2	over	IN
+the	AT	M7/N5.1+[i19.4.3 Z5	the	DT
+world	NN1	M7/N5.1+[i19.4.4 W1 S5+c A4.1 N5+	world	NN
+and	CC	Z5	and	CC
+get	VV0	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	get	VB
+to	TO	Z5	to	TO
+know	VVI	X2.2+ S3.2/B1%	know	VB
+their	APPGE	Z8	their	PRP$
+culture	NN1	C1 S1.1.1 S5+ L1	culture	NN
+and	CC	Z5	and	CC
+habits	NN2	S1.1.1 A6.2+ B5@	habits	NNS
+!	!	""	!	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+medium	JJ	N3.2 N3.1	medium	NN
+collection	NN1	A9+ I1 B5	collection	NN
+of	IO	Z5	of	IN
+something	PN1	Z8	something	NN
+interesting	JJ	X5.2+	interesting	JJ
+from	II	Z5	from	IN
+all	RR	M7/N5.1+[i21.4.1 A13.2 N5.1+[i20.2.1	all	DT
+over	II	M7/N5.1+[i21.4.2 Z5 N5.1+[i20.2.2	over	IN
+the	AT	M7/N5.1+[i21.4.3 Z5	the	DT
+world	NN1	M7/N5.1+[i21.4.4 W1 S5+c A4.1 N5+	world	NN
+and	CC	Z5	and	CC
+if	CS	Z7	if	IN
+you	PPY	Z8mf	you	PRP
+are	VBR	A3+ Z5	are	VBP
+a	AT1	Z5	a	DT
+collector	NN1	A9+/S2mf G1.1/S2mf	collector	NN
+of	IO	Z5	of	IN
+something	PN1	Z8	something	NN
+as	RR21	N5++[i22.2.1	as	RB
+well	RR22	N5++[i22.2.2 A5.1+ A13.3 A7+ B2+ Z4	well	RB
+I	PPIS1	Z8mf	I	PRP
+will	VM	T1.1.3	will	MD
+be	VBI	A3+ Z5	be	VB
+happy	JJ	E4.1+ E4.2+	happy	JJ
+to	TO	Z5	to	TO
+see	VVI	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VB
+your	APPGE	Z8	your	PRP$
+collection	NN1	A9+ I1 B5	collection	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+always	RR	N6+++	always	RB
+open	JJ	A10+ S1.2.1+ X6- X5.2+ A7+	open	JJ
+to	II	Z5	to	TO
+learn	VV0	X2.3+ P1	learn	VB
+more	RRR	A13.3 N6++	more	JJR
+!	!	""	!	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+very	RG	A13.3	very	RB
+positive	JJ	A5.1+ A7+ N2	positive	JJ
+and	CC	Z5	and	CC
+open	VV0	A10+ T2+	open	JJ
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+can	VM	A7+	can	MD
+easy	RR@	A12+	easy	RB
+make	VVI	S1.2.1+[i23.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+friends	NN2	S1.2.1+[i23.2.2 S3.1/S2mf	friends	NNS
+and	CC	Z5	and	CC
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+so	RG	N5[i24.2.1 A13.3	so	RB
+many	DA2	N5[i24.2.2 N5+	many	JJ
+sincere	JJ	A5.4+	sincere	JJ
+pleasure	NN1	E4.2+ K1	pleasure	NN
+to	TO	Z5	to	TO
+know	VVI	X2.2+ S3.2/B1%	know	VB
+more	RRR	A13.3 N6++	more	JJR
+about	II	Z5	about	IN
+their	APPGE	Z8	their	PRP$
+life	NN1	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	life	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+I	ZZ1@	Z8	I	PRP
+'	NULL	""	'	''
+m	ZZ1	Z5 G1.1/S2	m	NN
+considerate	JJ	S1.2.3-	considerate	NN
+,	,	""	,	,
+kind	NN1	A4.1	kind	NN
+,	,	""	,	,
+honest	JJ	A5.2+	honest	JJ
+and	CC	Z5	and	CC
+very	RG	A13.3	very	RB
+reIiable	JJ	Z99	reIiable	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+already	RR	T1.1.1	already	RB
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+almost	RR	A13.4	almost	RB
+all	DB	N5.1+	all	RB
+necessary	JJ	S6+ A11.1+	necessary	JJ
+documents	NN2	Q1.2 X2.2+ Y2	documents	NNS
+for	IF	Z5	for	IN
+MVV	NP1	Z99	MVV	NN
+visa	NN1	Q1.2	visa	NN
+,	,	""	,	,
+the	AT	Z5	the	DT
+process	NN1	A1.1.1 X4.2	process	NN
+of	IO	Z5	of	IN
+receiving	VVG	A9+ S5+	receiving	VBG
+the	AT	Z5	the	DT
+visa	NN1	Q1.2	visa	NN
+will	VM	T1.1.3	will	MD
+be	VBI	A3+ Z5	be	VB
+easy	JJ	A12+	easy	JJ
+and	CC	Z5	and	CC
+NOT	XX	Z6	NOT	RB
+long	RR	T1.3+	long	RB
+!	!	""	!	.
+-----	-----	""	-----	CD
+If	CS	Z7	If	IN
+you	PPY	Z8mf	you	PRP
+want	VV0	X7+ S6+ A7+ S3.2 A9-	want	VBP
+to	TO	Z5	to	TO
+meet	VVI	S3.1 M6 A1.1.1 X9.2+ A6.1+	meet	VB
+me	PPIO1	Z8mf	me	PRP
+before	II	Z5	before	IN
+the	AT	Z5	the	DT
+papers	NN2	Q4.2c O1.1 Q1.2 P1/Q1.2 H5	papers	NNS
+will	VM	T1.1.3	will	MD
+be	VBI	A3+ Z5	be	VB
+ready	JJ	O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+	ready	JJ
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+usual	JJ	A6.2+	usual	JJ
+type	NN1	A4.1 A6.2+ S1.2 Q1.2	type	NN
+of	IO	Z5	of	IN
+visa	NN1	Q1.2	visa	NN
+and	CC	Z5	and	CC
+can	VM	A7+	can	MD
+go	VVI	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	go	VB
+to	II	Z5	to	TO
+the	AT	Z5	the	DT
+Netherlands	NP1	Z2 Z3c	Netherlands	NNP
+anytime	NNT1	T1.1	anytime	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+don	VV0	P1/S2mf Z1m	don	VBP
+'	NULL	""	'	''
+t	ZZ1	Z5	t	NN
+consider	VV0	X2.1 X2.4 X6	consider	VBP
+au	NN121	H4/S2.1f[i25.2.1	au	NN
+pair	NN122	H4/S2.1f[i25.2.2	pair	NN
+to	TO	Z5	to	TO
+be	VBI	A3+ Z5	be	VB
+only	RR	A14	only	RB
+a	AT1	Z5	a	DT
+job	NN1	I3.1 A1.1.1 A12-	job	NN
+,	,	""	,	,
+for	IF	Z5	for	IN
+me	PPIO1	Z8mf	me	PRP
+it	PPH1	Z8	it	PRP
+'	NULL	""	'	''
+s	ZZ1	Z5	s	NNS
+like	II	Z5	like	IN
+having	VHG	A9+ Z5 A2.2 S4	having	VBG
+the	AT	Z5	the	DT
+second	MD	N4	second	JJ
+family	NN1	S4c A4.1c	family	NN
+,	,	""	,	,
+being	VBG	A3+ Z5	being	VBG
+an	AT1	Z5	an	DT
+elder	JJR	T3++	elder	JJR
+sister	NN1	S4f S9/S2.1f B3/S2.1f S2.1f A2.2	sister	NN
+and	CC	Z5	and	CC
+spending	VVG	I1.2 A1.5.1 T1.3	spending	NN
+great	JJ	A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3	great	JJ
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+together	RL	S5+ T1.1.2 M6	together	RB
+!	!	""	!	.
+"</text>
+"	NULL	""	</text>	IN

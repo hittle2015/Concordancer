@@ -1,0 +1,1781 @@
+token	pos	sem	stanford-token	stanford-pos
+<text>	NULL	""	<text>	JJ
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+was	VBDZ	Z5 A3+	was	VBD
+asked	VVN@	Q2.2	asked	VBN
+many	DA2	N6+[i2.2.1 N5+ N6+[i1.2.1	many	JJ
+times	NNT2	N6+[i2.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 N6+[i1.2.2	times	NNS
+,	,	""	,	,
+since	CS	Z5	since	IN
+I	PPIS1	Z8mf	I	PRP
+moved	VVD	M2 M1 A2.1+ E1 H4/A2.1	moved	VBD
+to	II	Z5	to	TO
+Canada	NP1	Z2	Canada	NNP
+What	DDQ	Z8 Z5	What	WP
+was	VBDZ	A3+ Z5	was	VBD
+it	PPH1	Z8	it	PRP
+like	II	Z5	like	IN
+growing	VVG	T3+/A2.1[i3.2.1 N3.2+/A2.1[i3.2.1 S1.2.6+/A2.1[i3.2.1 N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4	growing	VBG
+up	RP	T3+/A2.1[i3.2.2 N3.2+/A2.1[i3.2.2 S1.2.6+/A2.1[i3.2.2	up	RP
+under	II	Z5	under	IN
+totalitarian	JJ	G1.2/S7.1+	totalitarian	JJ
+regime	NN1	G1.1 S7.1+ B3	regime	NN
+in	II	Z5	in	IN
+Russia	NP1	Z2	Russia	NNP
+?	?	""	?	.
+.	.	""	.	.
+-----	-----	""	-----	CD
+The	AT	Z5	The	DT
+first	MD	N4	first	JJ
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+Ive	NP1	Z99	Ive	NN
+heard	VVD	X3.2 X2.3+ G2.1@	heard	VBD
+this	DD1	M6 Z5 Z8	this	DT
+question	NN1	Q2.2 X4.1	question	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+probably	RR	A7+	probably	RB
+had	VHD	X3.4[i4.3.1 X2.4[i4.3.1 A9+ Z5 A2.2 S4	had	VBD
+a	AT1	X3.4[i4.3.2 X2.4[i4.3.2 Z5	a	DT
+puzzled	JJ	X2.5-	puzzled	VBN
+look	NN1	X3.4[i4.3.3 X2.4[i4.3.3 A8 X3.4 X2.4 O4.1	look	NN
+on	II	Z5	on	IN
+my	APPGE	Z8	my	PRP$
+face	NN1	B1 W3 O2 A8 S1.2.3+	face	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+just	RR	A14 T3--- T1.3- N3.3---	just	RB
+never	RR	T1/Z6	never	RB
+thought	VVD	X2.1	thought	VBN
+of	IO	Z5	of	IN
+my	APPGE	Z8	my	PRP$
+childhood	NN1	T1.3/T3-	childhood	NN
+in	II	Z5[i5.2.1 Z5	in	IN
+that	DD1	Z5[i5.2.2 Z5 Z8 S3.2[i6.2.1	that	DT
+way	NN1	X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 S3.2[i6.2.2	way	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Well	RR	A5.1+ A13.3 A7+ B2+ Z4	Well	UH
+,	,	""	,	,
+what	DDQ	Z8 Z5	what	WP
+can	VM	A7+	can	MD
+I	PPIS1	Z4[i7.2.1 Z8mf	I	PRP
+say	VVI	Z4[i7.2.2 Q2.1 Z4%	say	VB
+?	?	""	?	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+was	VBDZ	A3+ Z5	was	VBD
+fine	JJ	A5.1+ A4.2+ O4.5 O4.1 W4 N3.2-	fine	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+was	VBDZ	A3+ Z5	was	VBD
+more	RRR	A13.3 N6++	more	JJR
+than	CSN	Z5	than	IN
+fine	JJ	A5.1+ A4.2+ O4.5 O4.1 W4 N3.2-	fine	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+was	VBDZ	A3+ Z5	was	VBD
+great	JJ	A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3	great	JJ
+!	!	""	!	.
+-----	-----	""	-----	CD
+First	MD	N4[i8.3.1 N4	First	NNP
+of	IO	N4[i8.3.2 Z5	of	IN
+all	DB	N4[i8.3.3 N5.1+	all	DT
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+was	VBDZ	A3+ Z5	was	VBD
+a	AT1	Z5	a	DT
+kid	NN1	S2mf/T3- S4mf L2	kid	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+did	VDD	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	did	VBD
+nt	XX	S9/Q4.1 Z3c	nt	NNS
+know	VVI	X2.2+ S3.2/B1%	know	VB
+we	PPIS2	Z8	we	PRP
+had	VHD	A9+ Z5 A2.2 S4	had	VBD
+a	AT1	Z5	a	DT
+totalitarian	JJ	G1.2/S7.1+	totalitarian	JJ
+regime	NN1	G1.1 S7.1+ B3	regime	NN
+in	II	Z5	in	IN
+Russia	NP1	Z2	Russia	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+We	PPIS2	Z8	We	PRP
+had	VHD	A9+ Z5 A2.2 S4	had	VBD
+a	AT1	Z5	a	DT
+Socialism	NN1	G1.2	Socialism	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+And	CC	Z5	And	CC
+as	CS31	Z5[i10.5.1 Z5 Z5[i9.3.1	as	RB
+far	CS32	Z5[i10.5.2 Z5[i9.3.2	far	RB
+as	CS33	Z5[i10.5.3 Z5 Z5[i9.3.3	as	IN
+I	PPIS1	Z8mf	I	PRP
+was	VBDZ	Z5[i10.5.4 A3+ Z5	was	VBD
+concerned	JJ	Z5[i10.5.5 E6- A1.8+ A2.2 S1.1.3+	concerned	VBN
+,	,	""	,	,
+it	PPH1	Z8	it	PRP
+was	VBDZ	A3+ Z5	was	VBD
+much	RR	A13.3 N6+	much	RB
+better	RRR	A5.1++ G2.2++ O4.2++	better	JJR
+than	CSN	Z5	than	IN
+Capitalism	NN1	G1.2/I2.1	Capitalism	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+There	EX	Z5	There	EX
+was	VBDZ	A3+ Z5	was	VBD
+a	AT1	Z5	a	DT
+poster	NN1	Q1.2	poster	NN
+in	II	Z5	in	IN
+my	APPGE	Z8	my	PRP$
+schools	NN2	P1/H1c S5+c L2%c	schools	NNS
+library	NN1	Q4.1/H1c	library	NN
+with	IW	Z5	with	IN
+an	AT1	Z5	an	DT
+image	NN1	A6.1+ A8 X3.4 X2.1 C1	image	NN
+of	IO	Z5	of	IN
+a	AT1	Z5	a	DT
+homeless	JJ	H4-	homeless	JJ
+person	NN1	S2mfc	person	NN
+on	II	I3.1-[i11.3.1 S3.2/G2.2-%[i11.3.1 Z5	on	IN
+the	AT	I3.1-[i11.3.2 S3.2/G2.2-%[i11.3.2 Z5	the	DT
+streets	NN2	I3.1-[i11.3.3 S3.2/G2.2-%[i11.3.3 M3/H3	streets	NNS
+of	IO	Z5	of	IN
+New	NP1	Z2[i13.2.1 Z1mf[i12.2.1 Z3c[i12.2.1	New	NNP
+York	NP1	Z2[i13.2.2 Z2 Z1mf Z1mf[i12.2.2 Z3c[i12.2.2	York	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Each	DD1	N6+[i14.2.1 N5.1+	Each	DT
+time	NNT1	N6+[i14.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+I	PPIS1	Z8mf	I	PRP
+walked	VVD	M1 L2 X9.2+/A12+	walked	VBD
+by	II	Z5	by	IN
+it	PPH1	Z8	it	PRP
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+was	VBDZ	Z5 A3+	was	VBD
+wondering	VVG	X2.1	wondering	VBG
+how	RRQ	Z5 A13.3	how	WRB
+does	VDZ	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	does	VBZ
+it	PPH1	Z8	it	PRP
+happen	VVI	A2.1+ A3+ X7-	happen	VB
+that	CST	Z5 Z8	that	IN
+people	NN	S2mfc	people	NNS
+end	VV0	T2-[i15.2.1 T2-	end	VBP
+up	RP	T2-[i15.2.2	up	RP
+on	II	Z5	on	IN
+the	AT	Z5	the	DT
+street	NN1	M3/H3	street	NN
+?	?	""	?	.
+-----	-----	""	-----	CD
+And	CC	Z5	And	CC
+why	RRQ	A2.2	why	WRB
+nobody	PN1	Z8/Z6cmf	nobody	NN
+was	VBDZ	Z5 A3+	was	VBD
+helping	VVG	S8+	helping	VBG
+them	PPHO2	Z8mfn	them	PRP
+?	?	""	?	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+just	RR	A14 T3--- T1.3- N3.3---	just	RB
+seemed	VVD	A8	seemed	VBD
+so	RG	A13.3	so	RB
+awful	JJ	O4.2- A5.1- A13.3	awful	JJ
+,	,	""	,	,
+that	CST	Z8 Z5	that	IN
+I	PPIS1	Z8mf	I	PRP
+was	VBDZ	Z5 A3+	was	VBD
+even	RR	A13.1	even	RB
+questioning	VVG	Q2.2	questioning	VBG
+if	CSW@	Z7	if	IN
+that	DD1	Z8 Z5	that	DT
+was	VBDZ	A3+ Z5	was	VBD
+true	JJ	A5.2+ A5.4+	true	JJ
+or	CC	Z5	or	CC
+if	CS	Z7	if	IN
+things	NN2	O2 X4.1 A7- S2mf L2mf	things	NNS
+were	VBDR	Z5 A3+	were	VBD
+slightly	RR	A13.6	slightly	RB
+exaggerated	VVN	N5.2+/Q2.2	exaggerated	VBN
+.	.	""	.	.
+-----	-----	""	-----	CD
+At	II	T1.1.1[i16.3.1 Z5	At	IN
+that	DD1	T1.1.1[i16.3.2 Z5 Z8	that	DT
+time	NNT1	T1.1.1[i16.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+havent	VV0	Z99	havent	VBP
+seen	VVN	X3.4 X2.1 S1.1.1 X2.5+ A7+	seen	VBN
+a	AT1	Z5	a	DT
+homeless	JJ	H4-	homeless	JJ
+person	NN1	S2mfc	person	NN
+in	II	Z5	in	IN
+my	APPGE	Z8	my	PRP$
+life	NN1	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	life	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Me	PPIO1	Z8mf	Me	PRP
+at	II	Z5	at	IN
+5	MC	N1	5	CD
+years	NNT2	T1.3	years	NNS
+,	,	""	,	,
+Russia	NP1	Z2	Russia	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Me	PPIO1	Z8mf	Me	PRP
+5	MC	T3[i18.3.1 N1 T3/S2mf[i17.3.1 T3[i17.3.1	5	CD
+years	NNT2	T3[i18.3.2 T1.3 T3/S2mf[i17.3.2 T3[i17.3.2	years	NNS
+old	JJ	T3[i18.3.3 T3+ Z4 T3/S2mf[i17.3.3 T3[i17.3.3	old	JJ
+,	,	""	,	,
+Russia	NP1	Z2	Russia	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+In	RR21	N5++[i19.2.1	In	IN
+addition	RR22	N5++[i19.2.2	addition	NN
+,	,	""	,	,
+there	EX	Z5	there	EX
+were	VBDR	A3+ Z5	were	VBD
+always	RR	N6+++	always	RB
+reports	VVZ	Q2.2 S7.1-	reports	NNS
+on	II	Z5	on	IN
+TV	NN1	Q4.3	TV	NN
+about	II	Z5	about	IN
+people	NN	S2mfc	people	NNS
+losing	VVG	X9.2- A9- M6/A5.3- L1-	losing	VBG
+their	APPGE	Z8	their	PRP$
+jobs	NN2	I3.1 A1.1.1	jobs	NNS
+in	II	Z5	in	IN
+US	NP1	Z8	US	NNP
+,	,	""	,	,
+not	XX	Z6	not	RB
+having	VHG	A9+ Z5 A2.2 S4	having	VBG
+a	AT1	Z5	a	DT
+medical	JJ	B3	medical	JJ
+insurance	NN1	I1/A15-	insurance	NN
+and	CC	Z5	and	CC
+not	XX	Z6	not	RB
+getting	VVG	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	getting	VBG
+any	DD	N5.1+ N5	any	DT
+help	NN1	S8+	help	NN
+from	II	Z5	from	IN
+their	APPGE	Z8	their	PRP$
+government	NN1	G1.1c	government	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+We	PPIS2	Z8	We	PRP
+did	VDD	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	did	VBD
+nt	XX	S9/Q4.1 Z3c	nt	NNS
+have	VHI	A9+ Z5 A2.2 S4	have	VBP
+those	DD2	Z5 Z8	those	DT
+problems	NN2	A12- X4.1 B2-	problems	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+We	PPIS2	Z8	We	PRP
+all	DB	N5.1+	all	DT
+thought	NN1	X4.1	thought	VBD
+Capitalism	NN1	G1.2/I2.1	Capitalism	NN
+was	VBDZ	A3+ Z5	was	VBD
+evil	JJ	G2.2-	evil	JJ
+,	,	""	,	,
+and	CC	Z5	and	CC
+felt	VVD	X2.1 E1 X3	felt	VBD
+very	RG	A13.3	very	RB
+lucky	JJ	A1.4+	lucky	JJ
+to	TO	Z5	to	TO
+be	VBI	Z5 A3+	be	VB
+living	VVG	H4 L1+	living	VBG
+under	II	Z5	under	IN
+Socialism	NN1	G1.2	Socialism	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+In	II	Z5	In	IN
+comparison	NN1	A6.1	comparison	NN
+,	,	""	,	,
+we	PPIS2	Z8	we	PRP
+had	VHD	A9+ Z5 A2.2 S4	had	VBD
+100%	NNU	N5.1+	100%	CD
+employment	NN1	I3.1	employment	NN
+in	II	Z5	in	IN
+Russia	NP1	Z2	Russia	NNP
+at	II	T1.1.1[i20.3.1 Z5	at	IN
+that	DD1	T1.1.1[i20.3.2 Z5 Z8	that	DT
+time	NNT1	T1.1.1[i20.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+(	(	""	(	RB
+early	JJ	T1.3[i21.2.1 T3[i21.2.1 T4+ T1.1.1	early	JJ
+80s	MC2	T1.3[i21.2.2 T3[i21.2.2 T1.3 N1 T3	80s	CD
+)	)	""	)	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Apparently	RR	A8	Apparently	RB
+,	,	""	,	,
+not	XX	Z6	not	RB
+working	VVG	I3.1 A1.1.1 X9.2+ A2.1+ A2.2	working	VBG
+was	VBDZ	A3+ Z5	was	VBD
+illegal	JJ	G2.1-	illegal	JJ
+so	CS@	Z5	so	IN
+we	PPIS2	Z8	we	PRP
+never	RR	T1/Z6	never	RB
+saw	VVD	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2	saw	VBD
+homeless	JJ	H4-	homeless	JJ
+people	NN	S2mfc	people	NNS
+(	(	""	(	VBP
+other	II21	A1.8-[i22.2.1 Z5[i23.2.1	other	JJ
+than	II22	A1.8-[i22.2.2 Z5[i23.2.2	than	IN
+on	II	Z5	on	IN
+those	DD2	Z5 Z8	those	DT
+posters	NN2	Q1.2	posters	NNS
+)	)	""	)	VBP
+on	II	Z5	on	IN
+the	AT	Z5	the	DT
+street	NN1	M3/H3	street	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Crime	NN1	G2.1-	Crime	NN
+rate	NN1	N3.8 N5 I1.3	rate	NN
+was	VBDZ	A3+ Z5	was	VBD
+low	JJ	N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1-	low	JJ
+and	CC	Z5	and	CC
+every	AT1	N5.1+	every	DT
+citizen	NN1	G1.1/S2mf S5+/S2mf	citizen	NN
+had	VHD	A9+ Z5 A2.2 S4	had	VBD
+access	NN1	M1 A9+ A1.1.1	access	NN
+to	TO	Z5	to	TO
+free	VVI	S6- A1.7-	free	JJ
+education	NN1	P1 X2.3+	education	NN
+and	CC	Z5	and	CC
+free	JJ	S6- A1.7- A1.5.1- I1.3-	free	JJ
+medical	JJ	B3	medical	JJ
+system	NN1	X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c	system	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Life	NN1	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	Life	NNP
+was	VBDZ	A3+ Z5	was	VBD
+pretty	RG	A13.5	pretty	RB
+good	JJ	A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+	good	JJ
+,	,	""	,	,
+very	RG	A13.3	very	RB
+stable	JJ	A2.1- S1.2 O4.1	stable	JJ
+and	CC	Z5	and	CC
+predictable	JJ	Q2.2/T1.1.3 X2.6+	predictable	JJ
+,	,	""	,	,
+even	RR	A13.1	even	RB
+boring	JJ	X5.2- S1.2	boring	VBG
+.	.	""	.	.
+-----	-----	""	-----	CD
+(	(	""	(	CD
+which	DDQ	Z8 Z5	which	WDT
+reminds	VVZ	X4.1	reminds	VBZ
+me	PPIO1	Z8mf	me	PRP
+of	IO	Z5	of	IN
+life	NN1	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	life	NN
+in	II	Z5	in	IN
+Canada	NP1	Z2	Canada	NNP
+at	II	T1.1.1[i24.3.1 T1.1.2[i24.3.1 Z5	at	IN
+the	AT	T1.1.1[i24.3.2 T1.1.2[i24.3.2 Z5	the	DT
+time	NNT1	T1.1.1[i24.3.3 T1.1.2[i24.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+I	PPIS1	Z8mf	I	PRP
+moved	VVD	M2 M1 A2.1+ E1 H4/A2.1	moved	VBD
+here	RL	M6 T1.1.2 T1.2	here	RB
+1996	MC	N1 T1.2 T3 T1.3 N3.2	1996	CD
+)	)	""	)	CD
+""""	""""	""	""""	``
+Who	PNQS	Z3	Who	WP
+gets	VVZ	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	gets	VBZ
+the	AT	Z5	the	DT
+profit	NN1	I1.1 A5.1+	profit	NN
+?	?	""	?	.
+-----	-----	""	-----	CD
+In	II	Z5	In	IN
+USSR	NP1	Z2	USSR	NN
+-	-	""	-	:
+Citizens	NN2	G1.1/S2mf S5+/S2mf	Citizens	NNPS
+.	.	""	.	.
+-----	-----	""	-----	CD
+In	II	Z5	In	IN
+Capitalists	NN2	I1.1/G1.2	Capitalists	NNPS
+countries	NN2	M7	countries	NNS
+-	-	""	-	:
+Capitalists	NN2	I1.1/G1.2	Capitalists	NNPS
+get	VV0	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	get	VBP
+the	AT	Z5	the	DT
+lion	NN1	L2mfn	lion	NN
+share	NN1	S1.1.2+ I1.1	share	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+profit	NN1	I1.1 A5.1+	profit	NN
+.	.	""	.	.
+""""	""""	""	""""	''
+-----	-----	""	-----	CD
+-	-	""	-	:
+Soviet	JJ	Z2	Soviet	JJ
+era	NN1	T1.3	era	NN
+Poster	NN1	Q1.2	Poster	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Who	PNQS	Z8	Who	WP
+gets	VVZ	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	gets	VBZ
+the	AT	Z5	the	DT
+Profit	NN1	I1.1 A5.1+	Profit	NN
+?	?	""	?	.
+-----	-----	""	-----	CD
+In	II	Z5	In	IN
+USSR	NP1	Z2	USSR	NNP
+Citizens	NN2	G1.1/S2mf S5+/S2mf	Citizens	NNPS
+.	.	""	.	.
+-----	-----	""	-----	CD
+In	II	Z5	In	IN
+Capitalistss	NP1	Z99	Capitalistss	JJ
+countries	NN2	M7	countries	NNS
+Capitalists	NN2	I1.1/G1.2	Capitalists	NNPS
+get	VV0	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	get	VBP
+the	AT	Z5	the	DT
+lion	NN1	L2mfn	lion	NN
+share	NN1	S1.1.2+ I1.1	share	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+Profit	NN1	I1.1 A5.1+	Profit	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Soviet	JJ	Z2	Soviet	JJ
+era	NN1	T1.3	era	NN
+Poster	NN1	Q1.2	Poster	NNP
+Everybody	PN1	Z8/N5.1+c	Everybody	NN
+knew	VVD	X2.2+ S3.2/B1%	knew	VBD
+each	PPX221	Z8[i25.2.1	each	DT
+other	PPX222	Z8[i25.2.2	other	JJ
+in	II	Z5	in	IN
+our	APPGE	Z8	our	PRP$
+neighbourhood	NN1	N3.3-/H3c N3.3-/S2mf M7/N3.3-	neighbourhood	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+There	EX	Z5	There	EX
+were	VBDR	A3+ Z5	were	VBD
+always	RR	N6+++	always	RB
+ladies	NN2	S2.1f S7.1+/S2.1f B4/H1	ladies	NNS
+sitting	VVG	M8 C1 P1 G1.1 G2.1 M6 A9+	sitting	VBG
+on	II	Z5	on	IN
+a	AT1	Z5	a	DT
+bench	NN1	H5 G2.1c	bench	NN
+outside	II21	M6[i26.2.1 A1.8-[i26.2.1 Z5	outside	IN
+of	II22	M6[i26.2.2 A1.8-[i26.2.2	of	IN
+their	APPGE	Z8	their	PRP$
+houses	NN2	H1 P1/S5+c G1.1c	houses	NNS
+,	,	""	,	,
+knitting	VVG	B5 S5+ B2+ B1	knitting	VBG
+something	PN1	Z8	something	NN
+or	CC	Z5	or	CC
+chatting	VVG	Q2.1	chatting	VBG
+with	IW	Z5	with	IN
+their	APPGE	Z8	their	PRP$
+neighbours	NN2	H3/S2mf N3.3-/S2mf M7/N3.3-	neighbours	NNS
+a	AT1	Z5	a	DT
+type	NN1	A4.1 A6.2+ S1.2 Q1.2	type	NN
+of	IO	Z5	of	IN
+Neighbourhood	NN1	G2.1c[i27.2.1 N3.3-/H3c N3.3-/S2mf M7/N3.3-	Neighbourhood	NNP
+Watch	NN1	G2.1c[i27.2.2 T1/O2 M4	Watch	NNP
+,	,	""	,	,
+I	PPIS1	Z4[i28.2.1 Z8mf	I	PRP
+guess	VV0	Z4[i28.2.2 X2.1/A7-	guess	VBP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Parents	NN2	S4mf A9+	Parents	NNS
+never	RR	T1/Z6	never	RB
+worried	VVN@	E6-	worried	VBN
+about	II	Z5	about	IN
+leaving	VVG	M1 M2 A1.1.1 A1.9 A9- T2-	leaving	VBG
+kids	NN2	S2mf/T3- S4mf L2	kids	NNS
+to	TO	Z5	to	TO
+play	VVI	K1 K5.1 K5.2 K2 K3 A1.1.1 K6	play	VB
+all	DB	T1.3+[i29.2.1 N5.1+	all	DT
+day	NNT1	T1.3+[i29.2.2 T1.3	day	NN
+outside	RL	M6 S5-	outside	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+Nobody	PN1	Z8/Z6cmf	Nobody	NN
+locked	VVD	A1.7+	locked	VBN
+their	APPGE	Z8	their	PRP$
+doors	NN2	H2	doors	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+People	NN	S2mfc	People	NNS
+trusted	JJ	X2.1 A9- E6+ X2.6	trusted	VBD
+and	CC	Z5	and	CC
+helped	VVD	A9+[i30.2.1 S8+	helped	VBD
+each	PPX221	A9+[i30.2.2 Z8[i31.2.1	each	DT
+other	PPX222	A6.1- A6.1-/Z8 Z8[i31.2.2	other	JJ
+a	RR21@	A13.3[i32.2.1 N6+[i32.2.1	a	DT
+lot	RR22	A13.3[i32.2.2 N6+[i32.2.2	lot	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Because	CS	Z5/A2.2	Because	IN
+we	PPIS2	Z8	we	PRP
+did	VDD	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	did	VBD
+nt	XX	S9/Q4.1 Z3c	nt	NNS
+have	VHI	A9+ Z5 A2.2 S4	have	VBP
+rich	JJ	I1.1+ O4.1 N5+ X5.2+ E4.1+	rich	JJ
+and	CC	Z5	and	CC
+poor	JJ	I1.1- A5.1- N5- E4.1- X9.1-	poor	JJ
+,	,	""	,	,
+we	PPIS2	Z8	we	PRP
+did	VDD	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	did	VBD
+nt	XX	S9/Q4.1 Z3c	nt	NNS
+have	VHI	A9+ Z5 A2.2 S4	have	VBP
+bad	JJ	A5.1- G2.2- O4.2- B2-	bad	JJ
+parts	NN2	N5.1- O2 M7 I3.1 S1.1.3+ K4	parts	NNS
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+city	NN1	M7c M7/I2.1c	city	NN
+(	(	""	(	NN
+priority	NN1	A11.1+	priority	NN
+neighbourhoods	NN2	N3.3-/H3c N3.3-/S2mf M7/N3.3-	neighbourhoods	NNS
+,	,	""	,	,
+as	CSA	Z5	as	IN
+they	PPHS2	Z8mfn	they	PRP
+are	VBR	Z5 A3+	are	VBP
+called	VVN	Q2.2 S1.1.1 Q1.3 S9%	called	VBN
+in	II	Z5	in	RP
+Canada	NP1	Z2	Canada	NNP
+)	)	""	)	CD
+.	.	""	.	.
+-----	-----	""	-----	CD
+All	DB	N5.1+	All	DT
+areas	NN2	M7 A4.1 N3.6	areas	NNS
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+city	NN1	M7c M7/I2.1c	city	NN
+were	VBDR	A3+ Z5	were	VBD
+good	JJ	A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+	good	JJ
+and	CC	Z5	and	CC
+safe	JJ	A15+ A7+	safe	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+Exchanging	VVG	A9/S1.1.2+ A2.1+	Exchanging	VBG
+food	NN1	F1	food	NN
+and	CC	Z5	and	CC
+cooking	VVG	F1	cooking	NN
+for	IF	Z5	for	IN
+each	PPX221	Z8[i33.2.1	each	DT
+other	PPX222	Z8[i33.2.2	other	JJ
+was	VBDZ	A3+ Z5	was	VBD
+pretty	RG	A13.5	pretty	RB
+common	JJ	A6.2+ N5++ S5+ O4.2-	common	JJ
+in	II	T1.1.1[i34.3.1 Z5	in	IN
+those	DD2	T1.1.1[i34.3.2 Z5 Z8	those	DT
+days	NNT2	T1.1.1[i34.3.3 T1.3	days	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+remember	VV0	X2.2+	remember	VBP
+we	PPIS2	Z8	we	PRP
+never	RR	T1/Z6	never	RB
+had	VHN@	A9+ Z5 A2.2 S4	had	VBD
+a	AT1	Z5	a	DT
+full	JJ	N5.1+ I3.2+	full	JJ
+set	NN1	N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1%	set	NN
+of	IO	Z5	of	IN
+dishes	NN2	O2 F1 Q4.3 O4.2+%	dishes	NNS
+in	II	Z5	in	IN
+our	APPGE	Z8	our	PRP$
+cupboard	NN1	H5	cupboard	NN
+,	,	""	,	,
+because	CS	Z5/A2.2	because	IN
+most	DAT	N5+++	most	JJS
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+times	NNT2	T1 T1.2 T1.3 T1.1.2 N6 N1	times	NNS
+they	PPHS2	Z8mfn	they	PRP
+were	VBDR	A3+ Z5	were	VBD
+at	II	Z5	at	IN
+our	APPGE	Z8	our	PRP$
+neighbours	NN2	H3/S2mf N3.3-/S2mf M7/N3.3-	neighbours	NNS
+house	NN1	H1 P1/S5+c G1.1c	house	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+At	II	T1.1.2[i35.4.1 Z5	At	IN
+the	AT	T1.1.2[i35.4.2 Z5	the	DT
+same	DA	T1.1.2[i35.4.3 A6.1+++	same	JJ
+time	NNT1	T1.1.2[i35.4.4 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+,	,	""	,	,
+we	PPIS2	Z8	we	PRP
+had	VHD	A9+ Z5 A2.2 S4	had	VBD
+many	DA2	N5+	many	JJ
+other	JJ	A6.1-	other	JJ
+dishes	NN2	O2 F1 Q4.3 O4.2+%	dishes	NNS
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+cupboard	NN1	H5	cupboard	NN
+that	CST	Z8 Z5	that	WDT
+were	VBDR	A3+ Z5	were	VBD
+not	XX	Z6	not	RB
+ours	PPGE	Z8	ours	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+was	VBDZ	A3+ Z5	was	VBD
+normal	JJ	A6.2+	normal	JJ
+to	TO	Z5	to	TO
+knock	VVI	X3.2 A1.1.1 E3- Q2.2 S3.2@	knock	VB
+on	II	Z5	on	IN
+your	APPGE	Z8	your	PRP$
+neighbours	NN2	H3/S2mf N3.3-/S2mf M7/N3.3-	neighbours	NNS
+door	NN1	H2 H1@	door	NN
+and	CC	Z5	and	CC
+ask	VVI	Q2.2	ask	VB
+for	IF	Z5	for	IN
+milk	NN1	F2 O1.2	milk	NN
+or	CC	Z5	or	CC
+sugar	NN1	F1	sugar	NN
+,	,	""	,	,
+or	CC	Z5	or	CC
+go	VV0	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	go	VB
+to	II	Z5	to	TO
+your	APPGE	Z8	your	PRP$
+friends	NN2	S3.1/S2mf	friends	NNS
+kitchen	NN1	F1/H2	kitchen	NN
+and	CC	Z5	and	CC
+help	VV0	A9+[i36.2.1 S8+	help	NN
+yourself	PPX1	A9+[i36.2.2 Z8	yourself	PRP
+with	IW	Z5	with	IN
+some	DD	N5 Z5	some	DT
+food	NN1	F1	food	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+was	VBDZ	A3+ Z5	was	VBD
+very	RG	A13.3[i37.2.1 A13.3	very	RB
+much	RR	A13.3[i37.2.2 A13.3 N6+	much	RB
+a	AT1	Z5	a	DT
+communal	JJ	S1.1.2+	communal	JJ
+living	NN1	H4 L1+ I3.1 I1.1 S9%	living	NN
+,	,	""	,	,
+described	VVN	Q2.2	described	VBN
+by	II	Z5	by	IN
+Malcolm	NP1	Z1mf[i38.2.1 Z3c[i38.2.1 Z1m	Malcolm	NNP
+Gladwell	NP1	Z1mf[i38.2.2 Z3c[i38.2.2	Gladwell	NNP
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+Outliers	NP1	H4 H4/S2mf A6.1-	Outliers	NNPS
+,	,	""	,	,
+where	CS	M6	where	WRB
+he	PPHS1	Z8m	he	PRP
+talks	VVZ@	Q2.1	talks	VBZ
+about	II	Z5	about	IN
+Roseto	NP1	Z99	Roseto	NNP
+a	AT1	Z5	a	DT
+tiny	JJ	N3.2-	tiny	JJ
+Italian	JJ	Z2 Z2/Q3	Italian	JJ
+community	NN1	S5+c	community	NN
+in	II	Z5	in	IN
+Pennsylvania	NP1	Z2	Pennsylvania	NNP
+with	IW	Z5	with	IN
+very	RG	A13.3	very	RB
+low	JJ	N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1-	low	JJ
+rate	NN1	N3.8 N5 I1.3	rate	NN
+of	IO	Z5	of	IN
+heart	NN1	B2-[i39.2.1 B1 M6 A11.1+ E1 X5.2+	heart	NN
+disease	NN1	B2-[i39.2.2 B2-	disease	NN
+in	II	Z5	in	IN
+people	NN	S2mfc	people	NNS
+under	II	T3-[i40.2.1 Z5	under	IN
+age	NN1	T3-[i40.2.2 T3 T1.3	age	NN
+of	IO	Z5	of	IN
+65	MC	T3 N1 T1.2 T1.3 N3.2	65	CD
+.	.	""	.	.
+-----	-----	""	-----	CD
+After	II	Z5	After	IN
+studying	VVG	P1 X2.4	studying	VBG
+this	DD1	M6 Z5 Z8	this	DT
+community	NN1	S5+c	community	NN
+and	CC	Z5	and	CC
+trying	VVG	X8+ X2.4 Q2.2 G2.1 A12-	trying	VBG
+to	TO	Z5	to	TO
+figure	VVI	X2.5+[i41.2.1 N2[i41.2.1 X2.1 X2.5+	figure	VB
+out	RP	X2.5+[i41.2.2 N2[i41.2.2 M6	out	RP
+what	DDQ	Z8 Z5	what	WP
+was	VBDZ	A3+ Z5	was	VBD
+special	JJ	A4.2+ A6.2-	special	JJ
+about	II	Z5	about	IN
+them	PPHO2	Z8mfn	them	PRP
+the	AT	Z5	the	DT
+dietary	JJ	F1	dietary	JJ
+practices	NN2	A1.1.1 I3.1/S5+c	practices	NNS
+,	,	""	,	,
+geography	NN1	P1/W3 W3	geography	NN
+etc	RA	Z4	etc	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+At	II	Z5	At	IN
+the	AT	Z5	the	DT
+end	NN1	M6 T2- O2 X7+ N4	end	NN
+,	,	""	,	,
+doctors	NN2	B3/I3.2/S2mf P1/S2mf	doctors	NNS
+have	VH0	Z5 A9+ A2.2 S4	have	VBP
+concluded	VVN	X6+ T2-	concluded	VBN
+that	CST	Z5 Z8	that	IN
+the	AT	Z5	the	DT
+secret	NN1	A10-	secret	NN
+of	IO	Z5	of	IN
+Roseto	NP1	Z99	Roseto	NNP
+was	VBDZ	A3+ Z5	was	VBD
+Roseto	NP1	Z99	Roseto	NNP
+itself	PPX1	Z8	itself	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+They	PPHS2	Z8mfn	They	PRP
+saw	VVD	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2	saw	VBD
+how	RGQ@	Z5 A13.3	how	WRB
+close	JJ	N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4	close	JJ
+people	NN	S2mfc	people	NNS
+were	VBDR	A3+ Z5	were	VBD
+,	,	""	,	,
+with	IW	Z5	with	IN
+three	MC	N1 T1.2 T3	three	CD
+generations	NN2	T1.3 S5+c	generations	NNS
+living	VVG	H4 L1+	living	VBG
+under	II	S5+[i42.4.1 Z5	under	IN
+the	AT	S5+[i42.4.2 Z5	the	DT
+same	DA	S5+[i42.4.3 A6.1+++	same	JJ
+roof	NN1	S5+[i42.4.4 H2 B1 M3	roof	NN
+,	,	""	,	,
+how	RRQ	Z5 A13.3	how	WRB
+people	NN	S2mfc	people	NNS
+cooked	VVN	F1	cooked	VBD
+for	IF	Z5	for	IN
+each	PPX221	Z8[i43.2.1	each	DT
+other	PPX222	Z8[i43.2.2	other	JJ
+in	II	Z5	in	IN
+their	APPGE	Z8	their	PRP$
+back	NN1	B1 M6	back	JJ
+yards	NN2	H3 L3/H3 M7/I4 N3.7	yards	NNS
+,	,	""	,	,
+stopped	VVD	T2- S8- M8 H4 A1.1.1@	stopped	VBD
+to	TO	Z5	to	TO
+grit	VVI	A1.1.1 B1	grit	VB
+their	APPGE	Z8	their	PRP$
+neighbours	NN2	H3/S2mf N3.3-/S2mf M7/N3.3-	neighbours	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Thats	VVZ	Z5 Z8 A13.3 A6.1+	Thats	NNS
+pretty	RG	A13.4[i44.2.1 A13.5	pretty	RB
+much	RR	A13.4[i44.2.2 A13.3 N6+	much	RB
+how	RRQ	Z5 A13.3	how	WRB
+I	PPIS1	Z8mf	I	PRP
+remember	VV0	X2.2+	remember	VBP
+living	VVG	H4 L1+	living	VBG
+in	II	Z5	in	IN
+Russia	NP1	Z2	Russia	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+was	VBDZ	A3+ Z5	was	VBD
+a	AT1	Z5	a	DT
+self-sufficient	JJ	S5-	self-sufficient	JJ
+and	CC	Z5	and	CC
+well-connected	JJ	A2.2 S5+ M3 A1.1.1	well-connected	JJ
+community	NN1	S5+c	community	NN
+,	,	""	,	,
+protected	VVN	S8+/A15+ A10-	protected	VBN
+from	II	Z5	from	IN
+the	AT	Z5	the	DT
+outside	JJ	M6 S5-	outside	JJ
+world	NN1	W1 S5+c A4.1 N5+	world	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Soviet	JJ	Z2	Soviet	JJ
+era	NN1	T1.3	era	NN
+Poster	NN1	Q1.2	Poster	NN
+""""	""""	""	""""	''
+Religion	NN1	S9	Religion	NNP
+is	VBZ	A3+ Z5	is	VBZ
+Poison	NN1	E3-/O1 A15-/O1	Poison	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Save	VV0	I1.1 B3 A9+ S8+ A1.9 K5.1 S9	Save	VB
+children	NN2	S2mf/T3- S4mf	children	NNS
+from	II	Z5	from	IN
+it	PPH1	Z8	it	PRP
+.	.	""	.	.
+""""	""""	""	""""	''
+-----	-----	""	-----	CD
+Religion	NN1	S9	Religion	NNP
+in	II	Z5	in	IN
+Russia	NP1	Z2	Russia	NNP
+was	VBDZ	Z5 A3+	was	VBD
+forbidden	VVN	S7.4-	forbidden	VBN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Ironically	RR	Q2.2/S1.2.4- A6.1-/X2.6	Ironically	NNP
+,	,	""	,	,
+we	PPIS2	Z8	we	PRP
+were	VBDR	Z5 A3+	were	VBD
+told	VVN	Q2.1 S7.1+/Q2.2 X3 A10+	told	VBN
+that	CST	Z8 Z5	that	IN
+we	PPIS2	Z8	we	PRP
+should	VM	S6+ A7+	should	MD
+learn	VVI	X2.3+ P1	learn	VB
+to	TO	Z5	to	TO
+think	VVI	X2.1	think	VB
+for	IF	Z5	for	IN
+ourselves	PPX2	Z8	ourselves	PRP
+and	CC	Z5	and	CC
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VB
+nt	XX	S9/Q4.1 Z3c	nt	NNS
+get	VVI	A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	get	VB
+brainwashed	VVN	X4.1/A2.1+	brainwashed	VBN
+by	II	Z5	by	IN
+religious	JJ	S9	religious	JJ
+fanatics	NN2	X5.2+++/S2mf	fanatics	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Though	CS	Z5	Though	NNP
+,	,	""	,	,
+youd	NN1	Z99	youd	NN
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+a	AT1	Z5	a	DT
+hard	JJ	A12-[i45.2.1 O4.5 A12- S1.2.5+ O4.1	hard	JJ
+time	NNT1	A12-[i45.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+finding	VVG	A10+ X2.1 X6+	finding	VBG
+religious	JJ	S9	religious	JJ
+fanatics	NN2	X5.2+++/S2mf	fanatics	NNS
+in	II	Z5	in	IN
+my	APPGE	Z8	my	PRP$
+town	NN1	M7	town	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Only	RR	A14	Only	RB
+old	JJ	T3+ Z4	old	JJ
+ladies	NN2	S2.1f S7.1+/S2.1f B4/H1	ladies	NNS
+were	VBDR	Z5 A3+	were	VBD
+going	VVG	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	going	VBG
+to	II	Z5	to	TO
+the	AT	Z5	the	DT
+church	NN1	S9/H1c S9c	church	NN
+,	,	""	,	,
+and	CC	Z5	and	CC
+even	RR	A13.1	even	RB
+they	PPHS2	Z8mfn	they	PRP
+did	VDD	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	did	VBD
+it	PPH1	Z8	it	PRP
+quietly	RR	X3.2- E3+ A10- A1.1.1/N5-	quietly	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+Lenin	NP1	Z1m	Lenin	NNP
+called	VVD	Q2.2 S1.1.1 Q1.3 S9%	called	VBN
+religion	NN1	S9	religion	NN
+A	ZZ1	Z5	A	NN
+Poison	NN1	E3-/O1 A15-/O1	Poison	NN
+for	IF	Z5	for	IN
+the	AT	Z5	the	DT
+Masses	NN2	N5+ S5+	Masses	NNP
+,	,	""	,	,
+and	CC	Z5	and	CC
+that	DD1	Z5 Z8	that	IN
+phrase	NN1	Q3 K2 K1	phrase	NN
+was	VBDZ	Z5 A3+	was	VBD
+frequently	RR	N6+	frequently	RB
+used	VVN	A1.5.1 S7.1+	used	VBN
+on	II	Z5	on	IN
+Soviet	JJ	Z2	Soviet	JJ
+era	NN1	T1.3	era	NN
+posters	NN2	Q1.2	posters	NNS
+(	(	""	(	VBP
+like	II	Z5	like	IN
+the	AT	Z5	the	DT
+one	PN1	Z8	one	CD
+you	PPY	Z4[i46.2.1 Z8mf	you	PRP
+see	VV0	Z4[i46.2.2 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VBP
+above	RL	M6 A5.1++	above	IN
+)	)	""	)	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Sports	NN2	K5.1	Sports	NNPS
+,	,	""	,	,
+education	NN1	P1 X2.3+	education	NN
+,	,	""	,	,
+hard	JJ	A12-[i47.2.1 O4.5 A12- S1.2.5+ O4.1	hard	JJ
+work	NN1	A12-[i47.2.2 I3.1 A1.1.1 Q4 K2 C1	work	NN
+and	CC	Z5	and	CC
+being	VBG	A3+ Z5	being	VBG
+a	AT1	Z5	a	DT
+better	JJR	A5.1++ G2.2++ O4.2++	better	JJR
+citizen	NN1	G1.1/S2mf S5+/S2mf	citizen	NN
+were	VBDR	Z5 A3+	were	VBD
+also	RR	N5++	also	RB
+highly	RR	A13.3	highly	RB
+promoted	VVN	S8+ I2.2/Q2.2 S7.1+/A2.1	promoted	VBN
+by	II	Z5	by	IN
+the	AT	Z5	the	DT
+state	NN1	G1.1c O4.1	state	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+You	PPY	Z8mf	You	PRP
+could	VM	A7+	could	MD
+see	VVI	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2	see	VB
+Soviet	JJ	Z2	Soviet	JJ
+propaganda	NN1	G1.2	propaganda	NN
+posters	NN2	Q1.2	posters	NNS
+everywhere	RL	M6/N5.1+	everywhere	RB
+you	PPY	Z8mf	you	PRP
+went	VVD	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	went	VBD
+.	.	""	.	.
+-----	-----	""	-----	CD
+Another	DD1	A6.1- N5++	Another	DT
+thing	NN1	O2 X4.1 A7- S2mf L2mf	thing	NN
+I	PPIS1	Z8mf	I	PRP
+remember	VV0	X2.2+	remember	VBP
+is	VBZ	A3+ Z5	is	VBZ
+absence	NN1	S1.1.3- A3-	absence	NN
+of	IO	Z5	of	IN
+products	NN2	O2 A1.1.1 A2.2 N2%	products	NNS
+in	II	Z5	in	IN
+stores	NN2	I2.2/H1 A9+ A9+/H1 F1	stores	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Maybe	RR	A7	Maybe	RB
+thats	VVZ	Z5 Z8 A13.3 A6.1+	thats	VBZ
+why	RRQ	A2.2	why	WRB
+nobody	PN1	Z8/Z6cmf	nobody	NN
+spend	VV0	I1.2 A1.5.1 T1.3	spend	VBP
+as	RG@	A13	as	RB
+much	DA1	N5+ I1.3+	much	JJ
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+shopping	NN1	I2.2/O2 I2.2 G2.1@	shopping	NN
+or	CC	Z5	or	CC
+did	VDD	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	did	VBD
+it	PPH1	Z8	it	PRP
+as	RG@	A13	as	RB
+often	RR	N6+	often	RB
+,	,	""	,	,
+as	CSA	Z5	as	IN
+people	NN	S2mfc	people	NNS
+do	VD0	A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5	do	VBP
+it	PPH1	Z8	it	PRP
+here	RL	M6 T1.1.2 T1.2	here	RB
+,	,	""	,	,
+in	II	Z5	in	IN
+North	ND1	Z2[i49.2.1 M6 Z2[i48.2.1	North	NNP
+America	NP1	Z2[i49.2.2 Z2 Z2[i48.2.2	America	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Looking	VVG	X3.4[i50.2.1 X2.4[i50.2.1 X2.1[i50.2.1 A8 X3.4 X2.4 X7+ Z4	Looking	VBG
+at	II	X3.4[i50.2.2 X2.4[i50.2.2 X2.1[i50.2.2 Z5	at	IN
+Soviet	JJ	Z2	Soviet	JJ
+era	NN1	T1.3	era	NN
+advertising	NN1	I2.2/Q2.1 X2.2+ A10+	advertising	NN
+,	,	""	,	,
+youd	VV0	Z99	youd	NN
+wonder	VV0	X2.1	wonder	NN
+why	RRQ	A2.2	why	WRB
+they	PPHS2	Z8mfn	they	PRP
+even	RR	A13.1	even	RB
+bothered	VVN	E6- A1.1.1 E3- X5.2+	bothered	VBD
+creating	VVG	A1.1.1 A2.2 E1	creating	VBG
+ads	NN2	I2.2/Q2.1 X2.2+ A10+	ads	NNS
+for	IF	Z5	for	IN
+various	JJ	A6.3+	various	JJ
+products	NN2	O2 A1.1.1 A2.2 N2%	products	NNS
+,	,	""	,	,
+when	CS	Z5	when	WRB
+there	EX	Z5	there	EX
+was	VBDZ	A3+ Z5	was	VBD
+a	AT1	Z5/N5-[i51.2.1 Z5	a	DT
+shortage	NN1	Z5/N5-[i51.2.2 N5-	shortage	NN
+of	IO	Z5	of	IN
+so	RG	N5[i52.2.1 A13.3	so	RB
+many	DA2	N5[i52.2.2 N5+	many	JJ
+of	IO	Z5	of	IN
+them	PPHO2	Z8mfn	them	PRP
+,	,	""	,	,
+and	CC	Z5	and	CC
+when	CS	Z5	when	WRB
+there	EX	Z5	there	EX
+was	VBDZ	A3+ Z5	was	VBD
+no	AT	Z6	no	DT
+competition	NN1	K1 S7.3+	competition	NN
+All	DB	N5.1+	All	DT
+industries	NN2	I4	industries	NNS
+were	VBDR	Z5 A3+	were	VBD
+owned	VVN	A9+	owned	VBN
+by	II	Z5	by	IN
+the	AT	Z5	the	DT
+state	NN1	G1.1c O4.1	state	NN
+anyway	RR	Z4 A13.7	anyway	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+Well	RR	A5.1+ A13.3 A7+ B2+ Z4	Well	UH
+,	,	""	,	,
+the	AT	Z5	the	DT
+answer	NN1	Q2.2 X4.1 X9.2+	answer	NN
+lies	VVZ	A5.2- M1 T2++ M6 A3+	lies	VBZ
+in	II	M6[i53.3.1 S8-[i53.3.1 Z5	in	IN
+the	AT	M6[i53.3.2 S8-[i53.3.2 Z5	the	DT
+way	NN1	M6[i53.3.3 S8-[i53.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3	way	NN
+Soviet	JJ	Z2	Soviet	JJ
+Economy	NN1	I2.1 I1.3-	Economy	NN
+was	VBDZ	A3+ Z5	was	VBD
+setup	NN1	X4.2	setup	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+We	PPIS2	Z8	We	PRP
+had	VHD	A9+ Z5 A2.2 S4	had	VBD
+a	AT1	Z5	a	DT
+Planned	JJ@	X7+	Planned	NNP
+Economy	NN1	I2.1 I1.3-	Economy	NNP
+,	,	""	,	,
+which	DDQ	Z8 Z5	which	WDT
+means	VVZ	Q1.1 X7+	means	VBZ
+a	AT1	N5[i54.3.1 Z5	a	DT
+certain	JJ	N5[i54.3.2 A4.2+ A7+	certain	JJ
+amount	NN1	N5[i54.3.3 N5	amount	NN
+of	IO	Z5	of	IN
+products	NN2	O2 A1.1.1 A2.2 N2%	products	NNS
+was	VBDZ	Z5 A3+	was	VBD
+planned	VVN	X7+	planned	VBN
+to	TO	Z5	to	TO
+be	VBI	Z5 A3+	be	VB
+produced	VVN	A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4	produced	VBN
+and	CC	Z5	and	CC
+sold	VVN	I2.2	sold	VBN
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+next	MD	N4	next	JJ
+5	MC	N1	5	CD
+years	NNT2	T1.3	years	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Following	VVG	M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4	Following	VBG
+consumer	NN1	I2.2/S2mf	consumer	NN
+trends	NN2	A6.2+ A2.1+	trends	NNS
+and	CC	Z5	and	CC
+producing	VVG	A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4	producing	VBG
+on	II	Z5	on	IN
+demand	NN1	Q2.2 S6+ X7+	demand	NN
+was	VBDZ	A3+ Z5	was	VBD
+not	XX	Z6	not	RB
+possible	JJ	A7+	possible	JJ
+,	,	""	,	,
+thus	RR	Z5/A2.2	thus	RB
+constant	JJ	T2++/N5-[i55.2.1 T2++ A2.1- S6+	constant	JJ
+shortages	NN2	T2++/N5-[i55.2.2 N5-	shortages	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+However	RR	Z4	However	RB
+,	,	""	,	,
+if	CS	Z7	if	IN
+some	DD	N5 Z5	some	DT
+products	NN2	O2 A1.1.1 A2.2 N2%	products	NNS
+were	VBDR	Z5 A3+	were	VBD
+not	XX	Z6	not	RB
+selling	VVG	I2.2	selling	VBG
+as	CSA	Z5	as	IN
+planned	VVN	X7+	planned	VBN
+,	,	""	,	,
+ads	NN2	I2.2/Q2.1 X2.2+ A10+	ads	NNS
+were	VBDR	Z5 A3+	were	VBD
+created	VVN	A1.1.1 A2.2 E1	created	VBN
+to	TO	Z5	to	TO
+convince	VVI	A7+/Q2.2	convince	VB
+citizens	NN2	G1.1/S2mf S5+/S2mf	citizens	NNS
+,	,	""	,	,
+that	CST	Z8 Z5	that	IN
+they	PPHS2	Z8mfn	they	PRP
+needed	VVD	S6+	needed	VBD
+to	TO	Z5	to	TO
+buy	VVI	I2.2	buy	VB
+more	DAR	N5++	more	JJR
+of	IO	Z5	of	IN
+those	DD2	Z5 Z8	those	DT
+products	NN2	O2 A1.1.1 A2.2 N2%	products	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+""""	""""	""	""""	``
+Smoke	VV0	F3 O1.3 F1	Smoke	NNP
+Cigarettes	NN2	F3	Cigarettes	NNP
+""""	""""	""	""""	``
+Soviet	JJ	Z2	Soviet	NNP
+Ad	NN1	I2.2/Q2.1 X2.2+ A10+	Ad	NNP
+Poster	NN1	Q1.2	Poster	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Smoke	VV0	F3 O1.3 F1	Smoke	NNP
+Cigarettes	NN2	F3	Cigarettes	NNP
+Soviet	JJ	Z2	Soviet	NNP
+Ad	NN1	I2.2/Q2.1 X2.2+ A10+	Ad	NNP
+Poster	NN1	Q1.2	Poster	NNP
+promoting	VVG	S8+ I2.2/Q2.2 S7.1+/A2.1	promoting	VBG
+smoking	NN1	F3 O1.3 F1	smoking	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Soviet	JJ	Z2	Soviet	JJ
+Ad	NN1	I2.2/Q2.1 X2.2+ A10+	Ad	NN
+Poster	NN1	Q1.2	Poster	NN
+for	IF	Z5	for	IN
+""""	""""	""	""""	``
+Lilac	NN1	L3	Lilac	NNP
+""""	""""	""	""""	``
+-	-	""	-	:
+both	RR	Z5	both	CC
+cologne	NN1	B4	cologne	NN
+and	CC	Z5	and	CC
+perfume	NN1	B4 X3.5	perfume	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Lilac	NN1	L3	Lilac	NNP
+,	,	""	,	,
+a	AT1	Z5	a	DT
+Very	RG	A13.3	Very	RB
+Strong	JJ	S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+	Strong	JJ
+Smell	NN1	X3.5	Smell	NNP
+Soviet	JJ	Z2	Soviet	NNP
+Ad	NN1	I2.2/Q2.1 X2.2+ A10+	Ad	NNP
+Poster	NN1	Q1.2	Poster	NNP
+for	IF	Z5	for	IN
+both	RR	Z5	both	DT
+cologne	NN1	B4	cologne	NN
+and	CC	Z5	and	CC
+perfume	NN1	B4 X3.5	perfume	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Me	PPIO1	Z8mf	Me	PRP
+in	II	Z5	in	IN
+High	JJ	P1/H1c[i56.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9	High	NNP
+School	NN1	P1/H1c[i56.2.2 P1/H1c S5+c L2%c B5/P1[i57.2.1	School	NNP
+Uniform	NN1	B5 B5/P1[i57.2.2	Uniform	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Me	PPIO1	Z8mf	Me	PRP
+in	II	Z5	in	IN
+High	JJ	P1/H1c[i58.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9	High	NNP
+School	NN1	P1/H1c[i58.2.2 P1/H1c S5+c L2%c B5/P1[i59.2.1	School	NNP
+Uniform	NN1	B5 B5/P1[i59.2.2	Uniform	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+We	PPIS2	Z8	We	PRP
+all	DB	N5.1+	all	DT
+had	VHD	S6+[i60.2.1 A9+ Z5 A2.2 S4	had	VBD
+to	TO	S6+[i60.2.2 Z5	to	TO
+wear	VVI	B5 A1.1.1 B2- S7.4+	wear	VB
+uniform	NN1	B5	uniform	NN
+in	II	Z5	in	IN
+high	JJ	P1/H1c[i61.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9	high	JJ
+school	NN1	P1/H1c[i61.2.2 P1/H1c S5+c L2%c	school	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Girls	NN2	S2.1f L2f@	Girls	NNS
+,	,	""	,	,
+a	AT1	Z5	a	DT
+simple	JJ	A12+ A6.2+ O4.1 X9.1-	simple	JJ
+black	JJ	O4.3 G2.2- A5.1- E4.1- S5+	black	JJ
+dress	NN1	B5	dress	NN
+and	CC	Z5	and	CC
+a	AT1	Z5	a	DT
+white	JJ	O4.3 G2.2+	white	JJ
+apron	NN1	B5	apron	NN
+on	II31	M6[i62.3.1 N5++[i62.3.1 X2.2+[i62.3.1 Z5 Z5[i63.3.1	on	IN
+top	II32	M6[i62.3.2 N5++[i62.3.2 X2.2+[i62.3.2 Z5[i63.3.2	top	NN
+of	II33	M6[i62.3.3 N5++[i62.3.3 X2.2+[i62.3.3 Z5[i63.3.3	of	IN
+the	AT	Z5	the	DT
+dress	NN1	B5	dress	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Guys	NP1	Z1mf	Guys	NNS
+black	JJ	O4.3 G2.2- A5.1- E4.1- S5+	black	JJ
+pants	NN2	B5 B1	pants	NNS
+and	CC	Z5	and	CC
+a	AT1	Z5	a	DT
+jacket	NN1	B5 O2 Q4.1	jacket	NN
+with	IW	Z5	with	IN
+white	JJ	O4.3 G2.2+	white	JJ
+shirt	NN1	B5	shirt	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+was	VBDZ	A3+ Z5	was	VBD
+a	AT1	Z5	a	DT
+big	JJ	A11.1+[i64.2.1 Z4[i64.2.1 N3.2+ N5+ A11.1+ S1.2.5+ X5.2+	big	JJ
+deal	NN1	A11.1+[i64.2.2 Z4[i64.2.2 N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2	deal	NN
+if	CS	Z7	if	IN
+a	AT1	Z5	a	DT
+girl	NN1	S2.1f L2f@	girl	NN
+showed	VVD	A10+[i65.2.1 S1.2.3+[i65.2.1 S1.1.3+[i65.2.1 A10+ S1.1.1	showed	VBD
+up	RP	A10+[i65.2.2 S1.2.3+[i65.2.2 S1.1.3+[i65.2.2	up	RP
+in	II	Z5	in	IN
+school	NN1	P1/H1c S5+c L2%c	school	NN
+wearing	VVG	B5 A1.1.1 B2- S7.4+	wearing	VBG
+a	AT1	Z5	a	DT
+lipstick	NN1	B4	lipstick	NN
+or	CC	Z5	or	CC
+a	AT1	Z5	a	DT
+makeup	NN1	B4	makeup	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Shed	NN1	H1	Shed	VBN
+be	VBI	Z5 A3+	be	VB
+called	VVN	Q2.2[i66.2.1 Q2.2 S1.1.1 Q1.3 S9%	called	VBN
+out	RP	Q2.2[i66.2.2 M6	out	RP
+to	TO	Z5	to	TO
+go	VVI	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	go	VB
+and	CC	Z5	and	CC
+wash	VVI	B4	wash	VB
+her	APPGE	Z8f	her	PRP$
+face	NN1	B1 W3 O2 A8 S1.2.3+	face	NN
+and	CC	Z5	and	CC
+the	AT	Z5	the	DT
+whole	JJ	N5.1+	whole	JJ
+class	NN1	P1c A4.1 S5+c O4.2+	class	NN
+would	VM	A7+	would	MD
+have	VHI	S6+[i67.2.1 A9+ Z5 A2.2 S4	have	VB
+to	TO	S6+[i67.2.2 Z5	to	TO
+wait	VVI	T1.3 A3+ A11.1+ S1.1.1%	wait	VB
+for	IF	Z5	for	IN
+her	PPHO1	Z8f	her	PRP
+to	TO	Z5	to	TO
+come	VVI	M1/N6+[i68.2.1 X2.2+[i68.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2	come	VB
+back	RP	M1/N6+[i68.2.2 X2.2+[i68.2.2 M6 N6+ T1.1.1 S1.1.2+	back	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+was	VBDZ	A3+ Z5	was	VBD
+pretty	RG	A13.5	pretty	RB
+embarrassing	JJ	E4.1- E5-	embarrassing	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+School	NN1	P1/H1c S5+c L2%c	School	NNP
+is	VBZ	A3+ Z5	is	VBZ
+for	IF	Z5	for	IN
+learning	VVG	X2.3+ P1	learning	VBG
+and	CC	Z5	and	CC
+not	XX	Z6	not	RB
+for	IF	Z5	for	IN
+showing	VVG	A10+[i69.2.1 S1.2.3+[i69.2.1 A10+ S1.1.1	showing	VBG
+off	RP	A10+[i69.2.2 S1.2.3+[i69.2.2 M6 K1 A1.1.1 A1.9	off	RP
+.	.	""	.	.
+-----	-----	""	-----	CD
+You	PPY	Z8mf	You	PRP
+are	VBR	A3+ Z5	are	VBP
+all	DB	N5.1+	all	DT
+equals	NN2	A6.1+	equals	VBZ
+here	RL	M6 T1.1.2 T1.2	here	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+remember	VV0	X2.2+	remember	VBP
+the	AT	Z5	the	DT
+teacher	NN1	P1/I3.2/S2mf	teacher	NN
+would	VM	A7+	would	MD
+say	VVI	Q2.1 Z4%	say	VB
+.	.	""	.	.
+-----	-----	""	-----	CD
+They	PPHS2	Z8mfn	They	PRP
+were	VBDR	A3+ Z5	were	VBD
+very	RG	A13.3	very	RB
+strict	JJ	S1.2.5+ A1.7+	strict	JJ
+in	II	Z5	in	IN
+school	NN1	P1/H1c S5+c L2%c	school	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Despite	II	Z5	Despite	IN
+that	DD1	Z8 Z5	that	DT
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+managed	VVD	S7.1+ A1.1.1 X9.2+	managed	VBD
+to	TO	Z5	to	TO
+skip	VVI	M1 A1.9 K5.1	skip	VB
+classes	NN2	P1c A4.1 S5+c O4.2+	classes	NNS
+here	RL	M6[i70.3.1 M6 T1.1.2 T1.2	here	RB
+and	CC	M6[i70.3.2 Z5	and	CC
+there	RL	M6[i70.3.3 M6 T1.2	there	RB
+,	,	""	,	,
+was	VBDZ	Z5 A3+	was	VBD
+frequently	RR	N6+	frequently	RB
+arguing	VVG	Q2.2	arguing	VBG
+with	IW	Z5	with	IN
+teachers	NN2	P1/I3.2/S2mf	teachers	NNS
+,	,	""	,	,
+and	CC	Z5	and	CC
+spent	VVD	I1.2 A1.5.1 T1.3	spent	VBD
+a	AT1	N5+[i71.2.1 N6+[i71.2.1 A13.3[i71.2.1 Z5	a	DT
+lot	NN1	N5+[i71.2.2 N6+[i71.2.2 A13.3[i71.2.2	lot	NN
+of	IO	Z5	of	IN
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+doodling	VVG	A1.4 K5.1 O4.2+ C1 M2 A9+ X5.1+ I1.2 X2.1	doodling	VBG
+and	CC	Z5	and	CC
+daydreaming	VVG	X5.1- X7+/A5.2-	daydreaming	VBG
+in	II	Z5	in	IN
+class	NN1	P1c A4.1 S5+c O4.2+	class	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+After	II	Z4[i72.2.1 Z5	After	IN
+all	DB	Z4[i72.2.2 N5.1+	all	DT
+,	,	""	,	,
+who	PNQS	Z8	who	WP
+can	VM	A7+	can	MD
+take	VVI	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@	take	VB
+2	MC	N1 T1.2 T3 T1.3 N3.2	2	CD
+hours	NNT2	T1.3	hours	NNS
+of	IO	Z5	of	IN
+The	AT	Z5	The	DT
+History	NN1	T1.1.1 P1/T1.1.1 Q2.1 B2	History	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+Communist	JJ	G1.2[i73.2.1 G1.2	Communist	NNP
+Party	NN1	G1.2[i73.2.2 K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	Party	NNP
+or	CC	Z5	or	CC
+The	AT	Z5	The	DT
+Marxism/Leninism	NN1	Z99	Marxism/Leninism	NNP
+Ideology	NN1	X4.1	Ideology	NNP
+?	?	""	?	.
+-----	-----	""	-----	CD
+My	APPGE	Z8	My	PRP$
+High	JJ	P1/H1c[i74.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9	High	NNP
+School	NN1	P1/H1c[i74.2.2 P1/H1c S5+c L2%c P1/P1c[i75.2.1	School	NNP
+class	NN1	P1c A4.1 S5+c O4.2+ P1/P1c[i75.2.2	class	NN
+in	II	Z5	in	IN
+Russia	NP1	Z2	Russia	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+forth	RR	M6	forth	RB
+from	II	Z5	from	IN
+the	AT	Z5	the	DT
+left	JJ	M6 G1.2 N5.2+	left	VBN
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+top	JJ	M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++	top	JJ
+row	NN1	N4 N5+ M7 M3/H3 M4 E3-	row	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+My	APPGE	Z8	My	PRP$
+High	JJ	P1/H1c[i76.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9	High	NNP
+School	NN1	P1/H1c[i76.2.2 P1/H1c S5+c L2%c P1/P1c[i77.2.1	School	NNP
+class	NN1	P1c A4.1 S5+c O4.2+ P1/P1c[i77.2.2	class	NN
+in	II	Z5	in	IN
+Russia	NP1	Z2	Russia	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+forth	RR	M6	forth	RB
+from	II	Z5	from	IN
+the	AT	Z5	the	DT
+left	JJ	M6 G1.2 N5.2+	left	VBN
+in	II	Z5	in	IN
+the	AT	Z5	the	DT
+top	JJ	M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++	top	JJ
+row	NN1	N4 N5+ M7 M3/H3 M4 E3-	row	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Since	CS	Z5	Since	IN
+you	PPY	Z8mf	you	PRP
+couldnt	VV0	Z99	couldnt	VBP
+buy	VV0	I2.2	buy	VB
+nice	JJ	O4.2+ S1.2.1+	nice	JJ
+clothes	NN2	B5	clothes	NNS
+in	II	Z5	in	IN
+stores	NN2	I2.2/H1 A9+ A9+/H1 F1	stores	NNS
+,	,	""	,	,
+the	AT	Z5	the	DT
+only	JJ	A14	only	JJ
+thing	NN1	O2 X4.1 A7- S2mf L2mf	thing	NN
+that	CST	Z8 Z5	that	WDT
+was	VBDZ	Z5 A3+	was	VBD
+left	VVN	M1 M2 A1.1.1 A1.9 A9- N5.2+ T2-	left	VBN
+,	,	""	,	,
+is	VBZ	A3+ Z5	is	VBZ
+to	TO	Z5	to	TO
+make	VVI	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+them	PPHO2	Z8mfn	them	PRP
+yourself	PPX1	Z8	yourself	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+So	RR	Z5 A13.3	So	CC
+sewing	VVG	C1 A1.1.1	sewing	VBG
+,	,	""	,	,
+knitting	VVG	B5 S5+ B2+ B1	knitting	VBG
+,	,	""	,	,
+crocheting	VVG	C1	crocheting	VBG
+and	CC	Z5	and	CC
+all	DB	N5.1+	all	DT
+kinds	NN2	A4.1	kinds	NNS
+of	IO	Z5	of	IN
+crafts	NN2	C1 I3.1 X9.1+ M4fn	crafts	NNS
+were	VBDR	A3+ Z5	were	VBD
+very	RG	A13.3	very	RB
+popular	JJ	M1[i78.2.1 M2[i78.2.1 E2+ S5+	popular	JJ
+in	II	M1[i78.2.2 M2[i78.2.2 Z5	in	IN
+Russia	NP1	Z2	Russia	NNP
+at	II	T1.1.1[i79.3.1 Z5	at	IN
+that	DD1	T1.1.1[i79.3.2 Z5 Z8	that	DT
+time	NNT1	T1.1.1[i79.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+That	DD1	Z8 Z5	That	DT
+probably	RR	A7+	probably	RB
+,	,	""	,	,
+in	RR21	Z5 O4.2+ M6	in	IN
+part	RR22	N5.1-	part	NN
+,	,	""	,	,
+explains	VVZ	Q2.2/A7+ A2.2	explains	VBZ
+my	APPGE	Z8	my	PRP$
+inspiration	NN1	S8+ B1	inspiration	NN
+for	IF	Z5	for	IN
+creating	VVG	A1.1.1 A2.2 E1	creating	VBG
+a	AT1	Z5	a	DT
+marketplace	NN1	I2.2/M7 I2.2	marketplace	NN
+for	IF	Z5	for	IN
+crafters	NN2	C1/S2.2m X9.1+/S2.2m A1.1.1/S2mf A2.2/S2mf	crafters	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Growing	VVG	T3+/A2.1[i80.2.1 N3.2+/A2.1[i80.2.1 S1.2.6+/A2.1[i80.2.1 N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4	Growing	VBG
+up	RP	T3+/A2.1[i80.2.2 N3.2+/A2.1[i80.2.2 S1.2.6+/A2.1[i80.2.2	up	RP
+,	,	""	,	,
+me	PPIO1	Z8mf	me	PRP
+and	CC	Z5	and	CC
+my	APPGE	Z8	my	PRP$
+brother	NN1	S4m S2.2m S9/S2.2m	brother	NN
+had	VHD	A9+ Z5 A2.2 S4	had	VBD
+a	AT1	N5+[i81.2.1 N6+[i81.2.1 A13.3[i81.2.1 Z5	a	DT
+lot	NN1	N5+[i81.2.2 N6+[i81.2.2 A13.3[i81.2.2	lot	NN
+of	IO	Z5	of	IN
+handmade	JJ	O4.1	handmade	JJ
+clothes	NN2	B5	clothes	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+My	APPGE	Z8	My	PRP$
+grandma	NN1	S4f	grandma	NN
+was	VBDZ	Z5 A3+	was	VBD
+making	VVG	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	making	VBG
+wool	NN1	O1.1	wool	NN
+herself	PPX1	Z8f	herself	PRP
+,	,	""	,	,
+and	CC	Z5	and	CC
+then	RT	N4 Z5 T1.2	then	RB
+she	PPHS1	Z8f	she	PRP
+knitted	VVD	B5 S5+ B2+ B1	knitted	VBD
+socks	NN2	B5	socks	NNS
+and	CC	Z5	and	CC
+mittens	NN2	B5	mittens	NNS
+for	IF	Z5	for	IN
+the	AT	Z5	the	DT
+whole	JJ	N5.1+	whole	JJ
+family	NN1	S4c A4.1c	family	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+still	RR	T2++ Z4 E3+	still	RB
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+a	AT1	Z5	a	DT
+pair	NN	N5c	pair	NN
+of	IO	Z5	of	IN
+socks	NN2	B5	socks	NNS
+from	II	Z5	from	IN
+grandma	NN1	S4f	grandma	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Mom	NN1	S4/S2.1f	Mom	NN
+in	II	Z5	in	IN
+her	APPGE	Z8f	her	PRP$
+Hand-Crocheted	JJ	Z99	Hand-Crocheted	JJ
+Wedding	NN1	B5/S4[i82.2.1 S4	Wedding	NN
+Dress	NN1	B5/S4[i82.2.2 B5	Dress	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Mom	NN1	S4/S2.1f	Mom	NN
+in	II	Z5	in	IN
+her	APPGE	Z8f	her	PRP$
+Hand-Crocheted	JJ	Z99	Hand-Crocheted	JJ
+Wedding	NN1	B5/S4[i83.2.1 S4	Wedding	NN
+Dress	NN1	B5/S4[i83.2.2 B5	Dress	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+My	APPGE	Z8	My	PRP$
+mom	NN1	S4/S2.1f	mom	NN
+was	VBDZ	Z5 A3+	was	VBD
+knitting	VVG	B5 S5+ B2+ B1	knitting	VBG
+sweaters	NN2	B5	sweaters	NNS
+and	CC	Z5	and	CC
+cute	JJ	O4.2+	cute	JJ
+baby	NN1	T3--/S2mf E2+mfn	baby	NN
+outfits	NN2	O2 S5+ B5	outfits	NN
+all	DB	T1.3+[i84.3.1 N5.1+	all	DT
+her	APPGE	T1.3+[i84.3.2 Z8f	her	PRP$
+life	NN1	T1.3+[i84.3.3 L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	life	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+She	PPHS1	Z8f	She	PRP
+even	RR	A13.1	even	RB
+crocheted	VVD	C1 Z1mf A1.1.1 A2.2 E1 Z5 F1 O4.1 B2- X9.1- O4.6- A5.1- A5.2+@ A1.6 A11.1+ O1 B5 O2 X2.2 S1.2 M2 S7.1+@ Z4@ O4.4 K5.1 A9+ X5.2+ Z3c M1	crocheted	VBD
+her	APPGE	Z8[i85.2.1 Z8f	her	PRP$
+own	DA	Z8[i85.2.2 A9+ S5-	own	JJ
+wedding	NN1	B5/S4[i86.2.1 S4	wedding	NN
+dress	NN1	B5/S4[i86.2.2 B5	dress	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+was	VBDZ	Z5 A3+	was	VBD
+made	VVN	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	made	VBN
+of	IO	Z5	of	IN
+a	AT1	Z5	a	DT
+regular	JJ	A6.2+ N6+ O4.1 I3.1 T2++ A13.3	regular	JJ
+white	JJ	O4.3 G2.2+	white	JJ
+thread	NN1	O2 X4.1 N5.1-	thread	NN
+,	,	""	,	,
+as	CSA	Z5	as	IN
+there	EX	Z5	there	EX
+was	VBDZ	A3+ Z5	was	VBD
+no	AT	X9.2-[i87.2.1 A5.1-[i87.2.1 Z6	no	DT
+good	JJ	X9.2-[i87.2.2 A5.1-[i87.2.2 A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+	good	JJ
+yarn	NN1	O1.1 Q2.1	yarn	NN
+at	II	T1.1.1[i88.3.1 Z5	at	IN
+that	DD1	T1.1.1[i88.3.2 Z5 Z8	that	DT
+time	NNT1	T1.1.1[i88.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Amazing	JJ	O4.2+ X2.6- A6.2-	Amazing	JJ
+that	CST	Z5 Z8	that	IN
+her	APPGE	Z8f	her	PRP$
+dress	NN1	B5	dress	NN
+looked	VVD	A5.1+/A8[i89.2.1 A8 X3.4 X2.4 X7+	looked	VBD
+as	RG	A13	as	RB
+good	JJ	A5.1+/A8[i89.2.2 A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+	good	JJ
+as	CSA	Z5	as	IN
+it	PPH1	Z8	it	PRP
+did	VDD	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	did	VBD
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+sure	JJ	A7+ Z4	sure	JJ
+it	PPH1	Z8	it	PRP
+took	VVD	A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@	took	VBD
+her	PPHO1	Z8f	her	PRP$
+forever	RT	T2+++ N6+++	forever	RB
+to	TO	Z5	to	TO
+make	VVI	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+that	DD1	Z5 Z8	that	DT
+dress	NN1	B5	dress	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+remember	VV0	X2.2+	remember	VBP
+seeing	VVG	X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2	seeing	VBG
+it	PPH1	Z8	it	PRP
+when	CS	Z5	when	WRB
+I	PPIS1	Z8mf	I	PRP
+was	VBDZ	A3+ Z5	was	VBD
+younger	JJR	T3--	younger	JJR
+,	,	""	,	,
+but	CCB	Z5	but	CC
+then	RT	N4 Z5 T1.2	then	RB
+,	,	""	,	,
+with	IW	Z5	with	IN
+so	RG	N5[i90.2.1 A13.3	so	RB
+many	DA2	N5[i90.2.2 N5+	many	JJ
+moves	NN2	M1 M2 A2.1+ H4/A2.1 K5.2	moves	NNS
+,	,	""	,	,
+it	PPH1	Z8	it	PRP
+was	VBDZ	Z5 A3+	was	VBD
+lost	VVN	X9.2- A9- M6/A5.3- L1-	lost	VBN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+sure	JJ	A7+ Z4	sure	JJ
+my	APPGE	Z8	my	PRP$
+experience	NN1	X9.1+ X2.2 X3 I3.2	experience	NN
+growing	VVG	T3+/A2.1[i91.2.1 N3.2+/A2.1[i91.2.1 S1.2.6+/A2.1[i91.2.1 N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4	growing	VBG
+up	RP	T3+/A2.1[i91.2.2 N3.2+/A2.1[i91.2.2 S1.2.6+/A2.1[i91.2.2	up	RP
+in	II	Z5	in	IN
+Russia	NP1	Z2	Russia	NNP
+is	VBZ	A3+ Z5	is	VBZ
+not	XX	Z6	not	RB
+the	AT	Z5	the	DT
+same	DA	A6.1+++	same	JJ
+,	,	""	,	,
+as	CSA	Z5	as	IN
+someone	PN1	Z8mfc	someone	NN
+elses	VVZ	A9+/Z8	elses	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+It	PPH1	Z8	It	PRP
+probably	RR	A7+	probably	RB
+depends	VVZ	A2.2 S7.1-	depends	VBZ
+on	II	Z5	on	IN
+the	AT	Z5	the	DT
+geography	NN1	P1/W3 W3	geography	NN
+(	(	""	(	CD
+Russia	NP1	Z2	Russia	NNP
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+big	JJ	N3.2+ N5+ A11.1+ S1.2.5+ X5.2+	big	JJ
+country	NN1	G1.1c W3 F4/M7 K2	country	NN
+)	)	""	)	NN
+and	CC	Z5	and	CC
+the	AT	Z5	the	DT
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+in	II	Z5	in	IN
+history	NN1	T1.1.1 P1/T1.1.1 Q2.1 B2	history	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Maybe	RR	A7	Maybe	RB
+I	PPIS1	Z8mf	I	PRP
+was	VBDZ	A3+ Z5	was	VBD
+just	RR	A14 T3--- T1.3- N3.3---	just	RB
+lucky	JJ	A1.4+	lucky	JJ
+to	TO	Z5	to	TO
+be	VBI	A3+ Z5	be	VB
+at	II	Z5	at	IN
+the	AT	Z5	the	DT
+right	JJ	A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2	right	JJ
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+and	CC	Z5	and	CC
+the	AT	Z5	the	DT
+right	JJ	A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2	right	JJ
+place	NN1	M7 H1 A1.2 P1	place	NN
+?	?	""	?	.
+-----	-----	""	-----	CD
+Maybe	RR	A7	Maybe	RB
+being	VBG	A3+ Z5	being	VBG
+a	AT1	Z5	a	DT
+kid	NN1	S2mf/T3- S4mf L2	kid	NN
+,	,	""	,	,
+you	PPY	Z8mf	you	PRP
+idealize	VV0	A5.1+++/X4.1	idealize	VBP
+everything	PN1	Z8/N5.1+	everything	NN
+and	CC	Z5	and	CC
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+nt	XX	S9/Q4.1 Z3c	nt	NNS
+notice	VVI	X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1	notice	VB
+things	NN2	O2 X4.1 A7- S2mf L2mf	things	NNS
+that	CST	Z5 Z8	that	WDT
+adults	NN2	T3+/S2mf	adults	NNS
+notice	VV0	X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1	notice	VB
+?	?	""	?	.
+-----	-----	""	-----	CD
+Maybe	RR	A7	Maybe	RB
+when	CS	Z5	when	WRB
+you	PPY	Z8mf	you	PRP
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+nothing	PN1	Z6/Z8	nothing	NN
+to	TO	Z5	to	TO
+compare	VVI	A6.1 A5.1 Q3	compare	VB
+things	NN2	O2 X4.1 A7- S2mf L2mf	things	NNS
+to	II	Z5	to	TO
+,	,	""	,	,
+you	PPY	Z8mf	you	PRP
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+nt	XX	S9/Q4.1 Z3c	nt	NNS
+know	VVI	X2.2+ S3.2/B1%	know	VB
+any	DD	N5.1+ N5	any	DT
+better	JJR	A5.1++ G2.2++ O4.2++	better	JJR
+?	?	""	?	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+nt	XX	S9/Q4.1 Z3c	nt	NNS
+know	VVI	X2.2+ S3.2/B1%	know	VB
+.	.	""	.	.
+-----	-----	""	-----	CD
+All	DB	N5.1+	All	DT
+I	PPIS1	Z8mf	I	PRP
+know	VV0	X2.2+ S3.2/B1%	know	VBP
+is	VBZ	A3+ Z5	is	VBZ
+that	CST	Z5 Z8	that	IN
+Russia	NP1	Z2	Russia	NNP
+now	RT	T1.1.2 Z4	now	RB
+is	VBZ	A3+ Z5	is	VBZ
+not	XX	Z6	not	RB
+how	RRQ	Z5 A13.3	how	WRB
+I	PPIS1	Z8mf	I	PRP
+remember	VV0	X2.2+	remember	VBP
+it	PPH1	Z8	it	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Things	NN2	O2 X4.1 A7- S2mf L2mf	Things	NNS
+have	VH0	Z5 A9+ A2.2 S4	have	VBP
+changed	VVN	A2.1+ I1 B5	changed	VBN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Socialism	NN1	G1.2	Socialism	NN
+was	VBDZ	Z5 A3+	was	VBD
+replaced	VVN	A2.1+ M2	replaced	VBN
+with	IW	Z5	with	IN
+wild	JJ	L1 E3- O4.2- X5.2+ A6.2- A1.7- A7-	wild	JJ
+Capitalism	NN1	G1.2/I2.1	Capitalism	NN
+,	,	""	,	,
+and	CC	Z5	and	CC
+a	AT1	Z5	a	DT
+happy	JJ	E4.1+ E4.2+	happy	JJ
+communal	JJ	S1.1.2+	communal	JJ
+living	NN1	H4 L1+ I3.1 I1.1 S9%	living	NN
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+thing	NN1	O2 X4.1 A7- S2mf L2mf	thing	NN
+of	IO	Z5	of	IN
+a	AT1	Z5	a	DT
+past	NN1	T1.1.1	past	NN
+now	RT	T1.1.2 Z4	now	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+Back	RP	T1.1.1[i92.2.1 M6 N6+ T1.1.1 S1.1.2+	Back	RB
+then	RT	T1.1.1[i92.2.2 N4 Z5 T1.2	then	RB
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+often	RR	N6+	often	RB
+wondered	VVD	X2.1	wondered	VBD
+what	DDQ	Z8 Z5	what	WP
+its	APPGE	Z8	its	PRP$
+like	JJ@	Z5 A6.1+ Z4 E2+	like	IN
+living	NN1	H4 L1+ I3.1 I1.1 S9%	living	VBG
+outside	II21	M6[i93.2.1 A1.8-[i93.2.1 Z5	outside	NN
+of	II22	M6[i93.2.2 A1.8-[i93.2.2	of	IN
+Russia	NP1	Z2	Russia	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+We	PPIS2	Z8	We	PRP
+were	VBDR	Z5 A3+	were	VBD
+so	RR	Z5 A13.3	so	RB
+removed	VVN	M2	removed	VBN
+from	II	Z5	from	IN
+the	AT	Z5	the	DT
+outside	JJ	M6 S5-	outside	JJ
+world	NN1	W1 S5+c A4.1 N5+	world	NN
+,	,	""	,	,
+that	DD1	Z5 Z8	that	WDT
+life	NN1	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	life	NN
+in	II	Z5	in	IN
+US	NP1	Z8	US	NNP
+or	CC	Z5	or	CC
+in	II	Z5	in	IN
+Europe	NP1	Z2	Europe	NNP
+was	VBDZ	A3+ Z5	was	VBD
+as	RG@	A13	as	IN
+unimaginable	JJ	X2.1-	unimaginable	JJ
+,	,	""	,	,
+as	CSA	Z5	as	IN
+life	NN1	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	life	NN
+on	II	Z5	on	IN
+Mars	NP1	Z3c Z1/W1 S9/T1.1.1@	Mars	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+Well	RR	A5.1+ A13.3 A7+ B2+ Z4	Well	UH
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+glad	JJ	E4.2+	glad	JJ
+I	PPIS1	Z8mf	I	PRP
+had	VHD	A9+ Z5 A2.2 S4	had	VBD
+the	AT	Z5	the	DT
+chance	NN1	A1.4 A7+	chance	NN
+to	TO	Z5	to	TO
+experience	VVI	X3 A1.1.1	experience	VB
+both	DB2	N5	both	DT
+.	.	""	.	.
+"</text>
+"	NULL	""	</text>	NN

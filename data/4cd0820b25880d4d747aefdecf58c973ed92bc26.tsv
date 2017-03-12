@@ -1,0 +1,1370 @@
+token	pos	sem	stanford-token	stanford-pos
+<text>	NULL	""	<text>	NN
+-----	-----	""	-----	CD
+Hey	UH	Z4	Hey	UH
+sister	NN1	S4f S9/S2.1f B3/S2.1f S2.1f A2.2	sister	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+Sexyfit	VV0	Z99	Sexyfit	NNP
+Chef	NN1	F1/S2mf	Chef	NNP
+Vera	NP1	Z1f	Vera	NNP
+is	VBZ	A3+ Z5	is	VBZ
+here	RL	M6 T1.1.2 T1.2	here	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+As	CSA	Z5	As	IN
+you	PPY	Z8mf	you	PRP
+already	RR	T1.1.1	already	RB
+know	VV0	X2.2+ S3.2/B1%	know	VBP
+(	(	""	(	NN
+and	CC	Z5	and	CC
+if	CS	Z7	if	IN
+you	PPY	Z8mf	you	PRP
+did	VDD	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	did	VBD
+nt	XX	S9/Q4.1 Z3c	nt	NNS
+,	,	""	,	,
+you	PPY	Z8mf	you	PRP
+do	VD0	A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5	do	VBP
+now	RT	T1.1.2 Z4	now	RB
+)	)	""	)	CD
+I	PPIS1	Z8mf	I	PRP
+am	VBM	A3+ Z5	am	VBP
+from	II	Z5	from	IN
+Russia	NP1	Z2	Russia	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+For	IF	Z5	For	IN
+Russians	NN2	Z2/S2mf	Russians	NNPS
+,	,	""	,	,
+New	JJ	T1.3/K1[i1.2.1 T3-	New	NNP
+Years	NNT2	T1.3/K1[i1.2.2 T1.3	Years	NNS
+Eve	NP1	Z1f	Eve	NNP
+is	VBZ	A3+ Z5	is	VBZ
+the	AT	Z5	the	DT
+biggest	JJT	N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++	biggest	JJS
+holiday	NN1	K1/T1.3	holiday	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+year	NNT1	T1.3 P1c	year	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+When	CS	Z5	When	WRB
+I	PPIS1	Z8mf	I	PRP
+was	VBDZ	A3+ Z5	was	VBD
+younger	JJR	T3--	younger	JJR
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+rarely	RR	N6-	rarely	RB
+hosted	VVD	S1.1.1	hosted	VBD
+the	AT	Z5	the	DT
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+at	II	Z5	at	IN
+home	NN1	H4/H1c M6	home	NN
+,	,	""	,	,
+but	CCB	Z5	but	CC
+now	RT	T1.1.2 Z4	now	RB
+,	,	""	,	,
+with	IW	Z5	with	IN
+three	MC	N1 T1.2 T3	three	CD
+kids	NN2	S2mf/T3- S4mf L2	kids	NNS
+,	,	""	,	,
+going	VVG	M1[i2.2.1 K1[i2.2.1 S3.2[i2.2.1 O4.6-[i2.2.1 Q4[i2.2.1 B1[i2.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	going	VBG
+out	RP	M1[i2.2.2 K1[i2.2.2 S3.2[i2.2.2 O4.6-[i2.2.2 Q4[i2.2.2 B1[i2.2.2 M6	out	RP
+is	VBZ	A3+ Z5	is	VBZ
+not	XX	Z6	not	RB
+an	AT1	Z5	an	DT
+option	NN1	X7+ I2.1 P1	option	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+So	RR	Z5 A13.3	So	IN
+every	AT1	N6+[i3.2.1 N5.1+	every	DT
+year	NNT1	N6+[i3.2.2 T1.3 P1c	year	NN
+,	,	""	,	,
+we	PPIS2	Z8	we	PRP
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+a	AT1	Z5	a	DT
+big	JJ	N3.2+ N5+ A11.1+ S1.2.5+ X5.2+	big	JJ
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+at	II	E6+[i4.3.1 Z5	at	IN
+home	NN1	E6+[i4.3.2 H4/H1c M6	home	NN
+with	IW	E6+[i4.3.3 Z5	with	IN
+lots	PN	N5+	lots	NNS
+of	IO	Z5	of	IN
+great	JJ	A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3	great	JJ
+food	NN1	F1	food	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Our	APPGE	Z8	Our	PRP$
+New	JJ	T1.3/K1[i5.2.1 T3-	New	NNP
+Years	NNT2	T1.3/K1[i5.2.2 T1.3	Years	NNS
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+is	VBZ	A3+ Z5	is	VBZ
+not	XX	Z6	not	RB
+the	AT	Z5	the	DT
+kind	NN1	A4.1	kind	NN
+where	CS	M6	where	WRB
+you	PPY	Z8mf	you	PRP
+sit	VV0	M8[i6.2.1 M1[i6.2.1 M2[i6.2.1 M8 C1 P1 G1.1 G2.1 M6 A9+	sit	VBP
+down	RP	M8[i6.2.2 M1[i6.2.2 M2[i6.2.2	down	RB
+and	CC	Z5	and	CC
+spend	VV0	I1.2 A1.5.1 T1.3	spend	VB
+two	MC	N1 T3 T1.2	two	CD
+hours	NNT2	T1.3	hours	NNS
+at	II	Z5	at	IN
+the	AT	Z5	the	DT
+table	NN1	H5 Q1.2 N2	table	NN
+,	,	""	,	,
+but	CCB	Z5	but	CC
+rather	RG	A13.5	rather	RB
+a	AT1	Z5	a	DT
+buffet	NN1	F1	buffet	NN
+style	NN1	X4.2 O4.1 O4.2+ A4.1 Q3	style	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+serve	VV0	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1	serve	VBP
+7-10	MCMC	N1 T1.2 T3 T1.3 N3.2	7-10	CD
+appetizers	NN2	F1/N4 O4.2+	appetizers	NNS
+,	,	""	,	,
+salads	NN2	F1	salads	NNS
+,	,	""	,	,
+and	CC	Z5	and	CC
+deserts	NN2	W3	deserts	NNS
+of	RR21	Z4[i7.2.1	of	IN
+course	RR22	Z4[i7.2.2 Z4	course	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+We	PPIS2	Z8	We	PRP
+eat	VV0	F1/B1 A1.5.1/N5+	eat	VBP
+bites	NN2	B1 F1 X3.1 N5+	bites	VBZ
+of	IO	Z5	of	IN
+food	NN1	F1	food	NN
+and	CC	Z5	and	CC
+hang	VV0	M2[i8.2.1 S1.1.1[i8.2.1 M1[i8.2.1 M2 M1 M8 G2.1 S7.1-	hang	VB
+out	RP	M2[i8.2.2 S1.1.1[i8.2.2 M1[i8.2.2 M6	out	RP
+all	DB	T1.3+[i10.3.1 N5.1+ T1.3+[i9.2.1	all	DT
+night	NNT1	T1.3+[i10.3.2 T1.3 T1.3+[i9.2.2	night	NN
+long	RR	T1.3+[i10.3.3 T1.3+	long	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+But	CCB	Z5	But	CC
+as	CSA	Z5	as	IN
+we	PPIS2	Z8	we	PRP
+all	DB	N5.1+	all	DT
+know	VV0	X2.2+ S3.2/B1%	know	VBP
+,	,	""	,	,
+eating	VVG	F1/B1 A1.5.1/N5+	eating	VBG
+a	AT1	Z5	a	DT
+bite	NN1	B1 F1 X3.1 N5+	bite	NN
+here	RL	M6 T1.1.2 T1.2	here	RB
+and	CC	Z5	and	CC
+a	AT1	Z5	a	DT
+bite	NN1	B1 F1 X3.1 N5+	bite	NN
+there	EX	Z5	there	RB
+can	VM	A7+	can	MD
+add	VVI	A3+[i11.3.1 N5+/A2.1 N2 A1.8+	add	VB
+up	II21	A3+[i11.3.2 Z5 Z5[i12.2.1 Z5[i13.2.1 X6+[i13.2.1	up	RP
+to	II22	A3+[i11.3.3 Z5 Z5[i12.2.2 Z5[i13.2.2 X6+[i13.2.2	to	TO
+a	AT1	Z5	a	DT
+TON	NNU1	N3.5 N5+	TON	NN
+of	IO	Z5	of	IN
+calories	NNU2	N3/F1	calories	NNS
+,	,	""	,	,
+which	DDQ	Z8 Z5	which	WDT
+will	VM	T1.1.3	will	MD
+turn	VVI	A2.1+[i14.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2-	turn	VB
+into	II	A2.1+[i14.2.2 Z5	into	IN
+unwanted	JJ	X7-	unwanted	JJ
+pounds	NN2	M7	pounds	NNS
+To	TO	Z5	To	TO
+avoid	VVI	A1.9 M1	avoid	VB
+that	DD1	Z8 Z5	that	IN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+make	VV0	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VBP
+appetizers	NN2	F1/N4 O4.2+	appetizers	NNS
+that	CST	Z8 Z5	that	WDT
+are	VBR	A3+ Z5	are	VBP
+fun	JJ	E4.1+	fun	NN
+,	,	""	,	,
+tasty	JJ	X3.1+ X7+/S3.2	tasty	JJ
+,	,	""	,	,
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+AND	CC	Z5	AND	CC
+super	JJ	A5.1+	super	JJ
+easy	JJ	A12+	easy	JJ
+to	TO	Z5	to	TO
+make	VVI	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+.	.	""	.	.
+-----	-----	""	-----	CD
+You	PPY	Z8mf	You	PRP
+will	VM	T1.1.3	will	MD
+not	XX	Z6	not	RB
+find	VVI	A10+ X2.1 X6+	find	VB
+any	DD	N5.1+ N5	any	DT
+baked	JJ	F1 O4.6	baked	JJ
+cheese	NN1	F1	cheese	NN
+balls	NN2	Z4	balls	NNS
+or	CC	Z5	or	CC
+bacon	NN1	F1	bacon	NN
+wrapped	VVD	A1.1.1	wrapped	VBD
+bread	NN1	F1 I1.1	bread	NN
+at	II	Z5	at	IN
+my	APPGE	Z8	my	PRP$
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Today	RT	T1.1.2	Today	NN
+I	PPIS1	Z8mf	I	PRP
+want	VV0	X7+ S6+ A7+ S3.2 A9-	want	VBP
+to	TO	Z5	to	TO
+share	VVI	S1.1.2+	share	VB
+FIVE	MC	N1 T3 T1.2	FIVE	CD
+of	IO	Z5	of	IN
+my	APPGE	Z8	my	PRP$
+favorite	JJ	E2+++	favorite	JJ
+appetizers	NN2	F1/N4 O4.2+	appetizers	NNS
+for	IF	Z5	for	IN
+your	APPGE	Z8	your	PRP$
+New	JJ	T1.3/K1[i15.2.1 T3-	New	NNP
+Years	NNT2	T1.3/K1[i15.2.2 T1.3	Years	NNS
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+that	CST	Z8 Z5	that	WDT
+do	VD0	Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1%	do	VBP
+not	XX	Z6	not	RB
+require	VVI	X7+ S6+	require	VB
+fancy	JJ	O4.2+	fancy	JJ
+ingredients	NN2	O1	ingredients	NNS
+,	,	""	,	,
+take	VV0	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@	take	VB
+very	RG	A13.3	very	RB
+little	DA1	N5-	little	JJ
+time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	time	NN
+to	TO	Z5	to	TO
+make	VVI	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+,	,	""	,	,
+but	CCB	Z5	but	CC
+will	VM	T1.1.3	will	MD
+surely	RR	A7+	surely	RB
+impress	VVI	X5.2+ A11.1+ A1.1.1	impress	VB
+your	APPGE	Z8	your	PRP$
+guests	NN2	S2mf	guests	NNS
+(	(	""	(	VBP
+so	RR	Z5 A13.3	so	RB
+keep	VV0	A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4	keep	VB
+the	AT	Z5	the	DT
+recipes	NN2	F1 X4.2	recipes	NNS
+close	VV0	N3.3-[i16.2.1 A1.1.1 A10- T2-	close	RB
+by	RP%	N3.3-[i16.2.2 M6	by	IN
+,	,	""	,	,
+I	PPIS1	Z8mf	I	PRP
+promise	VV0	A7+/Q2.2 A8	promise	VBP
+your	APPGE	Z8	your	PRP$
+friends	NN2	S3.1/S2mf	friends	NNS
+will	VM	T1.1.3	will	MD
+be	VBI	Z5 A3+	be	VB
+asking	VVG	Q2.2 I1.3	asking	VBG
+)	)	""	)	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+recipes	NN2	F1 X4.2	recipes	NNS
+Veras	NP2	Z1f	Veras	NNP
+TOP	NN1	A5.1+++[i17.2.1 M6 N4 N5.1+ O2 B5 K6 N5.1-	TOP	NNP
+FIVE	MC	A5.1+++[i17.2.2 N1 T3 T1.2	FIVE	CD
+HEALTHY	JJ	B2+ X9.2+ A5.1+	HEALTHY	JJ
+PARTY	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	PARTY	NN
+RECIPES	NN2	F1 X4.2	RECIPES	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+RAW	JJ	F1 O4.1 B2- X9.1- O4.6- A5.1- A5.2+@	RAW	NN
+ZUCCHINI	NN	B1 L3 S2/N5+ K5.1 F2 M2 N5- T2- A1.1.2 S7.1+ F1 X9.1-/S2mf T1.3	ZUCCHINI	NN
+ROLLS	NN2	Z3c	ROLLS	VBZ
+.	.	""	.	.
+-----	-----	""	-----	CD
+These	DD2	Z8 Z5	These	DT
+are	VBR	A3+ Z5	are	VBP
+super	JJ	A5.1+	super	JJ
+cute	JJ	O4.2+	cute	JJ
+and	CC	Z5	and	CC
+just	RR	A14 T3--- T1.3- N3.3---	just	RB
+as	RG	A13	as	IN
+delicious	JJ	X3.1+ O4.2+	delicious	JJ
+.	.	""	.	.
+-----	-----	""	-----	CD
+No	AT	Z6	No	DT
+cooking	NN1	F1	cooking	NN
+required	VVN	X7+ S6+	required	VBN
+.	.	""	.	.
+-----	-----	""	-----	CD
+What	DDQ	Z8 Z5	What	WP
+you	PPY	Z8mf	you	PRP
+need	VV0	S6+	need	VBP
+(	(	""	(	CD
+9	MC	N1 T1.2 T3 T1.3 N3.2	9	CD
+rolls	NN2	O2 F1 M1 Q1.2	rolls	NNS
+)	)	""	)	RB
+1	MC1	N1 T1.2 T3 T1.3 N3.2	1	CD
+zucchini	NN	B1 L3 S2/N5+ K5.1 F2 M2 N5- T2- A1.1.2 S7.1+ F1 X9.1-/S2mf T1.3	zucchini	NNS
+Fresh	JJ	T3- O4.2+ B1 W4 S1.2.3+	Fresh	JJ
+parsley	NN1	F1 L3	parsley	NN
+1/2	MF	N1 N5	1/2	CD
+carrot	NN1	F1 S8+	carrot	NN
+1/2	MF	N1 N5	1/2	CD
+persian	JJ	Z2 Z2/Q3	persian	JJ
+cucumber	NN1	F1	cucumber	NN
+(	(	""	(	NN
+these	DD2	Z8 Z5	these	DT
+are	VBR	A3+ Z5	are	VBP
+sweeter	JJR	X3.1 O4.2++	sweeter	RBR
+,	,	""	,	,
+but	CCB	Z5	but	CC
+you	PPY	Z8mf	you	PRP
+can	VM	A7+	can	MD
+use	VVI	A1.5.1 S7.1+	use	VB
+any	DD	N5.1+ N5	any	DT
+cucumber	NN1	F1	cucumber	NN
+)	)	""	)	CD
+1/2	MF	N1 N5	1/2	CD
+red	JJ	O4.3 G1.2	red	JJ
+bell	NN1	O2/X3.2 O4.4	bell	NN
+pepper	NN1	F1	pepper	NN
+3	MC	N1 T1.2 T3 T1.3 N3.2	3	CD
+tbsp	NNU	I1	tbsp	NN
+whipped	JJ@	Z99	whipped	VBD
+cream	NN1	F1[i18.2.1 F1 B3 O1.2 O4.3 A5.1+++	cream	NN
+cheese	NN1	F1[i18.2.2 F1	cheese	NN
+(	(	""	(	CD
+or	CC	Z5	or	CC
+replace	VV0	A2.1+ M2	replace	VB
+with	IW	Z5	with	IN
+hummus	NN1	F1 N3.6 N3.3 N5+/A2.1 A6.3+ Q4.2 A1.1.1 N3.6+/A2.1 N3.3+/A2.1 N5 T1.3 O1.1	hummus	NN
+for	IF	Z5	for	IN
+a	AT1	Z5	a	DT
+dairy	NN1	F4/Z6[i19.2.1 F4	dairy	NN
+free	JJ	F4/Z6[i19.2.2 S6- A1.7- A1.5.1- I1.3-	free	JJ
+option	NN1	X7+ I2.1 P1	option	NN
+but	CCB	Z5	but	CC
+make	VV0	A7+[i20.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VBP
+sure	JJ	A7+[i20.2.2 A7+ Z4	sure	JJ
+to	TO	Z5	to	TO
+adjust	VVI	A2.1+	adjust	VB
+the	AT	Z5	the	DT
+macros	NN2	Y2	macros	NNS
+)	)	""	)	VBP
+How	RRQ	Z5 A13.3	How	WRB
+to	TO	Z5	to	TO
+make	VVI	X9.2+[i21.2.1 M1[i21.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+it	PPH1	X9.2+[i21.2.2 M1[i21.2.2 Z8	it	PRP
+:	:	""	:	:
+Peel	VV0	F1/L3 A1.1.1 B1	Peel	NNP
+the	AT	Z5	the	DT
+zucchini	NN	B1 L3 S2/N5+ K5.1 F2 M2 N5- T2- A1.1.2 S7.1+ F1 X9.1-/S2mf T1.3	zucchini	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+recipes	NN2	F1 X4.2	recipes	NNS
+Slice	VV0	A1.1.1	Slice	VBP
+the	AT	Z5	the	DT
+carrot	NN1	F1 S8+	carrot	NN
+,	,	""	,	,
+cucumber	NN1	F1	cucumber	NN
+and	CC	Z5	and	CC
+bell	NN1	O2/X3.2 O4.4	bell	NN
+pepper	NN1	F1	pepper	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Make	VV0	A7+[i22.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	Make	NNP
+sure	JJ	A7+[i22.2.2 A7+ Z4	sure	JJ
+they	PPHS2	Z8mfn	they	PRP
+are	VBR	A3+ Z5	are	VBP
+similar	JJ	A6.1+	similar	JJ
+length	NN1	N3.7 T1.3 M4	length	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+recipes	NN2	F1 X4.2	recipes	NNS
+Put	VV0	M2 Q2.1 Q2.2 A1.1.1	Put	VBD
+1	MC1	N1 T1.2 T3 T1.3 N3.2	1	CD
+tsp	NNU	I1	tsp	NN
+of	IO	Z5	of	IN
+cream	NN1	F1[i23.2.1 F1 B3 O1.2 O4.3 A5.1+++	cream	NN
+cheese	NN1	F1[i23.2.2 F1	cheese	NN
+on	II	Z5	on	IN
+a	AT1	Z5	a	DT
+zucchini	NN	B1 L3 S2/N5+ K5.1 F2 M2 N5- T2- A1.1.2 S7.1+ F1 X9.1-/S2mf T1.3	zucchini	NN
+slice	VV0	A1.1.1	slice	NN
+,	,	""	,	,
+arrange	VV0	S7.1+ A1.1.1	arrange	VBP
+a	AT1	N5[i24.2.1 S4[i24.2.1 Z5	a	DT
+couple	NN1	N5[i24.2.2 S4[i24.2.2 N5+ S4c	couple	NN
+of	IO	Z5	of	IN
+pieces	NN2	N5.1- O2 Q4 K2 K4 G3@	pieces	NNS
+of	IO	Z5	of	IN
+each	DD1	N5.1+	each	DT
+vegetable	NN1	F1 X9.1-/S2mf	vegetable	NN
+and	CC	Z5	and	CC
+a	AT1	Z5	a	DT
+piece	NN1	N5.1- O2 Q4 K2 K4 G3@	piece	NN
+of	IO	Z5	of	IN
+parsley	NN1	F1 L3	parsley	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+recipes	NN2	F1 X4.2	recipes	NNS
+Roll	VV0	M1 M2 A1.1.1	Roll	NNP
+the	AT	Z5	the	DT
+zucchini	NN	B1 L3 S2/N5+ K5.1 F2 M2 N5- T2- A1.1.2 S7.1+ F1 X9.1-/S2mf T1.3	zucchini	NNS
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+recipes	NN2	F1 X4.2	recipes	NNS
+Macros	NN2	Z3c	Macros	NNP
+(	(	""	(	CD
+per	II	Z5	per	IN
+one	MC1	N1 T3 T1.2	one	CD
+roll	NN1	O2 F1 Q1.2 M1	roll	NN
+)	)	""	)	NN
+:	:	""	:	:
+Calories	NNU2	N3/F1	Calories	NNS
+:	:	""	:	:
+22	MC	N1 T1.2 T3 T1.3 N3.2	22	CD
+Protein	NN1	O1	Protein	NN
+:	:	""	:	:
+0.7	MC	N1 T1.2 T3 T1.3 N3.2	0.7	CD
+gr	NNU	N3.5	gr	NN
+Carbs	NN2@	Z99	Carbs	NNS
+:	:	""	:	:
+1.7	MC	N1 T1.2 T3 T1.3 N3.2	1.7	CD
+gr	NNU	N3.5	gr	NN
+Fat	NN1	O1	Fat	NNP
+:	:	""	:	:
+1.3	MC	N1 T1.2 T3 T1.3 N3.2	1.3	CD
+gr	NNU	N3.5	gr	NN
+SALMON	NN	Z1	SALMON	NNP
+BITE	VV0	B1 A12-	BITE	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+These	DD2	Z5 Z8	These	DT
+little	JJ	N3.2- T3- N3.7- N3.3- T1.3- A11.1-	little	JJ
+appetizers	NN2	F1/N4 O4.2+	appetizers	NNS
+are	VBR	A3+ Z5	are	VBP
+always	RR	N6+++	always	RB
+a	AT1	Z5	a	DT
+hit	NN1@	E3- X9.2+ K3 G3	hit	NN
+at	II	Z5	at	IN
+my	APPGE	Z8	my	PRP$
+parties	NN2	S1.1.3+ G1.2 S1.1.3+/S2mf S5+	parties	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+They	PPHS2	Z8mfn	They	PRP
+are	VBR	A3+ Z5	are	VBP
+a	AT1	Z5	a	DT
+perfect	JJ	A5.1+++ A1.2+++ Q3	perfect	JJ
+combo	NN1	K2 O4.2+ K2c A4.1 S5+c O2 S5+ A4.1c B3% K1 K2/S5c K2/H2	combo	NN
+of	IO	Z5	of	IN
+protein	NN1	O1	protein	NN
+,	,	""	,	,
+carbs	NN2	Z99	carbs	NNS
+and	CC	Z5	and	CC
+fat	JJ	N3.2+ N5+ O4.4 O4.2	fat	JJ
+to	TO	Z5	to	TO
+satisfy	VVI	E4.2+ A1.2+	satisfy	VB
+even	RR	A13.1	even	RB
+the	AT	Z5	the	DT
+hungriest	JJT	F1-/B1 S1.2.2+ A1.5.1/N5+	hungriest	JJS
+person	NN1	S2mfc	person	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+What	DDQ	Z8 Z5	What	WP
+you	PPY	Z8mf	you	PRP
+need	VV0	S6+	need	VBP
+(	(	""	(	CD
+3	MC	N1 T1.2 T3 T1.3 N3.2	3	CD
+bites	NN2	B1 F1 X3.1 N5+	bites	VBZ
+)	)	""	)	CD
+:	:	""	:	:
+1.5	MC	N1 T1.2 T3 T1.3 N3.2	1.5	CD
+oz	NNU	N3.5	oz	NN
+of	IO	Z5	of	IN
+salmon	NN	F1 L2mfnc	salmon	NN
+sashimi	NN2	O2 F1 Q4.3 O4.2+% F1/A1.1.1	sashimi	NN
+(	(	""	(	CD
+find	VV0	A10+ X2.1 X6+	find	VBP
+the	AT	Z5	the	DT
+recipe	NN1	F1 X4.2	recipe	NN
+HERE	RL	M6 T1.1.2 T1.2	HERE	RB
+)	)	""	)	VBD
+1	MC1	N1 T1.2 T3 T1.3 N3.2	1	CD
+tbsp	NNU	I1	tbsp	NN
+of	IO	Z5	of	IN
+whipped	JJ@	Z99	whipped	VBN
+cream	NN1	F1[i25.2.1 F1 B3 O1.2 O4.3 A5.1+++	cream	NN
+cheese	NN1	F1[i25.2.2 F1	cheese	NN
+3	MC	N1 T1.2 T3 T1.3 N3.2	3	CD
+crackers	NN2	F1 O2	crackers	NNS
+(	(	""	(	CD
+I	ZZ1%	Z8	I	PRP
+used	JJ	A1.5.1 T3+	used	VBD
+Crunch	NN1	X3.2 F1 A11.1+	Crunch	VB
+Master	NN1	S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m	Master	NN
+Multi	JJ	N5+	Multi	NNP
+Grain	NN1	N5- F1 L3 O4.5	Grain	NNP
+,	,	""	,	,
+you	PPY	Z8mf	you	PRP
+can	VM	A7+	can	MD
+find	VVI	A10+ X2.1 X6+	find	VB
+them	PPHO2	Z8mfn	them	PRP
+at	II	Z5	at	IN
+Costco	NP1	Z99	Costco	NNP
+)	)	""	)	CD
+Fresh	JJ	T3- O4.2+ B1 W4 S1.2.3+	Fresh	JJ
+dill	NN1	L3 F1 I4/H1c O2 A10-/S2mf F4 M2 S1.2.5-/S2mf F3	dill	NN
+How	RRQ	Z5 A13.3	How	WRB
+to	TO	Z5	to	TO
+make	VVI	X9.2+[i26.2.1 M1[i26.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+it	PPH1	X9.2+[i26.2.2 M1[i26.2.2 Z8	it	PRP
+:	:	""	:	:
+Put	VV0	M2 Q2.1 Q2.2 A1.1.1	Put	VB
+1	MC1	N1 T1.2 T3 T1.3 N3.2	1	CD
+tsp	NNU	I1	tsp	NN
+of	IO	Z5	of	IN
+cream	NN1	F1[i27.2.1 F1 B3 O1.2 O4.3 A5.1+++	cream	NN
+cheese	NN1	F1[i27.2.2 F1	cheese	NN
+on	II31	M6[i28.3.1 N5++[i28.3.1 X2.2+[i28.3.1 Z5 Z5[i29.3.1	on	IN
+top	II32	M6[i28.3.2 N5++[i28.3.2 X2.2+[i28.3.2 Z5[i29.3.2	top	NN
+of	II33	M6[i28.3.3 N5++[i28.3.3 X2.2+[i28.3.3 Z5[i29.3.3	of	IN
+a	AT1	Z5	a	DT
+cracker	NN1	O2 O4.2+/S2.1f A5.1+ F1	cracker	NN
+,	,	""	,	,
+add	VV0	N5+/A2.1 N2 A1.8+	add	VB
+1/2	MF	N1 N5	1/2	CD
+oz	NNU	N3.5	oz	NN
+of	IO	Z5	of	IN
+salmon	NN	F1 L2mfnc	salmon	NN
+and	CC	Z5	and	CC
+decorate	VV0	O4.2+ C1/H1 S1.1.4+	decorate	VB
+with	IW	Z5	with	IN
+dill	NN1	L3 F1 I4/H1c O2 A10-/S2mf F4 M2 S1.2.5-/S2mf F3	dill	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Thats	VVZ	Z5 Z8 A13.3 A6.1+	Thats	NNS
+all	DB	N5.1+	all	DT
+!	!	""	!	.
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+recipes	NN2	F1 X4.2	recipes	NNS
+Macros	NN2	Z3c	Macros	NNP
+(	(	""	(	CD
+per	II	Z5	per	IN
+one	MC1	N1 T3 T1.2	one	CD
+)	)	""	)	CD
+:	:	""	:	:
+Calories	NNU2	N3/F1	Calories	NNS
+:	:	""	:	:
+31	MC	N1 T1.2 T3 T1.3 N3.2	31	CD
+Protein	NN1	O1	Protein	NN
+:	:	""	:	:
+3.2	MC	N1 T1.2 T3 T1.3 N3.2	3.2	CD
+gr	NNU	N3.5	gr	NN
+Carbs	NN2@	Z99	Carbs	NNS
+:	:	""	:	:
+1.6	MC	N1 T1.2 T3 T1.3 N3.2	1.6	CD
+gr	NNU	N3.5	gr	NN
+Fat	NN1	O1	Fat	NNP
+:	:	""	:	:
+2.3	MC	N1 T1.2 T3 T1.3 N3.2	2.3	CD
+gr	NNU	N3.5	gr	NN
+EGGPLANT	NN1	L3 F1 B2-/X1 S1.2.6- X5.2+ E4.1+ A13.3 Z3c X9.1-/S2mf W3 Z1mf N3.2+ L3/H3 M7/L3 F4 L2 Q2.2 I4/H1c O2 A10-/S2mf M2	EGGPLANT	JJ
+ROLLS	NN2	Z3c	ROLLS	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+My	APPGE	Z8	My	PRP$
+mom	NN1	S4/S2.1f	mom	NN
+used	VMK	T1.1.1[i30.2.1 A6.2+[i30.2.1	used	VBN
+to	TO	T1.1.1[i30.2.2 A6.2+[i30.2.2 Z5	to	TO
+make	VVI	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+these	DD2	Z8 Z5	these	DT
+with	IW	Z5	with	IN
+cheese	NN1	F1	cheese	NN
+,	,	""	,	,
+mayo	NN1	F1 B5 B3 O4.1	mayo	NN
+and	CC	Z5	and	CC
+fried	JJ	F1	fried	VBD
+eggplant	NN1	L3 F1 B2-/X1 S1.2.6- X5.2+ E4.1+ A13.3 Z3c X9.1-/S2mf W3 Z1mf N3.2+ L3/H3 M7/L3 F4 L2 Q2.2 I4/H1c O2 A10-/S2mf M2	eggplant	NN
+which	DDQ	Z8 Z5	which	WDT
+made	VVD	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	made	VBD
+them	PPHO2	Z8mfn	them	PRP
+a	AT1	Z5	a	DT
+CALORIE	NNU1	N3/F1	CALORIE	NNP
+BOMB	NN1	G3 N5+	BOMB	NN
+and	CC	Z5	and	CC
+always	RR	N6+++	always	RB
+resulted	VVN	A2.2	resulted	VBD
+in	II	Z5	in	IN
+tummy	NN1	B2-[i31.2.1 B1	tummy	NN
+ache	NN1	B2-[i31.2.2 B2- E4.2- X7+	ache	NN
+for	IF	Z5	for	IN
+me	PPIO1	Z8mf	me	PRP
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+did	VDD	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	did	VBD
+a	AT1	Z5	a	DT
+twist	NN1	O4.4 M2 A2.1+ K1	twist	NN
+on	II	Z5	on	IN
+this	DD1	M6 Z5 Z8	this	DT
+popular	JJ	E2+ S5+	popular	JJ
+appetizer	NN1	F1/N4 O4.2+	appetizer	NN
+,	,	""	,	,
+and	CC	Z5	and	CC
+they	PPHS2	Z8mfn	they	PRP
+turned	VVD	A1.1.1[i32.2.1 A8[i32.2.1 N5+/S1.1.3[i32.2.1 M1[i32.2.1 M2[i32.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2-	turned	VBD
+out	RP	A1.1.1[i32.2.2 A8[i32.2.2 N5+/S1.1.3[i32.2.2 M1[i32.2.2 M2[i32.2.2 M6	out	RP
+super	JJ	A5.1+	super	JJ
+delicious	JJ	X3.1+ O4.2+	delicious	JJ
+!	!	""	!	.
+-----	-----	""	-----	CD
+What	DDQ	Z8 Z5	What	WP
+you	PPY	Z8mf	you	PRP
+need	VV0	S6+	need	VBP
+(	(	""	(	NN
+makes	VVZ	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	makes	VBZ
+8	MC	N1 T1.2 T3 T1.3 N3.2	8	CD
+rolls	NN2	O2 F1 M1 Q1.2	rolls	NNS
+)	)	""	)	RB
+:	:	""	:	:
+1	MC1	N1 T1.2 T3 T1.3 N3.2	1	CD
+medium	JJ	N3.2 N3.1	medium	NN
+eggplant	NN1	L3 F1 B2-/X1 S1.2.6- X5.2+ E4.1+ A13.3 Z3c X9.1-/S2mf W3 Z1mf N3.2+ L3/H3 M7/L3 F4 L2 Q2.2 I4/H1c O2 A10-/S2mf M2	eggplant	NN
+4	MC	N1 T1.2 T3 T1.3 N3.2	4	CD
+oz	NNU	N3.5	oz	NN
+of	IO	Z5	of	IN
+brown	JJ	O4.3	brown	JJ
+mushrooms	NN2	L3 F1	mushrooms	NNS
+(	(	""	(	VBP
+they	PPHS2	Z8mfn	they	PRP
+have	VH0	A9+ Z5 A2.2 S4	have	VBP
+richer	JJR	I1.1++ O4.1 N5++ X5.2++ E4.1++	richer	JJR
+taste	NN1	X3.1 O4.2 E2+ X2.2	taste	NN
+AND	CC	Z5	AND	CC
+are	VBR	A3+ Z5	are	VBP
+higher	JJR	N3.7++ N5++ A11.1++ S7.1++ A5.1++ T3-- X3.2 G2.2++ E4.1++ I1.3++ O4.2-- O4.6++ S9	higher	JJR
+in	II	Z5	in	IN
+potassium	NN1	O1	potassium	NN
+)	)	""	)	NN
+2	MC	N1 T1.2 T3 T1.3 N3.2	2	CD
+cloves	NN2	L3	cloves	NNS
+of	IO	Z5	of	IN
+garlic	NN1	F1 L3	garlic	JJ
+1/3	MF	N5	1/3	CD
+cup	NN1	O2 S7.3+ A5.1+/O2	cup	NN
+of	IO	Z5	of	IN
+chopped	JJ	O4.1	chopped	VBN
+walnuts	NN2	F1	walnuts	NNS
+1	MC1	N1 T1.2 T3 T1.3 N3.2	1	CD
+tbsp	NNU	I1	tbsp	NN
+of	IO	Z5	of	IN
+fat	JJ	N3.2+ N5+ O4.4 O4.2	fat	JJ
+free	JJ	S6- A1.7- A1.5.1- I1.3-	free	JJ
+Greek	JJ	Z2 Z2/Q3 S3.2/B1%	Greek	JJ
+yogurt	NN1	F1	yogurt	NN
+1	MC1	N1 T1.2 T3 T1.3 N3.2	1	CD
+tbsp	NNU	I1	tbsp	NN
+of	IO	Z5	of	IN
+grape	NN1	L3[i33.2.1 F1 L3	grape	NN
+seed	NN1	L3[i33.2.2 L3 T2+ K5.1/S2mf	seed	NN
+oil	NN1	O1.2 C1 C1/O1	oil	NN
+Sal	NP1	Z1	Sal	NNS
+,	,	""	,	,
+pepper	NN1	F1	pepper	NN
+,	,	""	,	,
+paprika	NN1	X3.1 O4.2+ F1 N5 O2/X3.2 O4.4 Z3c L3 I4/H1c O2 A10-/S2mf F4 M2 O1/X3.1	paprika	NN
+How	RRQ	Z5 A13.3	How	WRB
+to	TO	Z5	to	TO
+make	VVI	X9.2+[i34.2.1 M1[i34.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+it	PPH1	X9.2+[i34.2.2 M1[i34.2.2 Z8	it	PRP
+:	:	""	:	:
+Slice	VV0	A1.1.1	Slice	VB
+the	AT	Z5	the	DT
+eggplant	NN1	L3 F1 B2-/X1 S1.2.6- X5.2+ E4.1+ A13.3 Z3c X9.1-/S2mf W3 Z1mf N3.2+ L3/H3 M7/L3 F4 L2 Q2.2 I4/H1c O2 A10-/S2mf M2	eggplant	NN
+into	II	Z5	into	IN
+a	AT1	Z5	a	DT
+1/3	MF	N5	1/3	CD
+inch	NNU1	N3.7	inch	NN
+thick	JJ	N3.7+ N3.2+ N5+ X9.1- O4.5 A10- A11.2+ O4.3@ O4.2-@	thick	JJ
+slices	NN2	O2 N5.1-	slices	NNS
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+recipes	NN2	F1 X4.2	recipes	NNS
+Dissolve	VV0	A1.1.1 T2-	Dissolve	VBP
+1	MC1	N1 T1.2 T3 T1.3 N3.2	1	CD
+tbsp	NNU	I1	tbsp	NN
+of	IO	Z5	of	IN
+salt	NN1	F1 O1.1	salt	NN
+in	II	Z5	in	IN
+a	AT1	Z5	a	DT
+container	NN1	O2	container	NN
+of	IO	Z5	of	IN
+water	NN1	O1.2 W3/M4 B1 C1%	water	NN
+,	,	""	,	,
+and	CC	Z5	and	CC
+put	VV0	M2 Q2.1 Q2.2 A1.1.1	put	VBD
+the	AT	Z5	the	DT
+eggplant	NN1	L3 F1 B2-/X1 S1.2.6- X5.2+ E4.1+ A13.3 Z3c X9.1-/S2mf W3 Z1mf N3.2+ L3/H3 M7/L3 F4 L2 Q2.2 I4/H1c O2 A10-/S2mf M2	eggplant	NN
+slices	NN2	O2 N5.1-	slices	NNS
+there	RL	M6 T1.2	there	RB
+for	IF	Z5	for	IN
+about	RG%	A13.4	about	IN
+15-20	MCMC	N1 T1.2 T3 T1.3 N3.2	15-20	CD
+minutes	NNT2	T1.3 Q1.2	minutes	NNS
+(	(	""	(	RB
+this	DD1	Z8 M6 Z5	this	DT
+will	VM	T1.1.3	will	MD
+get	VVI	A9-[i35.2.1 A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1-	get	VB
+rid	VVN	A9-[i35.2.2 A9-	rid	JJ
+of	IO	Z5	of	IN
+bitterness	NN1	X3.1 E3-	bitterness	NN
+and	CC	Z5	and	CC
+will	VM	T1.1.3	will	MD
+prevent	VVI	S8-	prevent	VB
+the	AT	Z5	the	DT
+eggplant	NN1	L3 F1 B2-/X1 S1.2.6- X5.2+ E4.1+ A13.3 Z3c X9.1-/S2mf W3 Z1mf N3.2+ L3/H3 M7/L3 F4 L2 Q2.2 I4/H1c O2 A10-/S2mf M2	eggplant	NN
+from	II	Z5	from	IN
+absorbing	VVG	A1.1.1 T1.3+ X2.3+ X5.2+	absorbing	VBG
+the	AT	Z5	the	DT
+oil	NN1	O1.2 C1 C1/O1	oil	NN
+later	RRR	T4-- T1.1.3 N4	later	RBR
+)	)	""	)	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+recipes	NN2	F1 X4.2	recipes	NNS
+In	II	T1.3[i36.3.1 Z5	In	IN
+the	AT	T1.3[i36.3.2 Z5	the	DT
+meantime	NNT1	T1.3[i36.3.3 T1.1.2	meantime	NN
+slice	VV0	A1.1.1	slice	VB
+your	APPGE	Z8	your	PRP$
+mushrooms	NN2	L3 F1	mushrooms	NNS
+and	CC	Z5	and	CC
+saut	VV0	Z99	saut	VB
+them	PPHO2	Z8mfn	them	PRP
+on	II	Z5	on	IN
+a	AT1	Z5	a	DT
+non-stick	JJ	O4.5 G2.2-	non-stick	JJ
+pan	NN1	O2	pan	NN
+(	(	""	(	NN
+without	IW	Z5	without	IN
+oil	NN1	O1.2 C1 C1/O1	oil	NN
+)	)	""	)	NN
+for	IF	Z5	for	IN
+5	MC	N1	5	CD
+minutes	NNT2	T1.3 Q1.2	minutes	NNS
+on	II	Z5	on	IN
+medium	JJ	N3.2 N3.1	medium	NN
+heat	NN1	O4.6+ E1 A1.1.1 S7.3	heat	NN
+,	,	""	,	,
+then	RT	N4 Z5 T1.2	then	RB
+add	VV0	N5+/A2.1 N2 A1.8+	add	VB
+chopped	JJ	O4.1	chopped	VBN
+garlic	NN1	F1 L3	garlic	NN
+and	CC	Z5	and	CC
+cook	VV0	F1	cook	NN
+for	IF	Z5	for	IN
+another	DD1	A6.1- N5++	another	DT
+2	MC	N1 T1.2 T3 T1.3 N3.2	2	CD
+minutes	NNT2	T1.3 Q1.2	minutes	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+recipes	NN2	F1 X4.2	recipes	NNS
+Move	VV0	M2 M1 A2.1+ E1 H4/A2.1	Move	VBP
+to	II	Z5	to	TO
+a	AT1	Z5	a	DT
+bowl	NN1	O2	bowl	NN
+,	,	""	,	,
+let	VV0	S7.4+ I2.2/H1 T2-	let	VB
+cool	JJ	O4.6- S1.2.1- O4.2+ E6+	cool	VB
+for	IF	Z5	for	IN
+a	AT1	N5-[i37.3.1 Z5	a	DT
+little	JJ	N5-[i37.3.2 N3.2- T3- N3.7- N3.3- T1.3- A11.1-	little	JJ
+bit	NN1	N5-[i37.3.3 N5- N5.1- O2 Y2	bit	NN
+,	,	""	,	,
+then	RT	N4 Z5 T1.2	then	RB
+add	VV0	N5+/A2.1 N2 A1.8+	add	VB
+walnuts	NN2	F1	walnuts	NNS
+and	CC	Z5	and	CC
+yogurt	NN1	F1	yogurt	NN
+,	,	""	,	,
+add	VV0	N5+/A2.1 N2 A1.8+	add	VB
+salt	NN1	F1 O1.1	salt	NN
+,	,	""	,	,
+pepper	NN1	F1	pepper	NN
+and	CC	Z5	and	CC
+paprika	NN1	X3.1 O4.2+ F1 N5 O2/X3.2 O4.4 Z3c L3 I4/H1c O2 A10-/S2mf F4 M2 O1/X3.1	paprika	NN
+to	TO	Z5	to	TO
+taste	VVI	X3.1 F1 X2.2	taste	VB
+,	,	""	,	,
+mix	VV0	A2.1+ S1.1.3+ K3	mix	VB
+all	DB	A13.2[i38.2.1 S5+[i38.2.1 N5.1+[i38.2.1 N5.1+	all	DT
+together	RL	A13.2[i38.2.2 S5+[i38.2.2 N5.1+[i38.2.2 S5+ T1.1.2 M6	together	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+recipes	NN2	F1 X4.2	recipes	NNS
+Take	VV0	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@	Take	VB
+the	AT	Z5	the	DT
+eggplant	NN1	L3 F1 B2-/X1 S1.2.6- X5.2+ E4.1+ A13.3 Z3c X9.1-/S2mf W3 Z1mf N3.2+ L3/H3 M7/L3 F4 L2 Q2.2 I4/H1c O2 A10-/S2mf M2	eggplant	NN
+out	II21	Z5[i39.2.1 Z5 Z5[i40.2.1 A9-[i40.2.1	out	IN
+of	II22	Z5[i39.2.2 Z5[i40.2.2 A9-[i40.2.2	of	IN
+the	AT	Z5	the	DT
+water	NN1	O1.2 W3/M4 B1 C1%	water	NN
+,	,	""	,	,
+dry	JJ	O1.2- F2- X3.1 X9.1+ X5.2- N5- Q2.1/N5-	dry	JJ
+with	IW	Z5	with	IN
+paper	NN1	B4/B5[i41.2.1 Q4.2c O1.1 Q1.2 P1/Q1.2 H5	paper	NN
+towels	NN2	B4/B5[i41.2.2 B5	towels	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Heat	VV0@	O4.6+	Heat	NN
+1	MC1	N1 T1.2 T3 T1.3 N3.2	1	CD
+tbsp	NNU	I1	tbsp	NN
+pf	NNU	Z99	pf	NN
+grape	NN1	L3[i42.2.1 F1 L3	grape	NN
+seed	NN1	L3[i42.2.2 L3 T2+ K5.1/S2mf	seed	NN
+oil	NN1	O1.2 C1 C1/O1	oil	NN
+on	II	Z5	on	IN
+medium	JJ	N3.2 N3.1	medium	NN
+heat	NN1	O4.6+ E1 A1.1.1 S7.3	heat	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Cook	NP1	Z1mf	Cook	NNP
+eggplant	NN1	L3 F1 B2-/X1 S1.2.6- X5.2+ E4.1+ A13.3 Z3c X9.1-/S2mf W3 Z1mf N3.2+ L3/H3 M7/L3 F4 L2 Q2.2 I4/H1c O2 A10-/S2mf M2	eggplant	NN
+slices	NN2	O2 N5.1-	slices	NNS
+for	IF	Z5	for	IN
+2-3	MCMC	N1 T1.2 T3 T1.3 N3.2	2-3	CD
+minutes	NNT2	T1.3 Q1.2	minutes	NNS
+on	II	Z5	on	IN
+each	DD1	N5.1+	each	DT
+side	NN1	A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2	side	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+They	PPHS2	Z8mfn	They	PRP
+should	VM	S6+ A7+	should	MD
+become	VVI	A2.1+ O4.2+	become	VB
+soft	JJ	O4.5 X3.2- O4.3 O4.1 S1.2.5- A12+	soft	JJ
+and	CC	Z5	and	CC
+gain	VVI	A9+ N5+/A2.1	gain	VB
+this	DD1	M6 Z5 Z8	this	DT
+beautiful	JJ	O4.2+	beautiful	JJ
+golden	JJ	O4.3 A11.1+ A5.1+	golden	JJ
+color	NN1	O4.3	color	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Divide	VV0	A6.1- A9-/N5.1 N2	Divide	VB
+the	AT	Z5	the	DT
+mushroom	NN1	L3 F1	mushroom	NN
+mixture	NN1	O1.1 A6.3+	mixture	NN
+between	II	Z5	between	IN
+the	AT	Z5	the	DT
+eggplant	NN1	L3 F1 B2-/X1 S1.2.6- X5.2+ E4.1+ A13.3 Z3c X9.1-/S2mf W3 Z1mf N3.2+ L3/H3 M7/L3 F4 L2 Q2.2 I4/H1c O2 A10-/S2mf M2	eggplant	NN
+slices	NN2	O2 N5.1-	slices	NNS
+and	CC	Z5	and	CC
+roll	NN1	O2 F1 Q1.2 M1	roll	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+Done	VDN	A1.1.1 G2.2- X9.2+ E3- G2.1% Z5	Done	VBN
+!	!	""	!	.
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+recipes	NN2	F1 X4.2	recipes	NNS
+Macros	NN2	Z3c	Macros	NNP
+(	(	""	(	CD
+per	II	Z5	per	IN
+one	MC1	N1 T3 T1.2	one	CD
+)	)	""	)	CD
+:	:	""	:	:
+Calories	NNU2	N3/F1	Calories	NNS
+:	:	""	:	:
+64	MC	N1 T1.2 T3 T1.3 N3.2	64	CD
+Protein	NN1	O1	Protein	NN
+:	:	""	:	:
+2.2	MC	N1 T1.2 T3 T1.3 N3.2	2.2	CD
+gr	NNU	N3.5	gr	NN
+Carbs	NN2@	Z99	Carbs	NNS
+:	:	""	:	:
+4.7	MC	N1 T1.2 T3 T1.3 N3.2	4.7	CD
+gr	NNU	N3.5	gr	NN
+Fat	NN1	O1	Fat	NNP
+:	:	""	:	:
+4.7	MC	N1 T1.2 T3 T1.3 N3.2	4.7	CD
+gr	NNU	N3.5	gr	NN
+SALMON	NN	Z1	SALMON	NNP
+TARTARE	VV0	Z99	TARTARE	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+This	DD1	Z8 M6 Z5	This	DT
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+twist	NN1	O4.4 M2 A2.1+ K1	twist	NN
+on	II	Z5	on	IN
+a	AT1	Z5	a	DT
+popular	JJ	E2+ S5+	popular	JJ
+Tuna	NN	F1 L2mfnc	Tuna	NNP
+Tartare	VV0	Z99	Tartare	NNP
+dish	NN1	O2 F1 Q4.3 O4.2+%	dish	NN
+which	DDQ	Z8 Z5	which	WDT
+is	VBZ	A3+ Z5	is	VBZ
+still	RR	T2++ Z4 E3+	still	RB
+as	CSA	Z5	as	IN
+delicious	JJ	X3.1+ O4.2+	delicious	JJ
+but	CCB	Z5	but	CC
+has	VHZ	A9+ Z5 A2.2 S4	has	VBZ
+a	AT1	Z5	a	DT
+much	RR	A13.3 N6+	much	RB
+more	RGR	A13.3	more	RBR
+mild	JJ	S1.2.5- O4.6+ O4.1 X3.1 N3.2- N5-	mild	JJ
+fish	NN	L2mfnc F1	fish	NN
+flavor	VV0	X3.1 F1	flavor	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+What	DDQ	Z8 Z5	What	WP
+you	PPY	Z8mf	you	PRP
+need	VV0	S6+	need	VBP
+(	(	""	(	NN
+makes	VVZ	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	makes	VBZ
+4	MC	N1 T1.2 T3 T1.3 N3.2	4	CD
+servings	NN2	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1	servings	NNS
+)	)	""	)	CD
+:	:	""	:	:
+4	MC	N1 T1.2 T3 T1.3 N3.2	4	CD
+oz	NNU	N3.5	oz	NN
+of	IO	Z5	of	IN
+fresh	JJ	T3- O4.2+ B1 W4 S1.2.3+	fresh	JJ
+salmon	NN	F1 L2mfnc	salmon	NN
+1/2	MF	N1 N5	1/2	CD
+avocado	NN1	F1	avocado	NN
+1	MC1	N1 T1.2 T3 T1.3 N3.2	1	CD
+cup	NN1	O2 S7.3+ A5.1+/O2	cup	NN
+of	IO	Z5	of	IN
+greens	NN2	O4.3 M7 G1.1/W5 K5.1/M7 F1	greens	NNS
+or	CC	Z5	or	CC
+sprouts	NN2	F1 L3	sprouts	NNS
+(	(	""	(	VBP
+I	ZZ1%	Z8	I	PRP
+used	JJ	A1.5.1 T3+	used	VBN
+cress	NN1	L3	cress	NN
+salad	NN1	F1	salad	NN
+as	CSA	Z5	as	IN
+I	PPIS1	Z8mf	I	PRP
+couldnt	VV0	Z99	couldnt	VBP
+find	VV0	A10+ X2.1 X6+	find	VB
+any	DD	N5 N5.1+	any	DT
+sprouts	NN2	F1 L3	sprouts	NNS
+at	II	Z5	at	IN
+my	APPGE	Z8	my	PRP$
+local	JJ	M7	local	JJ
+supermarket	NN1	I2.2/H1c	supermarket	NN
+,	,	""	,	,
+but	CCB	Z5	but	CC
+it	PPH1	Z8	it	PRP
+does	VDZ	Z5 A1.1.1 G2.2- X9.2+ E3- G2.1%	does	VBZ
+look	VVI	O4.2+/A8[i43.2.1 A8 X3.4 X2.4 X7+ Z4	look	VB
+very	RG	A13.3	very	RB
+fancy	JJ	O4.2+/A8[i43.2.2 O4.2+	fancy	JJ
+with	IW	Z5	with	IN
+sprouts	NN2	F1 L3	sprouts	NNS
+)	)	""	)	CD
+1/2	MF	N1 N5	1/2	CD
+lemon	NN1	F1 L3 F2 O4.3	lemon	JJ
+(	(	""	(	NN
+or	CC	Z5	or	CC
+1	MC1	N1 T1.2 T3 T1.3 N3.2	1	CD
+tbsp	NNU	I1	tbsp	NN
+of	IO	Z5	of	IN
+lemon	NN1	F1 L3 F2 O4.3	lemon	JJ
+juice	NN1	F2 O1.2	juice	NN
+)	)	""	)	NN
+2	MC	N1 T1.2 T3 T1.3 N3.2	2	CD
+tsp	NNU	I1	tsp	NN
+soy	JJ	F1	soy	NN
+sauce	NN1	F1 S1.2.4-	sauce	NN
+Salt	NN1	F1 O1.1	Salt	NNP
+,	,	""	,	,
+pepper	NN1	F1	pepper	NN
+How	RRQ	Z5 A13.3	How	WRB
+to	TO	Z5	to	TO
+make	VVI	X9.2+[i44.2.1 M1[i44.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+it	PPH1	X9.2+[i44.2.2 M1[i44.2.2 Z8	it	PRP
+:	:	""	:	:
+Cube	VV0@	O4.4	Cube	NN
+the	AT	Z5	the	DT
+salmon	NN	F1 L2mfnc	salmon	NN
+,	,	""	,	,
+put	VVN	M2[i45.2.1 A9-[i45.2.1 M2 Q2.1 Q2.2 A1.1.1	put	VBD
+into	II	M2[i45.2.2 A9-[i45.2.2 Z5	into	IN
+a	AT1	Z5	a	DT
+bowl	NN1	O2	bowl	NN
+,	,	""	,	,
+add	VV0	N5+/A2.1 N2 A1.8+	add	VB
+the	AT	Z5	the	DT
+juice	NN1	F2 O1.2	juice	NN
+of	IO	Z5	of	IN
+the	AT	Z5	the	DT
+lemon	NN1	F1 L3 F2 O4.3	lemon	JJ
+,	,	""	,	,
+mix	NN1	O1.1 A6.3+ S1.1.3+	mix	NN
+and	CC	Z5	and	CC
+put	VVN	M2[i46.2.1 A9-[i46.2.1 M2 Q2.1 Q2.2 A1.1.1	put	VBD
+into	II	M2[i46.2.2 A9-[i46.2.2 Z5	into	IN
+the	AT	Z5	the	DT
+fridge	NN1	O4.6-/O3	fridge	NN
+for	IF	Z5	for	IN
+about	RG	A13.4	about	IN
+30	MC	N1 T1.2 T3 T1.3 N3.2	30	CD
+minutes	NNT2	T1.3 Q1.2	minutes	NNS
+)	)	""	)	CD
+.	.	""	.	.
+-----	-----	""	-----	CD
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+recipes	NN2	F1 X4.2	recipes	NNS
+Cube	VV0@	O4.4	Cube	NN
+the	AT	Z5	the	DT
+avocado	NN1	F1	avocado	NN
+,	,	""	,	,
+add	VV0	N5+/A2.1 N2 A1.8+	add	VB
+into	II	Z5	into	IN
+the	AT	Z5	the	DT
+bowl	NN1	O2	bowl	NN
+with	IW	Z5	with	IN
+the	AT	Z5	the	DT
+salmon	NN	F1 L2mfnc	salmon	NN
+,	,	""	,	,
+add	VV0	N5+/A2.1 N2 A1.8+	add	VB
+soy	JJ	F1	soy	NN
+sauce	NN1	F1 S1.2.4-	sauce	NN
+,	,	""	,	,
+salt	NN1	F1 O1.1	salt	NN
+and	CC	Z5	and	CC
+pepper	NN1	F1	pepper	NN
+to	TO	Z5	to	TO
+taste	VVI	X3.1 F1 X2.2	taste	VB
+,	,	""	,	,
+mix	VV0	S5+[i47.2.1 A2.1+[i47.2.1 A2.1+ S1.1.3+ K3	mix	VB
+everything	PN1	Z8/N5.1+	everything	NN
+together	RL	S5+[i47.2.2 A2.1+[i47.2.2 S5+ T1.1.2 M6	together	RB
+but	CCB	Z5	but	CC
+carefully	RR	A1.3+	carefully	RB
+not	XX	Z6	not	RB
+to	TO	Z5	to	TO
+mash	VVI	A1.1.1	mash	NN
+the	AT	Z5	the	DT
+avocado	NN1	F1	avocado	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+recipes	NN2	F1 X4.2	recipes	NNS
+Arrange	VV0	S7.1+ A1.1.1	Arrange	VB
+the	AT	Z5	the	DT
+tartare	NN1	Z99	tartare	NN
+:	:	""	:	:
+one	MC1	N1 T3 T1.2	one	CD
+layer	NN1	O2 A4.1	layer	NN
+of	IO	Z5	of	IN
+salmon	NN	F1 L2mfnc	salmon	NN
+mixture	NN1	O1.1 A6.3+	mixture	NN
+,	,	""	,	,
+one	MC1	N1 T3 T1.2	one	CD
+layer	NN1	O2 A4.1	layer	NN
+of	IO	Z5	of	IN
+greens	NN2	O4.3 M7 G1.1/W5 K5.1/M7 F1	greens	NNS
+,	,	""	,	,
+then	RT	N4 Z5 T1.2	then	RB
+top	VV0@	A11.1++ N5++ A5.1++ A1.1.1 L1-	top	JJ
+with	IW	Z5	with	IN
+another	DD1	A6.1- N5++	another	DT
+layer	NN1	O2 A4.1	layer	NN
+of	IO	Z5	of	IN
+salmon	NN	F1 L2mfnc	salmon	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+If	CS	Z7	If	IN
+you	PPY	Z8mf	you	PRP
+want	VV0	X7+ S6+ A7+ S3.2 A9-	want	VBP
+it	PPH1	Z8	it	PRP
+to	TO	Z5	to	TO
+be	VBI	A3+ Z5	be	VB
+round	RP	M6	round	JJ
+like	II	Z5	like	IN
+mine	PPGE	Z8	mine	NN
+on	II	Z5	on	IN
+the	AT	Z5	the	DT
+picture	NN1	C1 Q4.3 X4.1	picture	NN
+,	,	""	,	,
+cut	VV0	A1.1.1[i48.2.1 T2-[i48.2.1 X9.1+[i48.2.1 A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3	cut	VBD
+out	RP	A1.1.1[i48.2.2 T2-[i48.2.2 X9.1+[i48.2.2 M6	out	RP
+a	AT1	Z5	a	DT
+wide	JJ	N3.7+ N5+ A4.2- A6.3+ X9.2-@ K5.1@	wide	JJ
+ring	NN1	Q1.3 X3.2 A8 B5 O4.4 O2 O3 S5+c M7/K5.1%	ring	NN
+from	II	Z5	from	IN
+any	DD	N5.1+ N5	any	DT
+plastic	NN1	O1.1	plastic	JJ
+cup	NN1	O2 S7.3+ A5.1+/O2	cup	NN
+,	,	""	,	,
+and	CC	Z5	and	CC
+use	VV0	A1.5.1 S7.1+	use	VB
+it	PPH1	Z8	it	PRP
+to	TO	Z5	to	TO
+form	VVI	T2+ A2.1+ A1.8+ A3+ A1.1.1	form	VB
+your	APPGE	Z8	your	PRP$
+tartare.	NNU	Z99	tartare.	NN
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+recipes	NN2	F1 X4.2	recipes	NNS
+Here	RL	M6 T1.1.2 T1.2	Here	RB
+it	PPH1	Z8	it	PRP
+is	VBZ	A3+ Z5	is	VBZ
+!	!	""	!	.
+-----	-----	""	-----	CD
+Beautiful	JJ	O4.2+	Beautiful	JJ
+and	CC	Z5	and	CC
+delicious	JJ	X3.1+ O4.2+	delicious	JJ
+!	!	""	!	.
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+recipes	NN2	F1 X4.2	recipes	NNS
+Macros	NN2	Z3c	Macros	NNP
+(	(	""	(	CD
+per	II	Z5	per	IN
+1	MC1	N1 T1.2 T3 T1.3 N3.2	1	CD
+serving	NN1@	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1	serving	VBG
+)	)	""	)	CD
+:	:	""	:	:
+Calories	NNU2	N3/F1	Calories	NNS
+:	:	""	:	:
+75	MC	N1 T1.2 T3 T1.3 N3.2	75	CD
+Protein	NN1	O1	Protein	NN
+:	:	""	:	:
+6.3	MC	N1 T1.2 T3 T1.3 N3.2	6.3	CD
+gr	NNU	N3.5	gr	NN
+Carbs	NN2@	Z99	Carbs	NNS
+:	:	""	:	:
+2.3	MC	N1 T1.2 T3 T1.3 N3.2	2.3	CD
+gr	NNU	N3.5	gr	NN
+Fat	NN1	O1	Fat	NNP
+:	:	""	:	:
+4.8	MC	N1 T1.2 T3 T1.3 N3.2	4.8	CD
+gr	NNU	N3.5	gr	NN
+CAPRESE	JJ	Z99	CAPRESE	NNP
+CANAPE	NN1	F1/N4 O4.2+ F1 O2 T2+ K5.1/S2mf	CANAPE	NNP
+.	.	""	.	.
+-----	-----	""	-----	CD
+This	DD1	M6 Z5 Z8	This	DT
+appetizer	NN1	F1/N4 O4.2+	appetizer	NN
+is	VBZ	A3+ Z5	is	VBZ
+a	AT1	Z5	a	DT
+twist	NN1	O4.4 M2 A2.1+ K1	twist	NN
+on	II	Z5	on	IN
+a	AT1	Z5	a	DT
+traditional	JJ	S1.1.1 A6.2+ T3++	traditional	JJ
+Italian	JJ	Z2 Z2/Q3	Italian	JJ
+Caprese	JJ	Z99	Caprese	NN
+salad	NN1	F1	salad	NN
+but	CCB	Z5	but	CC
+served	VVD	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1	served	VBD
+individually	RR	N5-	individually	RB
+.	.	""	.	.
+-----	-----	""	-----	CD
+What	DDQ	Z8 Z5	What	WP
+you	PPY	Z8mf	you	PRP
+need	VV0	S6+	need	VBP
+(	(	""	(	NN
+for	IF	Z5	for	IN
+3	MC	N1 T1.2 T3 T1.3 N3.2	3	CD
+servings	NN2	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1	servings	NNS
+)	)	""	)	CD
+:	:	""	:	:
+3	MC	N1 T1.2 T3 T1.3 N3.2	3	CD
+cherry	NN1	F1 L3	cherry	NN
+tomatoes	NN2	F1	tomatoes	NNS
+3	MC	N1 T1.2 T3 T1.3 N3.2	3	CD
+cubes	NN2	O4.4	cubes	NNS
+of	IO	Z5	of	IN
+fresh	JJ	T3- O4.2+ B1 W4 S1.2.3+	fresh	JJ
+mozzarella	NN1	F1	mozzarella	NN
+cheese	NN1	F1	cheese	NN
+cut	VVN	A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3	cut	VBD
+into	II	Z5	into	IN
+1/2	MF	N1 N5	1/2	CD
+inch	NNU1	N3.7	inch	NN
+cubes	NN2	O4.4	cubes	NNS
+1	MC1	N1 T1.2 T3 T1.3 N3.2	1	CD
+tsp	NNU	I1	tsp	NN
+of	IO	Z5	of	IN
+olive	JJ	O4.3	olive	JJ
+oil	NN1	O1.2 C1 C1/O1	oil	NN
+1tsp	FO	Z99	1tsp	NN
+of	IO	Z5	of	IN
+Balsamic	JJ	Z99	Balsamic	JJ
+vinegar	NN1	O1.2/F1	vinegar	NN
+Fresh	JJ	T3- O4.2+ B1 W4 S1.2.3+	Fresh	NNP
+Basil	NP1	Z2[i49.2.1 Z1mf[i49.2.1 Z1m	Basil	NNP
+3	MC	Z2[i49.2.2 Z1mf[i49.2.2 N1 T1.2 T3 T1.3 N3.2	3	CD
+toothpicks	NN2	B4	toothpicks	NNS
+How	RRQ	Z5 A13.3	How	WRB
+to	TO	Z5	to	TO
+make	VVI	X9.2+[i50.2.1 M1[i50.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+it	PPH1	X9.2+[i50.2.2 M1[i50.2.2 Z8	it	PRP
+:	:	""	:	:
+Add	VV0	N5+/A2.1 N2 A1.8+	Add	VB
+a	AT1	Z5	a	DT
+tomato	NN1	F1	tomato	NN
+and	CC	Z5	and	CC
+a	AT1	Z5	a	DT
+cube	NN1	O4.4	cube	NN
+of	IO	Z5	of	IN
+cheese	NN1	F1	cheese	NN
+onto	II	Z5	onto	IN
+each	DD1	N5.1+	each	DT
+toothpick	NN1	B4	toothpick	NN
+,	,	""	,	,
+arrange	VV0	S7.1+ A1.1.1	arrange	VB
+on	II	Z5	on	IN
+a	AT1	Z5	a	DT
+serving	NN1@	S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1	serving	VBG
+plate	NN1	O2 C1 B3	plate	NN
+,	,	""	,	,
+sprinkle	VV0	A1.1.1	sprinkle	VBP
+with	IW	Z5	with	IN
+olive	JJ	O4.3	olive	JJ
+oil	NN1	O1.2 C1 C1/O1	oil	NN
+,	,	""	,	,
+vinegar	NN1	O1.2/F1	vinegar	NN
+and	CC	Z5	and	CC
+chopped	JJ	O4.1	chopped	VBN
+basil	NN1	F1 L3	basil	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+healthy	JJ	B2+ X9.2+ A5.1+	healthy	JJ
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+recipes	NN2	F1 X4.2	recipes	NNS
+Macros	NN2	Z3c	Macros	NNP
+(	(	""	(	CD
+per	II	Z5	per	IN
+one	MC1	N1 T3 T1.2	one	CD
+)	)	""	)	CD
+:	:	""	:	:
+Calories	NNU2	N3/F1	Calories	NNS
+:	:	""	:	:
+27	MC	N1 T1.2 T3 T1.3 N3.2	27	CD
+Protein	NN1	O1	Protein	NN
+:	:	""	:	:
+1.2	MC	N1 T1.2 T3 T1.3 N3.2	1.2	CD
+gr	NNU	N3.5	gr	NN
+Carbs	NN2@	Z99	Carbs	NNS
+:	:	""	:	:
+0.7	MC	N1 T1.2 T3 T1.3 N3.2	0.7	CD
+gr	NNU	N3.5	gr	NN
+Fat	NN1	O1	Fat	NNP
+:	:	""	:	:
+2.2	MC	N1 T1.2 T3 T1.3 N3.2	2.2	CD
+gr	NNU	N3.5	gr	NN
+These	DD2	Z8 Z5	These	DT
+are	VBR	A3+ Z5	are	VBP
+my	APPGE	Z8	my	PRP$
+top	NN1	A5.1+++[i51.2.1 M6 N4 N5.1+ O2 B5 K6 N5.1-	top	JJ
+FIVE	MC	A5.1+++[i51.2.2 N1 T3 T1.2	FIVE	CD
+favorite	JJ	E2+++	favorite	JJ
+appetizers	NN2	F1/N4 O4.2+	appetizers	NNS
+,	,	""	,	,
+that	CST	Z8 Z5	that	WDT
+are	VBR	Z5 A3+	are	VBP
+usually	RR	A6.2+	usually	RB
+gone	VVN	M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1%	gone	VBN
+within	II	Z5	within	IN
+30	MC	N1 T1.2 T3 T1.3 N3.2	30	CD
+minutes	NNT2	T1.3 Q1.2	minutes	NNS
+,	,	""	,	,
+so	CS@	Z5	so	IN
+I	PPIS1	Z8mf	I	PRP
+always	RR	N6+++	always	RB
+make	VV0	A7+[i52.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VBP
+sure	JJ	A7+[i52.2.2 A7+ Z4	sure	JJ
+to	TO	Z5	to	TO
+make	VVI	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	make	VB
+two	MC	N1 T3 T1.2	two	CD
+batches	NN2	N5	batches	NNS
+.	.	""	.	.
+-----	-----	""	-----	CD
+Just	RR	A14 T3--- T1.3- N3.3---	Just	RB
+to	TO	Z5	to	TO
+give	VVI	A9- A1.1.1	give	VB
+you	PPY	Z8mf	you	PRP
+an	AT1	Z5	an	DT
+idea	NN1	X4.1 X7+	idea	NN
+:	:	""	:	:
+you	PPY	Z8mf	you	PRP
+should	VM	S6+ A7+	should	MD
+have	VHI	A9+ Z5 A2.2 S4	have	VB
+1	MC1	N1 T1.2 T3 T1.3 N3.2	1	CD
+eggplant	NN1	L3 F1 B2-/X1 S1.2.6- X5.2+ E4.1+ A13.3 Z3c X9.1-/S2mf W3 Z1mf N3.2+ L3/H3 M7/L3 F4 L2 Q2.2 I4/H1c O2 A10-/S2mf M2	eggplant	JJ
+roll	NN1	O2 F1 Q1.2 M1	roll	NN
+per	II	Z5	per	IN
+each	DD1	N5.1+	each	DT
+person	NN1	S2mfc	person	NN
+at	II	Z5	at	IN
+your	APPGE	Z8	your	PRP$
+party	NN1	K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c	party	NN
+,	,	""	,	,
+one	MC1	N1 T3 T1.2	one	CD
+Tartare	NN1	Z99	Tartare	NNP
+per	II	Z5	per	IN
+every	AT1	N5.1+	every	DT
+4	MC	N1 T1.2 T3 T1.3 N3.2	4	CD
+people	NN	S2mfc	people	NNS
+and	CC	Z5	and	CC
+3	MC	N1 T1.2 T3 T1.3 N3.2	3	CD
+of	IO	Z5	of	IN
+each	DD1	N5.1+	each	DT
+Caprese	JJ	Z99	Caprese	NNP
+Canape	NN1	F1/N4 O4.2+ F1 O2 T2+ K5.1/S2mf	Canape	NNP
+,	,	""	,	,
+Zucchini	NN	B1 L3 S2/N5+ K5.1 F2 M2 N5- T2- A1.1.2 S7.1+ F1 X9.1-/S2mf T1.3	Zucchini	NNP
+rolls	NN2	O2 F1 M1 Q1.2	rolls	NNS
+and	CC	Z5	and	CC
+Salmon	NN	Z1	Salmon	NNP
+Bites	NN2	B1 F1 X3.1 N5+ A12-	Bites	NNP
+per	II	Z5	per	IN
+person	NN1	S2mfc	person	NN
+.	.	""	.	.
+-----	-----	""	-----	CD
+I	PPIS1	Z8mf	I	PRP
+hope	VV0	X2.6+ E4.1+ X9.2+ A5.1+	hope	VBP
+you	PPY	Z8mf	you	PRP
+enjoy	VV0	E2+ A9+ E4.1+	enjoy	VB
+these	DD2	Z5 Z8	these	DT
+appetizers	NN2	F1/N4 O4.2+	appetizers	NNS
+,	,	""	,	,
+and	CC	Z5	and	CC
+I	PPIS1	Z8mf	I	PRP
+wish	VV0	X7+	wish	VBP
+you	PPY	Z8mf	you	PRP
+a	AT1	Z5	a	DT
+Happy	JJ	E4.1+ E4.2+	Happy	JJ
+New	JJ	T1.3/K1[i53.2.1 T3-	New	NNP
+Year	NNT1	T1.3/K1[i53.2.2 T1.3 P1c	Year	NN
+!	!	""	!	.
+-----	-----	""	-----	CD
+Love	VV0	E2+	Love	NNP
+,	,	""	,	,
+Vera	NP1	Z1f	Vera	NNP
+"</text>
+"	NULL	""	</text>	NNP
