@@ -280,35 +280,31 @@ def main():
         print("\n Reading  the file : {0}".format(path)) 
         corpusTsv=FileReader(path)
         query_index = ConcordanceIndexFinder(corpusTsv, query)
-        merged = list(itertools.chain.from_iterable(query_index)) ## combine all sublist together to get all indexes of key word(s)
-        merged.sort()
+        #merged = list(itertools.chain.from_iterable(query_index)) ## combine all sublist together to get all indexes of key word(s)
+        #merged.sort()
         hits=0
         cnt, kwic ="Hits", "Key Words in Context"
         title = ("{0!s:<5}{1!s:>90}".format(cnt, kwic))
         print (title)
         print("*"*160)
-        for lst in group_consecutives(merged, step=1):
+        for lst in query_index:
             try:
                 if query_len==1 and len(lst)==query_len:
                     left_offset = min(lst)
                     right_offset = min(lst)
-                    if len(query_index) == query_len and left_offset in query_index[0]:
-                        hits +=1
-                        concs = ConcordanceBuilder(corpusTsv, left_offset, right_offset, int(window))
-                        concs = ('{0!s:<4} {1!s:<2}'.format(hits, concs))
-                        print (concs)
+                    #if len(query_index) == query_len and left_offset in query_index[0]:
+                    hits +=1
+                    concs = ConcordanceBuilder(corpusTsv, left_offset, right_offset, int(window))
+                    concs = ('{0!s:<4} {1!s:<2}'.format(hits, concs))
+                    print (concs)
                 elif query_len >=2  and len(lst)==query_len:
                     left_offset = min(lst)
                     right_offset = max(lst)
-                    if len(query_index) == query_len and left_offset in query_index[0]:
-                        hits +=1
-                        concs = ConcordanceBuilder(corpusTsv, left_offset, right_offset, int(window))
-                        concs = ('{0!s:<4} {1!s:<2}'.format(hits, concs))
-                        
-                        
-                        
-                        
-                        print (concs)
+                    #if len(query_index) == query_len and left_offset in query_index[0]:
+                    hits +=1
+                    concs = ConcordanceBuilder(corpusTsv, left_offset, right_offset, int(window))
+                    concs = ('{0!s:<4} {1!s:<2}'.format(hits, concs))      
+                    print (concs)
                         
                 else:
                     #print("Your Query Returned 0 hits! Make Sure Your Input the Right Query Expressions (Literal or RegexesS)")
