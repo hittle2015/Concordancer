@@ -5,8 +5,12 @@
 3. Users need to specify the file path at line 231 and change the content below:
    "/home/yuyuan/WorkSpace/lancasterTask/data/" to path="where_your_corpus" to whatever suits.
 4. To query for specific structure use the following format of query
-   expression(1)[space]expression(2)[space]...expression(n)
-   Note that where expression(n) is in the form "pos=expression" where expression can be either literal or regexes.
+   "expression(1) expression(2) ...expression(n)".
+   Note that all sub expressions should be strictly space seperated and they  are input in the form:
+   "query_type=query_expression"
+   where query_type are preceeding categories from the tsv file, namely "pos", "token", "stanford-pos" and "sem" and
+   query_expression can be either literal or regexes.These four types of query can be freely combined to query for any length of
+   structure.
    Thus to query a "adj + and +adj" structure, you should use "pos=J\w+ token=and pos=J\w+". Specify this query at line 234.
 5. In order to have a certain length of surrounding context (before or after your query), you need to specify the window size 
    while unning the script. Thus the above-mentioned command gives you a left-5 and right-5 context.
