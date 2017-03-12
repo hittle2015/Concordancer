@@ -1,4 +1,5 @@
 query1 "pos=I[FIOW]+ pos=D\w+\d? pos=(NN1|JJ) pos=(I[FIOW]+|NN\d*|[,\.\?|:""''])"
+query2 "token=[Tt]he pos=N\w+ token=of token=[Tt]he sem=T\d"
 query8 "pos=(A*P\w+|NN2) pos=(VBDZ|VBDR|VHD|VDD) sem=(E[1-6]\+|E4\.[12]\+)"
 query9 "pos=J\w+ token=\\band\\b pos=J\w+"
 query10 "pos=V\w+ pos=I\w+ pos=J\w+"
