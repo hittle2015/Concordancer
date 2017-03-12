@@ -1,0 +1,555 @@
+
+ Reading files in /home/yuyuan/WorkSpace/lancasterTask/data/
+
+ Reading  the file : .~lock.dbe9aa1d509b563c6da5b9a3affa4b0a93d1a07f.tsv#
+pos
+I[FIOW]+
+printing out the query regular expression...
+re.compile('I[FIOW]+')
+printing out the matched ones...
+set()
+pos
+D\w+\d?
+printing out the query regular expression...
+re.compile('D\\w+\\d?')
+printing out the matched ones...
+set()
+pos
+(NN1|JJ)
+printing out the query regular expression...
+re.compile('(NN1|JJ)')
+printing out the matched ones...
+set()
+pos
+(I[FIOW]+|NN\d*|[,\.\?|:''])
+printing out the query regular expression...
+re.compile("(I[FIOW]+|NN\\d*|[,\\.\\?|:''])")
+printing out the matched ones...
+set()
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 1adac0c5770cf7982f10978fe9f09ae1c03c0203.tsv
+pos
+I[FIOW]+
+printing out the query regular expression...
+re.compile('I[FIOW]+')
+printing out the matched ones...
+{'II', 'IF', 'IO', 'IW'}
+pos
+D\w+\d?
+printing out the query regular expression...
+re.compile('D\\w+\\d?')
+printing out the matched ones...
+{'DR', 'DB2', 'DAR', 'D0', 'DD1', 'DA1', 'DA', 'DD2', 'DAT', 'DDQ', 'DZ', 'DB', 'D1', 'DA2', 'DD'}
+pos
+(NN1|JJ)
+printing out the query regular expression...
+re.compile('(NN1|JJ)')
+printing out the matched ones...
+{'NN1', 'JJ'}
+pos
+(I[FIOW]+|NN\d*|[,\.\?|:''])
+printing out the query regular expression...
+re.compile("(I[FIOW]+|NN\\d*|[,\\.\\?|:''])")
+printing out the matched ones...
+{'II', 'IO', 'NN', 'IW', 'IF', '.', '?', 'NN2', 'NN1', ','}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                        never thought of my childhood |||  in that way .  ||| ----- Well , what can                                            
+2                                    friends kitchen and help yourself |||  with some food .  ||| ----- It was very much                                           
+****************************************************************************************************************************************************************
+Your Query Returned 2  hits!
+
+ Reading  the file : dd76168a2dd27747c4da33b307c9b0670b95bcaa.tsv
+pos
+I[FIOW]+
+printing out the query regular expression...
+re.compile('I[FIOW]+')
+printing out the matched ones...
+{'II', 'IF', 'IO', 'IW'}
+pos
+D\w+\d?
+printing out the query regular expression...
+re.compile('D\\w+\\d?')
+printing out the matched ones...
+{'DR', 'D0', 'DD1', 'DA1', 'DD2', 'DDQ', 'DZ', 'DB', 'DA2', 'DD'}
+pos
+(NN1|JJ)
+printing out the query regular expression...
+re.compile('(NN1|JJ)')
+printing out the matched ones...
+{'NN1', 'JJ'}
+pos
+(I[FIOW]+|NN\d*|[,\.\?|:''])
+printing out the query regular expression...
+re.compile("(I[FIOW]+|NN\\d*|[,\\.\\?|:''])")
+printing out the matched ones...
+{'II', 'IO', 'IW', 'NN', 'IF', '.', 'NN122', 'NN121', 'NN2', ':', 'NN1', ','}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : .~lock.6f65431dc2e4cf19890bac0e67bd775fd51b4ac9.tsv#
+pos
+I[FIOW]+
+printing out the query regular expression...
+re.compile('I[FIOW]+')
+printing out the matched ones...
+set()
+pos
+D\w+\d?
+printing out the query regular expression...
+re.compile('D\\w+\\d?')
+printing out the matched ones...
+set()
+pos
+(NN1|JJ)
+printing out the query regular expression...
+re.compile('(NN1|JJ)')
+printing out the matched ones...
+set()
+pos
+(I[FIOW]+|NN\d*|[,\.\?|:''])
+printing out the query regular expression...
+re.compile("(I[FIOW]+|NN\\d*|[,\\.\\?|:''])")
+printing out the matched ones...
+set()
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 6f65431dc2e4cf19890bac0e67bd775fd51b4ac9.tsv
+pos
+I[FIOW]+
+printing out the query regular expression...
+re.compile('I[FIOW]+')
+printing out the matched ones...
+{'II', 'IF', 'IW', 'IO'}
+pos
+D\w+\d?
+printing out the query regular expression...
+re.compile('D\\w+\\d?')
+printing out the matched ones...
+{'DR', 'DAR', 'D0', 'DD1', 'DA1', 'DA', 'DD2', 'DG', 'DDQ', 'DZ', 'DI', 'DB', 'D1', 'DA2', 'DD'}
+pos
+(NN1|JJ)
+printing out the query regular expression...
+re.compile('(NN1|JJ)')
+printing out the matched ones...
+{'NN1', 'JJ'}
+pos
+(I[FIOW]+|NN\d*|[,\.\?|:''])
+printing out the query regular expression...
+re.compile("(I[FIOW]+|NN\\d*|[,\\.\\?|:''])")
+printing out the matched ones...
+{'II', 'IO', 'IW', 'NN', 'IF', '.', '?', ':', 'NN2', 'NN1', ','}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                            , Cecile was busy working |||  for another client .  ||| ----- You can imagine how                                        
+2                                                  to move . ----- And |||  at this exact moment  ||| , Claire who I fired                                             
+3                                             felt quite weird . ----- |||  At some point ,  ||| my head was spinning ;                                           
+4                                      the growth was partially caused |||  by that fact .  ||| ----- But I can see                                              
+5                                   eight different businesses . ----- |||  With this money ,  ||| I backed three businesses .                                      
+6                                         Disclaimer Some of the links |||  in this income report  ||| are affiliate links . -----                                      
+****************************************************************************************************************************************************************
+Your Query Returned 6  hits!
+
+ Reading  the file : .~lock.1adac0c5770cf7982f10978fe9f09ae1c03c0203.tsv#
+pos
+I[FIOW]+
+printing out the query regular expression...
+re.compile('I[FIOW]+')
+printing out the matched ones...
+set()
+pos
+D\w+\d?
+printing out the query regular expression...
+re.compile('D\\w+\\d?')
+printing out the matched ones...
+set()
+pos
+(NN1|JJ)
+printing out the query regular expression...
+re.compile('(NN1|JJ)')
+printing out the matched ones...
+set()
+pos
+(I[FIOW]+|NN\d*|[,\.\?|:''])
+printing out the query regular expression...
+re.compile("(I[FIOW]+|NN\\d*|[,\\.\\?|:''])")
+printing out the matched ones...
+set()
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+****************************************************************************************************************************************************************
+Your Query Returned 0  hits!
+
+ Reading  the file : 55cbf481ac5ddb20dd9acacba51abbaab13e2754.tsv
+pos
+I[FIOW]+
+printing out the query regular expression...
+re.compile('I[FIOW]+')
+printing out the matched ones...
+{'II', 'IF', 'IW', 'IO'}
+pos
+D\w+\d?
+printing out the query regular expression...
+re.compile('D\\w+\\d?')
+printing out the matched ones...
+{'DB2', 'DAR', 'D0', 'DD1', 'DA1', 'DA', 'DD2', 'DG', 'DDQ', 'DZ', 'DI', 'DB', 'DN', 'DA2', 'DD'}
+pos
+(NN1|JJ)
+printing out the query regular expression...
+re.compile('(NN1|JJ)')
+printing out the matched ones...
+{'NN1', 'JJ'}
+pos
+(I[FIOW]+|NN\d*|[,\.\?|:''])
+printing out the query regular expression...
+re.compile("(I[FIOW]+|NN\\d*|[,\\.\\?|:''])")
+printing out the matched ones...
+{'II', 'IO', 'NN', 'IW', 'IF', '.', '?', ':', 'NN2', 'NN1', ','}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                            pack their stuff and move |||  to another cool location  ||| . ----- I see the                                                
+2                                            surfing can be a solution |||  to this problem .  ||| ----- But it is a                                                
+3                                             place , finding your way |||  at each new destination  ||| , trying to optimize spendings                                   
+4                                             a certain amount of time |||  for each activity ,  ||| and then to stay on                                              
+****************************************************************************************************************************************************************
+Your Query Returned 4  hits!
+
+ Reading  the file : 8791bf25777400d6a2d8462c43997618c8c8d395.tsv
+pos
+I[FIOW]+
+printing out the query regular expression...
+re.compile('I[FIOW]+')
+printing out the matched ones...
+{'II', 'IO', 'IF', 'IW'}
+pos
+D\w+\d?
+printing out the query regular expression...
+re.compile('D\\w+\\d?')
+printing out the matched ones...
+{'DAR', 'D0', 'DD1', 'DA1', 'DA', 'DG', 'DDQ', 'DI', 'DZ', 'DB', 'DN', 'DA2', 'DD'}
+pos
+(NN1|JJ)
+printing out the query regular expression...
+re.compile('(NN1|JJ)')
+printing out the matched ones...
+{'NN1', 'JJ'}
+pos
+(I[FIOW]+|NN\d*|[,\.\?|:''])
+printing out the query regular expression...
+re.compile("(I[FIOW]+|NN\\d*|[,\\.\\?|:''])")
+printing out the matched ones...
+{'II', 'IO', 'NN', 'IW', 'IF', '.', '?', ':', 'NN2', 'NN1', ','}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                          Plans for January 2016 What |||  About This Blog ?  ||| ----- What I Planned To                                          
+2                                                   do it ! ----- What |||  About This Blog ?  ||| ----- And I can not                                              
+****************************************************************************************************************************************************************
+Your Query Returned 2  hits!
+
+ Reading  the file : 4cd0820b25880d4d747aefdecf58c973ed92bc26.tsv
+pos
+I[FIOW]+
+printing out the query regular expression...
+re.compile('I[FIOW]+')
+printing out the matched ones...
+{'II', 'IF', 'IW', 'IO'}
+pos
+D\w+\d?
+printing out the query regular expression...
+re.compile('D\\w+\\d?')
+printing out the matched ones...
+{'D0', 'DD1', 'DA1', 'DD2', 'DDQ', 'DZ', 'DB', 'DN', 'DD'}
+pos
+(NN1|JJ)
+printing out the query regular expression...
+re.compile('(NN1|JJ)')
+printing out the matched ones...
+{'NN1', 'JJ'}
+pos
+(I[FIOW]+|NN\d*|[,\.\?|:''])
+printing out the query regular expression...
+re.compile("(I[FIOW]+|NN\\d*|[,\\.\\?|:''])")
+printing out the matched ones...
+{'II', 'IO', 'NN', 'IW', 'IF', '.', ':', 'NN2', 'NN1', ','}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                                  ----- I did a twist |||  on this popular appetizer  ||| , and they turned out                                            
+2                                      eggplant slices for 2-3 minutes |||  on each side .  ||| ----- They should become soft                                    
+3                                                 of greens , then top |||  with another layer of  ||| salmon . ----- If you                                            
+4                                                  cut out a wide ring |||  from any plastic cup  ||| , and use it to                                                  
+5                                                 and a cube of cheese |||  onto each toothpick ,  ||| arrange on a serving plate                                       
+6                                          should have 1 eggplant roll |||  per each person at  ||| your party , one Tartare                                         
+7                                                 every 4 people and 3 |||  of each Caprese Canape  ||| , Zucchini rolls and Salmon                                      
+****************************************************************************************************************************************************************
+Your Query Returned 7  hits!
+
+ Reading  the file : fb012fc5b6fb04c0f8300bcfd8994afa4cb44e25.tsv
+pos
+I[FIOW]+
+printing out the query regular expression...
+re.compile('I[FIOW]+')
+printing out the matched ones...
+{'II', 'IF', 'IW', 'IO'}
+pos
+D\w+\d?
+printing out the query regular expression...
+re.compile('D\\w+\\d?')
+printing out the matched ones...
+{'DAR', 'DD1', 'DA1', 'DZ', 'DB', 'DA2', 'DD'}
+pos
+(NN1|JJ)
+printing out the query regular expression...
+re.compile('(NN1|JJ)')
+printing out the matched ones...
+{'NN1', 'JJ'}
+pos
+(I[FIOW]+|NN\d*|[,\.\?|:''])
+printing out the query regular expression...
+re.compile("(I[FIOW]+|NN\\d*|[,\\.\\?|:''])")
+printing out the matched ones...
+{'II', 'IO', 'NN', 'IW', 'IF', '.', 'NN122', 'NN121', 'NN2', ':', 'NN1', ','}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                    vivid in conversation with people |||  of any age .  ||| ----- I have a very                                              
+2                                                to live in new places |||  with any climate change  ||| ( I ' ve already                                                 
+****************************************************************************************************************************************************************
+Your Query Returned 2  hits!
+
+ Reading  the file : dbe9aa1d509b563c6da5b9a3affa4b0a93d1a07f.tsv
+pos
+I[FIOW]+
+printing out the query regular expression...
+re.compile('I[FIOW]+')
+printing out the matched ones...
+{'II', 'IF', 'IO', 'IW'}
+pos
+D\w+\d?
+printing out the query regular expression...
+re.compile('D\\w+\\d?')
+printing out the matched ones...
+{'DR', 'DAR', 'D0', 'DD1', 'DA', 'DG', 'DDQ', 'DZ', 'DI', 'DB', 'DN', 'DA2', 'DD'}
+pos
+(NN1|JJ)
+printing out the query regular expression...
+re.compile('(NN1|JJ)')
+printing out the matched ones...
+{'NN1', 'JJ'}
+pos
+(I[FIOW]+|NN\d*|[,\.\?|:''])
+printing out the query regular expression...
+re.compile("(I[FIOW]+|NN\\d*|[,\\.\\?|:''])")
+printing out the matched ones...
+{'II', 'IO', 'NN', 'IW', 'IF', '.', ':', 'NN2', 'NN1', ','}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                          volume of the previous year |||  for each keyword per  ||| quarter ( to simplify the                                        
+2                                       I have already started working |||  on this goal ,  ||| and it seems quite ambitious                                     
+3                                    , introduce different Amazon tags |||  for each product for  ||| easy tracking . ----- This                                       
+4                                        to fine track the performance |||  of each high traffic  ||| page . ----- Run Adsense                                         
+5                                          : Projected vs real revenue |||  For this website ,  ||| I did not calculate the                                          
+6                         experimenting , assign different codes/names |||  to each unit under  ||| experiment for easy result tracking                              
+****************************************************************************************************************************************************************
+Your Query Returned 6  hits!
+
+ Reading  the file : fa4ff0cb220eba0642a8cd75df30c5fc5d6b3092.tsv
+pos
+I[FIOW]+
+printing out the query regular expression...
+re.compile('I[FIOW]+')
+printing out the matched ones...
+{'II', 'IF', 'IW', 'IO'}
+pos
+D\w+\d?
+printing out the query regular expression...
+re.compile('D\\w+\\d?')
+printing out the matched ones...
+{'DR', 'DAR', 'D0', 'DD1', 'DA1', 'DA', 'DD2', 'DG', 'DDQ', 'DZ', 'DI', 'DB', 'DA2', 'DD'}
+pos
+(NN1|JJ)
+printing out the query regular expression...
+re.compile('(NN1|JJ)')
+printing out the matched ones...
+{'NN1', 'JJ'}
+pos
+(I[FIOW]+|NN\d*|[,\.\?|:''])
+printing out the query regular expression...
+re.compile("(I[FIOW]+|NN\\d*|[,\\.\\?|:''])")
+printing out the matched ones...
+{'II', 'IO', 'NN', 'IW', 'IF', '.', '?', ':', 'NN2', 'NN1', ','}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                                  I am a total newbie |||  in this subject ,  ||| I wont try to teach                                              
+2                                        exist only to improve ranking |||  of some other website  ||| , that website will get                                          
+****************************************************************************************************************************************************************
+Your Query Returned 2  hits!
+
+ Reading  the file : 638ef1167841fdf5ea81ded99dc7c164f59c9918.tsv
+pos
+I[FIOW]+
+printing out the query regular expression...
+re.compile('I[FIOW]+')
+printing out the matched ones...
+{'II', 'IF', 'IO', 'IW'}
+pos
+D\w+\d?
+printing out the query regular expression...
+re.compile('D\\w+\\d?')
+printing out the matched ones...
+{'D0', 'DD1', 'DA1', 'DA', 'DD2', 'DDQ', 'DZ', 'DI', 'DB', 'DD'}
+pos
+(NN1|JJ)
+printing out the query regular expression...
+re.compile('(NN1|JJ)')
+printing out the matched ones...
+{'NN1', 'JJ'}
+pos
+(I[FIOW]+|NN\d*|[,\.\?|:''])
+printing out the query regular expression...
+re.compile("(I[FIOW]+|NN\\d*|[,\\.\\?|:''])")
+printing out the matched ones...
+{'II', 'IO', 'NN', 'IW', 'IF', '.', ':', 'NN2', 'NN1', ','}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                        find the best ever substitute |||  for that favorite food  ||| of yours . ----- So                                              
+****************************************************************************************************************************************************************
+Your Query Returned 1  hits!
+
+ Reading  the file : 118b4bc86d6be55207e730ddaa6e96137cfb102f.tsv
+pos
+I[FIOW]+
+printing out the query regular expression...
+re.compile('I[FIOW]+')
+printing out the matched ones...
+{'II', 'IF', 'IW', 'IO'}
+pos
+D\w+\d?
+printing out the query regular expression...
+re.compile('D\\w+\\d?')
+printing out the matched ones...
+{'DR', 'DAR', 'DDQV', 'DD1', 'DA1', 'DA', 'DG', 'DDQ', 'DZ', 'DI', 'DB', 'DN', 'D1', 'DD'}
+pos
+(NN1|JJ)
+printing out the query regular expression...
+re.compile('(NN1|JJ)')
+printing out the matched ones...
+{'NN1', 'JJ'}
+pos
+(I[FIOW]+|NN\d*|[,\.\?|:''])
+printing out the query regular expression...
+re.compile("(I[FIOW]+|NN\\d*|[,\\.\\?|:''])")
+printing out the matched ones...
+{'II', 'IO', 'NN', 'IW', 'IF', '.', '?', ':', 'NN2', 'NN1', ','}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                          What is a projected revenue |||  in this case ?  ||| ----- I took the one                                             
+2                                              look and sent a request |||  for more info .  ||| ----- My experience taught me                                    
+3                                             would not happen . ----- |||  For some reason ,  ||| it took quite to EF                                              
+4                                            and said he never applied |||  for any affiliate program  ||| . ----- I told him                                               
+****************************************************************************************************************************************************************
+Your Query Returned 4  hits!
+
+ Reading  the file : 6135ba8f089ea22330ae5bdc76540e580539d2b6.tsv
+pos
+I[FIOW]+
+printing out the query regular expression...
+re.compile('I[FIOW]+')
+printing out the matched ones...
+{'II', 'IF', 'IO', 'IW'}
+pos
+D\w+\d?
+printing out the query regular expression...
+re.compile('D\\w+\\d?')
+printing out the matched ones...
+{'DR', 'DAR', 'D0', 'DD1', 'DA1', 'DG', 'DDQ', 'DI', 'DZ', 'DB', 'D1', 'DA2', 'DD'}
+pos
+(NN1|JJ)
+printing out the query regular expression...
+re.compile('(NN1|JJ)')
+printing out the matched ones...
+{'NN1', 'JJ'}
+pos
+(I[FIOW]+|NN\d*|[,\.\?|:''])
+printing out the query regular expression...
+re.compile("(I[FIOW]+|NN\\d*|[,\\.\\?|:''])")
+printing out the matched ones...
+{'II', 'IO', 'IW', 'NN', 'IF', '.', '?', ':', 'NN2', 'NN1', ','}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                        Income Report : November 2015 |||  In this blog ,  ||| I write about what I                                             
+2                                          one and my general strategy |||  in this post .  ||| ----- The second one is                                          
+3                                              from my very first post |||  in this blog ,  ||| I did plan to buy                                                
+****************************************************************************************************************************************************************
+Your Query Returned 3  hits!
+
+ Reading  the file : 96cd903bef8d0fee69543a9ae6f1e51524d9faeb.tsv
+pos
+I[FIOW]+
+printing out the query regular expression...
+re.compile('I[FIOW]+')
+printing out the matched ones...
+{'II', 'IO', 'IF', 'IW'}
+pos
+D\w+\d?
+printing out the query regular expression...
+re.compile('D\\w+\\d?')
+printing out the matched ones...
+{'DR', 'DB2', 'DAR', 'D0', 'DD1', 'DA1', 'DA', 'DD2', 'DG', 'DDQ', 'DZ', 'DB', 'DA2', 'DD'}
+pos
+(NN1|JJ)
+printing out the query regular expression...
+re.compile('(NN1|JJ)')
+printing out the matched ones...
+{'NN1', 'JJ'}
+pos
+(I[FIOW]+|NN\d*|[,\.\?|:''])
+printing out the query regular expression...
+re.compile("(I[FIOW]+|NN\\d*|[,\\.\\?|:''])")
+printing out the matched ones...
+{'II', 'IO', 'NN', 'IW', 'IF', '.', '?', ':', 'NN2', 'NN1', ','}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                Amazon Product Links Kickfurther News |||  About This Blog Expenses  ||| Income Totals Plans For February                                 
+2                                         Disclaimer Some of the links |||  in this income report  ||| are affiliate links . -----                                      
+****************************************************************************************************************************************************************
+Your Query Returned 2  hits!
+
+ Reading  the file : a6be1cf585ed0f79b901110407953e3960d66bd8.tsv
+pos
+I[FIOW]+
+printing out the query regular expression...
+re.compile('I[FIOW]+')
+printing out the matched ones...
+{'II', 'IO', 'IF', 'IW'}
+pos
+D\w+\d?
+printing out the query regular expression...
+re.compile('D\\w+\\d?')
+printing out the matched ones...
+{'DR', 'D0', 'DD1', 'DDQGE', 'DG', 'DZ', 'DI', 'DB', 'DA2', 'DD'}
+pos
+(NN1|JJ)
+printing out the query regular expression...
+re.compile('(NN1|JJ)')
+printing out the matched ones...
+{'NN1', 'JJ'}
+pos
+(I[FIOW]+|NN\d*|[,\.\?|:''])
+printing out the query regular expression...
+re.compile("(I[FIOW]+|NN\\d*|[,\\.\\?|:''])")
+printing out the matched ones...
+{'II', 'IO', 'NN', 'IW', 'IF', '.', 'NN122', 'NN121', 'NN2', ':', 'NN1', ','}
+Hits                                                                       Key Words in Context
+****************************************************************************************************************************************************************
+1                                            don ' t consider children |||  over that age .  ||| ----- I maintain communication with                              
+2                                             you and will support you |||  at any moment ,  ||| surround your children with care                                 
+****************************************************************************************************************************************************************
+Your Query Returned 2  hits!
