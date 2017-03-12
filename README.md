@@ -17,5 +17,6 @@
 6. For each sub expression, You can specify And conditions and OR conditions through regular expressions, but you cannot specify 
    AND or OR conditions of different categories. For instance, you cannot specify constraints of Part-of-Speech constraints and
    semantic categories at the same time. (This is the limitation of the current design).
+7. Example query and the output may be found at the example_query folder.
    
 
