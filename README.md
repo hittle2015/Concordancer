@@ -1,6 +1,6 @@
 # Concordancer
 1. This script has been only tested on Ubuntu 16.10. At the terminal, 
-    you can fire up the programme with the similar command as "python Concordancer.py  5 > result.txt" (5 is the window size).
+    you can fire up the programme with the similar command as "python concordancer.py  5 > result.txt" (5 is the window size).
 2. The script is able to process a single TSV file or TSV files in a directory.
 3. Users need to specify the file path at line 231 and change the content below:
    "/home/yuyuan/WorkSpace/lancasterTask/data/" to path="where_your_corpus" to whatever suits.
